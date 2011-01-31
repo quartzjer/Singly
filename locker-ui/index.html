@@ -1,0 +1,226 @@
+<html>
+<head>
+    <title>Locker</title>
+    <link rel="icon" href="/favicon.png" />
+    <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript">
+    </script>
+    <script type='text/javascript'>
+        var isOpen = false;
+        $(document).ready(function() {
+            $("#search-bar").focus(function() {
+                $(this).addClass('search-bar-active');
+            });
+            $("#search-bar").blur(function() {
+                if(this.value == '')
+                    $(this).removeClass('search-bar-active');
+            });
+            
+            $("#instruments-folder").click(function() {
+                if(!isOpen) {
+                    $("#health-folder").animate({
+                        'margin-top': '96px'
+                    }, 250, function() {
+                        isOpen = true;
+                    });
+                } else {
+                    $("#health-folder").animate({
+                        'margin-top': '0px'
+                    }, 250, function() {
+                        isOpen = false;
+                    });
+                }
+            });
+            
+            $('#fizz img').click(function() {
+                console.log('fizz me!');
+                console.log('getting: http://localhost:18042/launchapp');
+                var p = {name:'Fizz', params:'[3002,3003]'};
+                alert(JSON.stringify(p));
+                $.get('http://localhost:18042/launchapp', p, function(data) {
+                    window.location = data;
+//                    alert(data);
+                })
+            });
+            
+            var toggles = [true, true, true];
+            $('.toggle-button').click(function() {
+                if($(this).css('background-position') == '0px 0px') {
+                    $(this).css('background-position', '0px 36px');
+                } else {
+                    $(this).css('background-position', '0px 0px');
+                }
+            });
+        });
+    </script>
+<body>
+    <img src='img/header.png'>
+    <div id="right-column">
+        <img src="img/right-column.png">
+    </div>
+    <div id="left-column" class="light-bg">
+        <div id="left-content">
+            <div id="fizz">
+                <img src='img/fizz-app-icon.png'>
+            </div>
+            <div id="me">
+                <span id="profile-pic">
+                    <img src="me.jpg">
+                </span>
+                <span id="name">
+                    JUSTIN STREET
+                </span>
+            </div>
+            <div id="dock">
+                <span id="dock-top">
+                    <img src="img/dock-top.png">
+                </span>
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/messages-icon.png'>
+                    </span>
+                    <span class="name">
+                        MESSAGES
+                    </span>
+                </div>
+                
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/news-icon.png'>
+                    </span>
+                    <span class="name">
+                        NEWS
+                    </span>
+                </div>
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/people-icon.png'>
+                    </span>
+                    <span class="name">
+                        PEOPLE
+                    </span>
+                </div>
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/cal-icon.png'>
+                    </span>
+                    <span class="name">
+                        CALENDAR
+                    </span>
+                </div>
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/places-icon.png'>
+                    </span>
+                    <span class="name">
+                        PLACES
+                    </span>
+                </div>
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/media-icon.png'>
+                    </span>
+                    <span class="name">
+                        MEDIA
+                    </span>
+                </div>
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/docs-icon.png'>
+                    </span>
+                    <span class="name">
+                        DOCS
+                    </span>
+                </div>
+                <div class="folder" id='instruments-folder'>
+                    <span class="icon">
+                        <img src='img/instruments-icon.png'>
+                    </span>
+                    <span class="name">
+                        INSTRUMENTS
+                    </span>
+                </div>
+                <div class="folder"  id='health-folder'>
+                    <span class="icon">
+                        <img src='img/health-icon.png'>
+                    </span>
+                    <span class="name">
+                        HEALTH
+                    </span>
+                </div>
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/living-icon.png'>
+                    </span>
+                    <span class="name">
+                        LIVING
+                    </span>
+                </div>
+                <div class="folder">
+                    <span class="icon">
+                        <img src='img/money-icon.png'>
+                    </span>
+                    <span class="name">
+                        MONEY
+                    </span>
+                </div>
+            <!--
+                <div class="folder">
+                    <span class="icon">
+                        ico
+                    </span>
+                    <span class="name">
+                        Messages!
+                    </span>
+                </div>-->
+
+            </div>
+        </div>
+    </div>
+    <div id="center-column">
+        <div id='search-header' >
+            <table>
+                <tr>
+                    <td>
+                        <form>
+                            <input type='text' id='search-bar'><input type='submit' id='search-button' value=''>
+                        </form>
+                    </td>
+                    <td class='first-toggle-button'>
+                        <div class='toggle-button'></div>
+<!--                        <img src='img/toggle-on.png' class='toggle-button'>-->
+                    </td>
+                    <td>
+                        <div class='toggle-button'></div>
+                    </td>
+                    <td>
+                        <div class='toggle-button'></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class='comment-text'>SEARCH YOUR STREAM FOR ALL DATA/FILE TYPES</div>
+                    </td>
+                    <td class='first-toggle-button'>
+                        <div class='comment-text'>FACEBOOK</div>
+                    </td>
+                    <td>
+                        <div class='comment-text'>TWITTER</div>
+                    </td>
+                    <td>
+                        <div class='comment-text'>GMAIL</div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id='stream'>
+            <div class='stream-item'>
+                Stream item #1
+            </div>
+            <div class='stream-item'>
+                Stream item #2
+            </div>
+        </div>
+    </div>
+</body>
+</html>    
