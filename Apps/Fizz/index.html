@@ -25,8 +25,9 @@
                 <h1 class="bloombrand"><a href="./">Fizz</a></h1><h2> &#8212; a <a href="http://bloom.io" target="_blank" title="Bloom: pop-cultural instruments for data expression and exploration.">bloom</a> thing</h2>
                 <div id="authbits">
                     <p>Big circles are people, small circles are their status updates. Connect with Twitter or Facebook and see what&#8217;s happening!</p>
-                    <button class="awesome" id="loginfb" title="Connect with Facebook">Connect with Facebook</button>
-                    <button class="awesome" id="logintw" title="Connect with Twitter">Connect with Twitter</button>
+                    <button class="awesome" id="loginfb" title="Connect with Facebook">Facebook</button>
+                    <button class="awesome" id="logintw" title="Connect with Twitter">Twitter</button>
+                    <button class="awesome" id="logingm" title="Connect with Gmail">Gmail</button>
                 </div>
             </div>
             <div id="userinfo"></div>
@@ -114,7 +115,9 @@ $(document).ready(function() {
         return false;
     });
     $('#logintw').bind('click', function() {
-//        initTwitter();
+        initTwitter();
+    });
+    $('#logingm').bind('click', function() {
         initGmail();
     });
     
@@ -270,9 +273,9 @@ function initGmail() {
     
     if (!Fizz.active()) {
         Fizz.active(true);
-        console.log('getting gmail /get_home_timeline...');
-        $.getJSON('/get_home_timeline', function(response) {
-            console.log('got gmail timeline.');
+        console.log('getting gmail /get_gmail...');
+        $.getJSON('/get_gmail', function(response) {
+            console.log('got gmail.');
 //            console.log(response);
             onGmailLoaded(response);
         });
@@ -308,7 +311,7 @@ function initGmail() {
             setTimeout(addMessageFromMessages, 30, messages, maxId);
         }
         else if (maxId) {
-            window.fetchTweets(maxId);
+         //   window.fetchTweets(maxId);
         }
     }
 }

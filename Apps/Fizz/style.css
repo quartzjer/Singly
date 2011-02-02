@@ -208,7 +208,10 @@ canvas {
 }
 
 #loginfb {
-    margin-right: 10px;
+    margin-right: 70px;
+}
+#logintw {
+    margin-right: 70px;
 }
 
 /* http://www.zurb.com/blog_uploads/0000/0617/buttons-03.html */
