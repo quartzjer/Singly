@@ -69,8 +69,10 @@ $(document).ready(function() {
 
     function getPermalink(status) {
         //console.log(status);
-        if (status.from) {
+        if (status.from && status.id) { //facebook
             return 'http://facebook.com/'+status.id.split('_').join('/posts/');
+        } else if(status.from && status['message-id']) {
+            return '';
         }
         return 'http://twitter.com/'+status.user.screenName+'/status/'+status.idStr;
     }
@@ -112,7 +114,8 @@ $(document).ready(function() {
         return false;
     });
     $('#logintw').bind('click', function() {
-        initTwitter();
+//        initTwitter();
+        initGmail();
     });
     
 });
@@ -261,6 +264,56 @@ function onTwAuthComplete(status, user) {
     initForTwUser(twUser);
 }
 
+function initGmail() {
+    $('#about').fadeOut('fast');
+    $('#search').fadeIn('fast');
+    
+    if (!Fizz.active()) {
+        Fizz.active(true);
+        console.log('getting gmail /get_home_timeline...');
+        $.getJSON('/get_home_timeline', function(response) {
+            console.log('got gmail timeline.');
+//            console.log(response);
+            onGmailLoaded(response);
+        });
+    }
+    
+    var numTweets = 0;
+    var numPages = 0;
+    var maxNumPages = 5; // n * 100 tweets will be shown
+    
+    function onGmailLoaded(rsp) {
+        if (!Fizz.active()) return;
+        numPages++;
+        var messages = rsp;
+        if (messages && messages.length) {
+            var maxId = numPages < maxNumPages && messages.length ? messages[messages.length-1]["message-id"] : null;
+            addMessageFromMessages(messages.slice(), maxId);
+        }
+    }
+    
+
+    function addMessageFromMessages(messages, maxId) {
+        if (!Fizz.active()) return;
+        var mess = messages.pop();
+        if (!(mess.from in usersById)) {
+            usersById[mess.from] = { id: mess.from, text: mess.from, size: 6 + Math.random() * 4, data: mess.from };
+            Fizz.addBubble(usersById[mess.from]);
+        }
+        if (!(mess["message-id"] in statusesById)) {
+            statusesById[mess["message-id"]] = { id: mess["message-id"], text: mess.subject, time: Date.parse(mess.date), size: 6 + Math.random() * 4, data: mess };
+            Fizz.addBubble(statusesById[mess["message-id"]], mess.from);
+        }
+        if (messages.length) {
+            setTimeout(addMessageFromMessages, 30, messages, maxId);
+        }
+        else if (maxId) {
+            window.fetchTweets(maxId);
+        }
+    }
+}
+
+    
 function initTwitter() {
     $('#about').fadeOut('fast');
     $('#search').fadeIn('fast');

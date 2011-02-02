@@ -36,21 +36,68 @@
                 console.log('fizz me!');
                 console.log('getting: http://localhost:18042/launchapp');
                 var p = {name:'Fizz', params:'[3002,3003]'};
-                alert(JSON.stringify(p));
+//                alert(JSON.stringify(p));
                 $.get('http://localhost:18042/launchapp', p, function(data) {
                     window.location = data;
-//                    alert(data);
                 })
             });
             
-            var toggles = [true, true, true];
+          /*  var toggles = [false, true, true, true];
             $('.toggle-button').click(function() {
-                if($(this).css('background-position') == '0px 0px') {
+                if($(this).css('background-position') == '0px 0px' || $(this).css('background-position') == '0% 0%') {
+                    console.log('was ' + $(this).css('background-position'));
                     $(this).css('background-position', '0px 36px');
-                } else {
+                    console.log(this.name);
+                    $("#" + this.name + '-stream-image').show();
+                } else {    
+                    console.log('was ' + $(this).css('background-position'));
                     $(this).css('background-position', '0px 0px');
+                    $("#" + this.name + '-stream-image').hide();
                 }
+            });*/
+            
+            $('#singly-toggle').click(function() {
+                toggleButton('singly');
             });
+            $('#fb-toggle').click(function() {
+                toggleButton('fb');
+            });
+            $('#twitter-toggle').click(function() {
+                toggleButton('twitter');
+            });
+            $('#gmail-toggle').click(function() {
+                toggleButton('gmail');
+            });
+
+            
+            function toggleButton(name) {
+                if(isOn(name)) {
+                    turnOff(name);
+                    hideStream(name);
+                } else {
+                    turnOn(name);
+                    showStream(name);
+                }
+            }
+            
+            function isOn(name) {
+                return !($('#' + name + '-toggle').css('background-position') == '0px 0px' || $('#' + name + '-toggle').css('background-position') == '0% 0%');
+            }
+            function turnOn(name) {
+                console.log('turning on ' + name);
+                $('#' + name + '-toggle').css('background-position', '0px 36px');
+            }
+            function turnOff(name) {
+                console.log('turning off ' + name);
+                $('#' + name + '-toggle').css('background-position', '0px 0px');
+            }
+            function hideStream(name) {
+                $('#' + name + '-stream-image').hide();
+            }
+            function showStream(name) {
+                $('#' + name + '-stream-image').show();
+            }
+            $('#singly-stream-image').show();
         });
     </script>
 <body>
@@ -187,14 +234,16 @@
                         </form>
                     </td>
                     <td class='first-toggle-button'>
-                        <div class='toggle-button'></div>
-<!--                        <img src='img/toggle-on.png' class='toggle-button'>-->
+                        <div class='toggle-button' id='singly-toggle'></div>
                     </td>
                     <td>
-                        <div class='toggle-button'></div>
+                        <div class='toggle-button' id='fb-toggle'></div>
                     </td>
                     <td>
-                        <div class='toggle-button'></div>
+                        <div class='toggle-button' id='twitter-toggle'></div>
+                    </td>
+                    <td>
+                        <div class='toggle-button' id='gmail-toggle'></div>
                     </td>
                 </tr>
                 <tr>
@@ -202,6 +251,9 @@
                         <div class='comment-text'>SEARCH YOUR STREAM FOR ALL DATA/FILE TYPES</div>
                     </td>
                     <td class='first-toggle-button'>
+                        <div class='comment-text'>SINGLY</div>
+                    </td>
+                    <td>
                         <div class='comment-text'>FACEBOOK</div>
                     </td>
                     <td>
@@ -214,12 +266,16 @@
             </table>
         </div>
         <div id='stream'>
-            <div class='stream-item'>
+            <img class='stream-image' id='singly-stream-image' src='img/stream-singly.png'>
+            <img class='stream-image' id='fb-stream-image' src='img/stream-fb.png'>
+            <img class='stream-image' id='twitter-stream-image' src='img/stream-twitter.png'>
+            <img class='stream-image' id='gmail-stream-image' src='img/stream-gmail.png'>
+<!--            <div class='stream-item'>
                 Stream item #1
             </div>
             <div class='stream-item'>
                 Stream item #2
-            </div>
+            </div>-->
         </div>
     </div>
 </body>

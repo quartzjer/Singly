@@ -162,16 +162,19 @@ body {
     display:inline-block;
 }
 
-#center-column #search-header .first-toggle-button {
-    padding-left:15px;
+#singly-toggle {
+    background-position:0px 36px;
 }
 #center-column #search-header .toggle-button {
-    margin:0px 15px;
+    margin:0px 10px;
     width:31px;
     height:36px;
     background-image:url('img/on-off.png');
-    background-position:0px 0px;
+/*    background-position:0px 0px;*/
     cursor:pointer;
+}
+#center-column #search-header .first-toggle-button {
+    padding-left:10px;
 }
 
 #center-column #search-header .comment-text {
@@ -211,6 +214,10 @@ body {
 #center-column #stream {
     padding:40px;
     border-top:1px solid #d4d4d4;
+}
+
+#center-column #stream .stream-image {
+    display:none;
 }
 
 #center-column #stream .stream-item {
