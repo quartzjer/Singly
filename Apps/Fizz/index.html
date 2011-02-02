@@ -40,11 +40,11 @@
         </div>
         <div id="fb-root"></div>
     </body>        
-    <script src="http://platform.twitter.com/anywhere.js?id=jJWf7jRUuEjA5kte4W1BOQ&v=1"></script>
+    <script src="lib/anywhere.js"></script>
     <script type="text/javascript" src="lib/jquery.min.js"></script>
     <script type="text/javascript" src="lib/processing-1.0.0.min.js"></script>
     <script type="text/javascript" src="fizz.js"></script>
-    <script src="http://connect.facebook.net/en_US/all.js"></script>
+    <script src="lib/all.js"></script>
     <script type="text/javascript" src="utils.js"></script>
     <script type="text/javascript" src="twitter-text.js"></script>
     <script type="text/javascript">
@@ -145,7 +145,8 @@ function startFB() {
     $('#about').fadeOut('fast');
     $('#search').fadeIn('fast');
     //$('#userinfo').html('<img src="'+response[0].pic+'" alt="'+response[0].name+'" class="user"/> <b>This is Fizz.</b> <a href="https://spreadsheets.google.com/viewform?hl=en&formkey=dGZINGpDQ3NubVNiMlY3eFZ6MUNGdFE6MQ#gid=0">We&#8217;d love to know what you think<\/a>. <br><br>You&#8217;re logged in as ' + response[0].name + ' on Facebook.').fadeIn('fast');
-    $('#userinfo').html('<b>This is Fizz.</b> <a href="https://spreadsheets.google.com/viewform?hl=en&formkey=dGZINGpDQ3NubVNiMlY3eFZ6MUNGdFE6MQ#gid=0">We&#8217;d love to know what you think<\/a>. <br><br>').fadeIn('fast');
+    //$('#userinfo').html('<b>This is Fizz.</b> <a href="https://spreadsheets.google.com/viewform?hl=en&formkey=dGZINGpDQ3NubVNiMlY3eFZ6MUNGdFE6MQ#gid=0">We&#8217;d love to know what you think<\/a>. <br><br>').fadeIn('fast');
+    $('#userinfo').html('<b>This is Fizz, from Bloom</b> You\'re looking at Facebook statuses in Simon Murtha-Smith\'s news feed pulled from his Locker. Big circles are people, small circles are status updates.').fadeIn('fast');
     initForFBUser();
 }
 /*
@@ -273,6 +274,7 @@ function initGmail() {
     
     if (!Fizz.active()) {
         Fizz.active(true);
+        $('#userinfo').html('<b>This is Fizz, from Bloom</b> You\'re looking at messages in Simon Murtha-Smith\'s inbox pulled from his Locker. Big circles are people, small circles are messages.').fadeIn('fast');
         console.log('getting gmail /get_gmail...');
         $.getJSON('/get_gmail', function(response) {
             console.log('got gmail.');
@@ -323,6 +325,7 @@ function initTwitter() {
     
     if (!Fizz.active()) {
         Fizz.active(true);
+        $('#userinfo').html('<b>This is Fizz, from Bloom</b> You\'re looking at tweets in Simon Murtha-Smith\'s timeline pulled from his Locker. Big circles are people, small circles are status updates.').fadeIn('fast');
         console.log('getting /get_home_timeline...');
         $.getJSON('/get_home_timeline', function(response) {
             console.log('got timeline.');
@@ -399,7 +402,8 @@ function initForTwUser(user) {
     if (!Fizz.active()) {
         Fizz.active(true);
 //        $('#userinfo').html('<img src="'+user.profileImageUrl+'" alt="'+user.name+'" class="user"/> <b>This is Fizz.</b> <a href="https://spreadsheets.google.com/viewform?hl=en&formkey=dGZINGpDQ3NubVNiMlY3eFZ6MUNGdFE6MQ#gid=0">We&#8217;d love to know what you think<\/a>. <br><br>You&#8217;re logged in as ' + user.name + ' on Twitter.').fadeIn('fast');
-        $('#userinfo').html('<b>This is Fizz.</b> <a href="https://spreadsheets.google.com/viewform?hl=en&formkey=dGZINGpDQ3NubVNiMlY3eFZ6MUNGdFE6MQ#gid=0">We&#8217;d love to know what you think<\/a>.').fadeIn('fast');
+//        $('#userinfo').html('<b>This is Fizz, from Bloom</b> <a href="https://spreadsheets.google.com/viewform?hl=en&formkey=dGZINGpDQ3NubVNiMlY3eFZ6MUNGdFE6MQ#gid=0">We&#8217;d love to know what you think<\/a>.').fadeIn('fast');
+        $('#userinfo').html('<b>This is Fizz, from Bloom</b> You\'re looking at tweets in Simon Murtha-Smith\'s timeline pulled from his Locker. Big circles are people, small circles are status updates.').fadeIn('fast');
         window.fetchTweets = function(max_id) {
             /*var params = {
                 count: 100, 

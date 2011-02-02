@@ -3,7 +3,7 @@
     <title>Locker</title>
     <link rel="icon" href="/favicon.png" />
     <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript">
+    <script src="jquery.min.js" type="text/javascript">
     </script>
     <script type='text/javascript'>
         var isOpen = false;
@@ -35,48 +35,61 @@
             $('#fizz img').click(function() {
                 console.log('fizz me!');
                 console.log('getting: http://localhost:18042/launchapp');
-                var p = {name:'Fizz', params:'[3002,3003]'};
-//                alert(JSON.stringify(p));
+                var p = {name:'Fizz', params:'[3002,3003,3005]'};
                 $.get('http://localhost:18042/launchapp', p, function(data) {
                     window.location = data;
                 })
             });
             
-          /*  var toggles = [false, true, true, true];
-            $('.toggle-button').click(function() {
-                if($(this).css('background-position') == '0px 0px' || $(this).css('background-position') == '0% 0%') {
-                    console.log('was ' + $(this).css('background-position'));
-                    $(this).css('background-position', '0px 36px');
-                    console.log(this.name);
-                    $("#" + this.name + '-stream-image').show();
-                } else {    
-                    console.log('was ' + $(this).css('background-position'));
-                    $(this).css('background-position', '0px 0px');
-                    $("#" + this.name + '-stream-image').hide();
-                }
-            });*/
+  //          $('.toggle-button').click(function() {
+//            })
             
             $('#singly-toggle').click(function() {
                 toggleButton('singly');
+                    updateStream();
             });
             $('#fb-toggle').click(function() {
                 toggleButton('fb');
+                    updateStream();
             });
             $('#twitter-toggle').click(function() {
                 toggleButton('twitter');
+                    updateStream();
             });
             $('#gmail-toggle').click(function() {
                 toggleButton('gmail');
+                    updateStream();
             });
 
             
             function toggleButton(name) {
                 if(isOn(name)) {
                     turnOff(name);
-                    hideStream(name);
+//                    hideStream(name);
                 } else {
                     turnOn(name);
-                    showStream(name);
+  //                  showStream(name);
+                }
+            }
+            
+            function updateStream() {
+                 hideStream('singly'); hideStream('fb-tw-gm'); hideStream('fb-tw'); hideStream('tw');
+                if(isOn('singly')) {
+                    console.log('singly is on');
+                    showStream('singly');
+                } else if(isOn('twitter')) {
+                    console.log('twitter is on');
+                    if(isOn('fb')) {
+                        console.log('fb is on');
+                        if(isOn('gmail')) {
+                            console.log('gmail is on');
+                            showStream('fb-tw-gm');
+                        } else {
+                            showStream('fb-tw');
+                        }
+                    } else {
+                        showStream('tw');
+                    }
                 }
             }
             
@@ -84,11 +97,11 @@
                 return !($('#' + name + '-toggle').css('background-position') == '0px 0px' || $('#' + name + '-toggle').css('background-position') == '0% 0%');
             }
             function turnOn(name) {
-                console.log('turning on ' + name);
+//                console.log('turning on ' + name);
                 $('#' + name + '-toggle').css('background-position', '0px 36px');
             }
             function turnOff(name) {
-                console.log('turning off ' + name);
+  //              console.log('turning off ' + name);
                 $('#' + name + '-toggle').css('background-position', '0px 0px');
             }
             function hideStream(name) {
@@ -267,9 +280,9 @@
         </div>
         <div id='stream'>
             <img class='stream-image' id='singly-stream-image' src='img/stream-singly.png'>
-            <img class='stream-image' id='fb-stream-image' src='img/stream-fb.png'>
-            <img class='stream-image' id='twitter-stream-image' src='img/stream-twitter.png'>
-            <img class='stream-image' id='gmail-stream-image' src='img/stream-gmail.png'>
+            <img class='stream-image' id='fb-tw-gm-stream-image' src='img/fb-tw-gm.jpg'>
+            <img class='stream-image' id='tw-stream-image' src='img/tw.jpg'>
+            <img class='stream-image' id='fb-tw-stream-image' src='img/fb-tw.jpg'>
 <!--            <div class='stream-item'>
                 Stream item #1
             </div>
