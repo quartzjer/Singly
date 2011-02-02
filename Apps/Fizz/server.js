@@ -3,6 +3,7 @@
 var port = process.argv[2];
 var feedSourcePort = process.argv[3];
 var twitterSourcePort = process.argv[4];
+var imapSourcePort = process.argv[5];
 //console.log("feedSourcePort: " + feedSourcePort);
 if(isNaN(port)) {
     console.log("node server.js <port number>");
@@ -41,6 +42,18 @@ app.get('/get_home_timeline', function(req, res){
         'Content-Type': 'text/html'
     });
     wwwdude_client.get('http://localhost:' + twitterSourcePort + '/get_home_timeline')
+    .addListener('success', function(data, resp) {
+        res.write(data);
+        res.end();
+    }).send();
+});
+
+app.get('/get_email_timeline', function(req, res){
+    console.log('/get_email_timeline');
+    res.writeHead(200, {
+        'Content-Type': 'text/html'
+    });
+    wwwdude_client.get('http://localhost:' + imapSourcePort + '/get_home_timeline')
     .addListener('success', function(data, resp) {
         res.write(data);
         res.end();
