@@ -1,63 +1,51 @@
-var wwwdude = require('wwwdude'),
-    sys = require('sys'),
-    fs = require('fs'),
-    lfs = require('../../../Locker/Common/node/lfs.js');
-
-var KLOUT_API_KEY = 'xz5sqcss2dx43ctsxxxngpa8';
-
-function getDataFromEmail(emailAddr, callback) {
-    wwwdude.createClient().get('http://rapportive.com/contacts/email/' + escape(emailAddr))
-    .addListener('success', function(data, resp) {
-        var item = JSON.parse(data);
-        callback(item);
-    });
-}
-
-function getDataFromTwitter(twitterHandle, callback) {
-    wwwdude.createClient().get('http://rapportive.com/contacts/twitter/' + twitterHandle)
-    .addListener('success', function(data, resp) {
-        var item = JSON.parse(data);
-        callback(item);
-    });
-}
-
-function getKloutData(usernames, callback) {
-    wwwdude.createClient().get('http://api.klout.com/1/klout.json?key=' + KLOUT_API_KEY + '&users=' + usernames)
-    .addListener('success', function(data, resp) {
-        var json = JSON.parse(data);
-        console.log(data);
-        callback(json);
-    });
-}
+var sys = require('sys'),
+    rapp = require('./rapportive.js'),
+    klout = require('./klout.js')('xz5sqcss2dx43ctsxxxngpa8');
 
 
 function doNextItem(emails, allData, i, callback) {
+    console.log('emails.length = ' + emails.length);
     if(i >= emails.length) {
         callback(allData);
         return;
     }
         
     var email = emails[i].email;
+    var arr = emails[i].dateStamp.split(/[-\s:]/);
+    var date = new Date(arr[0], arr[2] -1 , arr[1], arr[3], arr[4], arr[5]);
     console.log('email[' + i + '] = ' + email + '\n');
-    getDataFromEmail(email, function(data) {
+    rapp.getDataFromEmail(email, function(data) {
         var contact = data.contact;
+        contact.email_signup_date = date;
         var clean_name = cleanName(contact.name || email.split("@")[0]);
         if(allData[clean_name])
             mergeTwo(allData[clean_name], contact);
         else 
             allData[clean_name] = contact;
         i++;
-        if(contact.twitter_username) {
-            getKloutData(contact.twitter_username, function(json) {
-                if(json.status != 200) {
-                    sys.debug('oh noez!');
-                    callback(allData);
-                }
-                else {
-                    contact.klout_score = json.users[0].kscore;
-                    doNextItem(emails, allData, i, callback);
-                }
-            })
+        if(allData[clean_name].twitter_username) {
+                klout.getKloutUsers(allData[clean_name].twitter_username, function(json) {
+                    if(json.status != 200) {
+                        sys.debug('oh noez!');
+                        callback(allData);
+                    }
+                    else {
+                        var user = json.users[0];
+                        allData[clean_name].klout_score = user.score;
+                        klout.getKloutTopics(allData[clean_name].twitter_username, function(json) {
+                            console.log(JSON.stringify(json));
+                            if(json.status != 200) {
+                                sys.debug('oh noez!');
+                                callback(allData);
+                            }
+                            else {
+                                if(json.users && json.users[0])
+                                    allData[clean_name].klout_topics= json.users[0].topics;    
+                                doNextItem(emails, allData, i, callback);
+                            }
+                        })
+                    }
+                });
         } else {
             doNextItem(emails, allData, i, callback);
         }
@@ -71,8 +59,9 @@ function cleanName(name) {
 }
 
 exports.getCleanName = function(data) {
-    return cleanName(data.name || data.email.split("@")[0]);;
+    return cleanName(data.name || data.email.split("@")[0]);
 }
+
 function mergeTwo(obj1, obj2) {
     if(!(obj1 && obj2))
         return;
@@ -85,16 +74,6 @@ function mergeTwo(obj1, obj2) {
             mergeTwo(obj1[j], obj2[j]);
         }
     }
-}
-
-exports.getKloutData = function(usernames, callback) {
-    getKloutData(usernames, callback);
-}
-exports.getDataFromEmail = function(emailAddr, callback) {
-    getDataFromEmail(emailAddr, callback);
-}
-exports.getDataFromTwitter = function(twitterHandle, callback) {
-    getDataFromEmail(twitterHandle, callback);
 }
 
 exports.getData = function(items, callback) {
