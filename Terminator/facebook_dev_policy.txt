@@ -271,10 +271,10 @@ Examples and Explanations
    these [33]examples and explanations will help you understand how to put
    that into practice.
      * [34]Advertisements -- Section III.B
-     * [35]Application Integration Points -- Section IV
+     * [35]Stream Stories -- Section IV
      * [36]Terms and Trademarks -- Sections I and X
 
-   Updated about a month ago
+   Updated about 2 weeks ago
 
    Facebook © 2011
    [37]About[38]Platform Policies[39]Privacy Policy
@@ -314,9 +314,9 @@ References
   31. http://developers.facebook.com/policy/credits
   32. http://developers.facebook.com/policy/credits
   33. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  34. http://developers.facebook.com/docs/guides/policy/advertisements
-  35. http://developers.facebook.com/docs/guides/policy/application_integration_points
-  36. http://developers.facebook.com/docs/guides/policy/branding
+  34. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/advertisements
+  35. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/stream_stories
+  36. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/terms_and_trademarks
   37. http://www.facebook.com/platform
   38. http://developers.facebook.com/policy/
   39. http://www.facebook.com/policy.php
