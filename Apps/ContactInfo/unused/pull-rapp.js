@@ -134,8 +134,8 @@ function downloadPhoto(contact) {
         if(!ext || (ext.length > 4))
             ext = 'jpg';
         var imageFileName = 'photos/' + clean_name + '.' + ext;
-        console.log('imageFileName: ' + imageFileName);
-        console.log('allData[i].image_url_raw: ' + contact.image_url_raw);
+//        console.log('imageFileName: ' + imageFileName);
+//        console.log('allData[i].image_url_raw: ' + contact.image_url_raw);
         lfs.curlFile(contact.image_url_raw, imageFileName); 
     }
 }

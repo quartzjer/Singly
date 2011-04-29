@@ -29,7 +29,13 @@ exports.getByEmailAddress = function(emailAddress, callback) {
     coll.find({'email': emailAddress}, callback);
 }
 
-exports.find = coll.find;
+
+exports.getContacts = function(options, callback) {
+    coll.find({}, options).toArray(function(err, docs) {
+        callback(err, docs);
+    });
+}
+//exports.find = function();
 
 exports.close = function() {
     db.close();

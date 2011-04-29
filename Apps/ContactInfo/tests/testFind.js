@@ -1,4 +1,4 @@
-var dataStore = require('./lib/data-store.js');
+var dataStore = require('../lib/data-store.js');
 
 
 dataStore.openCollection(function() {
