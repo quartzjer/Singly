@@ -1,0 +1,19 @@
+{
+    "name": "email-list-info",
+    "description": "An app for collecting data about email addresses",
+    "version": "0.0.0",
+    "directories": {
+        "lib": "./lib"
+    },
+    "engines": {
+        "node": ">= 0.4.6"
+    },
+    "dependencies": {
+        "connect" : "=1.1.4",
+        "express" : "=2.1.0",
+        "request" : "=1.9.5",
+        "github"  : "=0.0.4",
+        "klout-js": "=0.0.1",
+        "vows":">=0.5.8"
+    }
+}
