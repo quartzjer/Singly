@@ -1,0 +1,90 @@
+body {
+    background-color:#000;
+    color:#ddd;
+    font-family:Arial,Tahoma, Geneva, sans-serif;
+}
+body a {
+    color:#aaa;
+    text-decoration:none;
+    overflow:hidden;
+}
+
+body #table div {
+    border-radius:3px;
+}
+
+body #table .column {
+    display:inline-block;
+}
+body #table #headers span {
+    border-top:1px solid #323434;
+    border-bottom:1px solid #151617;
+    background-color:#232526;
+    padding:2px 6px;
+    font-size:24px;
+    text-align:center;
+}
+
+body #table #contacts #text {
+    display:inline-block;
+}
+body #table #contacts div:hover {
+/*    background-color:#232526;*/
+    background-color:#343739;
+    
+}
+body #table #contacts div {
+    border-top:1px solid #323434;
+    border-bottom:1px solid #151617;
+    background-color:#232526;
+    margin:2px 0px;
+}
+body #table #contacts .contact {
+    display:inline-block;
+}
+body #table #contacts span {
+    padding:2px 8px;
+    margin:0px 0px;
+}
+body #table #headers .photo {
+    display:inline-block;
+    width:36px;
+    
+}
+body #table #headers .photo img {
+    display:inline-block;
+    width:18px;
+    height:18px;
+}
+body #table #contacts .photo {
+    width:36px;
+    height:36px;
+}
+body #table .photo img {
+    width:30px;
+    height:30px;
+    margin:3px;
+}
+
+body #table .name {
+    width:200px;
+}
+
+body #table .email {
+    width:200px;
+}
+
+body #table .github {
+    width:100px;
+}
+
+body #table .twitter {
+    width:130px;
+}
+
+body #table .linkedin {
+    width:200px;
+}
+body #table .klout {
+    width:70px;
+}

@@ -2,10 +2,24 @@
 <head>
     <title>Singly Contacts</title>
     <script src='http://code.jquery.com/jquery-1.5.2.min.js' type='text/javascript'> </script>
-    <script src='data.js' type='text/javascript'> </script>
+    <script src='js/data.js' type='text/javascript'> </script>
+    <link href='css/style.css' rel='stylesheet'/>
 </head>
 
 <body>
-    yeeep.
+    <div id='table'>
+        <div id='headers'>
+            <span class='column photo'><!--<img src="img/silhouette.png">-->&nbsp;</span>
+            <span class='column name'><a href='#' onClick='javascript:reload("name")'>Name</a></span>
+            <span class='column email'><a href='#' onClick='javascript:reload("email")'>Email</a></span>
+            <span class='column twitter'><a href='#' onClick='javascript:reload("twitter_username")'>Twitter</a></span>
+            <span class='column linkedin'>LinkedIn</span>
+            <span class='column github'>GitHub</span>
+            <span class='column klout'><a href='#' onClick='javascript:reload("klout_score.kscore")'>Klout</a></span>
+        </div>
+        <div id='contacts'>
+            
+        </div>
+    </div>
 </body>
 </html>

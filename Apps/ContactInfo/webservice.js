@@ -13,8 +13,14 @@ app.get('/data/contacts', function(req, res) {
         options.skip = query.skip;
     if(query.limit)
         options.limit = query.limit;
-    if(query.sort)
-        options.sort = query.sort;
+        
+    console.log(query.sort);
+    var sort = [];
+    if(query.sort) {
+        for(var i in query.sort)
+            sort.push(query.sort[i]);
+        options.sort = sort;
+    }
     dataStore.getContacts(options, function(err, docs) {
         if(!err) {
             res.writeHead(200, {'Content-Type':'text/json'});

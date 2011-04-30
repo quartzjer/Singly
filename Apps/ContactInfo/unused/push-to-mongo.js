@@ -1,5 +1,5 @@
 var contacts = JSON.parse(require('fs').readFileSync('data/contacts.json'));
-var dataStore = require('./lib/data-store.js');
+var dataStore = require('../lib/data-store.js');
 
 var i = 0;
 
