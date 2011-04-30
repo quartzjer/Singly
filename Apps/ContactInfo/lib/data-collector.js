@@ -8,10 +8,8 @@ var sys = require('sys'),
 exports.getDataFromEmail = function (emailAddress, callback) {
     console.log(emailAddress);
     rapp.getDataFromEmail(emailAddress, function(data) {
-//        console.log(data);
         var contact = data.contact;
-//        contact.email_signup_date = getDateFromSignup(signup);
-        var clean_name = cleanName(contact.name || signup.email.split("@")[0]);
+        var clean_name = cleanName(contact.name || emailAddress.split("@")[0]);
         
         //convert memberships to a dict of accountType : accountInfo
         var dictMember = {};
@@ -77,7 +75,9 @@ function getKloutData(twitter_username, callback) {
     });
 }
 
-var getGithubData = github.getUserApi().show;
+var getGithubData = function(username, callback) {
+    github.getUserApi().show(username, callback);
+}
 
 function cleanName(name) {
     if(!name)

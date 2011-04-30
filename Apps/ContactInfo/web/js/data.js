@@ -19,6 +19,7 @@ function addRow(contact) {
     addLinkedIn(theDiv, contact.memberships.linkedin, contact.occupations);
     addGitHub(theDiv, contact.memberships.github);
     addKlout(theDiv, contact.klout_score);
+    addDate(theDiv, contact.signupDate);
     contactsTable.append('<br>');
 }
 
@@ -63,8 +64,18 @@ function addKlout(div, klout) {
         div.append('<span class="column klout"></span>');
 }
 
+function addDate(div, signupDate) {
+    if(signupDate) {
+        var d = new Date(signupDate/1);
+        console.log(d);
+        div.append('<span class="column date">' + (d.getMonth() + 1) + '/' + d.getDate() + '/' + (d.getFullYear() - 2000) + '</span>');
+    }
+    else
+        div.append('<span class="column date"></span>');
+}
 
-var sort = {'klout_score.kscore':'asc', 'name':'desc', 'email':'desc'};
+
+var sort = {'signupDate':'asc', 'klout_score.kscore':'asc', 'name':'desc', 'email':'desc'};
 
 function reload(sortField) {
     var direction = 'asc';
@@ -87,5 +98,5 @@ function reload(sortField) {
 }
 $(function() {
     console.log('heeeelooo, jquery!');
-    reload('name');
+    reload('signupDate');
 });
