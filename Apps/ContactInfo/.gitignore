@@ -8,3 +8,4 @@ photos
 node_modules
 test.js
 node-mongodb-native
+tmp

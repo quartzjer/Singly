@@ -3,8 +3,12 @@ var twitterCollector = require('./data-collector/twitter.js');
 var githubCollector = require('./data-collector/github.js');
 var kloutCollector = require('./data-collector/klout.js');
 
-var dataStore = {};
-dataStore.put = function(dataEvent) {
+var dataStore = require('./data-store.js');
+
+exports.start = function(callback) {
+    dataStore.openCollection(callback);
+}
+/*dataStore.put = function(dataEvent) {
     if(dataEvent.type == 'rapportive') {
         console.log('would add rapportive data for ', dataEvent.data.email);
     } else if(dataEvent.type == 'twitter') {
@@ -17,7 +21,7 @@ dataStore.put = function(dataEvent) {
                     'and topics', dataEvent.data.topics);
     }
 }
-
+*/
 function processNewAccount(type, account) {
     console.log('processNewAccount:', type, account);
     var type = type.toLowerCase();
