@@ -60,14 +60,3 @@ exports.updateGithubData = function(githubUserInfo, callback) {
 exports.close = function() {
     db.close();
 }
-
-
-function genObjectID(clean_name) {
-    var hash = crypto.createHash('md5');
-    hash.update(clean_name);
-    var hashStr = hash.digest('hex');
-    var objID = new ObjectID(hashStr.substring(0, 12));
-    return objID;
-}
-function genID() {
-}

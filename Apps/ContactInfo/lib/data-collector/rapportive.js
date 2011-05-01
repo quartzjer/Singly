@@ -7,9 +7,10 @@ exports.getEventEmitter = function() {
 }
 
 exports.getNewData = function(newEmailAddressEvent) {
-    rapportive.getDataFromEmail(newEmailAddressEvent.email, function(err, data) {
-        if(!err && data)
-            emitter.emit('new-data', {type:'rapportive', data:data});
+//    console.log(newEmailAddressEvent);
+    rapportive.getDataFromEmail(newEmailAddressEvent.email, function(err, contact) {
+        if(!err && contact)
+            emitter.emit('new-data', {type:'rapportive', data:contact});
         else
             console.error(err);
     });

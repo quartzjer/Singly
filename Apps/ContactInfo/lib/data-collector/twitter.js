@@ -1,6 +1,7 @@
 var EventEmitter = require('events').EventEmitter;
 
-var auth = JSON.parse(require('fs').readFileSync('twitter-auth.json')),
+console.log(__dirname);
+var auth = JSON.parse(require('fs').readFileSync(__dirname + '/twitter-auth.json')),
     twitterClient = require('twitter-js')(auth.consumerKey, auth.consumerSecret);
 
 var emmiter = new EventEmitter();
@@ -17,7 +18,7 @@ var userQueue = [];
 var nextUpdateTimeout;
 
 function enqueueUser(username) {
-    console.log('enqueueUser:', username);
+//    console.log('enqueueUser:', username);
     userQueue.push(username);
     if(userQueue.length >= 100)
         dequeueUsers();
@@ -33,7 +34,7 @@ function dequeueUsers() {
             dequeing = false;
             return;
         }
-        console.log('dequeueUsers:', userQueue);
+//        console.log('dequeueUsers:', userQueue.length);
         if(length > 100) length == 100;
         var screenNames = '';
         for(var i = 0; i < length - 1 && userQueue.length > 0; i++)

@@ -9,7 +9,7 @@ exports.getEventEmitter = function() {
 exports.getNewData = function(newGitHubAccountEvent) {
     console.log(newGitHubAccountEvent);
     getGithubData(newGitHubAccountEvent.username, function(err, data) {
-        emmiter.emit('new-data', {type:'github', data:data});
+        emmiter.emit('new-data', {type:'github', data:data.user});
     });
 }
 

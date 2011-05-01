@@ -14,28 +14,21 @@ exports.getNewData = function(newTwitterAccountEvent) {
 }
 
 function getKloutData(twitter_username, callback) {
-    klout.klout(twitter_username, function(err, json) {
-//        console.log(json);
-        if(err || json.status != 200) {
-            console.error('oh noez!', err, json);
-            if(callback) callback(new Error());
-        }
+    var contact = {username:twitter_username};
+    klout.show(twitter_username, function(err, json) {
+        if(err || json.status != 200)
+            callback(err, json);
         else {
-            var contact = {username:twitter_username};
-            var user = json.users[0];
-            contact.klout_score = user.kscore;
+            contact.score = json.users[0].score;
             klout.topics(twitter_username, function(err, json) {
-//                console.log(JSON.stringify(json));
-                if(err || json.status != 200) {
-                    console.error('oh noez!', err, json);
-                    if(callback) callback(new Error(), contact);
-                }
+                if(err || json.status != 200)
+                    callback(err, json);
                 else {
                     if(json.users && json.users[0])
-                        contact.klout_topics = json.users[0].topics;  
-                    if(callback) callback(null, contact);
+                        contact.topics = json.users[0].topics;  
+                    callback(null, contact);
                 }
-            })
+            });
         }
     });
 }
