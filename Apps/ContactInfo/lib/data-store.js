@@ -62,11 +62,13 @@ exports.put = function(dataEvent, callback) {
     var or;
     if(dataEvent.type == 'rapportive') {
         or = [{'rapportive.email' : data.email}];
-        if(data.memberships.github.username)
-            or.push({'github.login': data.memberships.github.username});
-        if(data.memberships.twitter.username) {
-            or.push({'twitter.screen_name': data.memberships.twitter.username});
-            or.push({'klout.username': data.memberships.twitter.username});
+        if(data.memberships) {
+            if(data.memberships.github && data.memberships.github.username)
+                or.push({'github.login': data.memberships.github.username});
+            if(data.memberships.twitter && data.memberships.twitter.username) {
+                or.push({'twitter.screen_name': data.memberships.twitter.username});
+                or.push({'klout.username': data.memberships.twitter.username});
+            }
         }
         console.log('adding rapportive data for', data.email);
     } else if(dataEvent.type == 'twitter') {
@@ -82,15 +84,56 @@ exports.put = function(dataEvent, callback) {
         console.log('adding klout data for ', data.username, 'with score', data.score.kscore, 'and topics', data.topics);
     }
     if(or)
-        set(dataEvent.type, data, or, (callback? callback : function(){});
+        set(dataEvent, or, callback);
 }
 
-function set(type, data, or, callback) {
+// sets the data into the db for the given data collection event match the given or clause
+function set(dataEvent, or, callback) {
     var set = {};
-    set[type] = data;
-    coll.update({$or: or}, {$set: set}, {safe:true, upsert:true}, callback);
+    set[dataEvent.type] = dataEvent.data;
+    var date = 'dates.' + dataEvent.type + '.updated';
+    set[date] = new Date().getTime();
+    coll.update({$or: or}, {$set: set}, {safe:true, upsert:true}, function(err, doc) {
+        if(err && callback)
+            callback(err);
+        else
+            setDates(or, dataEvent, callback);
+    });
 }
 
+// set the created date (if it has just been created)
+// set the engaged date (if the person has just engaged)
+function setDates(or, dataEvent, callback) {
+    //set created date if it doesn't already exist
+    setDate(or, dataEvent.type, 'created', new Date().getTime(), function(err) {
+        if(err && callback)
+            callback(err);
+        else {
+            //if the person has just engaged via this channel, set the engaged date
+            if(dataEvent.source_event.engaged) {
+                console.log(dataEvent.source_event);
+                setDate(or, dataEvent.type, 'engaged', dataEvent.source_event.engaged, function(err) {
+                    if(callback) callback(err);
+                });
+            } else if(callback) {
+                callback();
+            }
+        }
+    });
+}
+
+// sets a date value if it has not already been set
+function setDate(or, accountType, dateType, value, callback) {
+    var set = {};
+    var date = 'dates.' + accountType + '.' + dateType;
+    set[date] = value;
+    var query = {$or: or};
+    query[date] = { $exists : false };
+    coll.update(query, {$set: set}, {safe:true, upsert:true}, function(err, doc) {
+        if(callback) callback(err);
+    });
+    
+};
 
 
 exports.close = function() {

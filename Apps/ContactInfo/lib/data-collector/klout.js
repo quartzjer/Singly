@@ -9,7 +9,7 @@ exports.getEventEmitter = function() {
 exports.getNewData = function(newTwitterAccountEvent) {
     getKloutData(newTwitterAccountEvent.username, function(err, data) {
         if(!err)
-            emmiter.emit('new-data', {type:'klout', data:data});
+            emmiter.emit('new-data', {type:'klout', data:data, source_event:newTwitterAccountEvent});
     });
 }
 

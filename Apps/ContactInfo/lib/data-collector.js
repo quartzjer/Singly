@@ -8,30 +8,17 @@ var dataStore = require('./data-store.js');
 exports.start = function(callback) {
     dataStore.openCollection(callback);
 }
-/*dataStore.put = function(dataEvent) {
-    if(dataEvent.type == 'rapportive') {
-        console.log('would add rapportive data for ', dataEvent.data.email);
-    } else if(dataEvent.type == 'twitter') {
-        console.log('would add twitter data for ', dataEvent.data.screen_name);
-    } else if(dataEvent.type == 'github') {
-        console.log('would add github data for ', dataEvent.data.login);
-    } else if(dataEvent.type == 'klout') {
-        console.log('would add klout data for ', dataEvent.data.username, 
-                    'with score', dataEvent.data.score.kscore, 
-                    'and topics', dataEvent.data.topics);
-    }
-}
-*/
-function processNewAccount(type, account) {
+
+function processNewAccount(type, account, engagedAt) {
     console.log('processNewAccount:', type, account);
     var type = type.toLowerCase();
     if(type == 'email' || type == 'emailaddress') {
-        rapportiveCollector.getNewData({email:account});
+        rapportiveCollector.getNewData({email:account, engaged:engagedAt});
     } else if(type == 'twitter') {
-        twitterCollector.getNewData({username:account});
-        kloutCollector.getNewData({username:account});
+        twitterCollector.getNewData({username:account, engaged:engagedAt});
+        kloutCollector.getNewData({username:account, engaged:engagedAt});
     } else if(type == 'github') {
-        githubCollector.getNewData({username:account});
+        githubCollector.getNewData({username:account, engaged:engagedAt});
     } else {
         throw new Error('account type "' + type + '" not found!');
     }

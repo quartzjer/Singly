@@ -7,52 +7,54 @@ var auth = JSON.parse(require('fs').readFileSync(__dirname + '/twitter-auth.json
 var emmiter = new EventEmitter();
 
 exports.getNewData = function(newTwitterAccountEvent) {
-    enqueueUser(newTwitterAccountEvent.username);
+    enqueueEvent(newTwitterAccountEvent);
 }
 exports.getEventEmitter = function() {
     return emmiter;
 }
 
-var userQueue = [];
+var eventQueue = [];
 
 var nextUpdateTimeout;
 
-function enqueueUser(username) {
-//    console.log('enqueueUser:', username);
-    userQueue.push(username);
-    if(userQueue.length >= 100)
-        dequeueUsers();
+function enqueueEvent(newTwitterAccountEvent) {
+//    console.log('enqueueEvent:', username);
+    eventQueue.push(newTwitterAccountEvent);
+    if(eventQueue.length >= 100)
+        dequeueEvents();
 }
 
 var dequeing = false;
-function dequeueUsers() {
+function dequeueEvents() {
     if(dequeing) return;
     dequeing = true;
     try {
-        var length = userQueue.length;
+        var length = eventQueue.length;
         if(length == 0) {
             dequeing = false;
             return;
         }
-//        console.log('dequeueUsers:', userQueue.length);
+        var eventHash = {};
+//        console.log('dequeueEvents:', eventQueue.length);
         if(length > 100) length == 100;
         var screenNames = '';
-        for(var i = 0; i < length - 1 && userQueue.length > 0; i++)
-            screenNames += userQueue.shift() + ',';
-        if(userQueue.length > 0)
-            screenNames += userQueue.shift();
+        for(var i = 0; i < length && eventQueue.length > 0; i++) {
+            var anEvent = eventQueue.shift();
+            screenNames += anEvent.username + ',';
+            eventHash[anEvent.username] = anEvent;
+        }
     } catch(err) {
         console.error(err);
     }
     dequeing = false;
     if(screenNames.length > 0) {
-        getUserData(screenNames);
-        if(userQueue.length >= 100)
-            dequeueUsers();
+        getUserData(screenNames, eventHash);
+        if(eventQueue.length >= 100)
+            dequeueEvents();
     }
 }
 
-function getUserData(id_str) {
+function getUserData(id_str, eventHash) {
     console.log('calling twitter with:', id_str);
     twitterClient.apiCall('GET', '/users/lookup.json', { token: { oauth_token_secret: auth.token.oauth_token_secret,
                                                                   oauth_token: auth.token.oauth_token}, 
@@ -64,8 +66,8 @@ function getUserData(id_str) {
                 return;
             }
             for(var i in result)
-                emmiter.emit('new-data', {type:'twitter', data:result[i]});
+                emmiter.emit('new-data', {source_event: eventHash[result[i].screen_name], type:'twitter', data:result[i]});
         });
 }
 
-setInterval(dequeueUsers, 5000);
+setInterval(dequeueEvents, 5000);

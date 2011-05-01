@@ -11,7 +11,7 @@ function fireNext() {
     if(usernames.length == 0)
         return;
     
-    twitterCollector.getNewData({username:usernames.shift()});
+    twitterCollector.getNewData({username:usernames.shift(), 'engaged': new Date().getTime()});
     setTimeout(fireNext, Math.random()*1000);
 }
 
