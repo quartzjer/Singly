@@ -20,9 +20,20 @@ exports.openCollection = function(callback) {
     });
 }
 
-exports.putContact = function(clean_name, contact, callback) {
-    contact._id = genObjectID(clean_name);
-    coll.update({'_id':contact._id}, contact, {safe:true, upsert:true}, callback);
+exports.putContact = function(contact, callback) {
+    var ors = [];
+    if(contact.email)
+        ors.push('email': contact.email);
+    if(contact.memberships) {
+        if(contact.memberships.github.username) {
+            ors.push('contact.memberships.github.username': contact.memberships.github.username);
+            ors.push('contact.memberships.github.login': contact.memberships.github.username);
+        } else if(contact.memberships.github.login) {
+            ors.push('contact.memberships.github.username': contact.memberships.github.login);
+            ors.push('contact.memberships.github.login': contact.memberships.github.login);
+        }
+    }
+    coll.update({'email':contact.email}, contact, {safe:true, upsert:true}, callback);
 }
 
 exports.getByEmailAddress = function(emailAddress, callback) {
@@ -34,6 +45,15 @@ exports.getContacts = function(options, callback) {
     coll.find({}, options).toArray(function(err, docs) {
         callback(err, docs);
     });
+}
+
+exports.updateGithubData = function(githubUserInfo, callback) {
+    coll.update({'memberships.github.username' : githubUserInfo.username}, 
+                {$set:{'memberships.github' : githubUserInfo}}, function(err) {
+        if(err) { //could not find anyone with that github username
+            var contact
+        }
+    })
 }
 //exports.find = function();
 

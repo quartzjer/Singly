@@ -5,6 +5,8 @@ var sys = require('sys'),
     GitHubApi = require('github').GitHubApi,
     github = new GitHubApi(true);
     
+exports = new EventEmitter();
+
 exports.getDataFromEmail = function (emailAddress, callback) {
     console.log(emailAddress);
     rapp.getDataFromEmail(emailAddress, function(data) {
