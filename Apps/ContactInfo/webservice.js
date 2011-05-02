@@ -33,8 +33,6 @@ app.get('/data/contacts', function(req, res) {
     });
 });
 
-app.get('/data/')
-
 dataStore.openCollection(function() {
     app.listen(8080);
 });

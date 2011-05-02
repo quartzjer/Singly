@@ -12,8 +12,17 @@ var coll;
 var ObjectID = db.bson_serializer.ObjectID;
 
 exports.openCollection = function(callback) {
-    db.open(function(err, db) {
-        db.collection(collectionName, function(err, collection) {
+    db.open(function(err, openedDB) {
+        if(err) {
+            console.error('error opening database', err);
+            db.close();
+            return;
+        } else if(!db) {
+            db.log('could not open database', db);
+            dataStore.close();
+            return;
+        }
+        openedDB.collection(collectionName, function(err, collection) {
             coll = collection;
             callback(err, collection);
         });
@@ -37,7 +46,7 @@ exports.putContact = function(contact, callback) {
 }
 
 exports.getByEmailAddress = function(emailAddress, callback) {
-    coll.find({'email': emailAddress}, callback);
+    coll.find({'rapportive.email': emailAddress}, callback);
 }
 
 
