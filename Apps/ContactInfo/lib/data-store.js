@@ -64,24 +64,42 @@ exports.put = function(dataEvent, callback) {
         or = [{'rapportive.email' : data.email}];
         if(data.memberships) {
             if(data.memberships.github && data.memberships.github.username)
-                or.push({'github.login': data.memberships.github.username});
+                or.push({'github._username_lowercase': data.memberships.github.username.toLowerCase()});
             if(data.memberships.twitter && data.memberships.twitter.username) {
-                or.push({'twitter.screen_name': data.memberships.twitter.username});
-                or.push({'klout.username': data.memberships.twitter.username});
+                or.push({'twitter._username_lowercase': data.memberships.twitter.username.toLowerCase()});
+                or.push({'klout.username': data.memberships.twitter.username.toLowerCase()});
             }
         }
         console.log('adding rapportive data for', data.email);
     } else if(dataEvent.type == 'twitter') {
-        or = [{'twitter.screen_name' : data.screen_name}, {'rapportive.twitter_username' : data.screen_name},
-              {'rapportive.memberships.twitter.username' : data.screen_name}, {'klout.username':data.screen_name}];
-        console.log('adding twitter data for ', data.screen_name);
+        if(!data._username_lowercase) {
+            console.error('ERROR: no _username_lowercase for twitter data:', data);
+            return;
+        }
+        or = [{'twitter._username_lowercase' : data._username_lowercase},
+              {'rapportive.twitter_username' : data._username_lowercase},
+              {'rapportive.memberships.twitter.username' : data._username_lowercase},
+              {'klout.username':data._username_lowercase}];
+        console.log('adding twitter data for ', data._username_lowercase);
     } else if(dataEvent.type == 'github') {
-        or = [{'github.login' : data.login}, {'rapportive.memberships.github.username' : data.login}];
-        console.log('adding github data for ', data.login);
+        if(!data._username_lowercase) {
+            console.error('ERROR: no _username_lowercase for github data:', data);
+            return;
+        }
+        or = [{'github._username_lowercase' : data._username_lowercase}, 
+              {'rapportive.memberships.github.username' : data._username_lowercase}];
+        console.log('adding github data for ', data._username_lowercase);
     } else if(dataEvent.type == 'klout') {
-        or = [{'twitter.screen_name' : data.username}, {'rapportive.twitter_username' : data.username},
-              {'rapportive.memberships.twitter.username' : data.username}, {'klout.username':data.username}];
-        console.log('adding klout data for ', data.username, 'with score', data.score.kscore, 'and topics', data.topics);
+        if(!data.username || !data.score || ! data.topics) {
+            console.error('ERROR: bad data from klout:', data);
+            return;
+        }
+        or = [{'twitter._username_lowercase' : data.username.toLowerCase()},
+              {'rapportive.twitter_username' : data.username.toLowerCase()},
+              {'rapportive.memberships.twitter.username' : data.username.toLowerCase()}, 
+              {'klout.username':data.username.toLowerCase()}];
+        console.log('adding klout data for ', data.username.toLowerCase(), 
+                    'with score', data.score.kscore, 'and topics', data.topics);
     }
     if(or)
         set(dataEvent, or, callback);
@@ -111,7 +129,7 @@ function setDates(or, dataEvent, callback) {
         else {
             //if the person has just engaged via this channel, set the engaged date
             if(dataEvent.source_event.engaged) {
-                console.log(dataEvent.source_event);
+//                console.log(dataEvent.source_event);
                 setDate(or, dataEvent.type, 'engaged', dataEvent.source_event.engaged, function(err) {
                     if(callback) callback(err);
                 });
@@ -129,7 +147,8 @@ function setDate(or, accountType, dateType, value, callback) {
     set[date] = value;
     var query = {$or: or};
     query[date] = { $exists : false };
-    coll.update(query, {$set: set}, {safe:true, upsert:true}, function(err, doc) {
+//    console.log('query:', query);
+    coll.update(query, {$set: set}, {safe:true}, function(err, doc) {
         if(callback) callback(err);
     });
     

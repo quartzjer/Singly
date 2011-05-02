@@ -8,8 +8,20 @@ exports.getDataFromTwitter = function(twitterHandle, callback) {
     get('twitter', twitterHandle, callback);
 }
 
+var cacheUrl = 'http://localhost:3456/contacts/';
+var rapportiveUrl = 'http://rapportive.com/contacts/'
+
+var baseURL = cacheUrl;
+
+exports.bypassCache = function() {
+    baseURL = rapportiveUrl;
+}
+exports.useCache = function() {
+    baseURL = cacheUrl;
+}
+
 function get(type, account, callback) {
-    request.get({uri:'http://rapportive.com/contacts/' + type + '/' + account}, function(err, resp, body) {
+    request.get({uri:baseURL + type + '/' + account}, function(err, resp, body) {
         if(err) {
             try {
                 body = JSON.parse(body);

@@ -4,13 +4,13 @@ console.log(__dirname);
 var auth = JSON.parse(require('fs').readFileSync(__dirname + '/twitter-auth.json')),
     twitterClient = require('twitter-js')(auth.consumerKey, auth.consumerSecret);
 
-var emmiter = new EventEmitter();
+var emitter = new EventEmitter();
 
 exports.getNewData = function(newTwitterAccountEvent) {
     enqueueEvent(newTwitterAccountEvent);
 }
 exports.getEventEmitter = function() {
-    return emmiter;
+    return emitter;
 }
 
 var eventQueue = [];
@@ -41,7 +41,7 @@ function dequeueEvents() {
         for(var i = 0; i < length && eventQueue.length > 0; i++) {
             var anEvent = eventQueue.shift();
             screenNames += anEvent.username + ',';
-            eventHash[anEvent.username] = anEvent;
+            eventHash[anEvent.username.toLowerCase()] = anEvent;
         }
     } catch(err) {
         console.error(err);
@@ -55,7 +55,7 @@ function dequeueEvents() {
 }
 
 function getUserData(id_str, eventHash) {
-    console.log('calling twitter with:', id_str);
+//    console.log('calling twitter with:', id_str);
     twitterClient.apiCall('GET', '/users/lookup.json', { token: { oauth_token_secret: auth.token.oauth_token_secret,
                                                                   oauth_token: auth.token.oauth_token}, 
                                                          screen_name: id_str,
@@ -65,8 +65,17 @@ function getUserData(id_str, eventHash) {
                 console.error('error! ' + JSON.stringify(error));
                 return;
             }
-            for(var i in result)
-                emmiter.emit('new-data', {source_event: eventHash[result[i].screen_name], type:'twitter', data:result[i]});
+            for(var i in result) {
+                var screen_name = result[i].screen_name;
+                if(screen_name && eventHash[screen_name.toLowerCase()]) {
+                    result[i]._username_lowercase = screen_name.toLowerCase();
+                    emitter.emit('new-data', {source_event: eventHash[result[i].screen_name.toLowerCase()], 
+                                              type:'twitter', 
+                                              data:result[i]});
+                } else {
+                    console.error('twitter error:', result[i]);
+                }
+            }
         });
 }
 

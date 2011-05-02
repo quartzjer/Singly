@@ -1,6 +1,6 @@
 var EmailReader = require('../lib/email-reader.js').EmailReader;
 
-var er = new EmailReader('data/emails.txt');
+var er = new EmailReader('../data/emails.csv');
 
 er.readEmails(function(emails) {
     console.log(emails.length);
