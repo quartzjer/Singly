@@ -89,7 +89,7 @@ exports.put = function(dataEvent, callback) {
               {'rapportive.data.twitter_username' : data._username_lowercase},
               {'rapportive.data.memberships.twitter.username' : data._username_lowercase},
               {'klout.data.username':data._username_lowercase}];
-        console.log('adding twitter data for ', data._username_lowercase);
+        console.log('adding twitter data for', data._username_lowercase);
     } else if(dataEvent.type == 'github') {
         if(!data._username_lowercase) {
             console.error('ERROR: no _username_lowercase for github data:', data);
@@ -97,7 +97,7 @@ exports.put = function(dataEvent, callback) {
         }
         or = [{'github.data._username_lowercase' : data._username_lowercase}, 
               {'rapportive.data.memberships.github.username' : data._username_lowercase}];
-        console.log('adding github data for ', data._username_lowercase);
+        console.log('adding github data for', data._username_lowercase);
     } else if(dataEvent.type == 'klout') {
         if(!data.username || !data.score || ! data.topics) {
             console.error('ERROR: bad data from klout:', data);
@@ -133,23 +133,25 @@ function doSet(dataEvent, or, callback) {
 }
 
 function setOther(dataEvent, callback) {
-    if(!dataEvent.other) {
-        callback();
-        return;
-    }
+    console.log('setOther:', dataEvent.source_event.other);
+    var other;
+    if(dataEvent && dataEvent.source_event)
+        other = dataEvent.source_event.other;
     if(dataEvent.type == 'rapportive') {
         //nothing yet
     } else if(dataEvent.type == 'twitter') {
-        if(dataEvent.other.following) {
-            coll.update({'twitter.data._username_lowercase': dataEvent.data.username.toLowerCase()},
-                        {$addToSet : {'twitter.isFollowing' :dataEvent.other.following}}, {safe:true}, function(err) {
+        if(other && other.following) {
+            console.log('adding following ' + other.following + ' to ' +
+                            dataEvent.data.screen_name.toLowerCase());
+            coll.update({'twitter.data._username_lowercase': dataEvent.data.screen_name.toLowerCase()},
+                        {$addToSet : {'twitter.following' : other.following}}, {safe:true}, function(err) {
                 callback(err);
             });
         }
     } else if(dataEvent.type == 'github') {
         if(dataEvent.other.following) {
-            coll.update({'github.data._username_lowercase': dataEvent.data.username.toLowerCase()},
-                        {$addToSet : {'github.isFollowing' :dataEvent.other.following}}, {safe:true}, function(err) {
+            coll.update({'github.data._username_lowercase': dataEvent.data.login.toLowerCase()},
+                        {$addToSet : {'github.following' :dataEvent.other.following}}, {safe:true}, function(err) {
                 callback(err);
             });
         }

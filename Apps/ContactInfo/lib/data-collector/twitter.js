@@ -9,6 +9,15 @@ var emitter = new EventEmitter();
 exports.getNewData = function(newTwitterAccountEvent) {
     enqueueEvent(newTwitterAccountEvent);
 }
+
+exports.gotNewData = function(source_event, data) {
+    console.log('got new twitter data for screen_name:', data.screen_name, 'source_event:', source_event);
+    data._username_lowercase = data.screen_name.toLowerCase();
+    emitter.emit('new-data', {source_event: source_event, 
+                              type:'twitter', 
+                              data:data});
+}
+
 exports.getEventEmitter = function() {
     return emitter;
 }
@@ -68,10 +77,8 @@ function getUserData(id_str, eventHash) {
             for(var i in result) {
                 var screen_name = result[i].screen_name;
                 if(screen_name && eventHash[screen_name.toLowerCase()]) {
-                    result[i]._username_lowercase = screen_name.toLowerCase();
-                    emitter.emit('new-data', {source_event: eventHash[result[i].screen_name.toLowerCase()], 
-                                              type:'twitter', 
-                                              data:result[i]});
+
+                    exports.gotNewData(eventHash[result[i].screen_name.toLowerCase()], result[i]);
                 } else {
                     console.error('twitter error:', result[i]);
                 }

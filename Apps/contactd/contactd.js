@@ -9,6 +9,7 @@
 
 var express = require('express'),
     connect = require('connect'),
+    request = require('request'),
     fs = require('fs');
 
 var locker;
@@ -20,12 +21,15 @@ app.get('/', function(req, res) {
     res.end('yeah!!');
 });
 
-app.post('/contact/:type', function(req, res) {
+app.post('/contact/twitter', function(req, res) {
     res.writeHead(200);
-    var type = req.params.type;
     var contact = req.body;
-    console.log('contact:', contact.screen_name);
-    res.end('1');
+//    console.log('contact:', contact.screen_name);
+    request.post({uri:'http://localhost:8080/new/twitter/lockerproject',
+                  json:contact}, function(err, resp, body) {
+//                      console.log('response body:', body);
+                  });
+    res.end();
 });
 
 var stdin = process.openStdin();

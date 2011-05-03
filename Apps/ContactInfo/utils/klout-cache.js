@@ -10,8 +10,9 @@ var baseUrl = 'http://api.klout.com/1/'
 
 app.get('/*', function(req, res) {
     res.writeHead(200, 'text/json');
-    var hashUrl = 'klout_' + hash(res.url);
+    var hashUrl = 'klout_' + hash(req.url);
     cache.get(hashUrl, function(err, resp) {
+        console.log('for url', req.url, 'with hash', hashUrl, ', got from cache:', resp);
         if(resp) {
             res.end(resp);
             return;

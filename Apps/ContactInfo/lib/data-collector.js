@@ -9,14 +9,20 @@ exports.start = function(callback) {
     dataStore.openCollection(callback);
 }
 
-function processNewAccount(type, account, other) {
+function processNewAccount(type, account, other, data) {
     console.log('processNewAccount:', type, account);
     var type = type.toLowerCase();
     if(type == 'email' || type == 'emailaddress') {
         rapportiveCollector.getNewData({email:account, other:other});
     } else if(type == 'twitter') {
-        twitterCollector.getNewData({username:account, other:other});
-        kloutCollector.getNewData({username:account, other:other});
+        var dataEvent = {username:account, other:other};
+        if(data) {
+            console.log('process new twitter account w/ data');
+            twitterCollector.gotNewData(dataEvent, data);
+        } else {
+            twitterCollector.getNewData(dataEvent);
+        }
+        kloutCollector.getNewData(dataEvent);
     } else if(type == 'github') {
         githubCollector.getNewData({username:account, other:other});
     } else {
@@ -43,6 +49,5 @@ function processRapportiveEvent(rapportiveEvent) {
         }
     }
 }
-
 
 exports.addAccount = processNewAccount;

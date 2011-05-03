@@ -1,10 +1,14 @@
 var express = require('express'),
     connect = require('connect'),
     app = express.createServer(
-        express.static(__dirname + '/web')
-        );//connect.bodyParser());
+        express.static(__dirname + '/web'),
+        connect.bodyParser()
+        );//
+        
+var assert = require('assert');
 
-var dataStore = require('./lib/data-store.js');
+var dataStore = require('./lib/data-store.js'),
+    dataCollector = require('./lib/data-collector.js');
 
 app.get('/data/contacts', function(req, res) {
     var options = {};
@@ -33,11 +37,25 @@ app.get('/data/contacts', function(req, res) {
     });
 });
 
-app.post('/new/:type', function(req, res) {
-    req.body.data
-    
+app.post('/new/:type/:via', function(req, res) {
+    req.params.via;
+    req.params.type;
+    if(req.params.via != 'lockerproject') {
+        res.writeHead(400);
+        res.end('via must be equal to lockerproject for now!');
+    } else if(req.params.type != 'twitter') {
+        res.writeHead(400);
+        res.end('type must be equal to twitter for now!');
+    } else if(!req.body.screen_name) {
+        res.writeHead(400);
+        res.end('twitter data has not screen_name object, data:', req.body);
+    } else {
+        dataCollector.addAccount(req.params.type, req.body.screen_name, {following:req.params.via}, req.body);
+        res.writeHead(200);
+        res.end();
+    }
 });
 
-dataStore.openCollection(function() {
+dataCollector.start(function() {
     app.listen(8080);
 });
