@@ -194,7 +194,7 @@
                  data you are going to use and how you will use, display,
                  share, or transfer that data and you will include your
                  privacy policy URL in the [21]Developer Application.
-              3. You will not use, display, share, or transfer a user's
+              3. You will not use, display, share, or transfer a user‚Äôs
                  data in a manner inconsistent with your privacy policy.
               4. You will delete all data you receive from us concerning a
                  user if the user asks you to do so, and will provide a
@@ -211,7 +211,7 @@
                  data within your application, but you cannot transfer
                  user data outside of your application.
               8. We can require you to delete user data if you use it in a
-                 way that we determine is inconsistent with users'
+                 way that we determine is inconsistent with users‚Äô
                  expectations.
               9. We can limit your access to data.
              10. You will comply with all other restrictions contained in
@@ -386,7 +386,7 @@
             EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND
             UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM
             YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A
-            CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE ß1542,
+            CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE ¬ß1542,
             WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH
             THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT
             THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST
@@ -453,7 +453,7 @@
             business in the US or Canada, this Statement is an agreement
             between you and Facebook, Inc.  Otherwise, this Statement is
             an agreement between you and Facebook Ireland Limited.
-            References to "us," "we," and "our" mean either Facebook, Inc.
+            References to ‚Äúus,‚Äù ‚Äúwe,‚Äù and ‚Äúour‚Äù mean either Facebook, Inc.
             or Facebook Ireland Limited, as appropriate.
          2. This Statement makes up the entire agreement between the
             parties regarding Facebook, and supersedes any prior
@@ -505,16 +505,16 @@
        pages.  If the Statement is not available in the language you
        select, we will default to the English version.
 
-   Facebook © 2011 ∑ [43]English (US)
-   [44]Mobile ∑ [45]Find Friends ∑ [46]Badges ∑ [47]People ∑ [48]Pages ∑
-   [49]About ∑ [50]Advertising ∑ [51]Create a Page ∑ [52]Developers ∑
-   [53]Careers ∑ [54]Privacy ∑ [55]Terms ∑ [56]Help
+   Facebook ¬© 2011 ¬∑ [43]English (US)
+   [44]Mobile ¬∑ [45]Find Friends ¬∑ [46]Badges ¬∑ [47]People ¬∑ [48]Pages ¬∑
+   [49]About ¬∑ [50]Advertising ¬∑ [51]Create a Page ¬∑ [52]Developers ¬∑
+   [53]Careers ¬∑ [54]Privacy ¬∑ [55]Terms ¬∑ [56]Help
 
 References
 
    1. http://www.facebook.com/terms.php?_fb_noscript=1
    2. http://www.facebook.com/terms.php
-   3. http://static.ak.fbcdn.net/rsrc.php/yJ/r/H2SSvhJMJA-.xml
+   3. http://b.static.ak.fbcdn.net/rsrc.php/yJ/r/H2SSvhJMJA-.xml
    4. http://www.facebook.com/
    5. http://www.facebook.com/recover.php
    6. http://www.facebook.com/principles.php
