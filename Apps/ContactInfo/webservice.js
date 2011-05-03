@@ -33,6 +33,11 @@ app.get('/data/contacts', function(req, res) {
     });
 });
 
+app.post('/new/:type', function(req, res) {
+    req.body.data
+    
+});
+
 dataStore.openCollection(function() {
     app.listen(8080);
 });

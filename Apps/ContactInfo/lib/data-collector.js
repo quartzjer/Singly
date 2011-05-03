@@ -9,16 +9,16 @@ exports.start = function(callback) {
     dataStore.openCollection(callback);
 }
 
-function processNewAccount(type, account, engagedAt) {
+function processNewAccount(type, account, other) {
     console.log('processNewAccount:', type, account);
     var type = type.toLowerCase();
     if(type == 'email' || type == 'emailaddress') {
-        rapportiveCollector.getNewData({email:account, engaged:engagedAt});
+        rapportiveCollector.getNewData({email:account, other:other});
     } else if(type == 'twitter') {
-        twitterCollector.getNewData({username:account, engaged:engagedAt});
-        kloutCollector.getNewData({username:account, engaged:engagedAt});
+        twitterCollector.getNewData({username:account, other:other});
+        kloutCollector.getNewData({username:account, other:other});
     } else if(type == 'github') {
-        githubCollector.getNewData({username:account, engaged:engagedAt});
+        githubCollector.getNewData({username:account, other:other});
     } else {
         throw new Error('account type "' + type + '" not found!');
     }

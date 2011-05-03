@@ -16,12 +16,12 @@ dataCollector.start(function() {
     emailReader.readEmails(function(signups) {
         waitAndCall(signups, function(signup) {
             console.log(signup);
-            dataCollector.addAccount('email', signup.email, signup.dateStamp);
+            dataCollector.addAccount('email', signup.email, {engaged:signup.dateStamp});
         });
     });
 });
 
-var averageInterval = 500;
+var averageInterval = 200;
 function waitAndCall(signups, callback) {
     if(signups.length < 1)
         return;

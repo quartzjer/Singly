@@ -20,10 +20,11 @@ app.get('/', function(req, res) {
     res.end('yeah!!');
 });
 
-app.post('/contact', function(req, res) {
+app.post('/contact/:type', function(req, res) {
     res.writeHead(200);
+    var type = req.params.type;
     var contact = req.body;
-    console.log('contact:', contact);
+    console.log('contact:', contact.screen_name);
     res.end('1');
 });
 
@@ -38,5 +39,5 @@ stdin.on('data', function (chunk) {
     app.listen(processInfo.port);
     var returnedInfo = {port: processInfo.port};
     console.log(JSON.stringify(returnedInfo));
-    locker.listen('contact/twitter', '/contact');
+    locker.listen('contact/twitter', '/contact/twitter');
 });

@@ -4,7 +4,7 @@ var mongodb = require('mongodb'),
     crypto = require('crypto');
 
 var dbName = 'people';
-var collectionName = 'data';
+var collectionName = 'dataTest';
 var server = new mongodb.Server('localhost', mongodb.Connection.DEFAULT_PORT, {});
 var db = new mongodb.Db(dbName, server, {native_parser:true});
 var coll;
@@ -70,13 +70,13 @@ exports.put = function(dataEvent, callback) {
     var data = dataEvent.data;
     var or;
     if(dataEvent.type == 'rapportive') {
-        or = [{'rapportive.email' : data.email}];
+        or = [{'rapportive.data.email' : data.email}];
         if(data.memberships) {
             if(data.memberships.github && data.memberships.github.username)
                 or.push({'github._username_lowercase': data.memberships.github.username.toLowerCase()});
             if(data.memberships.twitter && data.memberships.twitter.username) {
                 or.push({'twitter._username_lowercase': data.memberships.twitter.username.toLowerCase()});
-                or.push({'klout.username': data.memberships.twitter.username.toLowerCase()});
+                or.push({'klout.data.username': data.memberships.twitter.username.toLowerCase()});
             }
         }
         console.log('adding rapportive data for', data.email);
@@ -86,47 +86,78 @@ exports.put = function(dataEvent, callback) {
             return;
         }
         or = [{'twitter._username_lowercase' : data._username_lowercase},
-              {'rapportive.twitter_username' : data._username_lowercase},
-              {'rapportive.memberships.twitter.username' : data._username_lowercase},
-              {'klout.username':data._username_lowercase}];
+              {'rapportive.data.twitter_username' : data._username_lowercase},
+              {'rapportive.data.memberships.twitter.username' : data._username_lowercase},
+              {'klout.data.username':data._username_lowercase}];
         console.log('adding twitter data for ', data._username_lowercase);
     } else if(dataEvent.type == 'github') {
         if(!data._username_lowercase) {
             console.error('ERROR: no _username_lowercase for github data:', data);
             return;
         }
-        or = [{'github._username_lowercase' : data._username_lowercase}, 
-              {'rapportive.memberships.github.username' : data._username_lowercase}];
+        or = [{'github.data._username_lowercase' : data._username_lowercase}, 
+              {'rapportive.data.memberships.github.username' : data._username_lowercase}];
         console.log('adding github data for ', data._username_lowercase);
     } else if(dataEvent.type == 'klout') {
         if(!data.username || !data.score || ! data.topics) {
             console.error('ERROR: bad data from klout:', data);
             return;
         }
-        or = [{'twitter._username_lowercase' : data.username.toLowerCase()},
-              {'rapportive.twitter_username' : data.username.toLowerCase()},
-              {'rapportive.memberships.twitter.username' : data.username.toLowerCase()}, 
-              {'klout.username':data.username.toLowerCase()}];
+        or = [{'twitter.data._username_lowercase' : data.username.toLowerCase()},
+              {'rapportive.data.twitter_username' : data.username.toLowerCase()},
+              {'rapportive.data.memberships.twitter.username' : data.username.toLowerCase()}, 
+              {'klout.data.username':data.username.toLowerCase()}];
         console.log('adding klout data for ', data.username.toLowerCase(), 
                     'with score', data.score.kscore, 'and topics', data.topics);
     }
     if(or)
-        set(dataEvent, or, callback);
+        doSet(dataEvent, or, callback);
 }
 
 // sets the data into the db for the given data collection event match the given or clause
-function set(dataEvent, or, callback) {
+function doSet(dataEvent, or, callback) {
     var set = {};
-    set[dataEvent.type] = dataEvent.data;
+    set[dataEvent.type] = {data:dataEvent.data};
     var date = 'dates.' + dataEvent.type + '.updated';
     set[date] = new Date().getTime();
     coll.update({$or: or}, {$set: set}, {safe:true, upsert:true}, function(err, doc) {
         if(err && callback)
             callback(err);
-        else
-            setDates(or, dataEvent, callback);
+        else {
+            setDates(or, dataEvent, function(err) { });
+            setOther(dataEvent, function(err) { });
+            //ya, this is weird
+            if(callback) callback();
+        }
     });
 }
+
+function setOther(dataEvent, callback) {
+    if(!dataEvent.other) {
+        callback();
+        return;
+    }
+    if(dataEvent.type == 'rapportive') {
+        //nothing yet
+    } else if(dataEvent.type == 'twitter') {
+        if(dataEvent.other.following) {
+            coll.update({'twitter.data._username_lowercase': dataEvent.data.username.toLowerCase()},
+                        {$addToSet : {'twitter.isFollowing' :dataEvent.other.following}}, {safe:true}, function(err) {
+                callback(err);
+            });
+        }
+    } else if(dataEvent.type == 'github') {
+        if(dataEvent.other.following) {
+            coll.update({'github.data._username_lowercase': dataEvent.data.username.toLowerCase()},
+                        {$addToSet : {'github.isFollowing' :dataEvent.other.following}}, {safe:true}, function(err) {
+                callback(err);
+            });
+        }
+    } else if(dataEvent.type == 'klout') {
+        //nothing yet
+    }
+}
+
 
 // set the created date (if it has just been created)
 // set the engaged date (if the person has just engaged)
@@ -137,9 +168,9 @@ function setDates(or, dataEvent, callback) {
             callback(err);
         else {
             //if the person has just engaged via this channel, set the engaged date
-            if(dataEvent.source_event.engaged) {
+            if(dataEvent.source_event.other && dataEvent.source_event.other.engaged) {
 //                console.log(dataEvent.source_event);
-                setDate(or, dataEvent.type, 'engaged', dataEvent.source_event.engaged, function(err) {
+                setDate(or, dataEvent.type, 'engaged', dataEvent.source_event.other.engaged, function(err) {
                     if(callback) callback(err);
                 });
             } else if(callback) {
