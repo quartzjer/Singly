@@ -11,6 +11,9 @@ var coll;
 
 var ObjectID = db.bson_serializer.ObjectID;
 
+var ensureIndicies = ['rapportive.data.name', 'rapportive.data.email', 'twitter.data._username_lowercase', 
+                      'klout.data.score.kscore', 'dates.rapportive.engaged'];
+
 exports.openCollection = function(callback) {
     db.open(function(err, openedDB) {
         if(err) {
@@ -24,7 +27,16 @@ exports.openCollection = function(callback) {
         }
         openedDB.collection(collectionName, function(err, collection) {
             coll = collection;
+           // coll.ensureIndex({'rapportive.data.name':1});
             callback(err, collection);
+            for(var i in ensureIndicies) {
+                var query = {};
+                query[ensureIndicies[i]] = 1;
+                console.log('ensuring index on ' + ensureIndicies[i]);
+                coll.ensureIndex(query, function(err, res) {
+                    if(err) console.error(err);
+                });
+            }
         });
     });
 }
@@ -85,7 +97,7 @@ exports.put = function(dataEvent, callback) {
             console.error('ERROR: no _username_lowercase for twitter data:', data);
             return;
         }
-        or = [{'twitter._username_lowercase' : data._username_lowercase},
+        or = [{'twitter.data._username_lowercase' : data._username_lowercase},
               {'rapportive.data.twitter_username' : data._username_lowercase},
               {'rapportive.data.memberships.twitter.username' : data._username_lowercase},
               {'klout.data.username':data._username_lowercase}];
@@ -149,9 +161,9 @@ function setOther(dataEvent, callback) {
             });
         }
     } else if(dataEvent.type == 'github') {
-        if(dataEvent.other.following) {
+        if(other && other.following) {
             coll.update({'github.data._username_lowercase': dataEvent.data.login.toLowerCase()},
-                        {$addToSet : {'github.following' :dataEvent.other.following}}, {safe:true}, function(err) {
+                        {$addToSet : {'github.following' :other.following}}, {safe:true}, function(err) {
                 callback(err);
             });
         }

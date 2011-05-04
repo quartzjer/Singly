@@ -40,17 +40,17 @@ app.get('/data/contacts', function(req, res) {
 app.post('/new/:type/:via', function(req, res) {
     req.params.via;
     req.params.type;
-    if(req.params.via != 'lockerproject') {
+    if(!(req.params.via == 'lockerproject' || req.params.via == 'singlyinc')) {
         res.writeHead(400);
-        res.end('via must be equal to lockerproject for now!');
+        res.end('via must be equal to lockerproject or singlyinc for now!');
     } else if(req.params.type != 'twitter') {
         res.writeHead(400);
         res.end('type must be equal to twitter for now!');
     } else if(!req.body.screen_name) {
         res.writeHead(400);
-        res.end('twitter data has not screen_name object, data:', req.body);
+        res.end('twitter data has no screen_name object, data:', req.body);
     } else {
-        dataCollector.addAccount(req.params.type, req.body.screen_name, {following:req.params.via}, req.body);
+        dataCollector.addAccount(req.params.type, req.body.screen_name, {following:req.params.via, engaged:new Date().getTime()}, req.body);
         res.writeHead(200);
         res.end();
     }

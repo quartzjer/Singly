@@ -91,3 +91,11 @@ body #table .klout {
 body #table .date {
     width:60px;
 }
+
+body #table #more_contacts {
+    border-top:1px solid #323434;
+    border-bottom:1px solid #151617;
+    background-color:#232526;
+    margin:2px 0px;
+    float:right;
+}

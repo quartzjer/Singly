@@ -5,7 +5,7 @@ function getContacts(skip, limit, sort, callback) {
 }
 
 function addRow(contact) {
-    console.log('adding contact:', contact);
+//    console.log('adding contact:', contact);
     var contactsTable = $("#table #contacts");
     contactsTable.append('<div id="' + contact._id + '" class="contact"></div>');
     var theDiv = $("#table #contacts #" + contact._id);
@@ -22,11 +22,11 @@ function addRow(contact) {
 
 function addPhoto(div, contact) {
     var image_url;
-    if(contact.rapportive)
-        image_url = contact.rapportive.image_url_raw;
-    else if(contact.twitter)
-        image_url = contact.twitter.profile_image_url;
-    else if(contact.github && contact.github.gravatar_id)
+    if(contact.rapportive && contact.rapportive.data)
+        image_url = contact.rapportive.data.image_url_raw;
+    else if(contact.twitter && contact.twitter.data)
+        image_url = contact.twitter.data.profile_image_url;
+    else if(contact.github && contact.github.data && contact.github.data.gravatar_id)
         image_url = 'https://secure.gravatar.com/avatar/' + contact.github.gravatar_id;
     if(image_url)
         div.append('<span class="column photo"><img src="' + image_url + '"></span>');
@@ -36,30 +36,30 @@ function addPhoto(div, contact) {
 
 function addName(div, contact) {
     var name;
-    if(contact.rapportive && contact.rapportive.name)
-        name = contact.rapportive.name;
-    else if(contact.twitter && contact.twitter.name)
-        name = contact.twitter.name;
-    else if(contact.github && contact.github.name)
-        name = contact.github.name;
+    if(contact.rapportive && contact.rapportive.data && contact.rapportive.data.name)
+        name = contact.rapportive.data.name;
+    else if(contact.twitter && contact.twitter.data && contact.twitter.data.name)
+        name = contact.twitter.data.name;
+    else if(contact.github && contact.github.data && contact.github.data.name)
+        name = contact.github.data.name;
     div.append('<span class="column name">' + (name || '') + '</span>');
 }
 
 function addEmail(div, contact) {
     var email;
-    if(contact.rapportive && contact.rapportive.email)
-        email = contact.rapportive.email;
-    else if(contact.github && contact.github.email)
-        email = contact.github.email;
+    if(contact.rapportive && contact.rapportive.data && contact.rapportive.data.email)
+        email = contact.rapportive.data.email;
+    else if(contact.github && contact.github.data && contact.github.data.email)
+        email = contact.github.data.email;
     div.append('<span class="column email">' + (email || '') + '</span>');
 }
 
 function addTwitter(div, contact) {
     var twitterUsername;
-    if(contact.twitter)
-        twitterUsername = contact.twitter.screen_name;
-    else if(contact.rapportive && contact.rapportive.twitter_username)
-        twitterUsername = contact.rapportive.memberships.twitter_username;
+    if(contact.twitter && contact.twitter.data && contact.twitter.data.screen_name)
+        twitterUsername = contact.twitter.data.screen_name;
+    else if(contact.rapportive && contact.rapportive.data && contact.rapportive.data.twitter_username)
+        twitterUsername = contact.rapportive.data.twitter_username;
     
     if(twitterUsername) {
         div.append('<span class="column twitter">' +
@@ -71,10 +71,11 @@ function addTwitter(div, contact) {
 
 function addGitHub(div, contact) {
     var githubUsername;
-    if(contact.github)
-        githubUsername = contact.github.login;
-    else if(contact.rapportive && contact.rapportive.membership && contact.rapportive.membership.github)
-        githubUsername = contact.rapportive.membership.github.username;
+    if(contact.github && contact.github.data && contact.github.data.login)
+        githubUsername = contact.github.data.login;
+    else if(contact.rapportive && contact.rapportive.data && contact.rapportive.data.membership &&
+            contact.rapportive.data.membership.github && contact.rapportive.data.membership.github.username)
+        githubUsername = contact.rapportive.data.membership.github.username;
     
     if(githubUsername) {
         div.append('<span class="column github">' +
@@ -86,11 +87,11 @@ function addGitHub(div, contact) {
 
 function addLinkedIn(div, contact) {
     var linkedin, occupations;
-    if(contact.rapportive) {
-        if(contact.rapportive.memberships)
-            linkedin = contact.rapportive.memberships.linkedin;
-        if(contact.rapportive.occupations)
-            occupations = contact.rapportive.occupations;
+    if(contact.rapportive && contact.rapportive.data) {
+        if(contact.rapportive.data.memberships)
+            linkedin = contact.rapportive.data.memberships.linkedin;
+        if(contact.rapportive.data.occupations)
+            occupations = contact.rapportive.data.occupations;
     }
     if(linkedin) {
         var linkText = '';
@@ -114,9 +115,9 @@ function addKlout(div, contact) {
     var klout = contact.klout;
     var score;
     
-    if(klout) {
-        if(klout.score && klout.score.kscore)
-            score = klout.score.kscore;
+    if(klout && klout.data) {
+        if(klout.data.score && klout.data.score.kscore)
+            score = klout.data.score.kscore;
     }
     div.append('<span class="column klout">' + (score || '') + '</span>');
 }
@@ -139,7 +140,7 @@ function addDate(div, contact) {
         date = null;
     if(date) {
         var d = new Date(date/1);
-        console.log(d);
+//        console.log(d);
         div.append('<span class="column date">' + (d.getMonth() + 1) + '/' + d.getDate() + '/' + (d.getFullYear() - 2000) + '</span>');
     }
     else
@@ -147,28 +148,47 @@ function addDate(div, contact) {
 }
 
 
-var sort = {'dates.rapportive.engaged':'desc', 'klout.score.kscore':'asc', 'rapportive.name':'desc', 'rapportive.email':'desc'};
+var sort = {'dates.rapportive.engaged':'desc', 'klout.data.score.kscore':'asc', 'rapportive.data.name':'desc', 'rapportive.data.email':'desc'};
 
-function reload(sortField) {
-    var direction = 'asc';
-    if(sort[sortField]) {
-        if(sort[sortField] == 'asc') 
-            direction = 'desc';
-        else
-            direction = 'asc';
-    }
-    sort[sortField] = direction;
-    console.log([sortField, direction]);
-    getContacts(0, 100, [sortField, direction], function(contacts) {
-        var contactsTable = $("#table #contacts").html('');
-        for(var i in contacts) {
+var start = 0, end = 100, currentSort;
+
+function reload(sortField, _start, _end, callback) {
+    var usedSortField = getSort(sortField);
+    console.log(usedSortField);
+    console.log(_start, _end);
+    getContacts(_start || 0, (_end? (_end - _start) : 100), usedSortField, function(contacts) {
+        var contactsTable = $("#table #contacts");
+        if(_start == 0 || sortField)
+            contactsTable.html('');
+        for(var i in contacts)
             addRow(contacts[i]);
-//            console.log(contacts[i]);
+        if(callback) callback();
+    });
+}
+
+function getSort(sortField) {
+    if(sortField) {
+        var direction = 'asc';
+        if(sort[sortField]) {
+            if(sort[sortField] == 'asc') 
+                direction = 'desc';
+            else
+                direction = 'asc';
         }
-        //console.log(contacts);
+        sort[sortField] = direction;
+        currentSort = [sortField, direction];
+    }
+    return currentSort;
+}
+function loadMore(callback) {
+    console.log('loading maaawr!!!');
+    start = end;
+    end += 100;
+    reload(null, start, end, function() {
+        if(callback) callback();
     });
 }
 $(function() {
     console.log('heeeelooo, jquery!');
-    reload('dates.rapportive.engaged');
+    reload('dates.rapportive.engaged', start, end);
 });
