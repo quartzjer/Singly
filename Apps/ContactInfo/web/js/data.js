@@ -1,4 +1,5 @@
 var baseURL = 'http://localhost:8080/data';
+var data = {};
 
 function getContacts(skip, limit, sort, callback) {
     $.getJSON(baseURL + '/contacts', {skip:skip, limit:limit, sort:[sort]}, callback);
@@ -6,10 +7,15 @@ function getContacts(skip, limit, sort, callback) {
 
 function addRow(contact) {
 //    console.log('adding contact:', contact);
+    data[contact._id] = contact;
     var contactsTable = $("#table #contacts");
-    contactsTable.append('<div id="' + contact._id + '" class="contact"></div>');
-    var theDiv = $("#table #contacts #" + contact._id);
-    addPhoto(theDiv, contact);
+    contactsTable.append('<div id="' + contact._id + '" class="contact"><span class="basic-data"></span></div>');
+    var theNewDiv = $("#table #contacts #" + contact._id);
+    var theDiv = theNewDiv.find('.basic-data');
+    theDiv.click(function() {
+        divClicked(contact._id);
+    });
+    addPhoto(theNewDiv, contact);
     addName(theDiv, contact);
     addEmail(theDiv, contact);
     addTwitter(theDiv, contact);
@@ -21,28 +27,42 @@ function addRow(contact) {
 }
 
 function addPhoto(div, contact) {
-    var image_url;
-    if(contact.rapportive && contact.rapportive.data)
-        image_url = contact.rapportive.data.image_url_raw;
-    else if(contact.twitter && contact.twitter.data)
-        image_url = contact.twitter.data.profile_image_url;
-    else if(contact.github && contact.github.data && contact.github.data.gravatar_id)
-        image_url = 'https://secure.gravatar.com/avatar/' + contact.github.gravatar_id;
+    var image_url = getPhotoUrl(contact);
     if(image_url)
         div.append('<span class="column photo"><img src="' + image_url + '"></span>');
     else
         div.append('<span class="column photo"><img src="img/silhouette.png"></span>');
 }
 
+function getPhotoUrl(contact, fullsize) {
+    var url;
+    if(contact.twitter && contact.twitter.data ) {
+        url = contact.twitter.data.profile_image_url;
+        if(!fullsize)
+            return url;
+        if(!url.match(/.*default_profile_([0-9])_normal\.png/)) {
+            return url.replace(/_normal\.(jpg||png)/, '.$1');
+        }
+    }
+    if(contact.github && contact.github.data && contact.github.data.gravatar_id)
+        return 'https://secure.gravatar.com/avatar/' + contact.github.gravatar_id;
+    if(contact.rapportive && contact.rapportive.data)
+        return contact.rapportive.data.image_url_raw;
+    return 'img/silhouette.png';
+}
+
 function addName(div, contact) {
-    var name;
-    if(contact.rapportive && contact.rapportive.data && contact.rapportive.data.name)
-        name = contact.rapportive.data.name;
-    else if(contact.twitter && contact.twitter.data && contact.twitter.data.name)
-        name = contact.twitter.data.name;
-    else if(contact.github && contact.github.data && contact.github.data.name)
-        name = contact.github.data.name;
+    var name = getName(contact);
     div.append('<span class="column name">' + (name || '') + '</span>');
+}
+
+function getName(contact) {
+    if(contact.twitter && contact.twitter.data && contact.twitter.data.name)
+        return contact.twitter.data.name;
+    if(contact.github && contact.github.data && contact.github.data.name)
+        return contact.github.data.name;
+    if(contact.rapportive && contact.rapportive.data && contact.rapportive.data.name)
+        return contact.rapportive.data.name;
 }
 
 function addEmail(div, contact) {
@@ -147,10 +167,14 @@ function addDate(div, contact) {
         div.append('<span class="column date"></span>');
 }
 
+function getLocation(contact) {
+//    if() contact.twitter.data.location
+//contact.rapportive.data.location
+}
 
 var sort = {'dates.rapportive.engaged':'desc', 'klout.data.score.kscore':'asc', 'rapportive.data.name':'desc', 'rapportive.data.email':'desc'};
 
-var start = 0, end = 100, currentSort;
+var start = 0, end = 15, currentSort;
 
 function reload(sortField, _start, _end, callback) {
     var usedSortField = getSort(sortField);
@@ -180,12 +204,165 @@ function getSort(sortField) {
     }
     return currentSort;
 }
+
 function loadMore(callback) {
     console.log('loading maaawr!!!');
     start = end;
     end += 100;
     reload(null, start, end, function() {
         if(callback) callback();
+    });
+}
+
+var showing = {};
+function divClicked(id) {
+    console.log(id);
+    if(showing[id] === undefined) {
+        var div = $("#table #contacts #" + id);
+        div.append('<div class="more_info"></div>');
+        var newDiv = $("#table #contacts #" + id + " .more_info");
+        getMoreDiv(newDiv, data[id]);
+        showing[id] = true;
+    } else if(showing[id] === true) {
+        var div = $("#table #contacts #" + id + " .more_info");
+        div.hide();
+        showing[id] = false;
+    } else { //showing[id] === false
+        var div = $("#table #contacts #" + id + " .more_info");
+        div.show();
+        showing[id] = true;
+    }
+}
+
+var moreDiv = '<div.'
+function getMoreDiv(newDiv, contact) {
+    var text = $("#more_blank").html();
+    newDiv.addClass('more_info').append(text);
+    newDiv.find('.pic').html('<img src=\'' + getPhotoUrl(contact, true) + '\'>');
+    newDiv.find('.name_and_loc .realname').html(getName(contact));
+    newDiv.find('.name_and_loc .location').html('Brooklyn, NY');
+    if(contact.rapportive && contact.rapportive.data) {
+        console.log(contact.rapportive.data.occupations);
+        var occs = contact.rapportive.data.occupations;
+        for(var i in occs)
+            newDiv.find('.jobs').append(occs[i].job_title + ' at ' + occs[i].company + (i < occs.length - 1? "<br>" :""));
+    }
+    
+    addTwitterDetails(newDiv, contact.twitter);
+    addGithubDetails(newDiv, contact.github);
+    addBlogDetails(newDiv, contact);
+    
+    addTags(contact._id, contact.tags);
+    
+    $('#contacts #' + contact._id + ' .more_info .right_side .add-tag').keyup(function(key) {
+        if(key.keyCode == 13) {
+            doTag(contact._id);
+        }
+        console.log(key.keyCode);
+    });
+}
+
+function addTwitterDetails(newDiv, twitter) {
+    if(twitter && twitter.data) {
+        newDiv.find('.twitter-details .username')
+                 .append('<a target="_blank" href="http://twitter.com/' + twitter.data.screen_name + '">@' + twitter.data.screen_name + '</a>');
+        newDiv.find('.twitter-details .followers').append(twitter.data.followers_count);
+        newDiv.find('.twitter-details .following').append(twitter.data.friends_count);
+        newDiv.find('.twitter-details .tagline').append(twitter.data.description);
+        
+        var followingDiv = newDiv.find('.right_side .following')
+        for(var i in twitter.following) {
+            var who = twitter.following[i];
+            console.log(who);
+            if(who == 'lockerproject')
+                followingDiv.find('.tw-tlp').css({display:'inline'});
+            else if(who == 'singlyinc')
+                followingDiv.find('.tw-singly').css({display:'inline'});
+        }
+        console.log(twitter);
+    } else {
+        newDiv.find('.twitter-details').css({display:'none'});
+    }
+}
+
+function addGithubDetails(newDiv, github) {
+    if(github && github.data) {
+        console.log('github:', github);
+        newDiv.find('.github-details .username')
+                 .append('<a target="_blank" href="http://github.com/' + github.data.login + '">' + github.data.login + '</a>');
+        newDiv.find('.github-details .repos').append(github.data.public_repo_count);
+    } else {
+        newDiv.find('.github-details').css({display:'none'});
+    }
+}
+
+function addBlogDetails(newDiv, contact) {
+    var blogUrl;
+    if(contact.twitter && contact.twitter.data && contact.twitter.data.url) {
+        blogUrl = contact.twitter.data.url;
+    } else if(contact.github && contact.github.data && contact.github.data.blog) {
+        blogUrl = contact.github.data.blog;
+    }
+    if(blogUrl) {
+        console.log('found blogUrl:', blogUrl);
+        newDiv.find('.blog-details').append('<a target="_blank" href="' + blogUrl + '">' + blogUrl + '</a>');
+    } else {
+        newDiv.find('.blog-details').css({display:'none'});
+    }
+    console.log('contact:', contact);
+}
+
+function addTags(id, tags) {
+    if(!tags)
+        return;
+    tags.forEach(function(tag) {
+        appendTag(id, tag);
+    });
+}
+
+function appendTag(id, tag) {
+    var tagsDiv = $("#table #contacts #" + id + ' .tags');
+    tagsDiv.append('<span><span class=\'tag-val\'>' + tag + '</span>&nbsp;&nbsp;<a href="#" onclick="javascript:dropTag(\'' + id + '\',\'' + tag + '\');">x</a></span>');
+}
+function clearTag(id, tag) {
+    $("#table #contacts #" + id + ' .tags .tag-val').each(function(index) {
+        console.log($(this).html());
+        if($(this).html() == tag) {
+            $(this).parent().remove();
+        }
+    });
+}
+
+function dropTag(id, tag) {
+    
+}
+
+function showFull(id) {
+    console.log(id);
+    var div = $("#table #contacts #" + id);
+    div.css({'height':'400px'});
+    div.append('<div>' + JSON.stringify(data[id]) + '</div>');
+}
+
+
+function doTag(id) {
+    var tag = $('#contacts #' + id + ' .more_info .right_side .add-tag').val();
+    addTag(id, tag);
+}
+
+function addTag(id, tag) {
+    $.get(baseURL + '/tags/add', {id:id, tag:tag}, function(data) {
+        appendTag(id, tag);
+        $("#table #contacts #" + id + ' .tags .add-tag').val('');
+        console.log(data);
+    });
+}
+
+function dropTag(id, tag) {
+    $.get(baseURL + '/tags/drop', {id:id, tag:tag}, function(data) {
+        clearTag(id, tag);
+        $("#table #contacts #" + id + ' .tags .add-tag').val('');
+        console.log(data);
     });
 }
 $(function() {

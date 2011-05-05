@@ -208,6 +208,23 @@ function setDate(or, accountType, dateType, value, callback) {
     
 };
 
+exports.addTag = function(id, tag, callback) {
+    coll.find({"_id": new ObjectID(id)}, function(err, cursor) {
+        cursor.toArray(function(err, items) {
+            console.log(items);
+        });
+    });
+   coll.update({"_id":new ObjectID(id)}, {$addToSet: {"tags": tag.toLowerCase()}}, callback);
+}
+
+exports.dropTag = function(id, tag, callback) {
+    coll.update({"_id":new ObjectID(id)}, {$pull: {"tags": tag.toLowerCase()}}, callback);
+    coll.find({"_id": new ObjectID(id)}, function(err, cursor) {
+        cursor.toArray(function(err, items) {
+            console.log(items);
+        });
+    });
+}
 
 exports.close = function() {
     db.close();

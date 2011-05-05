@@ -56,6 +56,29 @@ app.post('/new/:type/:via', function(req, res) {
     }
 });
 
+
+app.get('/data/tags/add', function(req, res) {
+    var _id = req.query.id;
+    var tag = req.query.tag;
+    console.log('_id:', _id)
+    console.log('tag:', tag)
+    dataStore.addTag(_id, tag, function(err, doc) {
+        res.writeHead(200);
+        res.end();
+    })
+});
+
+app.get('/data/tags/drop', function(req, res) {
+    var _id = req.query.id;
+    var tag = req.query.tag;
+    console.log('_id:', _id)
+    console.log('tag:', tag)
+    dataStore.dropTag(_id, tag, function(err, doc) {
+        res.writeHead(200);
+        res.end();
+    })
+});
+
 dataCollector.start(function() {
     app.listen(8080);
 });

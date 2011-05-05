@@ -3,99 +3,252 @@ body {
     color:#ddd;
     font-family:Arial,Tahoma, Geneva, sans-serif;
 }
-body a {
+a {
     color:#aaa;
     text-decoration:none;
     overflow:hidden;
 }
 
-body #table div {
+#table .contact div {
     border-radius:3px;
 }
 
-body #table .column {
+#table .column {
     display:inline-block;
 }
-body #table #headers span {
+#table #headers .column {
     border-top:1px solid #323434;
     border-bottom:1px solid #151617;
     background-color:#232526;
     padding:2px 6px;
     font-size:24px;
     text-align:center;
+    overflow:hidden;
 }
 
-body #table #contacts #text {
+#table #contacts #text {
     display:inline-block;
 }
-body #table #contacts div:hover {
+#table #contacts .contact .basic-data {
+    display:inline-block;
+    height:26px;
+    padding-top:10px;
+}
+#table #contacts .contact:hover {
 /*    background-color:#232526;*/
     background-color:#343739;
     
 }
-body #table #contacts div {
+#table #contacts .contact {
     border-top:1px solid #323434;
     border-bottom:1px solid #151617;
     background-color:#232526;
     margin:2px 0px;
 }
-body #table #contacts .contact {
+#table #contacts .contact {
     display:inline-block;
 }
-body #table #contacts span {
+#table #contacts .column {
     padding:2px 8px;
     margin:0px 0px;
 }
-body #table #headers .photo {
+#table #headers .photo {
     display:inline-block;
     width:36px;
-    
+    height:30px;
+/*    padding:6px;*/
 }
-body #table #headers .photo img {
-    display:inline-block;
+#table #headers .photo img {
+    display:inline;
     width:18px;
     height:18px;
+    margin-top:0px;
 }
-body #table #contacts .photo {
+#table #contacts .photo {
+    display:inline;
     width:36px;
     height:36px;
+    float:left;
+/*    margin:1px;*/
 }
-body #table .photo img {
+#table .photo img {
     width:30px;
     height:30px;
     margin:3px;
 }
 
-body #table .name {
+#table .name {
     width:200px;
 }
 
-body #table .email {
+#table .email {
     width:200px;
 }
 
-body #table .github {
+#table .github {
     width:100px;
 }
 
-body #table .twitter {
+#table .twitter {
     width:130px;
 }
 
-body #table .linkedin {
+#table .linkedin {
     width:200px;
 }
-body #table .klout {
+#table .klout {
     width:70px;
 }
-body #table .date {
+#table .date {
     width:60px;
 }
 
-body #table #more_contacts {
+#table #more_contacts {
     border-top:1px solid #323434;
     border-bottom:1px solid #151617;
     background-color:#232526;
     margin:2px 0px;
     float:right;
+}
+
+
+.more_info {
+    border-radius:3px;
+    width:1090px;
+    border-top:1px solid #323434;
+    border-bottom:1px solid #151617;
+    background-color:#232526;
+    margin:2px 0px;
+}
+
+.more_info .title {
+    font-size:2em;
+    font-weight:bold;
+}
+.morebox .pic {
+    float:left;
+    display:inline-block;
+    margin:5px;
+    margin-right:12px;
+    height:200px;
+    width:200px;
+}
+.morebox .pic img {
+    max-height:200px;
+/*    height:200px;*/
+    max-width:200px;
+}
+.morebox {
+    border-radius:3px;
+    height:220px;
+    width:1060px;
+    margin:8px;
+    padding:5px;
+    display:inline-block;
+    float:left;
+}
+.morebox .right_side {
+    float:right;
+    margin:10px;
+    width:150px;
+}
+
+.morebox .right_side .following {
+    float:right;
+    background-color:#3a3a3a;
+    padding:3px 5px;
+    padding-top:5px;
+    border-top:1px solid #323434;
+    border-bottom:1px solid #151617;
+}
+.morebox .right_side img {
+    height:30px;
+    width:30px;
+    border-radius:2px;
+    margin:1px;
+}
+.morebox .right_side .tags {
+    margin-top:10px;
+    float:right;
+}
+.morebox .right_side .tags input {
+    width:100%;
+    margin-bottom:5px;
+}
+.morebox .right_side .tags span:hover  {
+    background-color:#4a4a4a;
+}
+.morebox .right_side .tags span {
+    display:inline-block;
+    margin:2px;
+    padding:3px 6px;
+    background-color:#3a3a3a;
+    border-radius:2px;
+}
+
+.realname {
+    padding-top:5px;
+    font-size:1.7em;
+}
+.username {
+    padding-top:2px;
+}
+
+.morebox .jobs {
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.morebox .twitter-details .tagline {
+    display:block;
+    width:520px;
+    height:17px;
+    overflow:hidden;
+    padding-top:2px;
+    font-style:italic;
+    font-size:0.9em;
+}
+.morebox .twitter-details {
+    padding-top:4px;
+}
+.morebox .account {
+    display:block;
+    height:40px;
+}
+.morebox .srv-img {
+    display:inline-block;
+    height:32px;
+}
+.morebox .account img {
+    padding-right:5px;
+    float:left;
+    height:30px;
+    width:30px;
+}
+
+.morebox .location {
+}
+
+.morebox .account-spacer {
+/*    float:left;*/
+}
+.morebox .github-details img {
+    border-radius:2px;
+}
+
+.morebox .blog {
+    padding-top:7px;
+}
+
+.notes {
+    display:block;
+    margin:13px;
+    padding:5px;
+}
+
+.notes .addtext {
+    height:160px;
+    width:800px;
+    font-size:14px;
+    color:#ddd;
+    background-color:#000;
 }
