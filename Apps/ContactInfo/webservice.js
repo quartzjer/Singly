@@ -38,19 +38,25 @@ app.get('/data/contacts', function(req, res) {
 });
 
 app.post('/new/:type/:via', function(req, res) {
-    req.params.via;
-    req.params.type;
-    if(!(req.params.via == 'lockerproject' || req.params.via == 'singlyinc')) {
+    var via = req.params.via;
+    var type = req.params.type;
+    if(!(via == 'lockerproject' || via == 'singlyinc' || via == 'quartzjer')) {
         res.writeHead(400);
-        res.end('via must be equal to lockerproject or singlyinc for now!');
-    } else if(req.params.type != 'twitter') {
+        res.end('via must be equal to lockerproject, singlyinc, or quartzjer for now!');
+    } else if(!(type == 'twitter' || type == 'github')) {
         res.writeHead(400);
         res.end('type must be equal to twitter for now!');
-    } else if(!req.body.screen_name) {
+    } else if(!(req.body.screen_name || req.body.user.login)) {
+        console.error(req.body);
         res.writeHead(400);
-        res.end('twitter data has no screen_name object, data:', req.body);
+        res.end('twitter data has no screen_name or login object, data:', req.body);
     } else {
-        dataCollector.addAccount(req.params.type, req.body.screen_name, {following:req.params.via, engaged:new Date().getTime()}, req.body);
+        if(type == 'twitter') {
+            dataCollector.addAccount(type, req.body.screen_name, 
+                                    {following:via, engaged:new Date().getTime()}, req.body);
+        } else if(type == 'github') {
+            console.log('got github acct', req.body);
+        }
         res.writeHead(200);
         res.end();
     }

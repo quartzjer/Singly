@@ -29,7 +29,7 @@ app.post('/contact/twitter', function(req, res) {
         res.end('bad contact:' + JSON.stringify(contact));
         return;
     }
-    getHandleForID(req.body._via[0], function(err, handle) {
+    getHandleForID(req.body._via[0], 'twitter', function(err, handle) {
         console.log('posting new contact ' + contact.screen_name + ' to http://localhost:8080/new/twitter/' + handle);
         request.post({uri:'http://localhost:8080/new/twitter/' + handle, json:contact}, function(err, resp, body) {
             
@@ -39,34 +39,75 @@ app.post('/contact/twitter', function(req, res) {
     })
 });
 
+
+app.post('/contact/github', function(req, res) {
+    //{repo:{username:self.username, reponame:repo}, user:watcher});
+    var obj = req.body.obj;
+    if(!req.body._via || !obj || !obj.user || !obj.user.login) {
+        res.writeHead(400);
+        console.log('bad event!', req.body);
+        res.end('bad contact:' + JSON.stringify(req.body));
+        return;
+    }
+    getHandleForID(req.body._via[0], 'github', function(err, handle) {
+        console.log('posting new contact ' + obj.user.login + ' to http://localhost:8080/new/github/' + handle);
+        request.post({uri:'http://localhost:8080/new/github/' + handle, json:obj}, function(err, resp, body) {
+            res.writeHead(200);
+            res.end();
+        });
+    })
+});
+
+//var handleMap = {};
 var handle_id_map = {};
-function getHandleForID(id, callback) {
+function getHandleForID(id, serviceType, callback) {
     if(handle_id_map[id]) {
         callback(null, handle_id_map[id]);
         return;
     } else {
-        locker.providers('contact/twitter', function(providers) {
-            console.log(providers);
-            for(var i in providers) {
-                if(providers[i].id == id) {
-                    request.get({uri:providers[i].uri + 'get_profile'}, function(err, resp, body) {
-                        if(err) {
-                            callback(err, body);
-                        } else if(!body) {
-                            callback(new Error(), "no body!");
-                        } else {
-                            var profile = JSON.parse(body);
-                            handle_id_map[id] = profile.screen_name.toLowerCase();
-                            callback(null, handle_id_map[id]);
-                        }
-                    });
-                    return;
-                }
-            }
-        });
+        getProfileFor(id, serviceType, callback);
     } 
 }
 
+function getProfileFor(id, serviceType, callback) {
+    locker.providers('contact/' + serviceType, function(providers) {
+        for(var i in providers) {
+            if(providers[i].id == id) {
+                request.get({uri:providers[i].uri + 'get_profile'}, function(err, resp, body) {
+                    if(err) {
+                        callback(err, body);
+                    } else if(!body) {
+                        callback(new Error(), "no body!");
+                    } else {
+                        console.error('uri:', providers[i].uri + 'get_profile');
+                        // console.log(body);
+                        var profile = JSON.parse(body);
+                        console.log(profile.screen_name);
+                        var sn = profile.screen_name;
+                        if(serviceType == 'github')
+                            sn = profile.login;
+                        console.log('serviceType:', serviceType);
+                        console.log('sn:', sn);
+                        handle_id_map[id] = sn.toLowerCase();
+                        callback(null, handle_id_map[id]);
+                    }
+                });
+                return;
+            }
+        }
+    });
+}
+
+function populateHandleMap(serviceType) {
+    locker.providers('contact/' + serviceType, function(providers) {
+        for(var i in providers) {
+            getHandleForID(providers[i].id, serviceType, function(err, handle) {
+                console.error('mapped handle', handle);
+                console.error(handle_id_map);
+            });
+        }
+    });
+}
 
 var stdin = process.openStdin();
 stdin.setEncoding('utf8');
@@ -76,17 +117,13 @@ stdin.on('data', function (chunk) {
     console.error(process.cwd());
     locker = require(process.cwd() + '/../../Common/node/locker.js');
     locker.initClient(processInfo);
-    locker.providers('contact/twitter', function(providers) {
-        console.error('providers',providers);
-        for(var i in providers) {
-            getHandleForID(providers[i].id, function(err, handle) {
-                console.error('mapped handle', handle);
-                console.error(handle_id_map);
-            });
-        }
-    });
+    
+    populateHandleMap('twitter');
+    populateHandleMap('github');
+    
     app.listen(processInfo.port);
     var returnedInfo = {port: processInfo.port};
     console.log(JSON.stringify(returnedInfo));
     locker.listen('contact/twitter', '/contact/twitter');
+    locker.listen('contact/github', '/contact/github');
 });

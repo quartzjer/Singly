@@ -19,14 +19,14 @@ function clean(callback) {
     cache.keys('klout_*', function(err, resp) {
         console.log(resp.length);
         for(var i in resp)
-            //checkValid(resp[i]);
+            checkValid(resp[i]);
         callback();
     })
 }
 
 function checkValid(hash) {
     cache.get(hash, function(err, resp) {
-        if(resp.status != 200 || resp.users.length < 1 || !resp.users[0].score || !resp.users[0].topics) {
+        if(resp.status != 200 || resp.users.length < 1  ) {
             console.log('deleting', resp);
             cache.del(hash, function(err, resp) {
                 if(err)
