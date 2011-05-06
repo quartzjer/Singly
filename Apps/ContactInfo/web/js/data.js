@@ -180,7 +180,10 @@ function getLocation(contact) {
     return '';
 }
 
-var sort = {'dates.rapportive.engaged':'desc', 'klout.data.score.kscore':'asc', 'rapportive.data.name':'desc', 'rapportive.data.email':'desc'};
+var sort = {'dates.rapportive.engaged':'desc', 
+            'klout.data.score.kscore':'asc', 
+            'rapportive.data.name':'desc', 
+            'rapportive.data.email':'desc'};
 
 var start = 0, end = 15, currentSort;
 

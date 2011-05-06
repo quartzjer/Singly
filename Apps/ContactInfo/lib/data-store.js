@@ -1,7 +1,8 @@
 require.paths.push(__dirname + '/../node-mongodb-native/lib');
 var mongodb = require('mongodb'),
     BSON = require('mongodb').BSONNative,
-    crypto = require('crypto');
+    crypto = require('crypto'),
+    stemmer = require('./lib/stemmer.js');
 
 var config = {dataStoreHost:'localhost'};
 try {
@@ -91,12 +92,14 @@ exports.put = function(dataEvent, callback) {
     if(dataEvent.type == 'rapportive') {
         or = [{'rapportive.data.email' : data.email}];
         if(data.memberships) {
-            if(data.memberships.github && data.memberships.github.username)
+            if(data.memberships.github && data.memberships.github.username) {
                 or.push({'github._username_lowercase': data.memberships.github.username.toLowerCase()});
+            }
             if(data.memberships.twitter && data.memberships.twitter.username) {
                 or.push({'twitter._username_lowercase': data.memberships.twitter.username.toLowerCase()});
                 or.push({'klout.data.username': data.memberships.twitter.username.toLowerCase()});
             }
+            
         }
         console.log('adding rapportive data for', data.email);
     } else if(dataEvent.type == 'twitter') {
@@ -133,6 +136,61 @@ exports.put = function(dataEvent, callback) {
         doSet(dataEvent, or, callback);
 }
 
+function getSearchText(contact) {
+    var searchText = '';
+    if(contact.rapportive)
+        searchText += ' ' + getRapportiveSearchText(contact.rapportive);
+    if(contact.twitter)
+        searchText += ' ' + getRapportiveSearchText(contact.twitter);
+    if(contact.github)
+        searchText += ' ' + getRapportiveSearchText(contact.github);
+    return searchText;
+}
+
+function getRapportiveSearchText(data) {
+    var searchText = '';
+    if(data.memberships) {
+        var memberships = data.memberships;
+        if(memberships.github && memberships.github.username)
+            searchText += ' ' + memberships.github.username;
+        if(memberships.twitter && memberships.twitter.username)
+            searchText += ' ' + data.memberships.twitter.username;
+    }
+    if(data.occupations) {
+        data.occupations.forEach(function(occ) {
+            if(occ.company)
+                searchText += ' ' + occ.company;
+            if(occ.job_title)
+                searchText += ' ' + occ.job_title;
+        });
+    }
+    searchText += ' ' + data.name;
+}
+
+function getTwitterSearchText(data) {
+    var searchText = '';
+    if(data.screen_name)
+        searchText += ' ' + data.screen_name;
+    if(data.location)
+        searchText += ' ' + data.location;
+    if(data.name)
+        searchText += ' ' + data.name;
+    if(data.description)
+        searchText += ' ' + data.description;
+}
+
+function getGithubSearchText(data) {
+    var searchText = '';
+    if(data.login)
+        searchText += ' ' + data.login;
+    if(data.location)
+        searchText += ' ' + data.location;
+    if(data.name)
+        searchText += ' ' + data.name;
+    if(data.description)
+        searchText += ' ' + data.description;
+}
+
 // sets the data into the db for the given data collection event match the given or clause
 function doSet(dataEvent, or, callback) {
     var set = {};
@@ -143,6 +201,8 @@ function doSet(dataEvent, or, callback) {
         if(err && callback)
             callback(err);
         else {
+            console.log(doc);
+//            var searchText = getSearchText(contact);
             setDates(or, dataEvent, function(err) { });
             setOther(dataEvent, function(err) { });
             //ya, this is weird
@@ -215,6 +275,19 @@ function setDate(or, accountType, dateType, value, callback) {
     
 };
 
+function addSearchText(id, text, callback) {
+    if(!id || !text || text.length < 1) {
+        callback();
+        return;
+    }
+    var terms = stemmer.splitAndStem(text);
+    if(!id || terms.length < 1) {
+        callback();
+        return;
+    }
+    coll.update({"_id":new ObjectID(id)}, {$addToSet: {"terms": terms}}, callback);
+}
+
 exports.addTag = function(id, tag, callback) {
     coll.find({"_id": new ObjectID(id)}, function(err, cursor) {
         cursor.toArray(function(err, items) {
@@ -222,6 +295,7 @@ exports.addTag = function(id, tag, callback) {
         });
     });
    coll.update({"_id":new ObjectID(id)}, {$addToSet: {"tags": tag.toLowerCase()}}, callback);
+   addSearchText(tag);
 }
 
 exports.dropTag = function(id, tag, callback) {
@@ -232,6 +306,8 @@ exports.dropTag = function(id, tag, callback) {
         });
     });
 }
+
+
 
 exports.close = function() {
     db.close();
