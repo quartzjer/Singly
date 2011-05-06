@@ -45,7 +45,7 @@ function getPhotoUrl(contact, fullsize) {
         }
     }
     if(contact.github && contact.github.data && contact.github.data.gravatar_id)
-        return 'https://secure.gravatar.com/avatar/' + contact.github.gravatar_id;
+        return 'https://secure.gravatar.com/avatar/' + contact.github.data.gravatar_id;
     if(contact.rapportive && contact.rapportive.data)
         return contact.rapportive.data.image_url_raw;
     return 'img/silhouette.png';
@@ -71,7 +71,7 @@ function addEmail(div, contact) {
         email = contact.rapportive.data.email;
     else if(contact.github && contact.github.data && contact.github.data.email)
         email = contact.github.data.email;
-    div.append('<span class="column email">' + (email || '') + '</span>');
+    div.append('<span class="column email">' + (email || '&nbsp;') + '</span>');
 }
 
 function addTwitter(div, contact) {
@@ -168,8 +168,16 @@ function addDate(div, contact) {
 }
 
 function getLocation(contact) {
-//    if() contact.twitter.data.location
-//contact.rapportive.data.location
+    console.log('twitter:', contact.twitter);
+    console.log('rapportive:', contact.rapportive);
+    console.log('github:', contact.github);
+    if(contact.twitter && contact.twitter.data && contact.twitter.data.location)
+        return contact.twitter.data.location;
+    if(contact.rapportive && contact.rapportive.data && contact.rapportive.data.location)
+        return contact.rapportive.data.location;
+    if(contact.github && contact.github.data && contact.github.data.location)
+        return contact.github.data.location;
+    return '';
 }
 
 var sort = {'dates.rapportive.engaged':'desc', 'klout.data.score.kscore':'asc', 'rapportive.data.name':'desc', 'rapportive.data.email':'desc'};
@@ -240,12 +248,17 @@ function getMoreDiv(newDiv, contact) {
     newDiv.addClass('more_info').append(text);
     newDiv.find('.pic').html('<img src=\'' + getPhotoUrl(contact, true) + '\'>');
     newDiv.find('.name_and_loc .realname').html(getName(contact));
-    newDiv.find('.name_and_loc .location').html('Brooklyn, NY');
+    newDiv.find('.name_and_loc .location').html(getLocation(contact));
     if(contact.rapportive && contact.rapportive.data) {
         console.log(contact.rapportive.data.occupations);
         var occs = contact.rapportive.data.occupations;
         for(var i in occs)
             newDiv.find('.jobs').append(occs[i].job_title + ' at ' + occs[i].company + (i < occs.length - 1? "<br>" :""));
+            
+        var followingDiv = newDiv.find('.right_side .following')
+        console.log(contact.dates.rapportive.engaged);
+            if(contact.dates.rapportive && contact.dates.rapportive.engaged > 1)
+                followingDiv.find('.emaillist').css({display:'inline'});
     }
     
     addTwitterDetails(newDiv, contact.twitter);
@@ -291,6 +304,15 @@ function addGithubDetails(newDiv, github) {
         newDiv.find('.github-details .username')
                  .append('<a target="_blank" href="http://github.com/' + github.data.login + '">' + github.data.login + '</a>');
         newDiv.find('.github-details .repos').append(github.data.public_repo_count);
+        var followingDiv = newDiv.find('.right_side .following')
+        for(var i in github.following) {
+            var who = github.following[i];
+            console.log(who);
+            if(who.toLowerCase() == 'quartzjer/locker')
+                followingDiv.find('.gh-ql').css({display:'inline'});
+//            else if(who == 'singlyinc')
+//                followingDiv.find('.tw-singly').css({display:'inline'});
+        }
     } else {
         newDiv.find('.github-details').css({display:'none'});
     }

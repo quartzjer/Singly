@@ -24,7 +24,13 @@ function processNewAccount(type, account, other, data) {
         }
         kloutCollector.getNewData(dataEvent);
     } else if(type == 'github') {
-        githubCollector.getNewData({username:account, other:other});
+        var dataEvent = {username:account, other:other};
+        if(data) {
+            console.log('github got new data', dataEvent, data);
+            githubCollector.gotNewData(dataEvent, data);
+        } else {
+            githubCollector.getNewData(dataEvent);
+        }
     } else {
         throw new Error('account type "' + type + '" not found!');
     }

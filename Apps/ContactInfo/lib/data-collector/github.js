@@ -16,6 +16,14 @@ exports.getNewData = function(newGitHubAccountEvent) {
     });
 }
 
+exports.gotNewData = function(source_event, data) {
+    console.log('got new github data for login:', data.login, 'source_event:', source_event);
+    data._username_lowercase = data.login.toLowerCase();
+    emitter.emit('new-data', {source_event: source_event, 
+                              type:'github', 
+                              data:data});
+}
+
 function getGithubData(username, callback) {
     github.getUserInfo(username, function(err, data) {
         if(err) {

@@ -31,8 +31,7 @@ a {
 }
 #table #contacts .contact .basic-data {
     display:inline-block;
-    height:26px;
-    padding-top:10px;
+    vertical-align:middle;
 }
 #table #contacts .contact:hover {
 /*    background-color:#232526;*/
@@ -51,6 +50,11 @@ a {
 #table #contacts .column {
     padding:2px 8px;
     margin:0px 0px;
+/*    overflow:hidden;*/
+/*    height:17px;*/
+/*    height:40px;*/
+/*    vertical-align:middle;*/
+    padding-top:10px;
 }
 #table #headers .photo {
     display:inline-block;
@@ -95,6 +99,7 @@ a {
 
 #table .linkedin {
     width:200px;
+    padding-top:0px;
 }
 #table .klout {
     width:70px;
