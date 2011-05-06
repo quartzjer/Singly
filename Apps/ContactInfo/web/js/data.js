@@ -187,8 +187,11 @@ var start = 0, end = 15, currentSort;
 function reload(sortField, _start, _end, callback) {
     var usedSortField = getSort(sortField);
     console.log(usedSortField);
-    console.log(_start, _end);
-    getContacts(_start || 0, (_end? (_end - _start) : 100), usedSortField, function(contacts) {
+    console.log('_start _end:', _start, _end);
+    start = _start || 0; end = _end || 100;
+    getContacts(start, end - start, usedSortField, function(contacts) {
+//        console.log(contacts);
+        console.log(contacts.length);
         var contactsTable = $("#table #contacts");
         if(_start == 0 || sortField)
             contactsTable.html('');
@@ -353,10 +356,6 @@ function clearTag(id, tag) {
             $(this).parent().remove();
         }
     });
-}
-
-function dropTag(id, tag) {
-    
 }
 
 function showFull(id) {

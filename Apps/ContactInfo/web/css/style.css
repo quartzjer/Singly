@@ -2,6 +2,7 @@ body {
     background-color:#000;
     color:#ddd;
     font-family:Arial,Tahoma, Geneva, sans-serif;
+    padding:10px;
 }
 a {
     color:#aaa;
@@ -32,6 +33,7 @@ a {
 #table #contacts .contact .basic-data {
     display:inline-block;
     vertical-align:middle;
+    min-height:36px;
 }
 #table #contacts .contact:hover {
 /*    background-color:#232526;*/
@@ -109,17 +111,30 @@ a {
 }
 
 #table #more_contacts {
+    width:1124px;
+    margin:0px;
+    padding:0px;
+    height:80px;
+}
+
+#table #more_contacts #button {
+    cursor:pointer;
     border-top:1px solid #323434;
     border-bottom:1px solid #151617;
     background-color:#232526;
     margin:2px 0px;
+    display:inline-block;
+    text-align:center;
+    font-size:18px;
     float:right;
+/*    width:125px;*/
+    padding:10px;
 }
 
 
 .more_info {
     border-radius:3px;
-    width:1090px;
+/*    width:1090px;*/
     border-top:1px solid #323434;
     border-bottom:1px solid #151617;
     background-color:#232526;
@@ -135,7 +150,7 @@ a {
     display:inline-block;
     margin:5px;
     margin-right:12px;
-    height:200px;
+    max-height:200px;
     width:200px;
 }
 .morebox .pic img {
@@ -145,7 +160,7 @@ a {
 }
 .morebox {
     border-radius:3px;
-    height:220px;
+/*    height:220px;*/
     width:1060px;
     margin:8px;
     padding:5px;

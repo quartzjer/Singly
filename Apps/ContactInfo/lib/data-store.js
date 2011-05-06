@@ -3,9 +3,16 @@ var mongodb = require('mongodb'),
     BSON = require('mongodb').BSONNative,
     crypto = require('crypto');
 
+var config = {dataStoreHost:'localhost'};
+try {
+    config = JSON.parse(require('fs').readFileSync('config.json'));
+} catch(err) {console.error(err);}
+
+console.log(config.dataStoreHost);
+
 var dbName = 'people';
 var collectionName = 'dataTest';
-var server = new mongodb.Server('localhost', mongodb.Connection.DEFAULT_PORT, {});
+var server = new mongodb.Server(config.dataStoreHost, mongodb.Connection.DEFAULT_PORT, {});
 var db = new mongodb.Db(dbName, server, {native_parser:true});
 var coll;
 
