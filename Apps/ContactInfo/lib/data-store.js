@@ -2,7 +2,7 @@ require.paths.push(__dirname + '/../node-mongodb-native/lib');
 var mongodb = require('mongodb'),
     BSON = require('mongodb').BSONNative,
     crypto = require('crypto'),
-    stemmer = require('./lib/stemmer.js');
+    stemmer = require('./stemmer.js');
 
 var config = {dataStoreHost:'localhost'};
 try {
@@ -70,8 +70,13 @@ exports.getByEmailAddress = function(emailAddress, callback) {
 }
 
 
-exports.getContacts = function(options, callback) {
-    coll.find({}, options).toArray(function(err, docs) {
+exports.getContacts = function(text, options, callback) {
+    var terms = stemmer.splitAndStem(text);
+    var query = {};
+    if(terms && terms.length > 0)
+        query = {terms: {$all:terms}};
+    console.log(query);
+    coll.find(query, options).toArray(function(err, docs) {
         callback(err, docs);
     });
 }
@@ -136,14 +141,80 @@ exports.put = function(dataEvent, callback) {
         doSet(dataEvent, or, callback);
 }
 
+
+exports.textSearch = function(text, callback) {
+    var terms = stemmer.splitAndStem(text);
+    console.log(terms);
+    coll.find({terms: {$all:terms}}, callback);
+}
+
+exports.updateAllSearchText = function(callback) {
+    updateSearchText({}, true, callback);
+}
+
+function updateSearchText(query, clean, callback) {
+    // coll.findOne(query, function(err, contact) {
+    coll.find(query, function(err, cursor) {
+        console.log('got resp from first query');
+        if(!err && cursor) {
+            cursor.each(function(err, contact) {
+                if(!contact.terms) {
+                    addEmptyTermsArray(contact._id, function() {
+                        setTerms(contact, function() {});
+                    });
+                } else {
+                    setTerms(contact, function(){});
+                }
+            });
+//            if(callback) callback(contacts.length);
+        }
+   });
+}
+
+function setTerms(contact, callback) {
+    try {
+        var searchText = getSearchText(contact);
+        console.log('for contact:', contact, '\n\nsearchtext:', searchText);
+        addSearchText(contact._id, getSearchText(contact), callback);
+    } catch(err) {
+        console.log(err);
+    }
+}
+
+function addEmptyTermsArray(id, callback) {
+    coll.update({_id: new ObjectID(id)}, {$set:{"terms":[]}}, callback);
+}
+
+function addSearchText(id, text, callback) {
+    if(!id || !text || text.length < 1) {
+        callback();
+        return;
+    }
+    var terms = stemmer.splitAndStem(text);
+    if(!id || terms.length < 1) {
+        callback();
+        return;
+    }
+    console.log('num terms', terms.length);
+//    coll.update({"_id":new ObjectID(id)}, {$addToSet: {"terms": {$each: terms}}}, {safe:true}, callback);
+    coll.findAndModify({"_id":new ObjectID(id)}, [], {$addToSet: {"terms": {$each: terms}}}, {}, callback);
+}
+
 function getSearchText(contact) {
     var searchText = '';
     if(contact.rapportive)
-        searchText += ' ' + getRapportiveSearchText(contact.rapportive);
+        searchText += ' ' + getRapportiveSearchText(contact.rapportive.data);
     if(contact.twitter)
-        searchText += ' ' + getRapportiveSearchText(contact.twitter);
+        searchText += ' ' + getTwitterSearchText(contact.twitter.data);
     if(contact.github)
-        searchText += ' ' + getRapportiveSearchText(contact.github);
+        searchText += ' ' + getGithubSearchText(contact.github.data);
+    if(contact.klout)
+        searchText += ' ' + getKloutSearchText(contact.klout.data);
+    if(contact.tags) {
+        contact.tags.forEach(function(tag) {
+            searchText += ' ' + tag;
+        });
+    }
     return searchText;
 }
 
@@ -165,6 +236,7 @@ function getRapportiveSearchText(data) {
         });
     }
     searchText += ' ' + data.name;
+    return searchText;
 }
 
 function getTwitterSearchText(data) {
@@ -177,6 +249,7 @@ function getTwitterSearchText(data) {
         searchText += ' ' + data.name;
     if(data.description)
         searchText += ' ' + data.description;
+    return searchText;
 }
 
 function getGithubSearchText(data) {
@@ -189,6 +262,17 @@ function getGithubSearchText(data) {
         searchText += ' ' + data.name;
     if(data.description)
         searchText += ' ' + data.description;
+    return searchText;
+}
+
+function getKloutSearchText(data) {
+    var searchText = '';
+    if(data.topics) {
+        data.topics.forEach(function(topic) {
+            searchText += ' ' + topic;
+        });
+    }
+    return searchText;
 }
 
 // sets the data into the db for the given data collection event match the given or clause
@@ -201,7 +285,14 @@ function doSet(dataEvent, or, callback) {
         if(err && callback)
             callback(err);
         else {
-            console.log(doc);
+            console.log('doc', doc);
+            updateSearchText({$or:or}, true, function(err, doc) {
+                if(err)
+                    console.error('error updating search text!', err);
+                if(doc)
+                    console.log('doc for updating search text:', doc);
+                
+            })
 //            var searchText = getSearchText(contact);
             setDates(or, dataEvent, function(err) { });
             setOther(dataEvent, function(err) { });
@@ -239,7 +330,6 @@ function setOther(dataEvent, callback) {
     }
 }
 
-
 // set the created date (if it has just been created)
 // set the engaged date (if the person has just engaged)
 function setDates(or, dataEvent, callback) {
@@ -274,19 +364,6 @@ function setDate(or, accountType, dateType, value, callback) {
     });
     
 };
-
-function addSearchText(id, text, callback) {
-    if(!id || !text || text.length < 1) {
-        callback();
-        return;
-    }
-    var terms = stemmer.splitAndStem(text);
-    if(!id || terms.length < 1) {
-        callback();
-        return;
-    }
-    coll.update({"_id":new ObjectID(id)}, {$addToSet: {"terms": terms}}, callback);
-}
 
 exports.addTag = function(id, tag, callback) {
     coll.find({"_id": new ObjectID(id)}, function(err, cursor) {

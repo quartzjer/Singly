@@ -1,8 +1,8 @@
 var baseURL = 'http://localhost:8080/data';
 var data = {};
 
-function getContacts(skip, limit, sort, callback) {
-    $.getJSON(baseURL + '/contacts', {skip:skip, limit:limit, sort:[sort]}, callback);
+function getContacts(queryText, skip, limit, sort, callback) {
+    $.getJSON(baseURL + '/contacts', {text:queryText, skip:skip, limit:limit, sort:[sort]}, callback);
 }
 
 function addRow(contact) {
@@ -192,17 +192,20 @@ function reload(sortField, _start, _end, callback) {
     console.log(usedSortField);
     console.log('_start _end:', _start, _end);
     start = _start || 0; end = _end || 100;
-    getContacts(start, end - start, usedSortField, function(contacts) {
+    var queryText = $('#query-text').val();
+    console.log(queryText);
+    getContacts(queryText, start, end - start, usedSortField, function(contacts) {
 //        console.log(contacts);
         console.log(contacts.length);
         var contactsTable = $("#table #contacts");
-        if(_start == 0 || sortField)
+        if(start == 0 || sortField)
             contactsTable.html('');
         for(var i in contacts)
             addRow(contacts[i]);
         if(callback) callback();
     });
 }
+
 
 function getSort(sortField) {
     if(sortField) {
@@ -392,4 +395,8 @@ function dropTag(id, tag) {
 $(function() {
     console.log('heeeelooo, jquery!');
     reload('dates.rapportive.engaged', start, end);
+    $('#query-text').keyup(function(key) {
+        if(key.keyCode == 13)
+            reload();
+    });
 });

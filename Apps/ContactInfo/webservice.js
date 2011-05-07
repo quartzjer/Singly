@@ -25,7 +25,8 @@ app.get('/data/contacts', function(req, res) {
             sort.push(query.sort[i]);
         options.sort = sort;
     }
-    dataStore.getContacts(options, function(err, docs) {
+    console.log(query.text);
+    dataStore.getContacts(query.text, options, function(err, docs) {
         if(!err) {
             res.writeHead(200, {'Content-Type':'text/json'});
             res.end(JSON.stringify(docs));
@@ -88,6 +89,38 @@ app.get('/data/tags/drop', function(req, res) {
     })
 });
 
+app.get('/update/searchtext', function(req, res) {
+    dataStore.updateAllSearchText(function(length) {
+        console.log(length);
+        res.writeHead(200);
+        res.end();
+    });
+})
+
+
+app.get('/data/search', function(req, res) {
+    var text = req.query.text;
+    dataStore.textSearch(text, function(err, cursor) {
+        console.log('phew');
+        if(err) {
+            res.writeHead(500);
+            res.end(JSON.stringify(err));
+            return;
+        } else {
+            res.writeHead(200, {'Content-Type': 'application/json'});
+            // res.write('[');
+            // try { console.log(cursor.count()); } catch(err) {
+                // console.error(err);
+            // }
+            cursor.toArray(function(err, docs) {
+                console.log(docs.length);
+                res.write(JSON.stringify(docs));
+                res.end();
+                return;
+            });
+        }
+    });
+});
 dataCollector.start(function() {
     app.listen(8080);
 });
