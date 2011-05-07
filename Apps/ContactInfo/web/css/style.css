@@ -48,6 +48,7 @@ a {
     vertical-align:middle;
     min-height:36px;
     padding-top:3px;
+    cursor:pointer;
 }
 #table #contacts .contact:hover {
 /*    background-color:#232526;*/
