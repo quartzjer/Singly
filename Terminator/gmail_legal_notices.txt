@@ -1,0 +1,40 @@
+   [1]Gmail
+
+Google's approach to email
+
+     * [2]About
+     * [3]What's New
+     * [4]Blog
+     * [5]Tips
+     * [6]For work
+     * [7]Help Center
+     * [8]Create an account
+
+Gmail Legal Notices
+
+Your Intellectual Property Rights
+
+   Google does not claim any ownership in any of the content, including
+   any text, data, information, images, photographs, music, sound, video,
+   or other material, that you upload, transmit or store in your Gmail
+   account. We will not use any of your content for any purpose except to
+   provide you with the Service.
+
+   The provision of the Microsoft Exchange ActiveSync functionality to you
+   does not grant, and you do not receive, any rights under any Microsoft
+   intellectual property with respect to any device or software that you
+   use to access such Microsoft Exchange ActiveSync functionality.
+
+   Â©2011 Google - [9]Terms & Privacy
+
+References
+
+   1. http://mail.google.com/
+   2. http://mail.google.com/mail/help/about.html
+   3. http://mail.google.com/mail/help/about_whatsnew.html
+   4. http://mail.google.com/mail/help/blog.html
+   5. http://mail.google.com/mail/help/tips.html
+   6. http://www.google.com/apps/intl/en/business/messaging.html#utm_medium=et&utm_source=gmail-en-mktgleft&utm_campaign=crossnav
+   7. http://mail.google.com/support?ctx=about&hl=en
+   8. http://mail.google.com/mail/signup?pc=leftnav&co=en&hl=en
+   9. http://mail.google.com/mail/help/terms.html
