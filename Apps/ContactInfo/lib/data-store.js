@@ -366,25 +366,25 @@ function setDate(or, accountType, dateType, value, callback) {
 };
 
 exports.addTag = function(id, tag, callback) {
-    coll.find({"_id": new ObjectID(id)}, function(err, cursor) {
-        cursor.toArray(function(err, items) {
-            console.log(items);
-        });
+    coll.update({"_id":new ObjectID(id)}, {$addToSet: {"tags": tag.toLowerCase()}}, function(err) {
+        if(err)
+            callback(err);
+        else {
+            addSearchText(id, tag, function(err) {
+                callback(err);
+            });
+        }
     });
-   coll.update({"_id":new ObjectID(id)}, {$addToSet: {"tags": tag.toLowerCase()}}, callback);
-   addSearchText(tag);
 }
 
 exports.dropTag = function(id, tag, callback) {
     coll.update({"_id":new ObjectID(id)}, {$pull: {"tags": tag.toLowerCase()}}, callback);
-    coll.find({"_id": new ObjectID(id)}, function(err, cursor) {
-        cursor.toArray(function(err, items) {
-            console.log(items);
-        });
-    });
 }
 
-
+exports.setNotes = function(id, notes, callback) {
+    coll.update({"_id":new ObjectID(id)}, {$set: {"notes": notes}}, callback);
+    addSearchText(id, notes, function(){});
+}
 
 exports.close = function() {
     db.close();

@@ -34,6 +34,7 @@ a {
     display:inline-block;
     vertical-align:middle;
     min-height:36px;
+    padding-top:3px;
 }
 #table #contacts .contact:hover {
 /*    background-color:#232526;*/
@@ -56,7 +57,7 @@ a {
 /*    height:17px;*/
 /*    height:40px;*/
 /*    vertical-align:middle;*/
-    padding-top:10px;
+/*    padding-top:10px;*/
 }
 #table #headers .photo {
     display:inline-block;
@@ -265,7 +266,7 @@ a {
     padding:5px;
 }
 
-.notes .addtext {
+.notes .notes-text {
     height:160px;
     width:800px;
     font-size:14px;

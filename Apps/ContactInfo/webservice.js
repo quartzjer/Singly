@@ -89,6 +89,22 @@ app.get('/data/tags/drop', function(req, res) {
     })
 });
 
+app.post('/data/update/notes', function(req, res) {
+    var id = req.body.id;
+    var notes = req.body.notes;
+    console.log('id =', id);
+    console.log('notes =', notes);
+    dataStore.setNotes(id, notes, function(err) {
+        if(err) {
+            res.writeHead(500);
+            res.end(JSON.stringify(err));
+        } else {
+            res.writeHead(200);
+            res.end();
+        }
+    })
+});
+
 app.get('/update/searchtext', function(req, res) {
     dataStore.updateAllSearchText(function(length) {
         console.log(length);

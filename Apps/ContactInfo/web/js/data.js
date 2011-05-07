@@ -198,8 +198,10 @@ function reload(sortField, _start, _end, callback) {
 //        console.log(contacts);
         console.log(contacts.length);
         var contactsTable = $("#table #contacts");
-        if(start == 0 || sortField)
+        if(start == 0 || sortField) {
+            showing = {};
             contactsTable.html('');
+        }
         for(var i in contacts)
             addRow(contacts[i]);
         if(callback) callback();
@@ -281,6 +283,16 @@ function getMoreDiv(newDiv, contact) {
             doTag(contact._id);
         }
         console.log(key.keyCode);
+    });
+
+    var notesForm = $('#contacts #' + contact._id + ' .notes .notes-form');
+    if(contact.notes)
+        notesForm.find('.notes-text').val(contact.notes);
+    console.log(notesForm.html());
+    notesForm.find('.update-notes').click(function() {
+        var notes = notesForm.find('.notes-text').val();
+        console.log(notes);
+        setNotes(contact._id, notes);
     });
 }
 
@@ -392,6 +404,15 @@ function dropTag(id, tag) {
         console.log(data);
     });
 }
+
+function setNotes(id, notes) {
+    $.post(baseURL + '/update/notes', {id:id, notes:notes}, function(data) {
+//        appendTag(id, tag);
+        $("#table #contacts #" + id + ' .tags .add-tag').val('');
+        console.log(data);
+    });
+}
+
 $(function() {
     console.log('heeeelooo, jquery!');
     reload('dates.rapportive.engaged', start, end);
