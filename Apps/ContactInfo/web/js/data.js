@@ -1,4 +1,4 @@
-var baseURL = 'http://localhost:8080/data';
+var baseURL = '/data';
 var data = {};
 
 function getContacts(queryText, skip, limit, sort, callback) {
@@ -185,7 +185,7 @@ var sort = {'dates.rapportive.engaged':'desc',
             'rapportive.data.name':'desc', 
             'rapportive.data.email':'desc'};
 
-var start = 0, end = 15, currentSort;
+var start = 0, end = 100, currentSort;
 
 function reload(sortField, _start, _end, callback) {
     var usedSortField = getSort(sortField);

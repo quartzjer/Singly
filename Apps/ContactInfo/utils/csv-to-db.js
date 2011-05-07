@@ -6,7 +6,9 @@ if(!process.argv[2]) {
 
 require.paths.push(__dirname + '/../lib');
 var EmailReader = require('email-reader').EmailReader;
-var dataCollector = require('data-collector');
+//var dataCollector = require('data-collector');
+var request = require('request');
+var websvcURI = 'http://localhost:8080/new/email/singlydotcom';
 
 var emailReader = new EmailReader(process.argv[2]);
 
@@ -16,7 +18,10 @@ dataCollector.start(function() {
     emailReader.readEmails(function(signups) {
         waitAndCall(signups, function(signup) {
             console.log(signup);
-            dataCollector.addAccount('email', signup.email, {engaged:signup.dateStamp});
+//            dataCollector.addAccount('email', signup.email, {engaged:signup.dateStamp});
+            request.post({uri:websvcURI, json:{email:signup.email, date:signup.dateStamp}}, function(err, resp, body) {
+                
+            });
         });
     });
 });

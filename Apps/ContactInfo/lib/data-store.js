@@ -49,27 +49,6 @@ exports.openCollection = function(callback) {
     });
 }
 
-exports.putContact = function(contact, callback) {
-    var ors = [];
-    if(contact.email)
-        ors.push({'email': contact.email});
-    if(contact.memberships) {
-        if(contact.memberships.github.username) {
-            ors.push({'contact.memberships.github.username': contact.memberships.github.username});
-            ors.push({'contact.memberships.github.login': contact.memberships.github.username});
-        } else if(contact.memberships.github.login) {
-            ors.push({'contact.memberships.github.username': contact.memberships.github.login});
-            ors.push({'contact.memberships.github.login': contact.memberships.github.login});
-        }
-    }
-    coll.update({'email':contact.email}, contact, {safe:true, upsert:true}, callback);
-}
-
-exports.getByEmailAddress = function(emailAddress, callback) {
-    coll.find({'rapportive.email': emailAddress}, callback);
-}
-
-
 exports.getContacts = function(text, options, callback) {
     var terms = stemmer.splitAndStem(text);
     var query = {};
@@ -94,8 +73,9 @@ exports.updateGithubData = function(githubUserInfo, callback) {
 exports.put = function(dataEvent, callback) {
     var data = dataEvent.data;
     var or;
+    var errSet = {};
     if(dataEvent.type == 'rapportive') {
-        or = [{'rapportive.data.email' : data.email}];
+        or = [{'rapportive.data.email' : data.email}, {'github.data.email' : data.email}];
         if(data.memberships) {
             if(data.memberships.github && data.memberships.github.username) {
                 or.push({'github._username_lowercase': data.memberships.github.username.toLowerCase()});
@@ -104,7 +84,8 @@ exports.put = function(dataEvent, callback) {
                 or.push({'twitter._username_lowercase': data.memberships.twitter.username.toLowerCase()});
                 or.push({'klout.data.username': data.memberships.twitter.username.toLowerCase()});
             }
-            
+            if(dataEvent.error && data.email)
+                errSet = {$set:{'rapportive.email':data.email}};
         }
         console.log('adding rapportive data for', data.email);
     } else if(dataEvent.type == 'twitter') {
@@ -138,145 +119,55 @@ exports.put = function(dataEvent, callback) {
                     'with score', data.score.kscore, 'and topics', data.topics);
     }
     if(or)
-        doSet(dataEvent, or, callback);
+        doSet(dataEvent, errSet, or, callback);
 }
 
-
-exports.textSearch = function(text, callback) {
-    var terms = stemmer.splitAndStem(text);
-    console.log(terms);
-    coll.find({terms: {$all:terms}}, callback);
-}
-
-exports.updateAllSearchText = function(callback) {
-    updateSearchText({}, true, callback);
-}
-
-function updateSearchText(query, clean, callback) {
-    // coll.findOne(query, function(err, contact) {
-    coll.find(query, function(err, cursor) {
-        console.log('got resp from first query');
-        if(!err && cursor) {
-            cursor.each(function(err, contact) {
-                if(!contact.terms) {
-                    addEmptyTermsArray(contact._id, function() {
-                        setTerms(contact, function() {});
-                    });
-                } else {
-                    setTerms(contact, function(){});
-                }
-            });
-//            if(callback) callback(contacts.length);
+exports.putError = function(dataEvent, callback) {
+    var data = dataEvent.data;
+    var or;
+    var errSet = {};
+    if(dataEvent.type == 'rapportive') {
+        or = [{'rapportive.data.email' : data.email}];
+        errSet = {$set:{'rapportive.data.email':data.email}};
+        console.log('adding rapportive error data for', data.email);
+    } else if(dataEvent.type == 'twitter') {
+        if(!data._username_lowercase) {
+            console.error('ERROR: no _username_lowercase for twitter data:', data);
+            return;
         }
-   });
-}
-
-function setTerms(contact, callback) {
-    try {
-        var searchText = getSearchText(contact);
-        console.log('for contact:', contact, '\n\nsearchtext:', searchText);
-        addSearchText(contact._id, getSearchText(contact), callback);
-    } catch(err) {
-        console.log(err);
+        or = [{'rapportive.data.twitter_username' : data._username_lowercase},
+              {'rapportive.data.memberships.twitter.username' : data._username_lowercase},
+              {'klout.data.username':data._username_lowercase}];
+        errSet = {$set:{'twitter.data._username_lowercase':data._username_lowercase}};
+        console.log('adding twitter error data for', data._username_lowercase);
+    } else if(dataEvent.type == 'github') {
+        if(!data._username_lowercase) {
+            console.error('ERROR: no _username_lowercase for github data:', data);
+            return;
+        }
+        or = [{'rapportive.data.memberships.github.username' : data._username_lowercase}];
+        errSet = {$set:{'github.data._username_lowercase':data._username_lowercase}};
+        console.log('adding github error data for', data._username_lowercase);
+    } else if(dataEvent.type == 'klout') {
+        if(!data.username || !data.score || ! data.topics) {
+            console.error('ERROR: bad data from klout:', data);
+            return;
+        }
+        or = [{'twitter.data._username_lowercase' : data.username.toLowerCase()},
+              {'rapportive.data.twitter_username' : data.username.toLowerCase()},
+              {'rapportive.data.memberships.twitter.username' : data.username.toLowerCase()}, 
+              {'klout.data.username':data.username.toLowerCase()}];
+        console.log('adding klout data for ', data.username.toLowerCase(), 
+                    'with score', data.score.kscore, 'and topics', data.topics);
     }
+    if(or)
+        doSet(dataEvent, errSet, or, callback);
+    
 }
 
-function addEmptyTermsArray(id, callback) {
-    coll.update({_id: new ObjectID(id)}, {$set:{"terms":[]}}, callback);
-}
-
-function addSearchText(id, text, callback) {
-    if(!id || !text || text.length < 1) {
-        callback();
-        return;
-    }
-    var terms = stemmer.splitAndStem(text);
-    if(!id || terms.length < 1) {
-        callback();
-        return;
-    }
-    console.log('num terms', terms.length);
-//    coll.update({"_id":new ObjectID(id)}, {$addToSet: {"terms": {$each: terms}}}, {safe:true}, callback);
-    coll.findAndModify({"_id":new ObjectID(id)}, [], {$addToSet: {"terms": {$each: terms}}}, {}, callback);
-}
-
-function getSearchText(contact) {
-    var searchText = '';
-    if(contact.rapportive)
-        searchText += ' ' + getRapportiveSearchText(contact.rapportive.data);
-    if(contact.twitter)
-        searchText += ' ' + getTwitterSearchText(contact.twitter.data);
-    if(contact.github)
-        searchText += ' ' + getGithubSearchText(contact.github.data);
-    if(contact.klout)
-        searchText += ' ' + getKloutSearchText(contact.klout.data);
-    if(contact.tags) {
-        contact.tags.forEach(function(tag) {
-            searchText += ' ' + tag;
-        });
-    }
-    return searchText;
-}
-
-function getRapportiveSearchText(data) {
-    var searchText = '';
-    if(data.memberships) {
-        var memberships = data.memberships;
-        if(memberships.github && memberships.github.username)
-            searchText += ' ' + memberships.github.username;
-        if(memberships.twitter && memberships.twitter.username)
-            searchText += ' ' + data.memberships.twitter.username;
-    }
-    if(data.occupations) {
-        data.occupations.forEach(function(occ) {
-            if(occ.company)
-                searchText += ' ' + occ.company;
-            if(occ.job_title)
-                searchText += ' ' + occ.job_title;
-        });
-    }
-    searchText += ' ' + data.name;
-    return searchText;
-}
-
-function getTwitterSearchText(data) {
-    var searchText = '';
-    if(data.screen_name)
-        searchText += ' ' + data.screen_name;
-    if(data.location)
-        searchText += ' ' + data.location;
-    if(data.name)
-        searchText += ' ' + data.name;
-    if(data.description)
-        searchText += ' ' + data.description;
-    return searchText;
-}
-
-function getGithubSearchText(data) {
-    var searchText = '';
-    if(data.login)
-        searchText += ' ' + data.login;
-    if(data.location)
-        searchText += ' ' + data.location;
-    if(data.name)
-        searchText += ' ' + data.name;
-    if(data.description)
-        searchText += ' ' + data.description;
-    return searchText;
-}
-
-function getKloutSearchText(data) {
-    var searchText = '';
-    if(data.topics) {
-        data.topics.forEach(function(topic) {
-            searchText += ' ' + topic;
-        });
-    }
-    return searchText;
-}
 
 // sets the data into the db for the given data collection event match the given or clause
-function doSet(dataEvent, or, callback) {
+function doSet(dataEvent, errSet, or, callback) {
     var set = {};
     set[dataEvent.type] = {data:dataEvent.data};
     var date = 'dates.' + dataEvent.type + '.updated';
@@ -358,11 +249,9 @@ function setDate(or, accountType, dateType, value, callback) {
     set[date] = value;
     var query = {$or: or};
     query[date] = { $exists : false };
-//    console.log('query:', query);
     coll.update(query, {$set: set}, {safe:true}, function(err, doc) {
         if(callback) callback(err);
     });
-    
 };
 
 exports.addTag = function(id, tag, callback) {
@@ -386,6 +275,169 @@ exports.setNotes = function(id, notes, callback) {
     addSearchText(id, notes, function(){});
 }
 
+
+
 exports.close = function() {
     db.close();
 }
+
+
+// indexing
+exports.updateAllSearchText = function(callback) {
+    updateSearchText({}, true, callback);
+}
+
+function updateSearchText(query, clean, callback) {
+    coll.find(query, function(err, cursor) {
+        console.log('got resp from first query');
+        if(!err && cursor) {
+            cursor.each(function(err, contact) {
+                if(!contact)
+                    return;
+                if(!contact.terms || clean) {
+                    addEmptyTermsArray(contact._id, function() {
+                        setTerms(contact, function() {});
+                    });
+                } else {
+                    setTerms(contact, function(){});
+                }
+            });
+        }
+   });
+}
+
+function setTerms(contact, callback) {
+    try {
+        var searchText = getSearchText(contact);
+        addSearchText(contact._id, getSearchText(contact), callback);
+    } catch(err) {
+        console.log(err);
+    }
+}
+
+function addEmptyTermsArray(id, callback) {
+    coll.update({_id: new ObjectID(id)}, {$set:{"terms":[]}}, callback);
+}
+
+function addSearchText(id, text, callback) {
+    if(!id || !text || text.length < 1) {
+        callback();
+        return;
+    }
+    var terms = stemmer.splitAndStem(text);
+    if(!id || terms.length < 1) {
+        callback();
+        return;
+    }
+    console.log('num terms', terms.length);
+//    coll.update({"_id":new ObjectID(id)}, {$addToSet: {"terms": {$each: terms}}}, {safe:true}, callback);
+    coll.findAndModify({"_id":new ObjectID(id)}, [], {$addToSet: {"terms": {$each: terms}}}, {}, callback);
+}
+
+function getSearchText(contact) {
+    var searchText = '';
+    if(contact.rapportive)
+        searchText += ' ' + getRapportiveSearchText(contact.rapportive.data);
+    if(contact.twitter)
+        searchText += ' ' + getTwitterSearchText(contact.twitter.data);
+    if(contact.github)
+        searchText += ' ' + getGithubSearchText(contact.github.data);
+    if(contact.klout)
+        searchText += ' ' + getKloutSearchText(contact.klout.data);
+    if(contact.tags) {
+        contact.tags.forEach(function(tag) {
+            searchText += ' ' + tag;
+        });
+    }
+    return searchText;
+}
+
+function getRapportiveSearchText(data) {
+    var searchText = '';
+    if(data.email)
+        searchText =+ ' ' + data.email;
+    if(data.name)
+        searchText += ' ' + data.name;
+    if(data.memberships) {
+        var memberships = data.memberships;
+        if(memberships.github && memberships.github.username)
+            searchText += ' ' + memberships.github.username;
+        if(memberships.twitter && memberships.twitter.username)
+            searchText += ' ' + data.memberships.twitter.username;
+    }
+    if(data.occupations) {
+        data.occupations.forEach(function(occ) {
+            if(occ.company)
+                searchText += ' ' + occ.company;
+            if(occ.job_title)
+                searchText += ' ' + occ.job_title;
+        });
+    }
+    searchText += ' ' + data.name;
+    return searchText;
+}
+
+function getTwitterSearchText(data) {
+    var searchText = '';
+    if(data.screen_name)
+        searchText += ' ' + data.screen_name;
+    if(data.location)
+        searchText += ' ' + data.location;
+    if(data.name)
+        searchText += ' ' + data.name;
+    if(data.description)
+        searchText += ' ' + data.description;
+    return searchText;
+}
+
+function getGithubSearchText(data) {
+    var searchText = '';
+    if(data.login)
+        searchText += ' ' + data.login;
+    if(data.location)
+        searchText += ' ' + data.location;
+    if(data.name)
+        searchText += ' ' + data.name;
+    if(data.description)
+        searchText += ' ' + data.description;
+    return searchText;
+}
+
+function getKloutSearchText(data) {
+    var searchText = '';
+    if(data.topics) {
+        data.topics.forEach(function(topic) {
+            searchText += ' ' + topic;
+        });
+    }
+    return searchText;
+}
+
+
+
+
+
+
+
+
+
+exports.putContact = function(contact, callback) {
+    var ors = [];
+    if(contact.email)
+        ors.push({'email': contact.email});
+    if(contact.memberships) {
+        if(contact.memberships.github.username) {
+            ors.push({'contact.memberships.github.username': contact.memberships.github.username});
+            ors.push({'contact.memberships.github.login': contact.memberships.github.username});
+        } else if(contact.memberships.github.login) {
+            ors.push({'contact.memberships.github.username': contact.memberships.github.login});
+            ors.push({'contact.memberships.github.login': contact.memberships.github.login});
+        }
+    }
+    coll.update({'email':contact.email}, contact, {safe:true, upsert:true}, callback);
+}
+
+exports.getByEmailAddress = function(emailAddress, callback) {
+    coll.find({'rapportive.email': emailAddress}, callback);
+}
+

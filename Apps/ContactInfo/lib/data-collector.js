@@ -55,5 +55,15 @@ function processRapportiveEvent(rapportiveEvent) {
         }
     }
 }
+// 
+// rapportiveCollector.getEventEmitter().on('new-data-error', function(errorEvent) {
+//     {type:'rapportive', error:err, data:contact, source_event:newEmailAddressEvent};
+//     console.error('got rapportive error:', errorEvent.error, errorEvent.data);
+//     dataStore.putError({type:errorEvent.type, 
+//                         data:{email:errorEvent.source_event.email},
+//                         error:errorEvent.error, 
+//                         source_event:errorEvent.source_event});
+// });
+
 
 exports.addAccount = processNewAccount;

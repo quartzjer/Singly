@@ -12,6 +12,6 @@ exports.getNewData = function(newEmailAddressEvent) {
         if(!err && contact)
             emitter.emit('new-data', {type:'rapportive', data:contact, source_event:newEmailAddressEvent});
         else
-            console.error(err);
+            emitter.emit('new-data-error', {type:'rapportive', error:err, data:contact, source_event:newEmailAddressEvent});
     });
 }
