@@ -7,7 +7,7 @@
 
    Search places, people and (Submit) Search
 
-   Last updated: 04/21/11
+   Last updated: 05/09/11
 
    Foursquare API Platform Policy
 
@@ -119,6 +119,17 @@
        submit, upload, post, create or add to the foursquare service
        through your use of the API (including, without limitation, the use
        by users of your application and/or website).
+
+    2. If you use any "Explore" Foursquare Data you will not co-mingle any
+       ranking and/or signal information obtained from such Foursquare
+       Data with your own or third party ranking and/or signal
+       information.
+
+    2. Access to the API is currently provided for free, but Foursquare
+       reserves the right to charge for access to the API in the future,
+       at its sole discretion. If we do charge a fee for using the API or
+       any feature thereof, you do not have any obligation to continue to
+       use the API or the applicable feature.
 
    IV. Retention
     1. Your application and/or website must offer a simple means for users

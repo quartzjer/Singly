@@ -24,6 +24,7 @@
        to share with others and how we collect and can use your content
        and information.  We encourage you to read the Privacy Policy, and
        to use it to help make informed decisions.
+
     2. Sharing Your Content and Information
        You own all of the content and information you post on Facebook,
        and you can control how it is shared through your [8]privacy and
@@ -57,6 +58,7 @@
             Facebook, but you understand that we may use them without any
             obligation to compensate you for them (just as you have no
             obligation to offer them).
+
     3. Safety
        We do our best to keep Facebook safe, but we cannot guarantee it.
        We need your help to do that, which includes the following
@@ -91,6 +93,7 @@
             service attack.
         12. You will not facilitate or encourage any violations of this
             Statement.
+
     4. Registration and Account Security
        Facebook users provide their real names and information, and we
        need your help to keep it that way. Here are some commitments you
@@ -119,6 +122,7 @@
             to remove or reclaim it if we believe appropriate (such as
             when a trademark owner complains about a username that does
             not closely relate to a user's actual name).
+
     5. Protecting Other People's Rights
        We respect other people's rights, and expect you to do the same.
          1. You will not post content or take any action on Facebook that
@@ -148,6 +152,7 @@
             sensitive financial information on Facebook.
          9. You will not tag users or send email invitations to non-users
             without their consent.
+
     6. Mobile
          1. We currently provide our mobile services for free, but please
             be aware that your carrier's normal rates and fees, such as
@@ -160,6 +165,7 @@
             (including through an application) their contact lists with
             any basic information and contact information that is visible
             to them on Facebook, as well as your name and profile picture.
+
     7. Payments and Deals
          1. If you make a payment on Facebook or use Facebook Credits, you
             agree to our [16]Payments Terms.
@@ -167,6 +173,7 @@
          3. If you provide a Deal or partner with us to provide a Deal,
             you agree to the [18]Merchant Deal Terms in addition to any
             other agreements you may have with us.
+
     8. Special Provisions Applicable to Share Links
        If you include our Share Link button on your website, the following
        additional terms apply to you:
@@ -178,6 +185,7 @@
          3. You will not place a Share Link button on any page containing
             content that would violate this Statement if posted on
             Facebook.
+
     9. Special Provisions Applicable to Developers/Operators of
        Applications and Websites
        If you are a developer or operator of a Platform application or
@@ -215,7 +223,7 @@
                  expectations.
               9. We can limit your access to data.
              10. You will comply with all other restrictions contained in
-                 our [22]Facebok Platform Policies.
+                 our [22]Facebook Platform Policies.
          3. You will not give us information that you independently
             collect from a user or a user's content without that user's
             consent.
@@ -262,6 +270,7 @@
         18. To ensure your application is safe for users, we can audit it.
         19. We can create applications that offer similar features and
             services to, or otherwise compete with, your application.
+
    10. About Advertisements and Other Commercial Content Served or
        Enhanced by Facebook
        Our goal is to deliver ads that are not only valuable to
@@ -277,6 +286,7 @@
             without your consent.
          3. You understand that we may not always identify paid services
             and communications as such.
+
    11. Special Provisions Applicable to Advertisers
        You can target your specific audience by buying ads on Facebook or
        our publisher network. The following additional terms apply to you
@@ -326,9 +336,11 @@
               2. You agree that if the advertiser you represent violates
                  this Statement, we may hold you responsible for that
                  violation.
+
    12. Special Provisions Applicable to Pages
        If you create or administer a Page on Facebook, you agree to our
        [28]Pages Terms.
+
    13. Amendments
          1. We can change this Statement if we provide you notice (by
             posting the change on the [29]Facebook Site Governance Page)
@@ -349,6 +361,7 @@
          4. We can make changes for legal or administrative reasons, or to
             correct an inaccurate statement, upon notice without
             opportunity to comment.
+
    14. Termination
        If you violate the letter or spirit of this Statement, or otherwise
        create risk or possible legal exposure for us, we can stop
@@ -359,6 +372,7 @@
        following provisions will still apply: 2.2, 2.4, 3-5, 8.2, 9.1-9.3,
        9.9, 9.10, 9.13, 9.15, 9.18, 10.3, 11.2, 11.5, 11.6, 11.9, 11.12,
        11.13, and 14-18.
+
    15. Disputes
          1. You will resolve any claim, cause of action or dispute
             ("claim") you have with us arising out of or relating to this
@@ -403,6 +417,7 @@
             CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION
             MAY NOT APPLY TO YOU. IN SUCH CASES, FACEBOOK'S LIABILITY WILL
             BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
    16. Special Provisions Applicable to Users Outside the United States
        We strive to create a global community with consistent standards
        for everyone, but we also strive to respect local laws. The
@@ -416,6 +431,7 @@
             payments) or operate a Platform application or website.
          3. Certain specific terms that apply only for German users are
             available [32]here.
+
    17. Definitions
          1. By "Facebook" we mean the features and services we make
             available, including through (a) our website at
@@ -448,6 +464,7 @@
             or has received data from us.  If you no longer access
             Platform but have not deleted all data from us, the term
             application will apply until you delete the data.
+
    18. Other
          1. If you are a resident of or have your principal place of
             business in the US or Canada, this Statement is an agreement
@@ -477,7 +494,6 @@
         10. You will comply with all applicable laws when using or
             accessing Facebook.
 
-
    You may also want to review the following documents:
      * [34]Privacy Policy: The Privacy Policy is designed to help you
        understand how we collect and use information.
@@ -497,7 +513,6 @@
      * [40]How to Report Claims of Intellectual Property Infringement
      * [41]How to Appeal Claims of Copyright Infringement
      * [42]Pages Terms
-
 
      * To access the Statement of Rights and Responsibilities in several
        different languages, change the language setting for your Facebook
