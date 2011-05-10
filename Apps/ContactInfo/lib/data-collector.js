@@ -13,6 +13,7 @@ function processNewAccount(type, account, other, data) {
     console.log('processNewAccount:', type, account);
     var type = type.toLowerCase();
     if(type == 'email' || type == 'emailaddress') {
+        console.log('account=', account,'other=', other);
         rapportiveCollector.getNewData({email:account, other:other});
     } else if(type == 'twitter') {
         var dataEvent = {username:account, other:other};

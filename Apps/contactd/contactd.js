@@ -21,6 +21,8 @@ app.get('/', function(req, res) {
     res.end('yeah!!');
 });
 
+var baseUrl = 'http://localhost:8081'
+
 app.post('/contact/twitter', function(req, res) {
     var contact = req.body.obj;
     if(!contact || !req.body._via || !contact.screen_name) {
@@ -30,8 +32,8 @@ app.post('/contact/twitter', function(req, res) {
         return;
     }
     getHandleForID(req.body._via[0], 'twitter', function(err, handle) {
-        console.log('posting new contact ' + contact.screen_name + ' to http://localhost:8080/new/twitter/' + handle);
-        request.post({uri:'http://localhost:8080/new/twitter/' + handle, json:contact}, function(err, resp, body) {
+        console.log('posting new contact ' + contact.screen_name + ' to ' + baseUrl + '/new/twitter/' + handle);
+        request.post({uri: baseUrl + '/new/twitter/' + handle, json:contact}, function(err, resp, body) {
             
             res.writeHead(200);
             res.end();
@@ -50,8 +52,8 @@ app.post('/contact/github', function(req, res) {
         return;
     }
     getHandleForID(req.body._via[0], 'github', function(err, handle) {
-        console.log('posting new contact ' + obj.user.login + ' to http://localhost:8080/new/github/' + handle);
-        request.post({uri:'http://localhost:8080/new/github/' + handle, json:obj}, function(err, resp, body) {
+        console.log('posting new contact ' + obj.user.login + ' to ' + baseUrl + '/new/github/' + handle);
+        request.post({uri: baseUrl + '/new/github/' + handle, json:obj}, function(err, resp, body) {
             res.writeHead(200);
             res.end();
         });

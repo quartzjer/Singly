@@ -11,7 +11,8 @@ exports.getDataFromTwitter = function(twitterHandle, callback) {
 var cacheUrl = 'http://localhost:3456/contacts/';
 var rapportiveUrl = 'http://rapportive.com/contacts/'
 
-var baseURL = cacheUrl;
+//var baseURL = cacheUrl;
+var baseURL = rapportiveUrl;
 
 exports.bypassCache = function() {
     baseURL = rapportiveUrl;
