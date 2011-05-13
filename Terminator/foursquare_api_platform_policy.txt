@@ -9,217 +9,208 @@
 
    Last updated: 05/09/11
 
-   Foursquare API Platform Policy
+Foursquare API Platform Policy
 
-   Users of the Foursquare Labs, Inc. (“Foursquare”) application
-   programming interface (“API”) are required to comply with Foursquare’s
+   Users of the Foursquare Labs, Inc. ("Foursquare") application
+   programming interface ("API") are required to comply with Foursquare's
    [6]Terms of Use, [7]API License Agreement and the terms and conditions
    of this Policy.
 
-   I. General
-    1. Your use of the API, including the collection, use, maintenance and
+I. General
+
+     * Your use of the API, including the collection, use, maintenance and
        disclosure of user data shall comply with all applicable laws,
        rules and regulations and the terms of this Policy, and any
        advertising, marketing, privacy, or other self-regulatory code(s)
        applicable to your industry.
-
-    1. You must not take any action that constitutes unauthorized or
+     * You must not take any action that constitutes unauthorized or
        unsolicited advertising, junk or bulk e-mail.
-    2. Each of your applications and websites that use the API
-       (“applications and/or websites”) must prominently include the
-       following statement: “This [application/service] uses the
+     * Each of your applications and websites that use the API
+       ("applications and/or websites") must prominently include the
+       following statement: "This [application/service] uses the
        foursquare^® application programming interface but is not endorsed
-       or certified by Foursquare Labs, Inc.”
+       or certified by Foursquare Labs, Inc."
 
-   II. Authorization
-    1. You must take commercially reasonable steps, compliant with
+II. Authorization
+
+     * You must take commercially reasonable steps, compliant with
        applicable laws, rules and regulations, to protect all data you
        collect through the API or that users submit to the foursquare
-       service through your application and/or website (“Foursquare Data”)
+       service through your application and/or website ("Foursquare Data")
        and your authentication key from unauthorized use, disclosure or
        access.
-    2. You must not give your authentication key to another party.
-    3. Foursquare may revoke your authentication credentials at any time,
+     * You must not give your authentication key to another party.
+     * Foursquare may revoke your authentication credentials at any time,
        for any reason or no reason, with or without notice, and without
        liability to you or any other person.
-    4. You must notify us immediately in the event of any unauthorized
+     * You must notify us immediately in the event of any unauthorized
        access to Foursquare Data, your authentication key, and/or your
        application and/or website.
-    5. If your application and/or website authenticates foursquare service
+     * If your application and/or website authenticates foursquare service
        users:
+          + You must not include functionality in your application and/or
+            website that requests or collects foursquare username or
+            passwords, and you may only permit users to log in via OAuth2.
+          + Your application and/or website must provide a link to the
+            foursquare service settings page where the user can disconnect
+            your application and/or website from the foursquare service.
 
-    1. You must not include functionality in your application and/or
-       website that requests or collects foursquare username or passwords,
-       and you may only permit users to log in via OAuth2.
-    2. Your application and/or website must provide a link to the
-       foursquare service settings page where the user can disconnect your
-       application and/or website from the foursquare service.
+III. Access/Use
 
-   III. Access/Use
-    1. You will only request the Foursquare Data you need to operate your
+     * You will only request the Foursquare Data you need to operate your
        application and/or website and must make no further use of it and
        delete it when your application and/or website has no such further
        use for it, including, without limitation, when a user has
        withdrawn consent.
-    2. Foursquare expressly reserves the right to limit the number and/or
+     * Foursquare expressly reserves the right to limit the number and/or
        frequency of API requests in its sole discretion. If Foursquare
        reasonably believes that you have attempted to exceed or circumvent
        the rate limits (including, without limitation, through
        mass-registering of applications), your ability to use the API may
        be temporarily or permanently blocked, with or without notice, and
        without Foursquare liability to you or any other person.
-    3. If your application and/or website requires or permits the transfer
+     * If your application and/or website requires or permits the transfer
        of user information outside of the user’s home country (including
        transfers to foursquare’s servers, which are in the U.S.), you must
        ensure that such transfer complies with applicable laws.
-    1. If your application and/or website collects any information about
+     * If your application and/or website collects any information about
        foursquare service users or submits any user information to
        Foursquare, whether acting as a user of your application and/or
        website or indirectly:
-
-    1. You must prominently notify and obtain affirmative consent from the
-       user before his or her location data is collected or used by your
-       application and/or website. The notification must clearly disclose
-       that both you and Foursquare collect and use the user’s location
-       data;
-    2. You must respect a user’s foursquare user settings.
-    3. You must obtain affirmative consent from the user who provided the
-       data before using it for any purpose other than displaying it back
-       to that user on your application and/or website.
-    4. You must obtain affirmative consent from a user before you post any
-       information on their behalf on your application and/or website, the
-       foursquare service or through any third party service (including
-       but not limited to Twitter or Facebook).
-    5. If a user authorizes your application and/or website to access the
-       foursquare service, you may use such user’s foursquare service
-       friends’ data only in the context of the user’s experience with
-       your application and/or website.  You may not use a user’s friends’
-       information outside of your application and/or website, even if a
-       user consents to such use.  No other use or retention of friend
-       information is permitted.
-    6. Your application and/or website may not falsify the location of a
-       user when communicating with Foursquare.
-
-    2. You may use Foursquare places information alongside your own place
+          + You must prominently notify and obtain affirmative consent
+            from the user before his or her location data is collected or
+            used by your application and/or website. The notification must
+            clearly disclose that both you and Foursquare collect and use
+            the user's location data;
+          + You must respect a user's foursquare user settings.
+          + You must obtain affirmative consent from the user who provided
+            the data before using it for any purpose other than displaying
+            it back to that user on your application and/or website.
+          + You must obtain affirmative consent from a user before you
+            post any information on their behalf on your application
+            and/or website, the foursquare service or through any third
+            party service (including but not limited to Twitter or
+            Facebook).
+          + If a user authorizes your application and/or website to access
+            the foursquare service, you may use such user's foursquare
+            service friends' data only in the context of the user's
+            experience with your application and/or website. You may not
+            use a user's friends' information outside of your application
+            and/or website, even if a user consents to such use. No other
+            use or retention of friend information is permitted.
+          + Your application and/or website may not falsify the location
+            of a user when communicating with Foursquare.
+     * You may use Foursquare places information alongside your own place
        data or as your sole location database; provided that:
-
-    1. You must not use Foursquare Data to create a location database, to
-       create new places in your own places or location database or to
-       improve, edit, augment or supplement venue information in your own
-       places or location database.
-
-    2. Any information you submit, upload, post, create, or add to the
+          + You must not use Foursquare Data to create a location
+            database, to create new places in your own places or location
+            database or to improve, edit, augment or supplement venue
+            information in your own places or location database.
+     * Any information you submit, upload, post, create, or add to the
        foursquare service through your use of the API (including, without
        limitation, the use by users of your application and/or website)
        shall be deemed a User Submission (as defined in the Terms of Use).
-
-    2. Foursquare shall have the right to use, reproduce, transfer,
+     * Foursquare shall have the right to use, reproduce, transfer,
        sublicense and otherwise exploit perpetually any place, venue,
        latitude and longitude, or other location information that you
        submit, upload, post, create or add to the foursquare service
        through your use of the API (including, without limitation, the use
        by users of your application and/or website).
-
-    2. If you use any "Explore" Foursquare Data you will not co-mingle any
+     * If you use any "Explore" Foursquare Data you will not co-mingle any
        ranking and/or signal information obtained from such Foursquare
        Data with your own or third party ranking and/or signal
        information.
-
-    2. Access to the API is currently provided for free, but Foursquare
+     * Access to the API is currently provided for free, but Foursquare
        reserves the right to charge for access to the API in the future,
        at its sole discretion. If we do charge a fee for using the API or
        any feature thereof, you do not have any obligation to continue to
        use the API or the applicable feature.
 
-   IV. Retention
-    1. Your application and/or website must offer a simple means for users
+IV. Retention
+
+     * Your application and/or website must offer a simple means for users
        to disable your application and/or website, upon which disabling,
        you shall permanently delete all data of such user.
-
-    1. You may cache data you receive through use of the API in order to
-       improve your application’s and/or website’s user experience, but
+     * You may cache data you receive through use of the API in order to
+       improve your application's and/or website's user experience, but
        you should try to keep the data up to date and must delete all old
        data. This permission does not give you any rights to cached data.
-        For clarity, and without limitation,
-
-    1. You may not cache or store any Foursquare places information
-       (including tips and venue photos) for more than 30 days without
-       refreshing.
-    2. You may not cache a user’s raw check-in information for more than
-       24 hours without refreshing.
-    3. You may not cache any data for any person that has not authorized
-       your application and/or website (e.g., friends of users of your
-       application) for more than 3 hours.
-    4. You may not track a user’s check-in history or retain any data
-       derived from a user’s check-in history without first making the
-       desired use clear to the user and obtaining affirmative consent to
-       that use from that user. This includes tracking users via “here
-       now” or top visitors of a venue.
-    5. In no event may you cache any data for more than 30 days.
-
-    2. If you stop using the API or we disable your application and/or
+       For clarity, and without limitation,
+          + You may not cache or store any Foursquare places information
+            (including tips and venue photos) for more than 30 days
+            without refreshing.
+          + You may not cache a user's raw check-in information for more
+            than 24 hours without refreshing.
+          + You may not cache any data for any person that has not
+            authorized your application and/or website (e.g., friends of
+            users of your application) for more than 3 hours.
+          + You may not track a user's check-in history or retain any data
+            derived from a user's check-in history without first making
+            the desired use clear to the user and obtaining affirmative
+            consent to that use from that user. This includes tracking
+            users via "here now" or top visitors of a venue.
+          + In no event may you cache any data for more than 30 days.
+     * If you stop using the API or we disable your application and/or
        website, you must delete all Foursquare Data.
-    3. You must delete all data concerning a user that you receive from
+     * You must delete all data concerning a user that you receive from
        the API if the user asks you to do so, and you must provide a
        simple and easily accessible mechanism for users to make such a
        request. We may require you to delete data you receive from the API
-       if you violate our terms.  In the event that we do, we will have no
+       if you violate our terms. In the event that we do, we will have no
        liability to you or any other person.
 
-   V. No Transfer
-    1. You will not directly or indirectly transfer any Foursquare Data,
+V. No Transfer
+
+     * You will not directly or indirectly transfer any Foursquare Data,
        including user data or foursquare user IDs, to (or use such data in
        connection with) any ad network, ad exchange, data broker, or other
        advertising or monetization related toolset, even if a user
-       consents to such transfer or use. By “indirectly,” we mean you
+       consents to such transfer or use. By "indirectly," we mean you
        cannot, for example, transfer data to a third party who then
-       transfers the data to an ad network. By “any Foursquare Data,” we
+       transfers the data to an ad network. By "any Foursquare Data," we
        mean all data obtained through use of the API, including aggregate,
        anonymous or derivative data.
-    2. You will not sell, rent, or transfer any Foursquare Data. If you
+     * You will not sell, rent, or transfer any Foursquare Data. If you
        are acquired by or merge with a third party, you may continue to
        use user data within your application and/or website, but you may
        not transfer data outside your application and/or website.
 
-   VI. Privacy Policy
-    1. If you collect, use, store or disclose any Foursquare Data:
+VI. Privacy Policy
 
-    1. You must provide a privacy policy to users of your application
-       and/or website that clearly discloses how you collect, use, store
-       and disclose user data, including that:
+     * If you collect, use, store or disclose any Foursquare Data:
+          + You must provide a privacy policy to users of your application
+            and/or website that clearly discloses how you collect, use,
+            store and disclose user data, including that:
+               o you receive and use foursquare service user data,
+                 including a description of the categories of user data
+                 received and how you use and disclose it;
+               o you share user data with Foursquare, for use by
+                 Foursquare for its own purposes; and
+               o the user may read the [8]foursquare privacy policy
+          + You must clearly and conspicuously present your privacy policy
+            to each user at the point of application and/or download,
+            installation, authorization or first-run, and you must also
+            make the policy available from the application user interface
+            or from the home page of your website.
 
-    1. you receive and use foursquare service user data, including a
-       description of the categories of user data received and how you use
-       and disclose it;
-    2. you share user data with Foursquare, for use by Foursquare for its
-       own purposes; and
-    3. the user may read the [8]foursquare privacy policy
+VII. Trademarks
 
-    2. You must clearly and conspicuously present your privacy policy to
-       each user at the point of application and/or download,
-       installation, authorization or first-run, and you must also make
-       the policy available from the application user interface or from
-       the home page of your website.
-
-   VII. Trademarks
-    1. Your application and/or website must not:
-
-    1. Use business names and/or logos in a manner that can mislead,
-       confuse or deceive users (e.g., do not copy the look and feel of
-       the foursquare service);
-    2. Confuse or mislead users about the source or purpose of your
-       application and/or website;
-    3. Impersonate or facilitate impersonation of others in a manner that
-       can mislead, confuse or deceive users.
-
-    2. You must not express or imply any affiliation or relationship with
+     * Your application and/or website must not:
+          + Use business names and/or logos in a manner that can mislead,
+            confuse or deceive users (e.g., do not copy the look and feel
+            of the foursquare service);
+          + Confuse or mislead users about the source or purpose of your
+            application and/or website;
+          + Impersonate or facilitate impersonation of others in a manner
+            that can mislead, confuse or deceive users.
+     * You must not express or imply any affiliation or relationship with
        or endorsement by us.
-    3. If your application and/or website displays any foursquare logos or
+     * If your application and/or website displays any foursquare logos or
        trademarks, you must prominently include the following statement:
-       “All of the foursquare^® logos (including all badges) and
+       "All of the foursquare^® logos (including all badges) and
        trademarks displayed on this [application/service] are the property
        of Foursquare Labs, Inc.
-    4. You must read and comply with the [9]Foursquare Trademark and Brand
+     * You must read and comply with the [9]Foursquare Trademark and Brand
        Feature Guidelines.
 
      * [10]about
