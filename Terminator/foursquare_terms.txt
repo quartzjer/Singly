@@ -663,7 +663,7 @@ References
    9. https://foursquare.com/legal/photos
   10. https://foursquare.com/legal/photos
   11. https://foursquare.com/legal/venueterms
-  12. https://foursquare.com/legal/api
+  12. https://foursquare.com/legal/api/licenseagreement
   13. https://foursquare.com/about
   14. http://blog.foursquare.com/
   15. https://foursquare.com/contact

@@ -242,7 +242,7 @@ References
    4. https://foursquare.com/login
    5. https://foursquare.com/
    6. https://foursquare.com/legal/terms
-   7. https://foursquare.com/legal/api
+   7. https://foursquare.com/legal/api/licenseagreement
    8. https://foursquare.com/legal/privacy
    9. https://foursquare.com/legal/trademark
   10. https://foursquare.com/about
@@ -254,12 +254,12 @@ References
   16. https://foursquare.com/legal/privacy
   17. https://foursquare.com/legal/terms
   18. http://store.foursquare.com/
-  19. https://foursquare.com/legal/apiplatformpolicy
-  20. https://foursquare.com/legal/apiplatformpolicy
-  21. https://foursquare.com/legal/apiplatformpolicy
-  22. https://foursquare.com/legal/apiplatformpolicy
-  23. https://foursquare.com/legal/apiplatformpolicy
-  24. https://foursquare.com/legal/apiplatformpolicy
+  19. javascript:///
+  20. javascript:///
+  21. javascript:///
+  22. javascript:///
+  23. javascript:///
+  24. javascript:///
 
    Hidden links:
-  25. https://foursquare.com/legal/apiplatformpolicy#languagesContainer
+  25. https://foursquare.com/legal/api/platformpolicy#languagesContainer
