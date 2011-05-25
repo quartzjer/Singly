@@ -3,7 +3,7 @@
 
    [4]Facebook logo
    Email                 Password
-   ____________________  ____________________    Login
+   ____________________  ____________________    Log In
    [ ] Keep me logged in [5]Forgot your password?
 
    This agreement was written in English (US). To the extent any

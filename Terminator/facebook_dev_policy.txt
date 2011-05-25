@@ -16,7 +16,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: February 10, 2011
+   Date of Last Revision: May 24, 2011
 
    Facebook Platform is an extension of Facebook, whose mission is to give
    people the power to share and make the world more open and connected.
@@ -109,8 +109,8 @@ Policies
        user consents to such transfer or use. By indirectly we mean you
        cannot, for example, transfer data to a third party who then
        transfers the data to an ad network. By any data we mean all data
-       obtained through use of the Facebook API, including aggregate,
-       anonymous or derivative data.
+       obtained through use of the Facebook Platform (API, Social Plugins,
+       etc.), including aggregate, anonymous or derivative data.
     7. You will not use Facebook User IDs for any purpose outside your
        application (e.g., your infrastructure, code, or services necessary
        to build and run your application). Facebook User IDs may be used
@@ -216,10 +216,17 @@ Policies
 
    We can take enforcement action against you and any or all of your
    applications if we determine in our sole judgment that you or your
-   application violates Platform Policies. Enforcement action can include
-   disabling your application, restricting you and your application's
-   access to Platform functionality, terminating our agreements with you,
-   or any other action as we in our sole discretion deem appropriate.
+   application violates Facebook Platform Terms and Policies. Enforcement
+   action is both automated and manual, and can include disabling your
+   application, restricting you and your application's access to Platform
+   functionality, terminating our agreements with you, or any other action
+   as we in our sole discretion deem appropriate.
+
+   Communication with developers takes place via an email sent from the
+   facebook.com or facebookmail.com domain to the Developer Contact email
+   address registered to the application. To stay in touch, please ensure
+   that your email address is current and that you do not filter out any
+   such messages.
 
    VI. Changes
 
@@ -246,21 +253,17 @@ Policies
        materials) you receive from us, that was provided by users to us,
        or was associated by us with a particular user.
 
-   VIII. [27]Escalation Procedures for Facebook Policy Issues
+   VIII. Branding and Promotion Policy
 
-   IX. [28]Contacting Facebook
-
-   X. Branding and Promotion Policy
-
-   You must follow the guidelines set forth in the [29]Facebook Brand
+   You must follow the guidelines set forth in the [27]Facebook Brand
    Resource and Permissions Center.
 
-   XI. [30]Advertising Guidelines
+   IX. [28]Advertising Guidelines
 
-   XII. [31]Facebook Credits Beta
+   X. [29]Facebook Credits
 
-   Developers participating in the beta program for accepting credits are
-   subject to [32]these terms.
+   Developers participating in the program for accepting credits are
+   subject to [30]these terms.
      __________________________________________________________________
 
 Examples and Explanations
@@ -268,16 +271,16 @@ Examples and Explanations
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [33]examples and explanations will help you understand how to put
+   these [31]examples and explanations will help you understand how to put
    that into practice.
-     * [34]Advertisements — Section III.B
-     * [35]Stream Stories — Section IV
-     * [36]Terms and Trademarks — Sections I and X
+     * [32]Advertisements — Section III.B
+     * [33]Stream Stories — Section IV
+     * [34]Terms and Trademarks — Sections I and X
 
-   Updated about a month ago
+   Updated 11 hours ago
 
    Facebook © 2011
-   [37]About[38]Platform Policies[39]Privacy Policy
+   [35]About[36]Platform Policies[37]Privacy Policy
 
 References
 
@@ -307,16 +310,14 @@ References
   24. http://developers.facebook.com/adproviders/
   25. http://developers.facebook.com/docs/guides/canvas/
   26. http://developers.facebook.com/docs/authentication/permissions/
-  27. http://developers.facebook.com/policy/escalation
-  28. http://developers.facebook.com/policy/contact
-  29. http://www.facebook.com/brandpermissions/logos.php
-  30. http://www.facebook.com/ad_guidelines.php
-  31. http://developers.facebook.com/policy/credits
-  32. http://developers.facebook.com/policy/credits
-  33. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  34. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/advertisements
-  35. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/stream_stories
-  36. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/terms_and_trademarks
-  37. http://www.facebook.com/platform
-  38. http://developers.facebook.com/policy/
-  39. http://www.facebook.com/policy.php
+  27. http://www.facebook.com/brandpermissions/logos.php
+  28. http://www.facebook.com/ad_guidelines.php
+  29. http://developers.facebook.com/policy/credits
+  30. http://developers.facebook.com/policy/credits
+  31. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  32. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/advertisements
+  33. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/stream_stories
+  34. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/terms_and_trademarks
+  35. http://www.facebook.com/platform
+  36. http://developers.facebook.com/policy/
+  37. http://www.facebook.com/policy.php
