@@ -81,11 +81,9 @@
          8. You will not develop or operate a third-party application
             containing alcohol-related or other mature content (including
             advertisements) without appropriate age-based restrictions.
-         9. You will not offer any contest, giveaway, or sweepstakes
-            ("promotion") on Facebook without our prior written consent.
-            If we consent, you take full responsibility for the promotion,
-            and will follow our [14]Promotions Guidelines and all
-            applicable laws.
+         9. You will follow our [14]Promotions Guidelines and all
+            applicable laws if you publicize or offer any contest,
+            giveaway, or sweepstakes (“promotion”) on Facebook.
         10. You will not use Facebook to do anything unlawful, misleading,
             malicious, or discriminatory.
         11. You will not do anything that could disable, overburden, or

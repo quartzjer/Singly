@@ -6,12 +6,12 @@
 
    ____________________ Search
 
-[6]Introducing Web Intents
+[6]Introducing the Follow Button
 
-   Attention!       [7]March 30, 2011 Bring interactivity to Tweets that
-   you display on the web with [8]Web Intents.    [9]x
+   Attention!       [7]May 31, 2011 Get all the details around our new
+   [8]Follow Button    [9]x
 
-   Find out everything about Web Intents [10]here.
+   Read the detailed documentation about our Follow Button [10]here.
    [clouds.png]
 
 Display Guidelines
@@ -146,11 +146,11 @@ References
    3. http://dev.twitter.com/doc
    4. http://dev.twitter.com/discuss
    5. http://dev.twitter.com/login
-   6. http://dev.twitter.com/pages/intents
-   7. http://dev.twitter.com/pages/intents
-   8. http://dev.twitter.com/pages/intents
+   6. http://twitter.com/about/resources/followbutton
+   7. http://twitter.com/about/resources/followbutton
+   8. http://twitter.com/about/resources/followbutton
    9. http://dev.twitter.com/pages/display_guidelines
-  10. http://dev.twitter.com/pages/intents
+  10. http://dev.twitter.com/pages/follow_button
   11. http://dev.twitter.com/
   12. http://dev.twitter.com/doc
   13. http://support.twitter.com/entries/114233
