@@ -18,7 +18,7 @@ API Terms of Service
 
    [11]Home » [12]Supplemental Documentation » API Terms of Service
 
-   Last Update: April 13, 2011
+   Last Update: June 1, 2011.
 
 Rules of the Road
 
@@ -155,7 +155,11 @@ II. Principles
             user's Tweet. If your application allows users to send Tweets
             or other content to Twitter, show the user exactly what will
             be published.
-    3. Your application should not:
+          + republishing Twitter Content accessed through means other than
+            via the Twitter API or other tools that may be provided to you
+            by Twitter, or in a manner inconsistent with the Display
+            Guidelines.
+    3. Your Service should not:
           + use business names and/or logos in a manner that can mislead,
             confuse, or deceive users. For more information on use of
             Twitter Marks, see our trademark rules [15]here
@@ -168,10 +172,11 @@ II. Principles
           + replicate, frame, or mirror the Twitter website or its design.
           + impersonate or facilitate impersonation of others in a manner
             that can mislead, confuse, or deceive users.
-    4. Respect the privacy and sharing settings of Twitter Content.
-       Promptly change your treatment of Twitter Content (for example,
-       deletions, modifications, and sharing options) as changes are
-       reported through the Twitter API.
+    4. Respect the privacy and sharing settings of Twitter Content. Do not
+       share, or encourage or facilitate the sharing of protected Twitter
+       Content. Promptly change your treatment of Twitter Content (for
+       example, deletions, modifications, and sharing options) as changes
+       are reported through the Twitter API.
 
 2. Don't create or distribute spam
 
@@ -201,10 +206,12 @@ II. Principles
        about whether you are adding a place or specific coordinates. If
        your application allows users to Tweet with their location be sure
        that it complies with the best practices found [18]here.
-    3. Do not solicit another developer's consumer keys or consumer
-       secrets if they will be stored outside of that developer's control.
-       For example, online services that ask for these values in order to
-       provide a "tweet-branding" service are not allowed.
+    3. You should not solicit another developer's consumer keys or
+       consumer secrets especially if they will be stored or used for
+       actions outside of that developer's control. Keys and secrets that
+       are compromised will be reset by Twitter. For example, online
+       services that ask for these values in order to provide a
+       "tweet-branding" service are not allowed.
     4. Do not facilitate or encourage the publishing of private or
        confidential information.
 
@@ -270,8 +277,8 @@ III. Twitter Functionality in your Service
    clearly display the end user's Twitter identity. Twitter identity
    includes visible display of the end user's avatar, Twitter user name,
    and the Twitter "bird" mark. Displays of the end user's followers on
-   the your Service must clearly show that the relationship is associated
-   with the Twitter service.
+   your Service must clearly show that the relationship is associated with
+   the Twitter service.
 
 IV. Commercial Use
 
@@ -290,7 +297,7 @@ IV. Commercial Use
     2. Advertising Around Twitter Content
          1. We encourage you to create advertising opportunities around
             Twitter content that are compliant with these Rules. In cases
-            where Twitter content is the primary basis of the advertising
+            where Twitter Content is the primary basis of the advertising
             sale, we require you to compensate us (recoupable against any
             fees payable to Twitter for data licensing). For example, you
             may sell sponsorships or branding around gadgets or iframes
@@ -301,18 +308,22 @@ IV. Commercial Use
             Twitter timeline on your Service other than Twitter Ads.
          3. Your advertisements cannot resemble or reasonably be confused
             by users as a Tweet. For example, ads cannot have tweet
-            actions like ReTweet, Favorite, and Reply.
+            actions like ReTweet, Favorite, and Reply. And you cannot sell
+            tweet actions or the placement of tweet actions on your
+            Service.
          4. You may advertise in close proximity to the Twitter timeline
             (e.g., banner ads above or below timeline), but there must be
             a clear separation between Twitter content and your
             advertisements.
-    3. Using Twitter Content. You must get permission from the user that
-       created the Tweet if You:
-          + want to use their Tweet on a commercial durable good or
-            product (for example, using a Tweet on a t-shirt or a poster
-            or making a book based on someone's Tweets); or
-          + create an advertisement that implies the sponsorship or
-            endorsement on behalf of the user.
+    3. Using Twitter Content. Get the users' permission before:
+          + using their content on a commercial durable good or product
+            (for example, using a Tweet on a t-shirt or a poster or making
+            a book based on someone's Tweets);
+          + creating an advertisement that implies the sponsorship or
+            endorsement on behalf of the user; or
+          + using content in a manner that is inconsistent with the
+            Display Guidelines and would require the user’s permission
+            under applicable law.
 
 V. Other Legal Terms
 
@@ -478,19 +489,22 @@ V. Other Legal Terms
    a court of competent jurisdiction, that provision will be enforced to
    the maximum extent permissible and the remaining provisions of this
    agreement will remain in full force and effect.
+
+   View the [22]API Terms of Service: Archive or [23]the most recent
+   changes.
      * © 2011 Twitter
-     * [22]About Us
-     * [23]Contact
-     * [24]Blog
-     * [25]Status
-     * [26]API Status
-     * [27]Resources
-     * [28]Business
-     * [29]Help
-     * [30]Jobs
-     * [31]Terms
-     * [32]Privacy
-     * [33]@TwitterAPI
+     * [24]About Us
+     * [25]Contact
+     * [26]Blog
+     * [27]Status
+     * [28]API Status
+     * [29]Resources
+     * [30]Business
+     * [31]Help
+     * [32]Jobs
+     * [33]Terms
+     * [34]Privacy
+     * [35]@TwitterAPI
 
 References
 
@@ -515,15 +529,17 @@ References
   19. http://support.twitter.com/articles/114233
   20. http://support.twitter.com/articles/18311
   21. http://support.twitter.com/articles/79901
-  22. http://twitter.com/about#about
-  23. http://twitter.com/about#contact
-  24. http://blog.twitter.com/
-  25. http://status.twitter.com/
-  26. http://dev.twitter.com/status
-  27. http://twitter.com/about/resources
-  28. http://business.twitter.com/twitter101
-  29. http://support.twitter.com/
-  30. http://twitter.com/jobs
-  31. http://twitter.com/tos
-  32. http://twitter.com/privacy
-  33. http://twitter.com/twitterapi
+  22. http://dev.twitter.com/pages/api_terms_archive
+  23. http://dev.twitter.com/pages/api_terms_diff
+  24. http://twitter.com/about#about
+  25. http://twitter.com/about#contact
+  26. http://blog.twitter.com/
+  27. http://status.twitter.com/
+  28. http://dev.twitter.com/status
+  29. http://twitter.com/about/resources
+  30. http://business.twitter.com/twitter101
+  31. http://support.twitter.com/
+  32. http://twitter.com/jobs
+  33. http://twitter.com/tos
+  34. http://twitter.com/privacy
+  35. http://twitter.com/twitterapi

@@ -527,7 +527,7 @@ References
 
    1. http://www.facebook.com/terms.php?_fb_noscript=1
    2. http://www.facebook.com/terms.php
-   3. http://b.static.ak.fbcdn.net/rsrc.php/yJ/r/H2SSvhJMJA-.xml
+   3. http://static.ak.fbcdn.net/rsrc.php/yJ/r/H2SSvhJMJA-.xml
    4. http://www.facebook.com/
    5. http://www.facebook.com/recover.php
    6. http://www.facebook.com/principles.php

@@ -290,7 +290,7 @@ References
    5. http://forum.developers.facebook.net/
    6. http://developers.facebook.com/showcase/
    7. http://developers.facebook.com/blog/
-   8. http://www.facebook.com/developers
+   8. https://www.facebook.com/developers
    9. http://developers.facebook.com/policy/
   10. http://developers.facebook.com/policy/credits
   11. http://developers.facebook.com/policy/contact

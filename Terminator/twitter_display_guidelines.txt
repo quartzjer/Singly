@@ -65,6 +65,18 @@ Requirements
             Twitter.
          b. Character count: A character count helps users counts down to
             stay within 140 characters
+    7. Images: If displaying images posted via Twitter, always display the
+       image and its associated Tweet together. The Tweet must include the
+       full text, the author's username or name with the username present,
+       and should be linked to the author's Twitter profile page at
+       http://twitter.com/username. Clicking on the image should
+       ultimately open the image url contained in the Tweet.
+         a. The Tweet text may be displayed beneath the associated image,
+            much like a caption.
+         b. If it is not possible to display the full Tweet along with the
+            image (for example because the image is being displayed as a
+            thumbnail), make the image clickable to a view where it is
+            clearly associated with the Tweet that mentions it.
 
    Exceptions to the above will be made on a case by case basis by email
    approval. Please contact [17]trademarks@twitter.com if you feel that an
