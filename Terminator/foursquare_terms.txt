@@ -129,14 +129,16 @@ foursquare Content.
    accessed through the Service.
 
    Subject to these Terms of Use, foursquare grants each user of the Site
-   and/or Service a worldwide, non-exclusive, non-sublicensable,
-   non-transferable, revocable license to use the Content, solely for
-   personal, any Content for other than personal, non-commercial use is
-   expressly prohibited without prior written permission from foursquare,
-   or from the copyright holder identified in such Content's copyright
-   notice, as applicable. You shall not sell, license, rent, or otherwise
-   use or exploit any Content for commercial (whether or not for profit)
-   use or in any way that violates any third party right.
+   and/or Service a worldwide, non-exclusive, non-sublicensable and
+   non-transferable license to use, modify and reproduce the Content,
+   solely for personal, non-commercial use. Use, reproduction,
+   modification, distribution or storage of any Content for other than
+   personal, non-commercial use is expressly prohibited without prior
+   written permission from foursquare, or from the copyright holder
+   identified in such Content's copyright notice, as applicable. You shall
+   not sell, license, rent, or otherwise use or exploit any Content for
+   commercial (whether or not for profit) use or in any way that violates
+   any third party right.
 
 User Submissions.
 
@@ -637,7 +639,7 @@ Contact.
      * [18]privacy 101
      * [19]privacy policy
      * [20]terms (New)
-     * [21][storeSmall-84553511667271b64d26d029b597f925.png]
+     * [21]store
 
    © 2011 foursquare ·
    Do none of the words on this site make sense to you? Select your
