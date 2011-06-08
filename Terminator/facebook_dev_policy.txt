@@ -5,11 +5,14 @@
    [3]Facebook Developers [4]Documentation[5]Forum[6]Showcase[7]Blog[8]My
    Apps
    Search for documenta (Submit) Search for documentation
-     * [9]Platform Policies
-          + [10]Credits Terms
-          + [11]Contact Facebook
-     * [12]Supplemental Materials
-     * [13]Open Source
+     * Platform Policies
+
+     * [9]Credits Terms
+     * [10]Contact Facebook
+
+     Supplemental Materials
+
+     Open Source
 
 Facebook Platform Policies
 
@@ -22,12 +25,12 @@ Introduction
 
    Platform applications and developers are required to comply with the
    following documents:
-     * [14]Statement of Rights and Responsibilities: requirements for
+     * [11]Statement of Rights and Responsibilities: requirements for
        anyone who uses Facebook.
-     * [15]Principles: the spirit of the law for Platform.
-     * [16]Policies: the letter of the law for Platform.
+     * [12]Principles: the spirit of the law for Platform.
+     * [13]Policies: the letter of the law for Platform.
 
-   Here are some [17]Examples and Explanations for specifics.
+   Here are some [14]Examples and Explanations for specifics.
      __________________________________________________________________
 
 Principles
@@ -58,7 +61,7 @@ Policies
        create a physical product for that user's personal and
        non-commercial use.
     5. If you exceed, or plan to exceed, any of the following thresholds
-       please [18]contact us as you may be subject to additional terms:
+       please [15]contact us as you may be subject to additional terms:
        (>5M MAU) or (>100M API calls per day) or (>50M impressions per
        day).
     6. Your website must offer an explicit "Log Out" option that also logs
@@ -96,7 +99,7 @@ Policies
     4. A user's friends' data can only be used in the context of the
        user's experience on your application.
     5. Subject to certain restrictions, including on transfer, users give
-       you their [19]basic account information when they connect with your
+       you their [16]basic account information when they connect with your
        application. For all other data obtained through use of the
        Facebook API, you must obtain explicit consent from the user who
        provided the data to us before using it for any purpose other than
@@ -152,7 +155,7 @@ Policies
        user-generated content. You must not promote, or provide content
        referencing, facilitating, containing or using, the following:
 
-    1. Alcohol-related content (unless the appropriate [20]Demographic
+    1. Alcohol-related content (unless the appropriate [17]Demographic
        Restrictions are used), or sale of tobacco products, ammunition
        and/or firearms;
     2. Content that infringes upon the rights of any third party,
@@ -163,7 +166,7 @@ Policies
     4. Illegal activity and/or illegal contests, pyramid schemes,
        sweepstakes or chain letters; if you run, reference, or facilitate
        a legally permissible sweepstakes, contest, or other promotion you
-       are subject to Facebook's [21]Promotions Guidelines;
+       are subject to Facebook's [18]Promotions Guidelines;
     5. Content that is hateful, threatening, defamatory, or pornographic;
        incites violence; or contains nudity or graphic or gratuitous
        violence.
@@ -171,10 +174,10 @@ Policies
    B. Advertisements and Cross-Promotions
     1. You must not include advertisements or promotions, cross-promote
        other applications, or provide web search functionality in content
-       distributed through [22]Facebook social channels.
+       distributed through [19]Facebook social channels.
     2. You can only utilize advertising or similar monetization related
-       products or services from companies that appear on this [23]list
-       within [24]Apps on Facebook.com.
+       products or services from companies that appear on this [20]list
+       within [21]Apps on Facebook.com.
 
    IV. Application Integration Points
     1. You must not incentivize users to use (or gate content behind the
@@ -187,7 +190,7 @@ Policies
        parameter for stream.publish), Photos (caption), Videos
        (description), Notes (title and content), Links (comment), and
        Jabber/XMPP.
-    3. If a user grants you a publishing [25]permission, you must still
+    3. If a user grants you a publishing [22]permission, you must still
        obtain consent from the user before taking any action on the user's
        behalf, such as publishing content or creating an event.
     4. You must provide users with an easily identifiable "skip" option
@@ -254,15 +257,15 @@ Policies
 
    VIII. Branding and Promotion Policy
 
-   You must follow the guidelines set forth in the [26]Facebook Brand
+   You must follow the guidelines set forth in the [23]Facebook Brand
    Resource and Permissions Center.
 
-   IX. [27]Advertising Guidelines
+   IX. [24]Advertising Guidelines
 
-   X. [28]Facebook Credits
+   X. [25]Facebook Credits
 
    Developers participating in the program for accepting credits are
-   subject to [29]these terms.
+   subject to [26]these terms.
      __________________________________________________________________
 
 Examples and Explanations
@@ -270,19 +273,20 @@ Examples and Explanations
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [30]examples and explanations will help you understand how to put
+   these [27]examples and explanations will help you understand how to put
    that into practice.
-     * [31]Advertisements — Section III.B
-     * [32]Stream Stories — Section IV
-     * [33]Terms and Trademarks — Sections I and X
+     * [28]Advertisements — Section III.B
+     * [29]Stream Stories — Section IV
+     * [30]Terms and Trademarks — Sections I and X
 
-   Updated about a week ago
+   Updated about 2 weeks ago
 
    Facebook © 2011
-   [34]About[35]Platform Policies[36]Privacy Policy
+   [31]About[32]Platform Policies[33]Privacy Policy
 
 References
 
+   Visible links
    1. http://developers.facebook.com/policy/?_fb_noscript=1
    2. http://developers.facebook.com/policy/
    3. http://developers.facebook.com/
@@ -291,31 +295,33 @@ References
    6. http://developers.facebook.com/showcase/
    7. http://developers.facebook.com/blog/
    8. https://www.facebook.com/developers
-   9. http://developers.facebook.com/policy/
-  10. http://developers.facebook.com/policy/credits
-  11. http://developers.facebook.com/policy/contact
-  12. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  13. http://developers.facebook.com/opensource/
-  14. http://www.facebook.com/terms.php
-  15. http://developers.facebook.com/policy/#principles
-  16. http://developers.facebook.com/policy/#policies
-  17. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  18. http://www.facebook.com/developers/developer_help.php?category=Thresholds
-  19. http://developers.facebook.com/policy/#definitions
-  20. http://developers.facebook.com/docs/reference/fbml/restricted-to
-  21. http://www.facebook.com/promotions_guidelines.php
-  22. http://developers.facebook.com/policy/#Facebook_social_channels
-  23. http://developers.facebook.com/adproviders/
-  24. http://developers.facebook.com/docs/guides/canvas/
-  25. http://developers.facebook.com/docs/authentication/permissions/
-  26. http://www.facebook.com/brandpermissions/logos.php
-  27. http://www.facebook.com/ad_guidelines.php
-  28. http://developers.facebook.com/policy/credits
-  29. http://developers.facebook.com/policy/credits
-  30. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  31. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/advertisements
-  32. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/stream_stories
-  33. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/terms_and_trademarks
-  34. http://www.facebook.com/platform
-  35. http://developers.facebook.com/policy/
-  36. http://www.facebook.com/policy.php
+   9. http://developers.facebook.com/policy/credits
+  10. http://developers.facebook.com/policy/contact
+  11. http://www.facebook.com/terms.php
+  12. http://developers.facebook.com/policy/#principles
+  13. http://developers.facebook.com/policy/#policies
+  14. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  15. http://www.facebook.com/developers/developer_help.php?category=Thresholds
+  16. http://developers.facebook.com/policy/#definitions
+  17. http://developers.facebook.com/docs/reference/fbml/restricted-to
+  18. http://www.facebook.com/promotions_guidelines.php
+  19. http://developers.facebook.com/policy/#Facebook_social_channels
+  20. http://developers.facebook.com/adproviders/
+  21. http://developers.facebook.com/docs/guides/canvas/
+  22. http://developers.facebook.com/docs/authentication/permissions/
+  23. http://www.facebook.com/brandpermissions/logos.php
+  24. http://www.facebook.com/ad_guidelines.php
+  25. http://developers.facebook.com/policy/credits
+  26. http://developers.facebook.com/policy/credits
+  27. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  28. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/advertisements
+  29. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/stream_stories
+  30. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/terms_and_trademarks
+  31. http://www.facebook.com/platform
+  32. http://developers.facebook.com/policy/
+  33. http://www.facebook.com/policy.php
+
+   Hidden links:
+  34. http://developers.facebook.com/policy/
+  35. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  36. http://developers.facebook.com/opensource/
