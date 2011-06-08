@@ -16,6 +16,10 @@ lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebK
 lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://www.google.com/intl/en/privacy/privacy-policy.html > google_privacy_policy.txt
 lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://mail.google.com/mail/help/program_policies.html > gmail_program_policy.txt
 lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://mail.google.com/mail/help/legal_notices.html > gmail_legal_notices.txt
+lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://developer.linkedin.com/docs/DOC-1013 > linkedin_api_tos.txt
+lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://develop.github.com/p/general.html > github_api_overview.txt
+lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://dev.fitbit.com/terms > fitbit_api_tos.txt
+
 
 
 git add *.txt
