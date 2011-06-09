@@ -1,0 +1,155 @@
+   [1][logo.png]
+     * [2]API v3
+     * [3]API v2
+     * [4]Support
+
+General API Information
+
+Schema
+
+   All API access is over HTTP and starts with
+http://github.com/api/v2/:format
+
+   where :format is one of 'json', 'xml' or 'yaml', specifying what the
+   response data should be formatted in. For all of the rest of this
+   documentation, we will be leaving off that part, since it is the same
+   for every API call.
+
+   Note: XML and YAML support is currently deprecated. Existing API calls
+   will continue to support it, but new API features will only support
+   JSON.
+
+Authentication
+
+   [5]OAuth is the preferred authentication method because tokens can be
+   limited to specific types of data, and can be revoked by users at any
+   time.
+
+   You can use HTTP Basic Auth to authenticate as a GitHub user. If you
+   want to pass your API token instead, add "/token" to the Basic Auth
+   username. Note that all requests that need authentication should
+   include the Authentication header. Unauthenticated requests will return
+   404 to prevent any sort of private information leakage.
+
+   You may also pass login and token to any URL. Note that this method of
+   authentication is deprecated.
+
+   Several of the calls will return extra data if you are authenticated as
+   a user that owns the repository or has access to it as a collaborator.
+   For example, a call to get information on one of your private
+   repositories would be:
+$ curl -u "schacon:PASSWORD" \
+  http://github.com/api/v2/json/user/show/schacon | jsonpretty
+{
+  "user": {
+    "company": "GitHub",
+    "name": "Scott Chacon",
+    "following_count": 11,
+    "blog": "http:\/\/scottchacon.com",
+    "public_repo_count": 52,
+    "public_gist_count": 45,
+    "disk_usage": 294392,
+    "collaborators": 3,
+    "plan": {
+      "name": "small",
+      "collaborators": 5,
+      "space": 1228800,
+      "private_repos": 10
+    },
+    "id": 70,
+    "owned_private_repo_count": 10,
+    "total_private_repo_count": 14,
+    "private_gist_count": 11,
+    "login": "schacon",
+    "followers_count": 182,
+    "created_at": "2008\/01\/27 09:19:28 -0800",
+    "email": "schacon@gmail.com",
+    "location": "Redwood City, CA"
+  }
+}
+
+   Here's a Basic Auth example using the API Token:
+$ curl -u "schacon/token:6ef8395fecf207165f1a82178ae1b984" \
+  http://github.com/api/v2/json/user/show/schacon | jsonpretty
+{
+  "user": {...
+
+Secure Access
+
+   You can access any API call over HTTPS, though public data can also be
+   accessed over HTTP.
+
+JSON callbacks
+
+   If you send a 'callback' variable to any call, it will wrap the result
+   JSON in that function, so you can automatically execute it.
+$ curl http://github.com/api/v2/json/issues/list/schacon/simplegit/open?callback
+=myJsFunction
+myJsFunction({"issues": [
+{"user": "schacon",
+"updated_at": "2009/04/17 16:19:02 -0700",
+"body": "something",
+"title": "new",
+"number": 2,
+"votes": 0,
+"position": 1.0,
+"created_at": "2009/04/17 16:18:50 -0700",
+"state": "open"}
+]});
+
+Limitations
+
+   Currently we are limiting API calls to 60 per minute. This may change
+   in the future, or possibly per user at some point, but if you try to
+   access the API more than 60 times in a minute, it will start giving you
+   "access denied" errors.
+     * General API Information
+     * [6]Commits API
+     * [7]Gist API
+     * [8]Issues API
+     * [9]API Libraries
+     * [10]Network API
+     * [11]OAuth
+     * [12]Object API
+     * [13]Organizations API
+     * [14]Pull Request API
+     * [15]Repositories API
+     * [16]Users API
+       This website is [17]open source. Please help us by forking the
+       project and adding to it.
+
+[18]Brought to you by GitHub
+          + [19]The GitHub Blog
+          + [20]Support
+          + [21]Contact
+          + [22]API
+       © 2011 GitHub Inc. All rights reserved
+       Powered by the [23]Dedicated Servers and [24]Cloud Computing of
+       Rackspace Hosting®
+
+References
+
+   1. http://develop.github.com/
+   2. http://developer.github.com/v3/
+   3. http://develop.github.com/
+   4. http://support.github.com/discussions/api
+   5. http://develop.github.com/p/oauth.html
+   6. http://develop.github.com/p/commits.html
+   7. http://develop.github.com/p/gist.html
+   8. http://develop.github.com/p/issues.html
+   9. http://develop.github.com/p/libraries.html
+  10. http://develop.github.com/p/network.html
+  11. http://develop.github.com/p/oauth.html
+  12. http://develop.github.com/p/object.html
+  13. http://develop.github.com/p/orgs.html
+  14. http://develop.github.com/p/pulls.html
+  15. http://develop.github.com/p/repo.html
+  16. http://develop.github.com/p/users.html
+  17. http://github.com/github/develop.github.com
+  18. http://github.com/
+  19. http://github.com/blog
+  20. http://support.github.com/
+  21. http://github.com/contact
+  22. http://developer.github.com/
+  23. http://rackspace.com/
+  24. http://rackspacecloud.com/

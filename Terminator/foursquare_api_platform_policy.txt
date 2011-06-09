@@ -70,9 +70,9 @@ III. Access/Use
        be temporarily or permanently blocked, with or without notice, and
        without Foursquare liability to you or any other person.
      * If your application and/or website requires or permits the transfer
-       of user information outside of the user’s home country (including
-       transfers to foursquare’s servers, which are in the U.S.), you must
-       ensure that such transfer complies with applicable laws.
+       of user information outside of the user‚Äôs home country (including
+       transfers to foursquare‚Äôs servers, which are in the U.S.), you
+       must ensure that such transfer complies with applicable laws.
      * If your application and/or website collects any information about
        foursquare service users or submits any user information to
        Foursquare, whether acting as a user of your application and/or
