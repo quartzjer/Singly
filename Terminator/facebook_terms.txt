@@ -545,7 +545,7 @@ References
   18. https://www.facebook.com/merchant_deals_terms.php
   19. http://developers.facebook.com/policy/
   20. http://www.facebook.com/ad_guidelines.php
-  21. http://www.facebook.com/terms.php#http://www.facebook.com/developers/
+  21. http://www.facebook.com/developers/
   22. http://developers.facebook.com/policy/
   23. http://developers.facebook.com/policy/
   24. http://www.facebook.com/privacy/
