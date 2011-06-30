@@ -292,7 +292,7 @@ References
    4. http://developers.facebook.com/docs/
    5. http://forum.developers.facebook.net/
    6. http://developers.facebook.com/blog/
-   7. https://www.facebook.com/developers
+   7. https://developers.facebook.com/apps
    8. http://developers.facebook.com/policy/credits
    9. http://developers.facebook.com/policy/contact
   10. http://www.facebook.com/terms.php
