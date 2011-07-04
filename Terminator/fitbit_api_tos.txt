@@ -348,22 +348,21 @@ Explore
      * [25]Foods by Restaurant
      * [26]Foods by Brand
      * [27]Search Foods
-     * [28]All Users
 
 Company
 
-     * [29]About Fitbit
-     * [30]Affiliates
-     * [31]Jobs
-     * [32]Fitbit Blog
-     * [33]Privacy Policy
-     * [34]Terms of Use
+     * [28]About Fitbit
+     * [29]Affiliates
+     * [30]Jobs
+     * [31]Fitbit Blog
+     * [32]Privacy Policy
+     * [33]Terms of Use
 
 Purchase Fitbit
 
    Includes Fitbit Tracker, Base Station & Software
 
-[35]Buy Now »
+[34]Buy Now »
 
    product
    © 2011 Fitbit, Inc. All rights reserved.
@@ -398,15 +397,14 @@ References
   25. http://www.fitbit.com/foods/restaurants
   26. http://www.fitbit.com/foods/brands
   27. http://www.fitbit.com/foods/search
-  28. http://www.fitbit.com/users/index
-  29. http://www.fitbit.com/company
-  30. http://www.fitbit.com/affiliate
-  31. http://fitbit.theresumator.com/apply
-  32. http://blog.fitbit.com/
-  33. http://www.fitbit.com/privacy
-  34. http://www.fitbit.com/terms
-  35. http://www.fitbit.com/product
+  28. http://www.fitbit.com/company
+  29. http://www.fitbit.com/affiliate
+  30. http://fitbit.theresumator.com/apply
+  31. http://blog.fitbit.com/
+  32. http://www.fitbit.com/privacy
+  33. http://www.fitbit.com/terms
+  34. http://www.fitbit.com/product
 
    Hidden links:
-  36. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
-  37. http://wiki.fitbit.com/display/API
+  35. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
+  36. http://wiki.fitbit.com/display/API
