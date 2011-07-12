@@ -1,24 +1,20 @@
-   [1]dev@twitter
-     * [2]Begin
-     * [3]Documentation
-     * [4]Discussions
-     * [5]Sign in
+   [1]Skip to Main Content Area
+   [2]Developers Search_________ Search
+     * [3]API Status
+     * [4]Blog
+     * [5]Discussions
+     * [6]Documentation
+          + [7]Overview
+          + [8]REST API
+          + [9]Streaming API
+          + [10]Twitter for Websites
+     * [11]Sign in
 
-   ____________________ Search
-
-[6]Introducing the Follow Button
-
-   Attention!       [7]May 31, 2011 Get all the details around our new
-   [8]Follow Button    [9]x
-
-   Read the detailed documentation about our Follow Button [10]here.
-   [clouds.png]
+   [12]Home → [13]Documentation
 
 Display Guidelines
 
-   [11]Home » [12]Supplemental Documentation » Display Guidelines
-
-   [13]Looking for Broadcast or Offline display guidelines? »
+   [14]Looking for Broadcast or Offline display guidelines? »
    The Anatomy of a Tweet
 
 Requirements
@@ -26,7 +22,7 @@ Requirements
     1. Tweet Author: The author's name should be presented as the author's
        Twitter username or name with the username present. The name should
        be linked to the user's Twitter profile page at
-       http://twitter.com/username, made actionable using a [14]Web
+       http://twitter.com/username, made actionable using a [15]Web
        Intent, or linked within your service's internal representation of
        the author's profile, which should contain a link to the user's
        Twitter profile page. The author's username should be styled
@@ -35,7 +31,7 @@ Requirements
        symbol.
     2. @mentions: Mentions of other Twitter usernames must link to the
        profile page at http://twitter.com/username, made actionable using
-       a [15]Web Intent, or linked within your service's internal
+       a [16]Web Intent, or linked within your service's internal
        representation of the user's profile, which should contain a link
        to the username's Twitter profile page.
     3. Hashtags: If any hashtags ('#' followed by a string of characters)
@@ -50,7 +46,7 @@ Requirements
        differentiated (colors or underline).
     5. Branding: If one Tweet is displayed independently, it must be
        labeled with either the Twitter wordmark or the Twitter Bird
-       (consult our [16]Image Resources), or with text reading "Content
+       (consult our [17]Image Resources), or with text reading "Content
        from Twitter." If multiple Tweets are grouped, the Twitter wordmark
        or "Content from Twitter" must be placed in a close proximity to
        the grouped content.
@@ -79,7 +75,7 @@ Requirements
             clearly associated with the Tweet that mentions it.
 
    Exceptions to the above will be made on a case by case basis by email
-   approval. Please contact [17]trademarks@twitter.com if you feel that an
+   approval. Please contact [18]trademarks@twitter.com if you feel that an
    exception is necessary.
 
 Suggestions
@@ -102,7 +98,7 @@ Suggestions
        be available from a Tweet, and should be displayed with their
        respective action icons. They should be arranged left to right as
        Reply, Retweet, Favorite. Easily accomplish this by utilizing
-       [18]Web Intents.
+       [19]Web Intents.
     D. Source: Along with the timestamp and permalink, you may choose to
        display the client or means by which the Tweet was posted (e.g.
        "from web" or "from Twitter for iPhone"). If client is supplied,
@@ -129,62 +125,52 @@ Suggestions
        that returns search results for Tweets, we recommend that the term
        links back to the relevant search page within Twitter.
     More information
-          + [19]Web Intents
-          + [20]Guidelines for Use of Tweets in Broadcast or Other Offline
+          + [20]Web Intents
+          + [21]Guidelines for Use of Tweets in Broadcast or Other Offline
             Media
-          + [21]Twitter Logos
-          + [22][bird_16_blue.png] Birds, [favorite.png] Favorite,
+          + [22]Twitter Logos
+          + [23][bird_16_blue.png] Birds, [favorite.png] Favorite,
             [reply.png] Reply, [retweet.png] Retweet Icons & Sprites
        For more on how to use the Twitter marks, see
-       [23]http://support.twitter.com/forums/26257/entries/77641
-          + © 2011 Twitter
-          + [24]About Us
-          + [25]Contact
-          + [26]Blog
-          + [27]Status
-          + [28]API Status
-          + [29]Resources
-          + [30]Business
-          + [31]Help
-          + [32]Jobs
-          + [33]Terms
-          + [34]Privacy
-          + [35]@TwitterAPI
+       [24]http://support.twitter.com/forums/26257/entries/77641
+       [25]Follow @twitterapi
+          + [26]API Terms
+          + [27]API Status
+          + [28]Blog
+          + [29]Discussions
+          + [30]Documentation
+          + [31]A Drupal community site supported by Acquia
 
 References
 
-   1. http://dev.twitter.com/
-   2. http://dev.twitter.com/start
-   3. http://dev.twitter.com/doc
-   4. http://dev.twitter.com/discuss
-   5. http://dev.twitter.com/login
-   6. http://twitter.com/about/resources/followbutton
-   7. http://twitter.com/about/resources/followbutton
-   8. http://twitter.com/about/resources/followbutton
-   9. http://dev.twitter.com/pages/display_guidelines
-  10. http://dev.twitter.com/pages/follow_button
-  11. http://dev.twitter.com/
-  12. http://dev.twitter.com/doc
-  13. http://support.twitter.com/entries/114233
-  14. http://dev.twitter.com/pages/intents
-  15. http://dev.twitter.com/pages/intents
-  16. http://dev.twitter.com/pages/image-resources
-  17. mailto:trademarks@twitter.com
-  18. http://dev.twitter.com/pages/intents
-  19. http://dev.twitter.com/pages/intents
-  20. http://support.twitter.com/entries/114233
-  21. http://twitter.com/about/resources/logos
-  22. http://dev.twitter.com/pages/image-resources
-  23. http://support.twitter.com/forums/26257/entries/77641
-  24. http://twitter.com/about#about
-  25. http://twitter.com/about#contact
-  26. http://blog.twitter.com/
-  27. http://status.twitter.com/
-  28. http://dev.twitter.com/status
-  29. http://twitter.com/about/resources
-  30. http://business.twitter.com/twitter101
-  31. http://support.twitter.com/
-  32. http://twitter.com/jobs
-  33. http://twitter.com/tos
-  34. http://twitter.com/privacy
-  35. http://twitter.com/twitterapi
+   1. https://dev.twitter.com/terms/display-guidelines#content-main
+   2. https://dev.twitter.com/
+   3. https://dev.twitter.com/status
+   4. https://dev.twitter.com/blog
+   5. https://dev.twitter.com/discussions
+   6. https://dev.twitter.com/docs
+   7. https://dev.twitter.com/docs
+   8. https://dev.twitter.com/docs/api
+   9. https://dev.twitter.com/docs/streaming-api
+  10. https://dev.twitter.com/docs/twitter-for-websites
+  11. https://dev.twitter.com/user/login?destination=node%2F142
+  12. https://dev.twitter.com/
+  13. https://dev.twitter.com/docs
+  14. http://support.twitter.com/entries/114233
+  15. https://dev.twitter.com/pages/intents
+  16. https://dev.twitter.com/pages/intents
+  17. https://dev.twitter.com/pages/image-resources
+  18. mailto:trademarks@twitter.com
+  19. https://dev.twitter.com/pages/intents
+  20. https://dev.twitter.com/pages/intents
+  21. http://support.twitter.com/entries/114233
+  22. http://twitter.com/about/resources/logos
+  23. https://dev.twitter.com/pages/image-resources
+  24. http://support.twitter.com/forums/26257/entries/77641
+  25. http://twitter.com/twitterapi
+  26. https://dev.twitter.com/terms/api-terms
+  27. https://dev.twitter.com/status
+  28. https://dev.twitter.com/blog
+  29. https://dev.twitter.com/discussions
+  30. https://dev.twitter.com/docs
+  31. http://www.acquia.com/
