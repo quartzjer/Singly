@@ -707,9 +707,9 @@ Incoming Links
 
 References
 
-   1. http://developer.linkedin.com/opensearch.xml;jsessionid=C4C875D15F9F132B893FAACDA694CBD6.node0
-   2. http://developer.linkedin.com/community/feeds/document-history/DOC-1013;jsessionid=C4C875D15F9F132B893FAACDA694CBD6.node0
-   3. http://developer.linkedin.com/community/feeds/document-comments/DOC-1013;jsessionid=C4C875D15F9F132B893FAACDA694CBD6.node0
+   1. http://developer.linkedin.com/opensearch.xml;jsessionid=DBBB6005F89C35EC733D52F4A3D4D57D.node0
+   2. http://developer.linkedin.com/community/feeds/document-history/DOC-1013;jsessionid=DBBB6005F89C35EC733D52F4A3D4D57D.node0
+   3. http://developer.linkedin.com/community/feeds/document-comments/DOC-1013;jsessionid=DBBB6005F89C35EC733D52F4A3D4D57D.node0
    4. http://developer.linkedin.com/login.jspa
    5. http://developer.linkedin.com/
    6. http://developer.linkedin.com/
@@ -735,7 +735,7 @@ References
   26. http://developer.linkedin.com/docs/DOC-1286
   27. http://developer.linkedin.com/docs/DOC-1288
   28. http://developer.linkedin.com/community/apis
-  29. http://developer.linkedin.com/community/apis;jsessionid=C4C875D15F9F132B893FAACDA694CBD6.node0?view=documents
+  29. http://developer.linkedin.com/community/apis;jsessionid=DBBB6005F89C35EC733D52F4A3D4D57D.node0?view=documents
   30. http://www.linkedin.com/static?key=user_agreement
   31. http://www.linkedin.com/static?key=privacy_policy
   32. http://developer.linkedin.com/docs/DOC-1091
@@ -746,8 +746,8 @@ References
   37. http://www.linkedin.com/static?key=privacy_policy
   38. javascript:;
   39. javascript:void(0);
-  40. http://developer.linkedin.com/docs/DOC-1013.pdf;jsessionid=C4C875D15F9F132B893FAACDA694CBD6.node0
-  41. http://developer.linkedin.com/;jsessionid=C4C875D15F9F132B893FAACDA694CBD6.node0docs/DOC-1013?decorator=print
+  40. http://developer.linkedin.com/docs/DOC-1013.pdf;jsessionid=DBBB6005F89C35EC733D52F4A3D4D57D.node0
+  41. http://developer.linkedin.com/;jsessionid=DBBB6005F89C35EC733D52F4A3D4D57D.node0docs/DOC-1013?decorator=print
   42. http://developer.linkedin.com/message/1215#1215
   43. http://developer.linkedin.com/message/1259#1259
   44. http://developer.linkedin.com/message/1285#1285
