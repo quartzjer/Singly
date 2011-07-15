@@ -618,58 +618,58 @@ Documentation
 
 References
 
-   1. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-   2. https://developer.linkedin.com/documents/branding-guidelines
-   3. https://developer.linkedin.com/linkedin-guidelines
-   4. https://developer.linkedin.com/documents/linkedin-apis-terms-use#main-content
-   5. https://developer.linkedin.com/user/login
-   6. https://developer.linkedin.com/
-   7. https://developer.linkedin.com/
-   8. https://developer.linkedin.com/plugins
-   9. https://developer.linkedin.com/plugins
-  10. https://developer.linkedin.com/plugins/share-button
-  11. https://developer.linkedin.com/plugins/member-profile-plugin
-  12. https://developer.linkedin.com/plugins/company-insider-plugin
-  13. https://developer.linkedin.com/plugins/company-profile-plugin
-  14. https://developer.linkedin.com/documents/creating-member-profile-plugin
-  15. https://developer.linkedin.com/plugins/recommend-button
-  16. https://developer.linkedin.com/documents/sign-linkedin
-  17. https://developer.linkedin.com/apis
-  18. https://developer.linkedin.com/apis
-  19. https://developer.linkedin.com/rest
-  20. https://developer.linkedin.com/javascript
-  21. https://developer.linkedin.com/forum
-  22. https://developer.linkedin.com/blog
-  23. https://developer.linkedin.com/forums/plugins
-  24. https://developer.linkedin.com/forums/javascript
-  25. https://developer.linkedin.com/forums/rest
+   1. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+   2. http://developer.linkedin.com/documents/branding-guidelines
+   3. http://developer.linkedin.com/linkedin-guidelines
+   4. http://developer.linkedin.com/documents/linkedin-apis-terms-use#main-content
+   5. http://developer.linkedin.com/user/login
+   6. http://developer.linkedin.com/
+   7. http://developer.linkedin.com/
+   8. http://developer.linkedin.com/plugins
+   9. http://developer.linkedin.com/plugins
+  10. http://developer.linkedin.com/plugins/share-button
+  11. http://developer.linkedin.com/plugins/member-profile-plugin
+  12. http://developer.linkedin.com/plugins/company-insider-plugin
+  13. http://developer.linkedin.com/plugins/company-profile-plugin
+  14. http://developer.linkedin.com/documents/creating-member-profile-plugin
+  15. http://developer.linkedin.com/plugins/recommend-button
+  16. http://developer.linkedin.com/documents/sign-linkedin
+  17. http://developer.linkedin.com/apis
+  18. http://developer.linkedin.com/apis
+  19. http://developer.linkedin.com/rest
+  20. http://developer.linkedin.com/javascript
+  21. http://developer.linkedin.com/forum
+  22. http://developer.linkedin.com/blog
+  23. http://developer.linkedin.com/forums/plugins
+  24. http://developer.linkedin.com/forums/javascript
+  25. http://developer.linkedin.com/forums/rest
   26. http://www.linkedin.com/static?key=user_agreement
   27. http://www.linkedin.com/static?key=privacy_policy
-  28. https://developer.linkedin.com/node/1091
-  29. https://developer.linkedin.com/node/1101
+  28. http://developer.linkedin.com/node/1091
+  29. http://developer.linkedin.com/node/1101
   30. http://www.linkedin.com/
   31. http://developer.LinkedIn.com/
   32. mailto:support@linkedin.com
   33. http://www.linkedin.com/static?key=privacy_policy
-  34. https://developer.linkedin.com/documents/branding-guidelines
-  35. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  36. https://developer.linkedin.com/documents/authentication
-  37. https://developer.linkedin.com/documents/people-and-connections
-  38. https://developer.linkedin.com/documents/groups
-  39. https://developer.linkedin.com/documents/companies
-  40. https://developer.linkedin.com/documents/jobs
-  41. https://developer.linkedin.com/documents/job-posting
-  42. https://developer.linkedin.com/documents/social-stream
-  43. https://developer.linkedin.com/documents/communications
-  44. https://developer.linkedin.com/documents/libraries-and-tools
-  45. https://developer.linkedin.com/linkedin-guidelines
-  46. https://developer.linkedin.com/documents/branding-guidelines
-  47. https://developer.linkedin.com/documents/linkedin-apis-terms-use
-  48. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  49. https://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
-  50. https://developer.linkedin.com/reference
+  34. http://developer.linkedin.com/documents/branding-guidelines
+  35. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  36. http://developer.linkedin.com/documents/authentication
+  37. http://developer.linkedin.com/documents/people-and-connections
+  38. http://developer.linkedin.com/documents/groups
+  39. http://developer.linkedin.com/documents/companies
+  40. http://developer.linkedin.com/documents/jobs
+  41. http://developer.linkedin.com/documents/job-posting
+  42. http://developer.linkedin.com/documents/social-stream
+  43. http://developer.linkedin.com/documents/communications
+  44. http://developer.linkedin.com/documents/libraries-and-tools
+  45. http://developer.linkedin.com/linkedin-guidelines
+  46. http://developer.linkedin.com/documents/branding-guidelines
+  47. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  48. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  49. http://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
+  50. http://developer.linkedin.com/reference
   51. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
   52. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
   53. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
-  54. https://developer.linkedin.com/documents/linkedin-apis-terms-use
-  55. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  54. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  55. http://developer.linkedin.com/documents/linkedin-platform-guidelines
