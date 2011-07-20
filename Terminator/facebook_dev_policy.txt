@@ -149,7 +149,7 @@ Policies
        obligation with you to keep Facebook User IDs confidential.
     8. If you need an anonymous unique identifier to share outside your
        application with third parties such as content partners,
-       advertisers, or ad networks, you must use our [19]mechansim. You
+       advertisers, or ad networks, you must use our [19]mechanism. You
        must never share this anonymous unique identifier with a data
        broker, information broker, or any other service that we may define
        as such under our sole discretion.
@@ -305,7 +305,7 @@ Examples and Explanations
      * [32]Stream Stories — Section IV
      * [33]Terms and Trademarks — Sections I and X
 
-   Updated about 2 weeks ago
+   Updated 5 hours ago
 
    Facebook © 2011
    [34]About[35]Platform Policies[36]Privacy Policy
