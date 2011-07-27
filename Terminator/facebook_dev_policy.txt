@@ -266,12 +266,12 @@ Policies
     1. By "Application" we mean canvas page application, Platform
        integration, or any other technical integration we have assigned an
        application identification number.
-    2. By "Facebook social channel" we mean Application Info Section,
-       Application tab, Feed, requests (including invites), inbox
-       attachments, Chat, Bookmarks, or any other feature of a user
-       profile or Facebook communication channel in which or through which
-       an application can provide, display, or deliver content directed
-       at, on behalf of, or by permission of a user.
+    2. By "Facebook social channel" we mean Application Info Section, Page
+       Tab, Feed, Requests (including invites), inbox attachments, Chat,
+       Bookmarks, or any other feature of a user profile or Facebook
+       communication channel in which or through which an application can
+       provide, display, or deliver content directed at, on behalf of, or
+       by permission of a user.
     3. By “basic account information” we mean: name, email, gender,
        birthday, current city, and profile picture URL.
     4. By "Facebook Platform Terms and Policies" we mean the Statement of
@@ -301,14 +301,11 @@ Examples and Explanations
    Platform Policies will help you do this by explaining what’s required;
    these [30]examples and explanations will help you understand how to put
    that into practice.
-     * [31]Advertisements — Section III.B
-     * [32]Stream Stories — Section IV
-     * [33]Terms and Trademarks — Sections I and X
 
-   Updated last Tuesday
+   Updated 7 hours ago
 
    Facebook © 2011
-   [34]About[35]Platform Policies[36]Privacy Policy
+   [31]About[32]Platform Policies[33]Privacy Policy
 
 References
 
@@ -343,14 +340,11 @@ References
   28. http://developers.facebook.com/policy/credits
   29. http://developers.facebook.com/policy/credits
   30. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  31. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/advertisements
-  32. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/stream_stories
-  33. http://developers.facebook.com/docs/guides/policy/examples_and_explanations/terms_and_trademarks
-  34. http://www.facebook.com/platform
-  35. http://developers.facebook.com/policy/
-  36. http://www.facebook.com/policy.php
+  31. http://www.facebook.com/platform
+  32. http://developers.facebook.com/policy/
+  33. http://www.facebook.com/policy.php
 
    Hidden links:
-  37. http://developers.facebook.com/policy/
-  38. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  39. http://developers.facebook.com/opensource/
+  34. http://developers.facebook.com/policy/
+  35. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  36. http://developers.facebook.com/opensource/

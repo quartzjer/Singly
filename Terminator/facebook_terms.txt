@@ -566,9 +566,9 @@ References
   41. http://www.facebook.com/legal/copyright.php?howto_appeal=1
   42. http://www.facebook.com/terms_pages.php
   43. http://www.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Fterms.php
-  44. http://www.facebook.com/mobile?ref=pf
+  44. http://www.facebook.com/mobile/?ref=pf
   45. http://www.facebook.com/find-friends?ref=pf
-  46. http://www.facebook.com/badges?ref=pf
+  46. http://www.facebook.com/badges/?ref=pf
   47. http://www.facebook.com/directory/people/
   48. http://www.facebook.com/directory/pages/
   49. http://www.facebook.com/facebook
