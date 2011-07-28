@@ -17,7 +17,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: July 1, 2011
+   Date of Last Revision: July 27, 2011
 
    Facebook Platform is an extension of Facebook, whose mission is to give
    people the power to share and make the world more open and connected.
@@ -110,6 +110,8 @@ Policies
        not reward users with virtual currency for engaging in passive
        actions offered by third parties, such as watching a video, playing
        a mini-game, or taking an anonymous poll.
+   11. Apps on Facebook may not integrate, link to, promote, distribute,
+       or redirect to any app on any other competing social platform.
 
    II. Storing and Using Data You Receive From Us
     1. You will only request the data you need to operate your
@@ -236,6 +238,10 @@ Policies
             Page.
             d. You must not obscure or cover elements of our social
             plugins, such as the Like button or Like box plugin.
+            e. Ad networks, ad exchanges, and data brokers must not use
+            Facebook’s Platform, logos, and trademarks (including, but not
+            limited to, Platform APIs, social plugins, the Share button,
+            and the F logo).
     7. Facebook messaging (i.e., email sent to an @facebook.com address)
        is designed for communication between users, and not a channel for
        applications to communicate directly with users.
@@ -302,7 +308,7 @@ Examples and Explanations
    these [30]examples and explanations will help you understand how to put
    that into practice.
 
-   Updated 7 hours ago
+   Updated 2 hours ago
 
    Facebook © 2011
    [31]About[32]Platform Policies[33]Privacy Policy
