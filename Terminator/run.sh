@@ -19,6 +19,7 @@ lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebK
 lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://developer.linkedin.com/docs/DOC-1013 > linkedin_api_tos.txt
 lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://develop.github.com/p/general.html > github_api_overview.txt
 lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://dev.fitbit.com/terms > fitbit_api_tos.txt
+lynx -dump -useragent="Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13" http://developer.bodymedia.com/apps/tos > bodymedia_app_tos.txt
 
 
 
