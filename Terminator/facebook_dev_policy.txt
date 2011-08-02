@@ -298,6 +298,21 @@ Policies
 
    Developers participating in the program for accepting credits are
    subject to [29]these terms.
+
+   XI. Ads API
+    1. You must use separate accounts for each client and use our
+       multi-client manager functionality to structure your client
+       accounts.
+    2. You may offer a white-label version of your application to third
+       parties, but may only do so by creating a unique application for
+       each third party (or requiring each third party to create their own
+       application), and then requesting that we grant these applications
+       access to our Ads API. If you create a unique application on behalf
+       of the third party, you must include a required field for your
+       clients to agree to Facebook Terms and Policies.
+    3. You must, upon request, provide advertisers with a report on their
+       ad spend, and your report must itemize how much advertisers spend
+       on Facebook ads and fees for your service.
      __________________________________________________________________
 
 Examples and Explanations
@@ -308,7 +323,7 @@ Examples and Explanations
    these [30]examples and explanations will help you understand how to put
    that into practice.
 
-   Updated on Wednesday
+   Updated 13 hours ago
 
    Facebook © 2011
    [31]About[32]Platform Policies[33]Privacy Policy
