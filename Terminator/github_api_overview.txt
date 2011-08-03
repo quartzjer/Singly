@@ -118,14 +118,32 @@ Limitations
        This website is [17]open source. Please help us by forking the
        project and adding to it.
 
-[18]Brought to you by GitHub
-          + [19]The GitHub Blog
-          + [20]Support
-          + [21]Contact
-          + [22]API
-       © 2011 GitHub Inc. All rights reserved
-       Powered by the [23]Dedicated Servers and [24]Cloud Computing of
-       Rackspace Hosting®
+GitHub Links
+         GitHub
+          + [18]About
+          + [19]Blog
+          + [20]Contact & Support
+          + [21]Training
+          + [22]Site Status
+         Tools
+          + [23]GitHub for Mac
+          + [24]Gist
+          + [25]Enterprise Install
+          + [26]Job Board
+         Extras
+          + [27]Shop
+          + [28]The Octodex
+         Documentation
+          + [29]GitHub Help
+          + [30]Developer API
+          + [31]GitHub Flavored Markdown
+          + [32]GitHub Pages
+          + [33]Terms of Service
+          + [34]Privacy
+          + [35]Security
+       © year GitHub Inc. All rights reserved.
+       [36]Dedicated Server Powered by the [37]Dedicated Servers and
+       [38]Cloud Computing of Rackspace Hosting®
 
 References
 
@@ -146,10 +164,24 @@ References
   15. http://develop.github.com/p/repo.html
   16. http://develop.github.com/p/users.html
   17. http://github.com/github/develop.github.com
-  18. http://github.com/
-  19. http://github.com/blog
-  20. http://support.github.com/
-  21. http://github.com/contact
-  22. http://developer.github.com/
-  23. http://rackspace.com/
-  24. http://rackspacecloud.com/
+  18. https://github.com/about
+  19. https://github.com/blog
+  20. https://github.com/contact
+  21. https://github.com/training
+  22. http://status.github.com/
+  23. http://mac.github.com/
+  24. http://develop.github.com/p/<%=%20GitHub.gist_url%20%>
+  25. http://fi.github.com/
+  26. http://jobs.github.com/
+  27. http://shop.github.com/
+  28. http://octodex.github.com/
+  29. http://help.github.com/
+  30. http://developer.github.com/
+  31. http://github.github.com/github-flavored-markdown/
+  32. http://pages.github.com/
+  33. http://help.github.com/terms-of-service/
+  34. http://help.github.com/privacy-policy/
+  35. http://help.github.com/security/
+  36. http://www.rackspace.com/
+  37. http://www.rackspace.com/
+  38. http://www.rackspacecloud.com/

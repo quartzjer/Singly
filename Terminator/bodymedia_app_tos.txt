@@ -1,0 +1,238 @@
+   BodyMedia
+   ____________________ Search
+     * [1]Sign In
+     * [2]Register
+
+   BODYMEDIA, INC. ("BodyMedia") API TERMS OF USE ("Terms of Use")
+
+   These Terms of Use set forth the terms of access to and use of the
+   application programming interface made available by BodyMedia ("API"),
+   and the data transmitted through the API ("Content"). These Terms of
+   Use also incorporate by reference the terms and conditions of
+   BodyMedia's [3]Display, Branding and Attribution Policy, [4]Data Use
+   Policy, and the [5]BodyMedia Website Terms and Conditions, (and any
+   amendments thereto) (collectively, "API Agreement"):
+
+   By accessing or using the API or Content, you agree to be bound by the
+   API Agreement. If you access or use the API or Content on behalf of an
+   entity, you represent that you have authority to bind such entity and
+   its affiliates to the API Agreement. If you do not have authority, or
+   if you do not agree with the terms of the API Agreement, you may not
+   access or use the API or Content. You should read and print a copy of
+   the documents included in the API Agreement for your records. In the
+   event there is a conflict between such documents, these Terms of Use
+   shall govern. BodyMedia reserves the right to modify or revise the API
+   Agreement at any time. You should visit BodyMedia's website
+   periodically to review the documents comprising the API Agreement and
+   check for updates. Your continued use of the API or the Content after
+   the effective date of any such changes will constitute your acceptance
+   of and agreement to such changes. BodyMedia may, in its sole
+   discretion, release subsequent versions of the API and require you to
+   obtain and use the most current version.
+
+   1. Purpose. The API is made available by BodyMedia to enable
+   BodyMedia's partners and approved licensees to create applications that
+   utilize the Content on a non-commercial non-distribution basis, unless
+   commercial terms are separately agreed upon in writing by you and
+   BodyMedia ("Purpose").
+
+   2. Registration. In order to access or use the API, you must first
+   register for and receive a valid BodyMedia license key ("License Key").
+   There are two types of License Keys. One is designed to be used
+   primarily for mobile devices and external or distributed applications
+   ("Mobile and External App Key"), and one is to be used strictly by
+   commercial partners of BodyMedia to access the API via their own site
+   or portal strictly for server to server communication ("Member Service
+   Partner Key"). You hereby agree not to use the Member Service Partner
+   Key in any mobile devices or external or distributed applications or
+   for anything other than server to server communication. You are only
+   allowed to register for and use one License Key, unless otherwise
+   permitted by BodyMedia in writing. All requests sent to the API
+   requesting data must reference your valid License Key. You agree to
+   keep your License Key confidential and not share it with any third
+   party, and you shall not permit any end-user, customer or third party
+   to distribute any License Key provided by or on behalf of BodyMedia.
+   BodyMedia shall have the right to audit your use of the License Keys
+   and to disable and/or modify any License Key being utilized in
+   violation of these Terms of Use.
+
+   3. License. Subject to the terms set forth in the [6]Display, Branding
+   and Attribution Policy and elsewhere in the API Agreement, BodyMedia
+   hereby grants you a non-exclusive, revocable, non-sublicensable,
+   non-transferable license to (i) access and use the API to receive the
+   Content; (ii) display the Content via your application; and (iii)
+   reproduce and display the BodyMedia name and logo ("Marks") solely in
+   connection with the Purpose. You may not use the API, Content, or Marks
+   for any other purpose without BodyMedia's prior written consent. These
+   license rights are further limited by the restrictions set forth
+   elsewhere in the API Agreement, and all rights not expressly granted to
+   you hereunder are reserved by BodyMedia. If you desire to use the API
+   for commercial purposes, please contact BodyMedia for further
+   discussion.
+
+   4. Restrictions. You represent and warrant that you have secured all
+   necessary rights from any third party with respect to the activities
+   contemplated herein, including, without limitation, any participation
+   in third party authorized developer programs for third party platforms
+   or devices. You shall not use the API or the Content in any way in
+   connection with any product or service that competes with BodyMedia.
+   Except as otherwise expressly provided herein, you may not, nor may you
+   assist or enable others to (i) sell, sublicense, rent, lease or lend
+   any rights granted to it pursuant to these Terms of Use; (ii) alter,
+   modify, create derivative works of, reverse engineer, decompile, or
+   disassemble the API or the Content; (iii) decrypt or attempt to decrypt
+   any data obtained from or using the API; (iv) use the API to, or design
+   or develop software to, upload or otherwise transmit any material
+   containing software viruses, worms, Trojan horses or other computer
+   code, files or programs designed to interrupt, destroy, or limit the
+   functionality of any software or hardware; (v) modify the Content,
+   bulk-download, resell or distribute the Content; (vi) create or
+   disclose metrics (general or otherwise) about, or perform any
+   statistical analysis of, the Content; (vii) use the API or Content on
+   behalf of any third party; (viii) display the Marks or Content in a
+   manner that could reasonably imply an endorsement, relationship or
+   affiliation with or sponsorship between you or a third party and
+   BodyMedia, other than your permitted use of the API under the terms of
+   the API Agreement; (ix) do anything that adversely impacts BodyMedia's
+   servers or impacts the behavior of other applications using the API;
+   (x) display the Content on any site that disparages BodyMedia or its
+   products or services, or infringes any BodyMedia intellectual property
+   or other rights; (xi) make marketing claims without BodyMedia's prior
+   written approval; or (xii) use the API or Content in any manner or for
+   any purpose that may violate any law or regulation, or any right of any
+   person including, but not limited to, intellectual property rights
+   and/or rights of privacy, or which otherwise may be harmful to
+   BodyMedia, its providers, its suppliers, end users, or your end users,
+   or cause a violation by BodyMedia of the terms and conditions of its
+   Privacy Policy.
+
+   5. Proprietary Rights and Confidentiality. The API, Content, Marks, and
+   all intellectual property rights contained in the foregoing, any
+   modifications to the foregoing (whether created by BodyMedia or you),
+   and the data obtained from using the API, are and will at all times
+   remain the sole and exclusive property of BodyMedia and its licensors
+   and are protected by applicable intellectual property laws and treaties
+   (whether those rights happen to be registered or not, and wherever in
+   the world those rights may exist.). You agree that at no time during or
+   after the termination of the API Agreement will you attempt to register
+   any trademarks (including domain names) that are confusingly similar in
+   any way to those of the Marks. The API and Content are licensed, not
+   sold, and BodyMedia reserves all rights not expressly granted to you
+   hereunder. You may not represent that any applications created in
+   connection with the API are certified or otherwise endorsed by
+   BodyMedia. You shall maintain in strict confidence all non-public
+   information of BodyMedia disclosed in connection with the API
+   Agreement, including, without limitation, any and all know-how, trade
+   secrets, algorithms, technical information and business information
+   (the "Confidential Information"), and shall only use such Confidential
+   Information in connection with the Purpose.
+
+   6. Termination. BodyMedia reserves the right, in its sole discretion
+   (for any reason or for no reason) and at any time without notice to
+   you, to change, suspend or discontinue the API and/or suspend or
+   terminate your rights under the API Agreement to access, use and/or
+   display (as applicable) the API, Marks and/or any Content. Any
+   termination of the API Agreement will also immediately terminate the
+   licenses granted to you hereunder. Such change, suspension or
+   termination of the API may cause your existing services using the API
+   to stop functioning properly. Upon any termination of the API
+   Agreement, you will promptly delete and remove all calls to the API
+   from all web pages, scripts, applications, and other software in your
+   possession or under your control; promptly destroy and remove from all
+   computers, hard drives, networks and other storage media all copies of
+   the API, Marks and/or any Content; and you will promptly certify in
+   writing to BodyMedia that such actions have been taken.
+
+   7. Indemnity. You agree that your use of the API is at your own risk
+   and you agree to hold harmless, defend (subject to BodyMedia's right to
+   participate with counsel it selects) and indemnify BodyMedia and its
+   subsidiaries, affiliates, officers, agents, employees and suppliers
+   from and against any and all claims, damages, liabilities, costs and
+   fees (including reasonable attorneys' fee) arising from, or in any way
+   related to your or your end users' use or implementation of the API or
+   any Content, including, without limitation, use of the License Keys not
+   in accordance with the restrictions set forth in these Terms of Use
+   and/or any commercial agreement entered into with BodyMedia in
+   connection with the use of a License Key. You will not agree to any
+   settlement that imposes any obligation on BodyMedia without BodyMedia's
+   prior consent.
+
+   8. No Warranty. THE API, MARKS AND CONTENT ARE PROVIDED "AS IS", "WITH
+   ALL FAULTS" AND "AS AVAILABLE" WITHOUT WARRANTY, OF ANY KIND AND AT
+   YOUR SOLE RISK. EXCEPT AS SPECIFICALLY SET FORTH HEREIN, BODYMEDIA
+   DISCLAIMS ALL WARRANTIES, REPRESENTATIONS, CONDITIONS, AND DUTIES,
+   WHETHER EXPRESS, IMPLIED OR STATUTORY, REGARDING THE API, MARKS AND ANY
+   CONTENT, INCLUDING, WITHOUT LIMITATION, ANY AND ALL IMPLIED WARRANTIES
+   OF MERCHANTABILITY, ACCURACY, RESULTS OF USE, RELIABILITY, FITNESS FOR
+   A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FURTHER, BODYMEDIA HEREBY
+   DISCLAIMS ANY WARRANTY THAT YOUR USE OF THE API WILL BE UNINTERRUPTED,
+   SECURE, TIMELY OR ERROR FREE. FOR THE AVOIDANCE OF DOUBT, YOU
+   ACKNOWLEDGE AND AGREE THAT THE API AGREEMENT DOES NOT ENTITLE YOU TO
+   ANY SUPPORT FOR THE API.
+
+   9. Limitation of Liability. YOU AGREE THAT BODYMEDIA SHALL HAVE NO
+   LIABILITY ARISING FROM OR BASED ON YOUR USE OF THE API OR THE CONTENT,
+   INCLUDING, WITHOUT LIMITATION, ANY ADVICE AND/OR FEEDBACK BASED ON THE
+   CONTENT. REGARDLESS OF WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF ITS
+   ESSENTIAL PURPOSE OR OTHERWISE, IN NO EVENT SHALL BODYMEDIA OR ITS
+   SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, EMPLOYEES AND SUPPLIERS BE
+   LIABLE TO YOU OR TO ANY THIRD PARTY UNDER ANY TORT, CONTRACT,
+   NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY
+   LOST PROFITS, LOST OR CORRUPTED DATA, COMPUTER FAILURE OR MALFUNCTION,
+   INTERRUPTION OF BUSINESS, OR OTHER SPECIAL, INDIRECT, INCIDENTAL OR
+   CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF THE USE OR INABILITY
+   TO USE THE API, EVEN IF BODYMEDIA HAS BEEN ADVISED OF THE POSSIBILITY
+   OF SUCH LOSS OR DAMAGES AND WHETHER OR NOT SUCH LOSS OR DAMAGES ARE
+   FORESEEABLE. NOTWITHSTANDING THE FOREGOING, BODYMEDIA'S MAXIMUM
+   LIABILITY UNDER THE API AGREEMENT SHALL NOT, IN ANY EVENT, EXCEED THE
+   PRICE PAID BY YOU TO BODYMEDIA HEREUNDER.
+
+   10. Limited Relationship. BodyMedia and you are, and will remain,
+   independent contractors, and nothing in the API Agreement will be
+   construed as creating an employer-employee relationship, partnership or
+   joint venture.
+
+   11. Miscellaneous. The API Agreement encompasses the entire agreement
+   between you and BodyMedia regarding the subject matter discussed
+   therein. The API Agreement, and any disputes arising from or relating
+   to the interpretation thereof, will be governed by and construed under
+   the laws of the Commonwealth of Pennsylvania without regard to its
+   conflicts of law provisions. You agree to personal jurisdiction by and
+   venue in the state and federal courts of the Allegheny County,
+   Pennsylvania. The failure of BodyMedia to exercise or enforce any right
+   or provision of the API Agreement will not constitute a waiver of such
+   right or provision. If any provision of the API Agreement is found to
+   be unenforceable or invalid, that provision will be replaced with terms
+   that most closely match the intent of the provision that is not
+   enforceable to the minimum extent necessary so that the remaining API
+   Agreement will otherwise remain in full force and effect. The API
+   Agreement is not assignable, transferable or sublicensable, in whole or
+   in part without BodyMedia's prior written consent. BodyMedia may assign
+   the API Agreement, in whole or in part, at any time with or without
+   notice to you.
+
+   12. Survival. Sections 2, 4, 5, 6, 7, 8, 9, 11 and 12 will survive any
+   expiration or termination of this API Agreement for any reason.
+     * [7]About
+     * [8]Documentation
+     * [9]Forums
+
+   © 2011 BodyMedia, Inc.
+
+   indicator_medium.gif
+
+   Draft
+
+   Quantcast
+
+References
+
+   1. http://developer.bodymedia.com/login/mashery-id?r=http%3A%2F%2Fdeveloper.bodymedia.com%2Fapps%2Ftos&h=619bb3d7f4502fe897d8616eb2402fb3
+   2. http://developer.bodymedia.com/member/register
+   3. http://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
+   4. http://developer.bodymedia.com/Data_Use_Policy
+   5. http://www.bodymedia.com/Support-Help/Policies/Terms-and-Conditions
+   6. http://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
+   7. http://developer.bodymedia.com/page
+   8. http://developer.bodymedia.com/docs
+   9. http://developer.bodymedia.com/forum
