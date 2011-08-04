@@ -138,12 +138,13 @@ GitHub Links
           + [30]Developer API
           + [31]GitHub Flavored Markdown
           + [32]GitHub Pages
-          + [33]Terms of Service
-          + [34]Privacy
-          + [35]Security
+       [33]Home
+          + [34]Terms of Service
+          + [35]Privacy
+          + [36]Security
        © year GitHub Inc. All rights reserved.
-       [36]Dedicated Server Powered by the [37]Dedicated Servers and
-       [38]Cloud Computing of Rackspace Hosting®
+       [37]Dedicated Server Powered by the [38]Dedicated Servers and
+       [39]Cloud Computing of Rackspace Hosting®
 
 References
 
@@ -170,7 +171,7 @@ References
   21. https://github.com/training
   22. http://status.github.com/
   23. http://mac.github.com/
-  24. http://develop.github.com/p/<%=%20GitHub.gist_url%20%>
+  24. http://develop.github.com/p/gist.github.com
   25. http://fi.github.com/
   26. http://jobs.github.com/
   27. http://shop.github.com/
@@ -179,9 +180,10 @@ References
   30. http://developer.github.com/
   31. http://github.github.com/github-flavored-markdown/
   32. http://pages.github.com/
-  33. http://help.github.com/terms-of-service/
-  34. http://help.github.com/privacy-policy/
-  35. http://help.github.com/security/
-  36. http://www.rackspace.com/
+  33. http://github.com/
+  34. http://help.github.com/terms-of-service/
+  35. http://help.github.com/privacy-policy/
+  36. http://help.github.com/security/
   37. http://www.rackspace.com/
-  38. http://www.rackspacecloud.com/
+  38. http://www.rackspace.com/
+  39. http://www.rackspacecloud.com/
