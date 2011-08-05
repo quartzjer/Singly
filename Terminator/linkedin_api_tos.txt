@@ -207,69 +207,66 @@ LinkedIn APIs Terms of Use
    or regulations, or violate any rights of third parties, or expose
    LinkedIn or its members to legal liability in your use of the APIs;
 
-   o. Use the APIs in conjunction with, or display API results together
-   with content from other, third party services;
-
-   p. Combine content from the APIs with other LinkedIn data obtained
+   o. Combine content from the APIs with other LinkedIn data obtained
    through scraping or any other means outside the official LinkedIn APIs.
    This includes acquiring LinkedIn data from third parties;
 
-   q. Remove any legal, copyright, trademark, watermark or other
+   p. Remove any legal, copyright, trademark, watermark or other
    proprietary rights notices contained in or on materials you receive or
    access pursuant to these Terms, including the APIs, the materials
    posted at the Developer Site, and our Website;
 
-   r. Sell, lease, share, transfer, sublicense any Content obtained
+   q. Sell, lease, share, transfer, sublicense any Content obtained
    through the APIs, directly or indirectly, to any third party, including
    any data broker, ad network, ad exchange, or other advertising or
    monetization-related party..
 
-   s. Charge, directly or indirectly, any incremental fees (including any
+   r. Charge, directly or indirectly, any incremental fees (including any
    unique, specific, or premium charges) for access to LinkedIn's Content
    or your integration of the APIs in your Application;
 
-   t. Use the Content in any advertisements or for purposes of targeting
+   s. Use the Content in any advertisements or for purposes of targeting
    advertisements (whether such advertisement appear in your Application
    or elsewhere);
 
-   u. Submit content that falsely expresses or implies that such content
+   t. Submit content that falsely expresses or implies that such content
    is sponsored or endorsed by LinkedIn;
 
-   v. Use the Content for generating advertising, messages, promotions,
+   u. Use the Content for generating advertising, messages, promotions,
    offers, or for any other purpose other than, and solely to the extent
    necessary for, allowing end users to use the returned Content in your
    Application;
 
-   w. Implement features or business practices that harms the professional
+   v. Implement features or business practices that harms the professional
    reputation, relationships, or professional ecosystem of LinkedIn
    members.
 
-   x. Copy, adapt, reformat, reverse-engineer, disassemble, decompile,
+   w. Copy, adapt, reformat, reverse-engineer, disassemble, decompile,
    translate or otherwise modify the APIs, Access Codes, our Website or
    any Content displayed on it, including the a user's Public Profile
    including its URL, or any of our other services, through automated or
    other means;
 
-   y. Use the APIs in an Application that competes with products or
+   x. Use the APIs in an Application that competes with products or
    services offered by us;
 
-   z. Interfere with or disrupt LinkedIn services or servers or networks
+   y. Interfere with or disrupt LinkedIn services or servers or networks
    connected to LinkedIn services, or disobey any requirements,
    procedures, policies or regulations of networks connected to LinkedIn
    services;
 
-   aa. Use any robot, spider, site search/retrieval Application, or other
+   z. Use any robot, spider, site search/retrieval Application, or other
    device to retrieve or index any portion of LinkedIn services or collect
    information about users for any unauthorized purpose;
 
-   bb. Download, scrape, post, or transmit, in any form or by any means,
+   aa. Download, scrape, post, or transmit, in any form or by any means,
    any part of our Website or Content other than Content that you post as
    part of your Application;
 
-   cc. Transmit any viruses, worms, defects, Trojan horses, or any items
+   bb. Transmit any viruses, worms, defects, Trojan horses, or any items
    of a destructive nature through your use of the APIs;
 
-   dd. Use the APIs in an Application that contains or displays or
+   cc. Use the APIs in an Application that contains or displays or
    promotes any of the following: spyware, adware, or other malicious
    programs or code, counterfeit goods, items subject to US embargo, hate
    materials (e.g. Nazi memorabilia) or materials urging acts of terrorism
@@ -285,7 +282,7 @@ LinkedIn APIs Terms of Use
    licensing regimes, non-transferable items such as airline tickets or
    event tickets, non-packaged food items, or weapons and accessories;
 
-   ee. Use the APIs for purposes where their failure could lead to death,
+   dd. Use the APIs for purposes where their failure could lead to death,
    personal injury, or severe property or environmental damage;
 
    1.6 Support and Modifications. We may provide you with support or
