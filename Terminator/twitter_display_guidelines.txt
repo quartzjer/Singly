@@ -35,18 +35,21 @@ Requirements
        representation of the user's profile, which should contain a link
        to the username's Twitter profile page.
     3. Hashtags: If any hashtags ('#' followed by a string of characters)
-       are mentioned in the Tweet, they should link to a twitter.com
-       search results page for that query term (for example,
-       http://twitter.com/search?q=%23newtwitter) or an internal
-       representation of the results containing a link to the Twitter
-       search page.
+       are mentioned in the Tweet, they must link to a twitter.com search
+       results page for that query term (for example,
+       http://twitter.com/search?q=%23newtwitter). If your service is a
+       "Client", then an internal representation of the results containing
+       a link to the Twitter search page is also acceptable. A "Client" is
+       an application that provides major components of a Twitter-like end
+       user experience. Please see our [17]API Terms of Service for more
+       information on this.
     4. URLs: If any URLs are included in the Tweet, they must be
        hyperlinked and the hyperlink must link to the location passed
        through the API. Hyperlinked URLs are best displayed when visually
        differentiated (colors or underline).
     5. Branding: If one Tweet is displayed independently, it must be
        labeled with either the Twitter wordmark or the Twitter Bird
-       (consult our [17]Image Resources), or with text reading "Content
+       (consult our [18]Image Resources), or with text reading "Content
        from Twitter." If multiple Tweets are grouped, the Twitter wordmark
        or "Content from Twitter" must be placed in a close proximity to
        the grouped content.
@@ -75,7 +78,7 @@ Requirements
             clearly associated with the Tweet that mentions it.
 
    Exceptions to the above will be made on a case by case basis by email
-   approval. Please contact [18]trademarks@twitter.com if you feel that an
+   approval. Please contact [19]trademarks@twitter.com if you feel that an
    exception is necessary.
 
 Suggestions
@@ -98,7 +101,7 @@ Suggestions
        be available from a Tweet, and should be displayed with their
        respective action icons. They should be arranged left to right as
        Reply, Retweet, Favorite. Easily accomplish this by utilizing
-       [19]Web Intents.
+       [20]Web Intents.
     D. Source: Along with the timestamp and permalink, you may choose to
        display the client or means by which the Tweet was posted (e.g.
        "from web" or "from Twitter for iPhone"). If client is supplied,
@@ -125,21 +128,21 @@ Suggestions
        that returns search results for Tweets, we recommend that the term
        links back to the relevant search page within Twitter.
     More information
-          + [20]Web Intents
-          + [21]Guidelines for Use of Tweets in Broadcast or Other Offline
+          + [21]Web Intents
+          + [22]Guidelines for Use of Tweets in Broadcast or Other Offline
             Media
-          + [22]Twitter Logos
-          + [23][bird_16_blue.png] Birds, [favorite.png] Favorite,
+          + [23]Twitter Logos
+          + [24][bird_16_blue.png] Birds, [favorite.png] Favorite,
             [reply.png] Reply, [retweet.png] Retweet Icons & Sprites
        For more on how to use the Twitter marks, see
-       [24]http://support.twitter.com/forums/26257/entries/77641
-       [25]Follow @twitterapi
-          + [26]API Terms
-          + [27]API Status
-          + [28]Blog
-          + [29]Discussions
-          + [30]Documentation
-          + [31]A Drupal community site supported by Acquia
+       [25]http://support.twitter.com/forums/26257/entries/77641
+       [26]Follow @twitterapi
+          + [27]API Terms
+          + [28]API Status
+          + [29]Blog
+          + [30]Discussions
+          + [31]Documentation
+          + [32]A Drupal community site supported by Acquia
 
 References
 
@@ -159,18 +162,19 @@ References
   14. http://support.twitter.com/entries/114233
   15. https://dev.twitter.com/pages/intents
   16. https://dev.twitter.com/pages/intents
-  17. https://dev.twitter.com/pages/image-resources
-  18. mailto:trademarks@twitter.com
-  19. https://dev.twitter.com/pages/intents
+  17. https://dev.twitter.com/terms/api-terms
+  18. https://dev.twitter.com/pages/image-resources
+  19. mailto:trademarks@twitter.com
   20. https://dev.twitter.com/pages/intents
-  21. http://support.twitter.com/entries/114233
-  22. http://twitter.com/about/resources/logos
-  23. https://dev.twitter.com/pages/image-resources
-  24. http://support.twitter.com/forums/26257/entries/77641
-  25. http://twitter.com/twitterapi
-  26. https://dev.twitter.com/terms/api-terms
-  27. https://dev.twitter.com/status
-  28. https://dev.twitter.com/blog
-  29. https://dev.twitter.com/discussions
-  30. https://dev.twitter.com/docs
-  31. http://www.acquia.com/
+  21. https://dev.twitter.com/pages/intents
+  22. http://support.twitter.com/entries/114233
+  23. http://twitter.com/about/resources/logos
+  24. https://dev.twitter.com/pages/image-resources
+  25. http://support.twitter.com/forums/26257/entries/77641
+  26. http://twitter.com/twitterapi
+  27. https://dev.twitter.com/terms/api-terms
+  28. https://dev.twitter.com/status
+  29. https://dev.twitter.com/blog
+  30. https://dev.twitter.com/discussions
+  31. https://dev.twitter.com/docs
+  32. http://www.acquia.com/
