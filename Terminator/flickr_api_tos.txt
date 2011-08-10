@@ -378,13 +378,13 @@ References
   60. http://docs.yahoo.com/info/copyright/copyright.html
   61. http://safely.yahoo.com/
   62. http://www.flickr.com/report_abuse.gne
-  63. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  64. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  65. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  66. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  67. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  68. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  69. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  70. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  71. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=d7938caf683ac98fb53f796718090f9f
-  72. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=d7938caf683ac98fb53f796718090f9f
+  63. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  64. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  65. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  66. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  67. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  68. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  69. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  70. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  71. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  72. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929

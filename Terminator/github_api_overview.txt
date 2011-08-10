@@ -171,7 +171,7 @@ References
   21. https://github.com/training
   22. http://status.github.com/
   23. http://mac.github.com/
-  24. http://develop.github.com/p/gist.github.com
+  24. https://gist.github.com/
   25. http://fi.github.com/
   26. http://jobs.github.com/
   27. http://shop.github.com/

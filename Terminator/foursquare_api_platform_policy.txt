@@ -137,7 +137,7 @@ IV. Retention
        data. This permission does not give you any rights to cached data.
        For clarity, and without limitation,
           + You may not cache or store any Foursquare places information
-            (including tips and venue photos) for more than 30 days
+            (including Tips and venue photos) for more than 30 days
             without refreshing.
           + You may not cache a user's raw check-in information for more
             than 24 hours without refreshing.
