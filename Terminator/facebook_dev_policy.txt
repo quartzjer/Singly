@@ -17,7 +17,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: July 27, 2011
+   Date of Last Revision: August 12, 2011
 
    Facebook Platform is an extension of Facebook, whose mission is to give
    people the power to share and make the world more open and connected.
@@ -221,12 +221,7 @@ Policies
     3. If a user grants you a publishing [25]permission, you must still
        obtain consent from the user before taking any action on the user's
        behalf, such as publishing content or creating an event.
-    4. You must provide users with an easily identifiable "skip" option
-       whenever you present users with an option to use a Facebook social
-       channel.
-    5. You must not provide users with the option to publish more than one
-       Stream story at a time.
-    6. Platform integrations, including social plugins:
+    4. Platform integrations, including social plugins:
         a. Your advertisements must not include or be paired with any
             Platform integrations, including social plugins such as the
             Like button, without our written permission.
@@ -242,7 +237,7 @@ Policies
             Facebook’s Platform, logos, and trademarks (including, but not
             limited to, Platform APIs, social plugins, the Share button,
             and the F logo).
-    7. Facebook messaging (i.e., email sent to an @facebook.com address)
+    5. Facebook messaging (i.e., email sent to an @facebook.com address)
        is designed for communication between users, and not a channel for
        applications to communicate directly with users.
 
@@ -323,7 +318,7 @@ Examples and Explanations
    these [30]examples and explanations will help you understand how to put
    that into practice.
 
-   Updated about a week ago
+   Updated 8 hours ago
 
    Facebook © 2011
    [31]About[32]Platform Policies[33]Privacy Policy
