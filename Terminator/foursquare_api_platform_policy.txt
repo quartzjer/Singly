@@ -7,7 +7,7 @@
 
    Search places, people and (Submit) Search
 
-   Last updated: 05/09/11
+   Last updated: 08/11/11
 
 Foursquare API Platform Policy
 
@@ -70,9 +70,9 @@ III. Access/Use
        be temporarily or permanently blocked, with or without notice, and
        without Foursquare liability to you or any other person.
      * If your application and/or website requires or permits the transfer
-       of user information outside of the user‚Äôs home country (including
-       transfers to foursquare‚Äôs servers, which are in the U.S.), you
-       must ensure that such transfer complies with applicable laws.
+       of user information outside of the user’s home country (including
+       transfers to foursquare’s servers, which are in the U.S.), you must
+       ensure that such transfer complies with applicable laws.
      * If your application and/or website collects any information about
        foursquare service users or submits any user information to
        Foursquare, whether acting as a user of your application and/or
@@ -137,7 +137,7 @@ IV. Retention
        data. This permission does not give you any rights to cached data.
        For clarity, and without limitation,
           + You may not cache or store any Foursquare places information
-            (including Tips and venue photos) for more than 30 days
+            (including tips and venue photos) for more than 30 days
             without refreshing.
           + You may not cache a user's raw check-in information for more
             than 24 hours without refreshing.
@@ -158,6 +158,25 @@ IV. Retention
        request. We may require you to delete data you receive from the API
        if you violate our terms. In the event that we do, we will have no
        liability to you or any other person.
+     * Notwithstanding the foregoing, in the event Foursquare (a) ceases
+       to provide the API or its places database through the API or (b)
+       elects to charge for access to the API or its places database, and
+       you elect not to continue to use the API and/or Foursquare's places
+       database because of such charges and you notify Foursquare in
+       writing of the same (each a “Transition Event”), Foursquare hereby
+       allows you to retain the Transition Venue Information (as defined
+       below) for a period of one year after the Transition Event
+       (“Transition Period”) while you transition your service and/or
+       website to a different places database. If at any time during the
+       Transition Period you transition to a new places database, the
+       license from Foursquare automatically terminates and you must
+       delete any such Transition Venue Information within 30 days after
+       such transition, provided that you may continue to use any
+       Foursquare venue ids. For the purposes of this Policy, “Transition
+       Venue Information” means the address, phone number, email address,
+       lat/lng information, url and twitter handle associated with any
+       venue that is included in foursquare’s places database that you
+       accessed prior to the Transition Event.
 
 V. No Transfer
 
