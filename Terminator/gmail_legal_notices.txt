@@ -1,6 +1,4 @@
-   [1]Gmail
-
-Google's approach to email
+                      [1]Gmail Google's approach to email
 
      * [2]About
      * [3]What's New
@@ -24,15 +22,14 @@ Your Intellectual Property Rights
    does not grant, and you do not receive, any rights under any Microsoft
    intellectual property with respect to any device or software that you
    use to access such Microsoft Exchange ActiveSync functionality.
-
-   Â©2011 Google - [9]Terms & Privacy
+   Â© Google Â· [9]Terms & Privacy
 
 References
 
    1. http://mail.google.com/
    2. http://mail.google.com/mail/help/about.html
    3. http://mail.google.com/mail/help/about_whatsnew.html
-   4. http://mail.google.com/mail/help/blog.html
+   4. http://mail.google.com/mail/help/blog.html%20[English%20Only]
    5. http://mail.google.com/mail/help/tips.html
    6. http://www.google.com/apps/intl/en/business/messaging.html#utm_medium=et&utm_source=gmail-en-mktgleft&utm_campaign=crossnav
    7. http://mail.google.com/support?ctx=about&hl=en

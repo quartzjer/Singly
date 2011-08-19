@@ -1,6 +1,4 @@
-   [1]Gmail
-
-Google's approach to email
+                                    [1]Gmail
 
      * [2]About
      * [3]What's New
@@ -85,15 +83,14 @@ Account Inactivity
    Google may terminate your account in accordance with the terms of
    service if you fail to login to your account for a period of nine
    months.
-
-   Â©2011 Google - [9]Terms & Privacy
+   Â© Google Â· [9]Terms & Privacy
 
 References
 
    1. http://mail.google.com/
    2. http://mail.google.com/mail/help/about.html
    3. http://mail.google.com/mail/help/about_whatsnew.html
-   4. http://mail.google.com/mail/help/blog.html
+   4. http://mail.google.com/mail/help/blog.html%20[English%20Only]
    5. http://mail.google.com/mail/help/tips.html
    6. http://www.google.com/apps/intl/en/business/messaging.html#utm_medium=et&utm_source=gmail-en-mktgleft&utm_campaign=crossnav
    7. http://mail.google.com/support?ctx=about&hl=en
