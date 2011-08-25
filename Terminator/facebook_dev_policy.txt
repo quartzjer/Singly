@@ -2,7 +2,7 @@
    [1]http://developers.facebook.com/policy/?_fb_noscript=1
    #[2]alternate
 
-   [3]Facebook Developers [4]Documentation[5]Forum[6]Blog[7]Apps
+   [3]Facebook Developers [4]Documentation[5]Support[6]Blog[7]Apps
    Search for documenta (Submit) Search for documentation
      * Platform Policies
 
@@ -330,7 +330,7 @@ References
    2. http://developers.facebook.com/policy/
    3. http://developers.facebook.com/
    4. http://developers.facebook.com/docs/
-   5. http://forum.developers.facebook.net/
+   5. http://developers.facebook.com/support/
    6. http://developers.facebook.com/blog/
    7. https://developers.facebook.com/apps
    8. http://developers.facebook.com/policy/credits
