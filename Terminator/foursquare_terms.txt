@@ -7,7 +7,7 @@
 
    Search places, people and (Submit) Search
 
-   Last Updated: February 14, 2011
+   Last Updated: August 25, 2011
 
 FOURSQUARE LABS, INC. TERMS OF USE
 
@@ -142,25 +142,34 @@ foursquare Content.
 
 User Submissions.
 
-   By submitting User Submissions on the Site or otherwise through the
-   Service, you hereby do and shall grant foursquare a worldwide,
-   non-exclusive, royalty-free, fully paid, sublicensable and transferable
-   license to use, copy, edit, modify, reproduce, distribute, prepare
-   derivative works of, display, perform, and otherwise fully exploit the
-   User Submissions in connection with the Site, the Service and
-   foursquare's (and its successors and assigns') business, including
-   without limitation for promoting and redistributing part or all of the
-   Site (and derivative works thereof) or the Service in any media formats
-   and through any media channels (including, without limitation, third
-   party websites and feeds). You also hereby do and shall grant each user
-   of the Site and/or the Service a non-exclusive license to access your
-   User Submissions through the Site and the Service, and to use, edit,
-   modify, reproduce, distribute, prepare derivative works of, display and
-   perform such User Submissions. For clarity, the foregoing license grant
-   to foursquare does not affect your other ownership or license rights in
-   your User Submission(s), including the right to grant additional
-   licenses to the material in your User Submission(s), unless otherwise
-   agreed in writing with foursquare.
+   We may use your User Submissions in a number of different ways in
+   connection with the Site, Service and foursquare’s business as
+   foursquare may determine in its sole discretion, including but not
+   limited to, publicly displaying it, reformatting it, incorporating it
+   into marketing materials, advertisements and other works, creating
+   derivative works from it, promoting it, distributing it, and allowing
+   other users to do the same in connection with their own websites, media
+   platforms, and applications (“Third Party Media”). By submitting User
+   Submissions on the Site or otherwise through the Service, you hereby do
+   and shall grant foursquare a worldwide, non-exclusive, royalty-free,
+   fully paid, sublicensable and transferable license to use, copy, edit,
+   modify, reproduce, distribute, prepare derivative works of, display,
+   perform, and otherwise fully exploit the User Submissions in connection
+   with the Site, the Service and foursquare's (and its successors and
+   assigns') business, including without limitation for promoting and
+   redistributing part or all of the Site (and derivative works thereof)
+   or the Service in any media formats and through any media channels
+   (including, without limitation, third party websites and feeds). You
+   also hereby do and shall grant each user of the Site and/or the
+   Service, including Third Party Media, a non-exclusive license to access
+   your User Submissions through the Site and the Service, and to use,
+   edit, modify, reproduce, distribute, prepare derivative works of,
+   display and perform such User Submissions in connection with their use
+   of the Site, Service and Third Party Media. For clarity, the foregoing
+   license grant to foursquare does not affect your other ownership or
+   license rights in your User Submission(s), including the right to grant
+   additional licenses to the material in your User Submission(s), unless
+   otherwise agreed in writing with foursquare.
 
    You represent and warrant that you have all rights to grant such
    license to us without infringement or violation of any third party
@@ -185,7 +194,11 @@ Rules and Conduct.
 
    As a condition of use, you promise not to use the Service for any
    purpose that is prohibited by these Terms of Use. You are responsible
-   for all of your activity in connection with the Service.
+   for all of your activity in connection with the Service. Additionally,
+   you shall abide by all applicable local, state, national and
+   international laws and regulations and, if you represent a business,
+   any advertising, marketing, privacy, or other self-regulatory code(s)
+   applicable to your industry.
 
    By way of example, and not as a limitation, you shall not (and shall
    not permit any third party to) either (a)take any action or (b)upload,
@@ -199,9 +212,9 @@ Rules and Conduct.
      * is unlawful, threatening, abusive, harassing, defamatory, libelous,
        deceptive, fraudulent, invasive of another's privacy, tortious,
        obscene, vulgar, pornographic, offensive, profane, contains or
-       depicts nudity, contains or depicts sexual activity, or is
-       otherwise inappropriate as determined by foursquare in its sole
-       discretion;
+       depicts nudity, contains or depicts sexual activity, promotes
+       bigotry, discrimination or violence, or is otherwise inappropriate
+       as determined by foursquare in its sole discretion;
      * constitutes unauthorized or unsolicited advertising, junk or bulk
        e-mail ("spamming");
      * other than appropriate use of an Add-to Link, involves commercial
@@ -218,38 +231,44 @@ Rules and Conduct.
        representative of foursquare;
      * includes anyone's identification documents or sensitive financial
        information; or
-     * breaches the Privacy Policy and/or any of the other policies and
-       rules incorporated herein.
+     * breaches the [10]Privacy Policy, the [11]House Rules and/or any of
+       the other policies and rules incorporated herein.
 
-   If the User Submission includes a photograph, foursquare's [10]Photo
+   If the User Submission includes a photograph, foursquare's [12]Photo
    Guidelines shall apply. Foursquare has a zero-tolerance policy against
    child pornography, and will terminate and report to the appropriate
    authorities any user who publishes or distributes child pornography.
 
-   You shall not: (i) take any action that imposes or may impose (as
-   determined by foursquare in its sole discretion) an unreasonable or
-   disproportionately large load on foursquare's (or its third party
-   providers') infrastructure; (ii) interfere or attempt to interfere with
-   the proper working of the Service or any activities conducted on the
-   Service; (iii) bypass any measures foursquare may use to prevent or
-   restrict access to the Service (or other accounts, computer systems or
-   networks connected to the Service); (iv) run any form of auto-responder
-   or "spam" on the Service; (v) use manual or automated software,
-   devices, or other processes to "crawl" or "spider" any page of the
-   Site; (vi) harvest or scrape any Content from the Service; or (vii)
-   otherwise take any action in violation of foursquare's guidelines and
-   policies.
-
-   You shall not (directly or indirectly): (i) decipher, decompile,
-   disassemble, reverse engineer or otherwise attempt to derive any source
-   code or underlying ideas or algorithms of any part of the Service
-   (including without limitation any application or widget), except to the
-   limited extent applicable laws specifically prohibit such restriction,
-   (ii) modify, translate, or otherwise create derivative works of any
-   part of the Service, or (iii) copy, rent, lease, distribute, or
-   otherwise transfer any of the rights that you receive hereunder. You
-   shall abide by all applicable local, state, national and international
-   laws and regulations.
+   You shall not (directly or indirectly):
+     * take any action that imposes or may impose (as determined by
+       foursquare in its sole discretion) an unreasonable or
+       disproportionately large load on foursquare's (or its third party
+       providers') infrastructure;
+     * interfere or attempt to interfere with the proper working of the
+       Service or any activities conducted on the Service;
+     * bypass any measures foursquare may use to prevent or restrict
+       access to the Service (or other accounts, computer systems or
+       networks connected to the Service);
+     * run any form of auto-responder or "spam" on the Service;
+     * use manual or automated software, devices, or other processes to
+       "crawl" or "spider" any page of the Site;
+     * harvest or scrape any Content from the Service;
+     * modify, adapt, appropriate, reproduce, distribute, translate,
+       create derivative works or adaptations of, publicly display,
+       republish, repurpose, sell, trade, or in any way exploit the
+       Service or Site Content (other than your User Submissions), except
+       as expressly authorized by foursquare;
+     * decipher, decompile, disassemble, reverse engineer or otherwise
+       attempt to derive any source code or underlying ideas or algorithms
+       of any part of the Service (including without limitation any
+       application or widget), except to the limited extent applicable
+       laws specifically prohibit such restriction;
+     * copy, rent, lease, distribute, or otherwise transfer any of the
+       rights that you receive hereunder. You shall abide by all
+       applicable local, state, national and international laws and
+       regulations;
+     * otherwise take any action in violation of foursquare's guidelines
+       and policies.
 
    foursquare does not guarantee that any Content or User Submissions (as
    defined above) will be made available on the Site or through the
@@ -270,6 +289,11 @@ Rules and Conduct.
    otherwise address fraud, security or technical issues, (iv) respond to
    user support requests, or (v) protect the rights, property or safety of
    foursquare, its users and the public.
+
+Feedback and Unsolicited Idea Submission Policy
+
+   For information on foursquare’s Feedback and Unsolicited Idea
+   Submission Policy, please go [13]here.
 
 Special Terms for 'Add-to-Foursquare' Link
 
@@ -327,17 +351,22 @@ Special Terms for Pages.
        Policy.
      * You will not use deceptive practices to get users to "follow" your
        Page.
+     * You are responsible for ensuring that your Page, including any
+       Content you post on your Page, shall comply with all applicable
+       laws, rules and regulations and these Terms of Use, and any
+       advertising, marketing, privacy, or other self-regulatory code(s)
+       applicable to your industry.
 
 Special Terms for Verified Venues.
 
    If you are the verified representative of a venue, you also agree to
-   foursquare's [11]Venue Terms and Conditions.
+   foursquare's [14]Venue Terms and Conditions.
 
 Special Terms for Developers.
 
    If you are a developer or operator of any application or service that
    uses foursquare's application programming interface(s) you also agree
-   to foursquare's [12]API License Agreement.
+   to foursquare's [15]Platform Policy and [16]API License Agreement.
 
 Third Party Sites and Services.
 
@@ -373,7 +402,7 @@ Warranty Disclaimer.
    Save to the extent required by law, foursquare has no special
    relationship with or fiduciary duty to you. You acknowledge that
    foursquare has no control over, and no duty to take any action
-   regarding: which users gains access to the Service; what Content you
+   regarding: which users gain access to the Service; what Content you
    access via the Service; what effects the Content may have on you; how
    you may interpret or use the Content; or what actions you may take as a
    result of having been exposed to the Content.
@@ -386,6 +415,26 @@ Warranty Disclaimer.
    and foursquare will not be responsible or liable for the accuracy,
    copyright compliance, legality or decency of material contained in or
    accessed through the Service.
+
+   You release us from all liability relating to your connections and
+   relationships with other users. You understand that we do not, in any
+   way, screen users, nor do we inquire into the backgrounds of users or
+   attempt to verify their backgrounds or statements. We make no
+   representations or warranties as to the conduct of users or the
+   veracity of any information users provide. In no event shall we be
+   liable for any damages whatsoever, whether direct, indirect, general,
+   special, compensatory, consequential, and/or incidental, arising out of
+   or relating to the conduct of you or anyone else in connection with the
+   Services, including, without limitation, bodily injury, emotional
+   distress, and any damages resulting in any way from communications or
+   meetings with users or persons you may otherwise meet through the
+   Services. As such, you agree to take reasonable precautions and
+   exercise the utmost personal care in all interactions with any
+   individual you come into contact with through the Services,
+   particularly if you decide to meet such individuals in person. For
+   example, you should not, under any circumstances, provide your
+   financial information (e.g., credit card or bank account numbers) to
+   other individuals.
 
    THE SITE, SERVICE, CONTENT AND ADD-TO LINK ARE PROVIDED "AS IS", "AS
    AVAILABLE" AND ARE PROVIDED WITHOUT ANY REPRESENTATIONS OR WARRANTIES
@@ -405,16 +454,6 @@ Warranty Disclaimer.
    ADD-TO LINK IS SOLELY AT YOUR OWN RISK. SOME STATES / COUNTRIES DO NOT
    ALLOW LIMITATIONS ON IMPLIED WARRANTIES, SO THE ABOVE LIMITATIONS MAY
    NOT APPLY TO YOU.
-
-   Electronic Communications Privacy Act Notice (18 USC 2701-2711):
-   foursquare makes no guaranty of confidentiality or privacy of any
-   communication or information transmitted on the Service or any website
-   linked to the Service. foursquare will not be liable for the privacy of
-   email addresses, registration and identification information, disk
-   space, communications, confidential or trade-secret information, or any
-   other Content stored on foursquare's equipment, transmitted over
-   networks accessed by the Site, or otherwise connected with your use of
-   the Service.
 
 Indemnification.
 
@@ -446,14 +485,15 @@ Limitation of Liability.
    LIABILITY SHALL BE LIMITED IN AGGREGATE TO ONE HUNDRED US DOLLARS
    ($100).
 
-   IN NO EVENT SHALL FOURSQUARE, NOR ITS DIRECTORS, EMPLOYEES, AGENTS,
-   REPRESENTATIVES, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE
-   UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL
-   OR EQUITABLE THEORY OR OTHERWISE (AND WHETHER OR NOT FOURSQUARE, ITS
-   DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, PARTNERS, SUPPLIERS OR
-   CONTENT PROVIDERS HAD PRIOR KNOWLEDGE OF THE CIRCUMSTANCES GIVING RISE
-   TO SUCH LOSS OR DAMAGE) WITH RESPECT TO THE SITE, SERVICE, CONTENT,
-   USER SUBMISSIONS OR ADD-TO LINK FOR:
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+   FOURSQUARE, NOR ITS DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES,
+   PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT,
+   TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE
+   THEORY OR OTHERWISE (AND WHETHER OR NOT FOURSQUARE, ITS DIRECTORS,
+   EMPLOYEES, AGENTS, REPRESENTATIVES, PARTNERS, SUPPLIERS OR CONTENT
+   PROVIDERS HAD PRIOR KNOWLEDGE OF THE CIRCUMSTANCES GIVING RISE TO SUCH
+   LOSS OR DAMAGE) WITH RESPECT TO THE SITE, SERVICE, CONTENT, USER
+   SUBMISSIONS OR ADD-TO LINK FOR:
      * INDIRECT OR CONSEQUENTIAL LOSSES OR DAMAGES;
      * LOSS OF ACTUAL OR ANTICIPATED PROFITS;
      * LOSS OF REVENUE;
@@ -465,7 +505,11 @@ Limitation of Liability.
 
    NOTHING IN THESE TERMS OF USE SHALL BE DEEMED TO EXCLUDE OR LIMIT YOUR
    LIABILITY IN RESPECT OF ANY INDEMNITY GIVEN BY YOU UNDER THESE TERMS OF
-   USE.
+   USE. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF
+   LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE
+   LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES,
+   FOURSQUARE’S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED
+   BY APPLICABLE LAW.
 
    SOLELY IN RESPECT OF USERS LOCATED IN EUROPEAN ECONOMIC AREA (EEA)
    AND/OR AUSTRALIA, NOTHING IN THESE TERMS OF USE SHALL BE DEEMED TO
@@ -478,7 +522,7 @@ Limitation of Liability.
        GOODS ACT 1979 OR SECTION 2 OF THE SUPPLY OF GOODS AND SERVICES ACT
        1982.
 
-Dispute Resolution & Governing Law.
+Governing Law.
 
    A printed version of these Terms of Use and of any notice given in
    electronic form shall be admissible in judicial or administrative
@@ -493,31 +537,21 @@ Dispute Resolution & Governing Law.
    arbitration and governing law provisions shall apply:
      * These Terms of Use shall be governed by and construed in accordance
        with the laws of the State of New York, excluding its conflicts of
-       law rules, and the United States of America. Any dispute arising
-       from or relating to the subject matter of these Terms of Use shall
-       be finally settled by arbitration in New York County, New York,
-       using the English language in accordance with the Arbitration Rules
-       and Procedures of JAMS then in effect, by one commercial arbitrator
-       with substantial experience in resolving intellectual property and
-       commercial contract disputes, who shall be selected from the
-       appropriate list of JAMS arbitrators in accordance with the
-       Arbitration Rules and Procedures of JAMS. The prevailing party in
-       any arbitration or other proceeding arising under these Terms of
-       Use shall be entitled to receive reimbursement of its reasonable
-       expenses (including reasonable attorneys' fees, expert witness fees
-       and all other expenses) incurred in connection therewith. Judgment
-       upon the award so rendered may be entered in a court having
-       jurisdiction or application may be made to such court for judicial
-       acceptance of any award and an order of enforcement, as the case
-       may be. Notwithstanding the foregoing, each party shall have the
-       right to institute an action in a court of proper jurisdiction for
-       injunctive or other equitable relief pending a final decision by
-       the arbitrator. For all purposes of these Terms of Use, the parties
-       consent to exclusive jurisdiction and venue in the United States
-       Federal Courts or state courts located in the Southern District of
-       New York. Use of the Service is not authorized in any jurisdiction
-       that does not give effect to all provisions of these Terms of Use,
-       including without limitation, this section.
+       law rules, and the United States of America. For all purposes of
+       these Terms of Use, the parties consent to exclusive jurisdiction
+       and venue in the United States Federal Courts or state courts
+       located in the Southern District of New York. Use of the Service is
+       not authorized in any jurisdiction that does not give effect to all
+       provisions of these Terms of Use, including without limitation,
+       this section. If you are accepting these Terms of Use on behalf of
+       a United States federal government entity that is legally unable to
+       accept the controlling law, jurisdiction or venue clauses above,
+       then those clauses do not apply to you but instead these Terms and
+       any action related thereto will be will be governed by the laws of
+       the United States of America (without reference to conflict of
+       laws) and, in the absence of federal law and to the extent
+       permitted under federal law, the laws of the State of New York
+       (excluding choice of law).
 
    Solely in respect of users located in the EEA and/or Australia, the
    following governing law provisions shall apply:
@@ -552,7 +586,11 @@ Integration and Severability.
    so that these Terms of Use will otherwise remain in full force and
    effect and enforceable. The failure of either party to exercise in any
    respect any right provided for herein shall not be deemed a waiver of
-   any further rights hereunder.
+   any further rights hereunder. Waiver of compliance in any particular
+   instance does not mean that we will waive compliance in the future. In
+   order for any waiver of compliance with these Terms of Use to be
+   binding, foursquare must provide you with written notice of such waiver
+   through one of its authorized representatives.
 
 Modification of Terms of Use.
 
@@ -629,27 +667,27 @@ Contact.
    You may contact foursquare at the following address: 36 Cooper Square,
    6th Floor, New York, NY 10003.
 
-   Effective Date: February 14, 2011
+   Effective Date: August 25, 2011
 
-     * [13]about
-     * [14]blog
-     * [15]contact
-     * [16]help
-     * [17]jobs
-     * [18]privacy 101
-     * [19]privacy policy
-     * [20]terms (New)
-     * [21]store
+     * [17]about
+     * [18]blog
+     * [19]contact
+     * [20]help
+     * [21]jobs
+     * [22]privacy 101
+     * [23]privacy policy
+     * [24]terms (New)
+     * [25]store
 
    © 2011 foursquare ·
    Do none of the words on this site make sense to you? Select your
    favorite language below for greater clarity:
-     * [22]English
-     * [23]Italiano
-     * [24]Deutsch
-     * [25]Español
-     * [26]Français
-     * [27]日本語
+     * [26]English
+     * [27]Italiano
+     * [28]Deutsch
+     * [29]Español
+     * [30]Français
+     * [31]日本語
 
 References
 
@@ -663,24 +701,28 @@ References
    7. https://foursquare.com/legal/privacy
    8. https://foursquare.com/legal/ip
    9. https://foursquare.com/legal/photos
-  10. https://foursquare.com/legal/photos
-  11. https://foursquare.com/legal/venueterms
-  12. https://foursquare.com/legal/api/licenseagreement
-  13. https://foursquare.com/about
-  14. http://blog.foursquare.com/
-  15. https://foursquare.com/contact
-  16. http://foursquare.com/help
-  17. https://foursquare.com/jobs/
-  18. https://foursquare.com/privacy/
-  19. https://foursquare.com/legal/privacy
-  20. https://foursquare.com/legal/terms
-  21. http://store.foursquare.com/
-  22. https://foursquare.com/legal/terms
-  23. https://foursquare.com/legal/terms
+  10. https://foursquare.com/legal/privacy
+  11. http://support.foursquare.com/entries/386768-foursquare-house-rules
+  12. https://foursquare.com/legal/photos
+  13. https://foursquare.com/legal/ip
+  14. https://foursquare.com/legal/venueterms
+  15. https://foursquare.com/legal/api/apiplatformpolicy
+  16. https://foursquare.com/legal/api/licenseagreement
+  17. https://foursquare.com/about
+  18. http://blog.foursquare.com/
+  19. https://foursquare.com/contact
+  20. http://foursquare.com/help
+  21. https://foursquare.com/jobs/
+  22. https://foursquare.com/privacy/
+  23. https://foursquare.com/legal/privacy
   24. https://foursquare.com/legal/terms
-  25. https://foursquare.com/legal/terms
+  25. http://store.foursquare.com/
   26. https://foursquare.com/legal/terms
   27. https://foursquare.com/legal/terms
+  28. https://foursquare.com/legal/terms
+  29. https://foursquare.com/legal/terms
+  30. https://foursquare.com/legal/terms
+  31. https://foursquare.com/legal/terms
 
    Hidden links:
-  28. https://foursquare.com/legal/terms#languagesContainer
+  32. https://foursquare.com/legal/terms#languagesContainer

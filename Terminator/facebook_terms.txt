@@ -50,7 +50,7 @@
             will control how the application can use, store, and transfer
             that content and information.  (To learn more about Platform,
             read our [12]Privacy Policy and [13]Platform Page.)
-         4. When you publish content or information using the everyone
+         4. When you publish content or information using the Public
             setting, it means that you are allowing everyone, including
             people off of Facebook, to access and use that information,
             and to associate it with you (i.e., your name and profile
