@@ -2,18 +2,39 @@
 
    [2]Flickr logo. If you click it, you'll go home You aren't signed in
                                                      [3]Sign In    [4]Help
+   ____________________ Search
      * [5]Home
      * [6]The Tour
      * [7]Sign Up
-     * [8]Explore More options
-       [9]Explore Page [10]Last 7 Days Interesting [11]Popular Tags
-       [12]Calendar [13]Most Recent Uploads [14]Video on Flickr
-       [15]Galleries [16]Explore Analog [17]Flickr Clock [18]Getty Images
-       [19]World Map [20]Places [21]The Commons [22]Creative Commons
-       [23]FlickrBlog [24]code.flickr [25]The App Garden [26]Camera Finder
-     * [27]Upload
+     * [8]Explore [9]More options
+          + [10]Explore Page
+          + [11]Last 7 Days Interesting
+          + [12]Popular Tags
+          + [13]Calendar
+          + [14]Most Recent Uploads
+          + [15]Video on Flickr
+          + [16]Galleries
+          + [17]Explore Analog
+          + [18]Flickr Clock
+          + [19]Getty Images
+          +
+              _________________________________________________________
 
-   ____________________ Search
+            [20]World Map
+          + [21]Places
+          +
+              _________________________________________________________
+
+            [22]The Commons
+          + [23]Creative Commons
+          +
+              _________________________________________________________
+
+            [24]FlickrBlog
+          + [25]code.flickr
+          + [26]The App Garden
+          + [27]Camera Finder
+     * [28]Upload
 
 Flickr APIs Terms of Use
 
@@ -23,7 +44,7 @@ Flickr APIs Terms of Use
    license to use the Flickr APIs. We reserve the right to update and
    change these terms from time to time without notice. You can always
    find the most recent version of these terms here
-   [28]http://www.flickr.com/services/api/tos/.
+   [29]http://www.flickr.com/services/api/tos/.
 
    Your license to the Flickr APIs under these terms continues until it is
    terminated by either party. You may terminate the license by
@@ -48,9 +69,9 @@ Flickr APIs Terms of Use
 a. You shall:
 
     i. Comply with the Flickr Community Guidelines at
-       [29]www.flickr.com/guidelines.gne, the Flickr Terms of Use at
-       [30]http://www.flickr.com/terms.gne, and the Yahoo! Terms of
-       Service at [31]http://docs.yahoo.com/info/terms/.
+       [30]www.flickr.com/guidelines.gne, the Flickr Terms of Use at
+       [31]http://www.flickr.com/terms.gne, and the Yahoo! Terms of
+       Service at [32]http://docs.yahoo.com/info/terms/.
    ii. Comply with any requirements or restrictions imposed on usage of
        the photos by their respective owners. Remember, Flickr doesn't own
        the images - Flickr users do. Although the Flickr APIs can be used
@@ -66,7 +87,7 @@ a. You shall:
        the photos must be marked with a Creative Commons license that
        allows for such use, unless otherwise agreed upon between you and
        the owner. You can read more about this here:
-       [32]www.creativecommons.org or [33]www.flickr.com/creativecommons.
+       [33]www.creativecommons.org or [34]www.flickr.com/creativecommons.
    iii. Comply with any other terms and conditions a user has attached to
        his or her photo. For example, if a user marks a photo as "private"
        after using your service, your application must reflect those
@@ -81,7 +102,7 @@ a. You shall:
        It's important to us that users have an easy way to return to
        Flickr if they wish, and have some reference point (the logo) to
        show them that they're still connected to Flickrland.
-       [34]http://www.flickr.com/services/partners/.
+       [35]http://www.flickr.com/services/partners/.
    vi. Disclose in your application through a privacy policy or otherwise
        displayed in the footer of each page, how you collect, use, store,
        and disclose data collected from visitors, including, where
@@ -299,19 +320,19 @@ b. Application for a Commercial API Key.
        the entire agreement between Flickr and you with respect to the
        subject matter hereof.
 
-    Services   [35]Get Started | [36]API Documentation | [37]Feeds
-       You     [38]Sign in | [39]Create Your Free Account
-   [40]Explore [41]Places | [42]Last 7 Days | [43]This Month | [44]Popular
-               Tags | [45]The Commons | [46]Creative Commons | [47]Search
-    [48]Help   [49]Community Guidelines | [50]The Help Forum | [51]FAQ |
-               [52]Sitemap | [53]Get Help
+    Services   [36]Get Started | [37]API Documentation | [38]Feeds
+       You     [39]Sign in | [40]Create Your Free Account
+   [41]Explore [42]Places | [43]Last 7 Days | [44]This Month | [45]Popular
+               Tags | [46]The Commons | [47]Creative Commons | [48]Search
+    [49]Help   [50]Community Guidelines | [51]The Help Forum | [52]FAQ |
+               [53]Sitemap | [54]Get Help
 
-   [54]Flickr Blog | [55]About Flickr | [56]Jobs | [57]Terms of Use |
-   [58]Your Privacy | [59]About Our Ads | [60]Copyright/IP Policy |
-   [61]Yahoo! Safely | [62]Report Abuse
+   [55]Flickr Blog | [56]About Flickr | [57]Jobs | [58]Terms of Use |
+   [59]Your Privacy | [60]About Our Ads | [61]Copyright/IP Policy |
+   [62]Yahoo! Safely | [63]Report Abuse
 
-   [63]繁體中文 | [64]Deutsch | [65]English | [66]Español | [67]Français |
-   [68]한글 | [69]Italiano | [70]Português | [71]Tiếng Việt | [72]Bahasa
+   [64]繁體中文 | [65]Deutsch | [66]English | [67]Español | [68]Français |
+   [69]한글 | [70]Italiano | [71]Português | [72]Tiếng Việt | [73]Bahasa
    Indonesia Copyright © 2011 Yahoo! Inc. All rights reserved.
 
 References
@@ -324,67 +345,68 @@ References
    6. http://www.flickr.com/tour/
    7. http://www.flickr.com/signup/
    8. http://www.flickr.com/explore/
-   9. http://www.flickr.com/explore/
-  10. http://www.flickr.com/explore/interesting/7days/
-  11. http://www.flickr.com/photos/tags/
-  12. http://www.flickr.com/explore/interesting/2011/08/
-  13. http://www.flickr.com/photos/
-  14. http://www.flickr.com/explore/video/
-  15. http://www.flickr.com/galleries/
-  16. http://www.flickr.com/analog/
-  17. http://www.flickr.com/explore/clock/
-  18. http://www.flickr.com/gettyimages
-  19. http://www.flickr.com/map/
-  20. http://www.flickr.com/places/
-  21. http://www.flickr.com/commons/
-  22. http://www.flickr.com/creativecommons/
-  23. http://blog.flickr.com/
-  24. http://code.flickr.com/
-  25. http://www.flickr.com/services/
-  26. http://www.flickr.com/cameras/
-  27. http://www.flickr.com/photos/upload/
-  28. http://www.flickr.com/services/api/tos/
-  29. http://www.flickr.com/guidelines.gne
-  30. http://www.flickr.com/terms.gne
-  31. http://docs.yahoo.com/info/terms/
-  32. http://www.creativecommons.org/
-  33. http://www.flickr.com/creativecommons
-  34. http://www.flickr.com/services/partners/
-  35. http://www.flickr.com/services/
-  36. http://www.flickr.com/services/api/
-  37. http://www.flickr.com/services/feeds/
-  38. http://www.flickr.com/signin/
-  39. http://www.flickr.com/signup/
-  40. http://www.flickr.com/explore/
-  41. http://www.flickr.com/places/
-  42. http://www.flickr.com/explore/interesting/7days/
-  43. http://www.flickr.com/explore/interesting/2011/08/
-  44. http://www.flickr.com/photos/tags/
-  45. http://www.flickr.com/commons/
-  46. http://www.flickr.com/creativecommons/
-  47. http://www.flickr.com/search/
-  48. http://www.flickr.com/help/
-  49. http://www.flickr.com/guidelines.gne
-  50. http://www.flickr.com/help/forum/
-  51. http://www.flickr.com/help/faq/
-  52. http://www.flickr.com/sitemap.gne
-  53. http://www.flickr.com/help/
-  54. http://blog.flickr.net/
-  55. http://www.flickr.com/about/
-  56. http://www.flickr.com/jobs/
-  57. http://www.flickr.com/terms.gne
-  58. http://www.flickr.com/privacy_policy.gne
-  59. http://info.yahoo.com/relevantads
-  60. http://docs.yahoo.com/info/copyright/copyright.html
-  61. http://safely.yahoo.com/
-  62. http://www.flickr.com/report_abuse.gne
-  63. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  64. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  65. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  66. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  67. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  68. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  69. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  70. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  71. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  72. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+   9. http://www.flickr.com/services/api/tos#flickr_nav_button_explore
+  10. http://www.flickr.com/explore/
+  11. http://www.flickr.com/explore/interesting/7days/
+  12. http://www.flickr.com/photos/tags/
+  13. http://www.flickr.com/explore/interesting/2011/08/
+  14. http://www.flickr.com/photos/
+  15. http://www.flickr.com/explore/video/
+  16. http://www.flickr.com/galleries/
+  17. http://www.flickr.com/analog/
+  18. http://www.flickr.com/explore/clock/
+  19. http://www.flickr.com/gettyimages
+  20. http://www.flickr.com/map/
+  21. http://www.flickr.com/places/
+  22. http://www.flickr.com/commons/
+  23. http://www.flickr.com/creativecommons/
+  24. http://blog.flickr.com/
+  25. http://code.flickr.com/
+  26. http://www.flickr.com/services/
+  27. http://www.flickr.com/cameras/
+  28. http://www.flickr.com/photos/upload/
+  29. http://www.flickr.com/services/api/tos/
+  30. http://www.flickr.com/guidelines.gne
+  31. http://www.flickr.com/terms.gne
+  32. http://docs.yahoo.com/info/terms/
+  33. http://www.creativecommons.org/
+  34. http://www.flickr.com/creativecommons
+  35. http://www.flickr.com/services/partners/
+  36. http://www.flickr.com/services/
+  37. http://www.flickr.com/services/api/
+  38. http://www.flickr.com/services/feeds/
+  39. http://www.flickr.com/signin/
+  40. http://www.flickr.com/signup/
+  41. http://www.flickr.com/explore/
+  42. http://www.flickr.com/places/
+  43. http://www.flickr.com/explore/interesting/7days/
+  44. http://www.flickr.com/explore/interesting/2011/08/
+  45. http://www.flickr.com/photos/tags/
+  46. http://www.flickr.com/commons/
+  47. http://www.flickr.com/creativecommons/
+  48. http://www.flickr.com/search/
+  49. http://www.flickr.com/help/
+  50. http://www.flickr.com/guidelines.gne
+  51. http://www.flickr.com/help/forum/
+  52. http://www.flickr.com/help/faq/
+  53. http://www.flickr.com/sitemap.gne
+  54. http://www.flickr.com/help/
+  55. http://blog.flickr.net/
+  56. http://www.flickr.com/about/
+  57. http://www.flickr.com/jobs/
+  58. http://www.flickr.com/terms.gne
+  59. http://www.flickr.com/privacy_policy.gne
+  60. http://info.yahoo.com/relevantads
+  61. http://docs.yahoo.com/info/copyright/copyright.html
+  62. http://safely.yahoo.com/
+  63. http://www.flickr.com/report_abuse.gne
+  64. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  65. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  66. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  67. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  68. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  69. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  70. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  71. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  72. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  73. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
