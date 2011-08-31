@@ -3,7 +3,7 @@
    #[2]alternate
 
    [3]Facebook Developers [4]Documentation[5]Support[6]Blog[7]Apps
-   Search for documenta (Submit) Search for documentation
+   Search Documentation (Submit) Search Documentation
      * Platform Policies
 
      * [8]Credits Terms
