@@ -688,6 +688,11 @@ Contact.
      * [29]Español
      * [30]Français
      * [31]日本語
+     * [32]ภาษาไทย
+     * [33]한국어
+     * [34]Русский
+     * [35]Português
+     * [36]Bahasa Indonesia
 
 References
 
@@ -723,6 +728,11 @@ References
   29. https://foursquare.com/legal/terms
   30. https://foursquare.com/legal/terms
   31. https://foursquare.com/legal/terms
+  32. https://foursquare.com/legal/terms
+  33. https://foursquare.com/legal/terms
+  34. https://foursquare.com/legal/terms
+  35. https://foursquare.com/legal/terms
+  36. https://foursquare.com/legal/terms
 
    Hidden links:
-  32. https://foursquare.com/legal/terms#languagesContainer
+  37. https://foursquare.com/legal/terms#languagesContainer

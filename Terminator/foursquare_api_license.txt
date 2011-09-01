@@ -208,6 +208,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
      * [19]Español
      * [20]Français
      * [21]日本語
+     * [22]ภาษาไทย
+     * [23]한국어
+     * [24]Русский
+     * [25]Português
+     * [26]Bahasa Indonesia
 
 References
 
@@ -233,6 +238,11 @@ References
   19. javascript:///
   20. javascript:///
   21. javascript:///
+  22. javascript:///
+  23. javascript:///
+  24. javascript:///
+  25. javascript:///
+  26. javascript:///
 
    Hidden links:
-  22. https://foursquare.com/legal/api/licenseagreement#languagesContainer
+  27. https://foursquare.com/legal/api/licenseagreement#languagesContainer

@@ -251,6 +251,11 @@ VII. Trademarks
      * [22]Español
      * [23]Français
      * [24]日本語
+     * [25]ภาษาไทย
+     * [26]한국어
+     * [27]Русский
+     * [28]Português
+     * [29]Bahasa Indonesia
 
 References
 
@@ -279,6 +284,11 @@ References
   22. javascript:///
   23. javascript:///
   24. javascript:///
+  25. javascript:///
+  26. javascript:///
+  27. javascript:///
+  28. javascript:///
+  29. javascript:///
 
    Hidden links:
-  25. https://foursquare.com/legal/api/platformpolicy#languagesContainer
+  30. https://foursquare.com/legal/api/platformpolicy#languagesContainer
