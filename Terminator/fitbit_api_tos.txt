@@ -21,6 +21,12 @@ Fitbit Logos
    16x16px
    [7]Download All
 
+Get affiliated
+
+   Become a Fitbit Affiliate and make money from your users who buy a
+   Fitbit.
+   [affiliate.jpg] [8]Learn more
+
 API Terms of Service
 
    These Terms of Service were last updated on March 24, 2011
@@ -41,7 +47,7 @@ API Terms of Service
    currently supported by the API or these Terms of Service, please
    contact us at api@fitbit.com to discuss your needs. Additionally,
    please participate in the Fitbit API developer group, which can be
-   found [8]here.
+   found [9]here.
 
 Certain Definitions
 
@@ -49,7 +55,7 @@ Certain Definitions
    made available to you through the API.
 
    “Fitbit User Interface” means the Fitbit user interface, currently
-   located at [9]www.fitbit.com.
+   located at [10]www.fitbit.com.
 
    “Fitbit Platform” means the Fitbit API, the Fitbit Data and the Fitbit
    User Interface.
@@ -67,7 +73,7 @@ Data Access, Restrictions & Policies
     2. All access to and use of API, the Fitbit Data and/or the Fitbit
        User Interface, and any documentation or other assets provided to
        you by Fitbit shall be governed by these Terms of Service, in
-       addition to the [10]Fitbit Terms of Use
+       addition to the [11]Fitbit Terms of Use
     3. The API is made available for the purposes of extending and
        improving the Fitbit product experience, and the API should not be
        used to create services that replace the Fitbit Platform.
@@ -100,9 +106,9 @@ Data Access, Restrictions & Policies
             other benchmarking or competitive purposes.
 
    If you are unsure whether your intended use of the API is in compliance
-   with these Terms of Service, please contact us at [11]api@fitbit.com to
+   with these Terms of Service, please contact us at [12]api@fitbit.com to
    discuss, Additionally, please participate in the Fitbit API Developer
-   Group located [12]here.
+   Group located [13]here.
 
 Principles & Best Practices
 
@@ -185,7 +191,7 @@ Display Guidelines & Trademark Usage
      * When displaying Fitbit Data in your Application, paths to the
        User's Fitbit Account should be available along with the data.
      * When displaying Fitbit Data in your Application, that data should
-       be accompanied by the [13]Fitbit Logo and Logotype.
+       be accompanied by the [14]Fitbit Logo and Logotype.
 
 License; Ownership of Certain Intellectual Property
 
@@ -325,44 +331,44 @@ Miscellaneous
 
 Help
 
-     * [14]FAQ
-     * [15]Product Manual
-     * [16]Returns and Warranty
-     * [17]Help
+     * [15]FAQ
+     * [16]Product Manual
+     * [17]Returns and Warranty
+     * [18]Help
 
 Products
 
-     * [18]Tracker
-     * [19]Premium Membership
-     * [20]Mobile
-     * [21]API
+     * [19]Tracker
+     * [20]Premium Membership
+     * [21]Mobile
+     * [22]API
 
 Downloads
 
-     * [22]Windows XP, Vista and 7
-     * [23]Mac OS X
+     * [23]Windows XP, Vista and 7
+     * [24]Mac OS X
 
 Explore
 
-     * [24]Calories in Foods
-     * [25]Foods by Restaurant
-     * [26]Foods by Brand
-     * [27]Search Foods
+     * [25]Calories in Foods
+     * [26]Foods by Restaurant
+     * [27]Foods by Brand
+     * [28]Search Foods
 
 Company
 
-     * [28]About Fitbit
-     * [29]Affiliates
-     * [30]Jobs
-     * [31]Fitbit Blog
-     * [32]Privacy Policy
-     * [33]Terms of Use
+     * [29]About Fitbit
+     * [30]Affiliates
+     * [31]Jobs
+     * [32]Fitbit Blog
+     * [33]Privacy Policy
+     * [34]Terms of Use
 
 Purchase Fitbit
 
    Includes Fitbit Tracker, Base Station & Software
 
-[34]Buy Now »
+[35]Buy Now »
 
    product
    © 2011 Fitbit, Inc. All rights reserved.
@@ -377,34 +383,35 @@ References
    5. https://dev.fitbit.com/apps/new
    6. https://dev.fitbit.com/apps
    7. http://dev.fitbit.com/static/FitbitLogosAndGuidelines.zip
-   8. https://groups.google.com/forum/#!forum/fitbit-api
-   9. http://www.fitbit.com/
-  10. http://www.fitbit.com/terms
-  11. mailto:api@fitbit.com
-  12. https://groups.google.com/forum/?pli=1#!forum/fitbit-api
-  13. http://dev.fitbit.com/static/FitbitLogosAndGuidelines.zip
-  14. http://www.fitbit.com/faq
-  15. http://www.fitbit.com/manual
-  16. http://www.fitbit.com/returns
-  17. http://www.fitbit.com/contact
-  18. http://www.fitbit.com/product
-  19. http://www.fitbit.com/premium/about
-  20. http://www.fitbit.com/product/mobile
-  21. http://dev.fitbit.com/
-  22. http://www.fitbit.com/start?platform=win
-  23. http://www.fitbit.com/start?platform=mac
-  24. http://www.fitbit.com/foods/categories
-  25. http://www.fitbit.com/foods/restaurants
-  26. http://www.fitbit.com/foods/brands
-  27. http://www.fitbit.com/foods/search
-  28. http://www.fitbit.com/company
-  29. http://www.fitbit.com/affiliate
-  30. http://fitbit.theresumator.com/apply
-  31. http://blog.fitbit.com/
-  32. http://www.fitbit.com/privacy
-  33. http://www.fitbit.com/terms
-  34. http://www.fitbit.com/product
+   8. http://www.fitbit.com/affiliate
+   9. https://groups.google.com/forum/#!forum/fitbit-api
+  10. http://www.fitbit.com/
+  11. http://www.fitbit.com/terms
+  12. mailto:api@fitbit.com
+  13. https://groups.google.com/forum/?pli=1#!forum/fitbit-api
+  14. http://dev.fitbit.com/static/FitbitLogosAndGuidelines.zip
+  15. http://www.fitbit.com/faq
+  16. http://www.fitbit.com/manual
+  17. http://www.fitbit.com/returns
+  18. http://www.fitbit.com/contact
+  19. http://www.fitbit.com/product
+  20. http://www.fitbit.com/premium/about
+  21. http://www.fitbit.com/product/mobile
+  22. http://dev.fitbit.com/
+  23. http://www.fitbit.com/start?platform=win
+  24. http://www.fitbit.com/start?platform=mac
+  25. http://www.fitbit.com/foods/categories
+  26. http://www.fitbit.com/foods/restaurants
+  27. http://www.fitbit.com/foods/brands
+  28. http://www.fitbit.com/foods/search
+  29. http://www.fitbit.com/company
+  30. http://www.fitbit.com/affiliate
+  31. http://fitbit.theresumator.com/apply
+  32. http://blog.fitbit.com/
+  33. http://www.fitbit.com/privacy
+  34. http://www.fitbit.com/terms
+  35. http://www.fitbit.com/product
 
    Hidden links:
-  35. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
-  36. http://wiki.fitbit.com/display/API
+  36. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
+  37. http://wiki.fitbit.com/display/API

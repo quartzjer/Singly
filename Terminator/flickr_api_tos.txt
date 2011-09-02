@@ -349,7 +349,7 @@ References
   10. http://www.flickr.com/explore/
   11. http://www.flickr.com/explore/interesting/7days/
   12. http://www.flickr.com/photos/tags/
-  13. http://www.flickr.com/explore/interesting/2011/08/
+  13. http://www.flickr.com/explore/interesting/2011/09/
   14. http://www.flickr.com/photos/
   15. http://www.flickr.com/explore/video/
   16. http://www.flickr.com/galleries/
@@ -380,7 +380,7 @@ References
   41. http://www.flickr.com/explore/
   42. http://www.flickr.com/places/
   43. http://www.flickr.com/explore/interesting/7days/
-  44. http://www.flickr.com/explore/interesting/2011/08/
+  44. http://www.flickr.com/explore/interesting/2011/09/
   45. http://www.flickr.com/photos/tags/
   46. http://www.flickr.com/commons/
   47. http://www.flickr.com/creativecommons/
@@ -400,13 +400,13 @@ References
   61. http://docs.yahoo.com/info/copyright/copyright.html
   62. http://safely.yahoo.com/
   63. http://www.flickr.com/report_abuse.gne
-  64. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  65. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  66. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  67. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  68. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  69. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  70. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  71. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  72. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  73. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  64. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  65. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  66. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  67. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  68. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  69. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  70. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  71. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  72. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=af83c953e3e947f3263a370e576e2beb
+  73. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=af83c953e3e947f3263a370e576e2beb
