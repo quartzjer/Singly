@@ -122,30 +122,31 @@ GitHub Links
          GitHub
           + [18]About
           + [19]Blog
-          + [20]Contact & Support
-          + [21]Training
-          + [22]Site Status
+          + [20]Features
+          + [21]Contact & Support
+          + [22]Training
+          + [23]Site Status
          Tools
-          + [23]GitHub for Mac
-          + [24]GitHub:Issues for iPhone
-          + [25]Gist: Code Snippets
-          + [26]Enterprise Install
-          + [27]Job Board
+          + [24]GitHub for Mac
+          + [25]Issues for iPhone
+          + [26]Gist: Code Snippets
+          + [27]Enterprise Install
+          + [28]Job Board
          Extras
-          + [28]GitHub Shop
-          + [29]The Octodex
+          + [29]GitHub Shop
+          + [30]The Octodex
          Documentation
-          + [30]GitHub Help
-          + [31]Developer API
-          + [32]GitHub Flavored Markdown
-          + [33]GitHub Pages
-       [34]Home
-          + [35]Terms of Service
-          + [36]Privacy
-          + [37]Security
+          + [31]GitHub Help
+          + [32]Developer API
+          + [33]GitHub Flavored Markdown
+          + [34]GitHub Pages
+       [35]Home
+          + [36]Terms of Service
+          + [37]Privacy
+          + [38]Security
        © year GitHub Inc. All rights reserved.
-       [38]Dedicated Server Powered by the [39]Dedicated Servers and
-       [40]Cloud Computing of Rackspace Hosting®
+       [39]Dedicated Server Powered by the [40]Dedicated Servers and
+       [41]Cloud Computing of Rackspace Hosting®
 
 References
 
@@ -168,24 +169,25 @@ References
   17. http://github.com/github/develop.github.com
   18. https://github.com/about
   19. https://github.com/blog
-  20. https://github.com/contact
-  21. https://github.com/training
-  22. http://status.github.com/
-  23. http://mac.github.com/
-  24. http://mobile.github.com/
-  25. https://gist.github.com/
-  26. http://fi.github.com/
-  27. http://jobs.github.com/
-  28. http://shop.github.com/
-  29. http://octodex.github.com/
-  30. http://help.github.com/
-  31. http://developer.github.com/
-  32. http://github.github.com/github-flavored-markdown/
-  33. http://pages.github.com/
-  34. http://github.com/
-  35. http://help.github.com/terms-of-service/
-  36. http://help.github.com/privacy-policy/
-  37. http://help.github.com/security/
-  38. http://www.rackspace.com/
+  20. https://github.com/features
+  21. https://github.com/contact
+  22. https://github.com/training
+  23. http://status.github.com/
+  24. http://mac.github.com/
+  25. http://mobile.github.com/
+  26. https://gist.github.com/
+  27. http://fi.github.com/
+  28. http://jobs.github.com/
+  29. http://shop.github.com/
+  30. http://octodex.github.com/
+  31. http://help.github.com/
+  32. http://developer.github.com/
+  33. http://github.github.com/github-flavored-markdown/
+  34. http://pages.github.com/
+  35. http://github.com/
+  36. http://help.github.com/terms-of-service/
+  37. http://help.github.com/privacy-policy/
+  38. http://help.github.com/security/
   39. http://www.rackspace.com/
-  40. http://www.rackspacecloud.com/
+  40. http://www.rackspace.com/
+  41. http://www.rackspacecloud.com/
