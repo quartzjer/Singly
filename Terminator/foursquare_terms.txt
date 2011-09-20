@@ -709,7 +709,7 @@ References
   12. https://foursquare.com/legal/photos
   13. https://foursquare.com/legal/ideas
   14. https://foursquare.com/legal/venueterms
-  15. https://foursquare.com/legal/api/apiplatformpolicy
+  15. https://foursquare.com/legal/api/platformpolicy
   16. https://foursquare.com/legal/api/licenseagreement
   17. https://foursquare.com/about
   18. http://blog.foursquare.com/
