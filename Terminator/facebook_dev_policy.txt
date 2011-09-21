@@ -318,10 +318,11 @@ Examples and Explanations
    these [30]examples and explanations will help you understand how to put
    that into practice.
 
+   [31]Report Documentation Bug
    Updated about a month ago
 
    Facebook © 2011
-   [31]About[32]Platform Policies[33]Privacy Policy
+   [32]About[33]Platform Policies[34]Privacy Policy
 
 References
 
@@ -356,11 +357,12 @@ References
   28. http://developers.facebook.com/policy/credits
   29. http://developers.facebook.com/policy/credits
   30. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  31. http://www.facebook.com/platform
-  32. http://developers.facebook.com/policy/
-  33. http://www.facebook.com/policy.php
+  31. http://developers.facebook.com/bugs?search_view=search&search_ids%5B0%5D=208685622513742
+  32. http://www.facebook.com/platform
+  33. http://developers.facebook.com/policy/
+  34. http://www.facebook.com/policy.php
 
    Hidden links:
-  34. http://developers.facebook.com/policy/
-  35. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  36. http://developers.facebook.com/opensource/
+  35. http://developers.facebook.com/policy/
+  36. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  37. http://developers.facebook.com/opensource/
