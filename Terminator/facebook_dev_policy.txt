@@ -17,13 +17,13 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: August 12, 2011
+   Date of Last Revision: September 22, 2011
 
    Facebook Platform is an extension of Facebook, whose mission is to give
    people the power to share and make the world more open and connected.
 
-   Platform applications and developers are required to comply with the
-   following documents:
+   Platform applications and developers are required to comply with, and
+   are subject to, the following documents:
      * [10]Statement of Rights and Responsibilities: requirements for
        anyone who uses Facebook.
      * [11]Principles: the spirit of the law for Platform.
@@ -178,17 +178,22 @@ Policies
        under your account identifiers.
 
    III. Application Content
-   A. Prohibited Content - You are responsible for all content of and
-       within your application, including advertisements and
-       user-generated content. You must not promote, or provide content
-       referencing, facilitating, containing or using, the following:
+   A. Responsibility for Content - You are responsible for all content of
+       and within your application, including advertisements,
+       user-generated content, and any content hosted, streamed or
+       otherwise delivered to users by third parties. You must make it
+       clear that this content is not provided by Facebook.
+       B. Prohibited Content - You agree that you will not promote, or
+       provide content referencing, facilitating, containing or using, the
+       following:
 
     1. Alcohol-related content (unless the appropriate [20]Demographic
        Restrictions are used), or sale of tobacco products, ammunition
        and/or firearms;
     2. Content that infringes upon the rights of any third party,
-       including intellectual property rights, privacy, publicity or other
-       personal or proprietary right, or that is deceptive or fraudulent;
+       including intellectual property rights, privacy, publicity, moral
+       or other personal or proprietary right, or that is deceptive or
+       fraudulent;
     3. Gambling, including without limitation, any online casino, sports
        books, bingo or poker;
     4. Illegal activity and/or illegal contests, pyramid schemes,
@@ -199,7 +204,36 @@ Policies
        incites violence; or contains nudity or graphic or gratuitous
        violence.
 
-   B. Advertisements and Cross-Promotions
+   C. Rights to Content
+    1. You must ensure that you own or have secured all rights necessary
+       to copy, display, distribute, deliver, render and publicly perform
+       all content of or within your application to Facebook users in all
+       countries where you make the content available.
+    2. You are responsible for all licensing, reporting and payout
+       obligations to third parties required in connection with content of
+       or within your application.
+    3. You must use commercially reasonable geo-filtering technology to
+       block access to your application's content in countries where you
+       are unauthorized to deliver such content, or where delivery of such
+       content would otherwise infringe the rights of a third party.
+    4. Although we have no obligation to do so, in our sole discretion we
+       may request, and you are required to provide us, proof that your
+       application and any content of or within your application is
+       properly licensed.
+
+   D. Third Party Generated Content - If your application contains content
+   submitted or provided by third parties, you must comply with the
+   following rules:
+    1. In the United States you must take all steps required to fall
+       within the applicable safe harbors of the Digital Millennium
+       Copyright Act including designating an agent to receive notices of
+       claimed infringement, instituting a repeat infringer termination
+       policy and implementing a "notice and takeout" process. In other
+       countries, you must comply with local copyright laws and ensure you
+       implement an appropriate "notice and takedown" process upon
+       receiving a notice of claimed infringement.
+
+   E. Advertisements and Cross-Promotions
     1. You must not include advertisements or promotions, cross-promote
        other applications, or provide web search functionality in content
        distributed through [22]Facebook social channels.
@@ -319,7 +353,7 @@ Examples and Explanations
    that into practice.
 
    [31]Report Documentation Bug
-   Updated about a month ago
+   Updated 8 hours ago
 
    Facebook © 2011
    [32]About[33]Platform Policies[34]Privacy Policy
