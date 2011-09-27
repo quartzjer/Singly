@@ -303,10 +303,10 @@ Policies
        application identification number.
     2. By "Facebook social channel" we mean Application Info Section, Page
        Tab, Feed, Requests (including invites), inbox attachments, Chat,
-       Bookmarks, or any other feature of a user profile or Facebook
-       communication channel in which or through which an application can
-       provide, display, or deliver content directed at, on behalf of, or
-       by permission of a user.
+       Cover, Bookmarks, or any other feature of a user profile or
+       Facebook communication channel in which or through which an
+       application can provide, display, or deliver content directed at,
+       on behalf of, or by permission of a user.
     3. By “basic account information” we mean: name, email, gender,
        birthday, current city, and profile picture URL.
     4. By "Facebook Platform Terms and Policies" we mean the Statement of
@@ -353,7 +353,7 @@ Examples and Explanations
    that into practice.
 
    [31]Report Documentation Bug
-   Updated on Thursday
+   Updated 6 hours ago
 
    Facebook © 2011
    [32]About[33]Platform Policies[34]Privacy Policy
