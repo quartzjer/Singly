@@ -1,5 +1,5 @@
    [1]Skip to Main Content Area
-     * September 23, 2011 [2]Important: Direct messages becoming 64-bit
+     * September 27, 2011 [2]Important: Direct messages becoming 64-bit
        snowflake ids on Sep 30, 2011 More »
 
    [3]Developers Search_________ Search
