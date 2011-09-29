@@ -1,6 +1,6 @@
    [1]Skip to Main Content Area
-     * September 27, 2011 [2]Important: Direct messages becoming 64-bit
-       snowflake ids on Sep 30, 2011 More »
+     * September 28, 2011 [2]Remember, the Streaming API is turning SSL
+       only on September 29th | Read more →
 
    [3]Developers Search_________ Search
      * [4]API Status
@@ -152,7 +152,7 @@ Suggestions
 References
 
    1. https://dev.twitter.com/terms/display-guidelines#content-main
-   2. https://dev.twitter.com/blog/direct-messages-going-snowflake-on-sep-30-2011
+   2. https://dev.twitter.com/blog/streaming-api-turning-ssl-only-september-29th
    3. https://dev.twitter.com/
    4. https://dev.twitter.com/status
    5. https://dev.twitter.com/blog

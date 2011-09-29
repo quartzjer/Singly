@@ -512,12 +512,11 @@
      * [41]How to Appeal Claims of Copyright Infringement
      * [42]Pages Terms
 
-     * To access the Statement of Rights and Responsibilities in several
-       different languages, change the language setting for your Facebook
-       session by clicking on the language link in the left corner of most
-       pages.  If the Statement is not available in the language you
-       select, we will default to the English version.
-
+   To access the Statement of Rights and Responsibilities in several
+   different languages, change the language setting for your Facebook
+   session by clicking on the language link in the left corner of most
+   pages.  If the Statement is not available in the language you select,
+   we will default to the English version.
    Facebook © 2011 · [43]English (US)
    [44]Mobile · [45]Find Friends · [46]Badges · [47]People · [48]Pages ·
    [49]About · [50]Advertising · [51]Create a Page · [52]Developers ·
