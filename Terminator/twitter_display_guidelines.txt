@@ -1,6 +1,6 @@
    [1]Skip to Main Content Area
-     * September 28, 2011 [2]Remember, the Streaming API is turning SSL
-       only on September 29th | Read more →
+     * September 29, 2011 [2]Streaming API is SSL only on Sept 29th, DM
+       IDs go 64 bit on Sept 30th | Read more →
 
    [3]Developers Search_________ Search
      * [4]API Status
