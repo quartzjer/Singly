@@ -390,7 +390,7 @@ References
   12. mailto:api@fitbit.com
   13. https://groups.google.com/forum/?pli=1#!forum/fitbit-api
   14. http://dev.fitbit.com/static/FitbitLogosAndGuidelines.zip
-  15. http://www.fitbit.com/faq
+  15. http://help.fitbit.com/
   16. http://www.fitbit.com/manual
   17. http://www.fitbit.com/returns
   18. http://www.fitbit.com/contact
