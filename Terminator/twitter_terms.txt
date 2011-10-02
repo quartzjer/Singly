@@ -1,21 +1,18 @@
    [1]Skip to Main Content Area
-     * September 29, 2011 [2]Streaming API is SSL only on Sept 29th, DM
-       IDs go 64 bit on Sept 30th | Read more →
+   [2]Developers Search_________ Search
+     * [3]API Status
+     * [4]Blog
+     * [5]Discussions
+     * [6]Documentation
+          + [7]Overview
+          + [8]REST API
+          + [9]Streaming API
+          + [10]Twitter for Websites
+          + [11]Recently updated
+     * [12]Sign in
 
-   [3]Developers Search_________ Search
-     * [4]API Status
-     * [5]Blog
-     * [6]Discussions
-     * [7]Documentation
-          + [8]Overview
-          + [9]REST API
-          + [10]Streaming API
-          + [11]Twitter for Websites
-          + [12]Recently updated
-     * [13]Sign in
-
-   [14]Home → [15]Documentation
-   [16]Tweet
+   [13]Home → [14]Documentation
+   [15]Tweet
 
 Developer Rules of the Road
 
@@ -50,7 +47,7 @@ I. Twitter Content
    1. All use of the Twitter API and content, documentation, code, and
    related materials made available to you on or through Twitter ("Twitter
    Content") is subject to and must comply with these Rules. As a
-   reminder, you and your Service are subject to the [17]Twitter Terms of
+   reminder, you and your Service are subject to the [16]Twitter Terms of
    Service.
 
    2. You may use the Twitter API and Twitter Content in connection with
@@ -134,7 +131,7 @@ II. Principles
 
     1. Maintain the integrity of Tweets. There is a lot of information
        packed into Tweets even though they are just 140 characters long
-       (e.g., links to usernames). The [18]Display Guidelines are a part
+       (e.g., links to usernames). The [17]Display Guidelines are a part
        of the Rules and provide guidance on how to best convey all the
        intended information in a Tweet.
        A few highlights:
@@ -163,7 +160,7 @@ II. Principles
     3. Your Service should not:
           + use business names and/or logos in a manner that can mislead,
             confuse, or deceive users. For more information on use of
-            Twitter Marks, see our trademark rules [19]here
+            Twitter Marks, see our trademark rules [18]here
           + confuse or mislead users about the source or purpose of your
             application.
           + use as its Application Website URL an unrelated URL, a site
@@ -181,10 +178,10 @@ II. Principles
 
 2. Don't create or distribute spam
 
-    1. Spam can take many forms. Please abide by the spam rules [20]here.
+    1. Spam can take many forms. Please abide by the spam rules [19]here.
     2. If your application performs automatic actions (including Tweeting
        or other content updates), make sure you comply with the Automation
-       Rules found [21]here.
+       Rules found [20]here.
     3. Do not mass-register applications. This includes:
           + creating tokens/applications for the purpose of preventing
             others from using or selling those names, or other commercial
@@ -206,7 +203,7 @@ II. Principles
        user's Tweets, whether as a geotag or annotations data. Be clear
        about whether you are adding a place or specific coordinates. If
        your application allows users to Tweet with their location be sure
-       that it complies with the best practices found [22]here.
+       that it complies with the best practices found [21]here.
     3. You should not solicit another developer's consumer keys or
        consumer secrets especially if they will be stored or used for
        actions outside of that developer's control. Keys and secrets that
@@ -219,7 +216,7 @@ II. Principles
 4. Be a good partner to Twitter
 
     1. If you display Tweets in an offline context, do so according to the
-       guidelines found [23]here.
+       guidelines found [22]here.
     2. Respect the features and functionality embedded with or included in
        Twitter Content or the Twitter API. Do not attempt to interfere
        with, intercept, disrupt, filter, or disable any features of the
@@ -230,9 +227,9 @@ II. Principles
             Content, not by publicly displaying to other end users that
             the Tweet was unfavorited or deleted.
     3. If your application causes or induces user accounts to violate the
-       [24]Twitter Rules (for example, by retweeting spam updates,
+       [23]Twitter Rules (for example, by retweeting spam updates,
        repeatedly posting duplicate links, etc.), it may be suspended or
-       terminated. We've provided some guidance in our [25]Abuse
+       terminated. We've provided some guidance in our [24]Abuse
        Prevention and Security help page.
     4. Respect the intellectual property rights of others.
     5. Do not use the Twitter Verified Account badge, Verified Account
@@ -491,49 +488,48 @@ V. Other Legal Terms
    the maximum extent permissible and the remaining provisions of this
    agreement will remain in full force and effect.
 
-   View the [26]API Terms of Service: Archive or [27]the most recent
+   View the [25]API Terms of Service: Archive or [26]the most recent
    changes.
-   [28]Follow @twitterapi
-     * [29]API Terms
-     * [30]API Status
-     * [31]Blog
-     * [32]Discussions
-     * [33]Documentation
-     * [34]A Drupal community site supported by Acquia
+   [27]Follow @twitterapi
+     * [28]API Terms
+     * [29]API Status
+     * [30]Blog
+     * [31]Discussions
+     * [32]Documentation
+     * [33]A Drupal community site supported by Acquia
 
 References
 
    1. https://dev.twitter.com/terms/api-terms#content-main
-   2. https://dev.twitter.com/blog/streaming-api-turning-ssl-only-september-29th
-   3. https://dev.twitter.com/
-   4. https://dev.twitter.com/status
-   5. https://dev.twitter.com/blog
-   6. https://dev.twitter.com/discussions
+   2. https://dev.twitter.com/
+   3. https://dev.twitter.com/status
+   4. https://dev.twitter.com/blog
+   5. https://dev.twitter.com/discussions
+   6. https://dev.twitter.com/docs
    7. https://dev.twitter.com/docs
-   8. https://dev.twitter.com/docs
-   9. https://dev.twitter.com/docs/api
-  10. https://dev.twitter.com/docs/streaming-api
-  11. https://dev.twitter.com/docs/twitter-for-websites
-  12. https://dev.twitter.com/docs/recent
-  13. https://dev.twitter.com/user/login?destination=node%2F110
-  14. https://dev.twitter.com/
-  15. https://dev.twitter.com/docs
-  16. http://twitter.com/share
-  17. http://twitter.com/tos
-  18. https://dev.twitter.com/pages/display_guidelines
-  19. http://support.twitter.com/articles/77641
-  20. http://support.twitter.com/articles/18311#spam
-  21. http://support.twitter.com/articles/76915
-  22. https://dev.twitter.com/pages/geo_dev_guidelines
-  23. http://support.twitter.com/articles/114233
-  24. http://support.twitter.com/articles/18311
-  25. http://support.twitter.com/articles/79901
-  26. https://dev.twitter.com/terms/api-terms/archive
-  27. https://dev.twitter.com/terms/api-terms/diff
-  28. http://twitter.com/twitterapi
-  29. https://dev.twitter.com/terms/api-terms
-  30. https://dev.twitter.com/status
-  31. https://dev.twitter.com/blog
-  32. https://dev.twitter.com/discussions
-  33. https://dev.twitter.com/docs
-  34. http://www.acquia.com/
+   8. https://dev.twitter.com/docs/api
+   9. https://dev.twitter.com/docs/streaming-api
+  10. https://dev.twitter.com/docs/twitter-for-websites
+  11. https://dev.twitter.com/docs/recent
+  12. https://dev.twitter.com/user/login?destination=node%2F110
+  13. https://dev.twitter.com/
+  14. https://dev.twitter.com/docs
+  15. http://twitter.com/share
+  16. http://twitter.com/tos
+  17. https://dev.twitter.com/pages/display_guidelines
+  18. http://support.twitter.com/articles/77641
+  19. http://support.twitter.com/articles/18311#spam
+  20. http://support.twitter.com/articles/76915
+  21. https://dev.twitter.com/pages/geo_dev_guidelines
+  22. http://support.twitter.com/articles/114233
+  23. http://support.twitter.com/articles/18311
+  24. http://support.twitter.com/articles/79901
+  25. https://dev.twitter.com/terms/api-terms/archive
+  26. https://dev.twitter.com/terms/api-terms/diff
+  27. http://twitter.com/twitterapi
+  28. https://dev.twitter.com/terms/api-terms
+  29. https://dev.twitter.com/status
+  30. https://dev.twitter.com/blog
+  31. https://dev.twitter.com/discussions
+  32. https://dev.twitter.com/docs
+  33. http://www.acquia.com/
