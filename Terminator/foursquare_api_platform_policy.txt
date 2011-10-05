@@ -233,12 +233,12 @@ VII. Trademarks
        Feature Guidelines.
 
      * [10]about
-     * [11]blog
-     * [12]contact
-     * [13]help
-     * [14]jobs
-     * [15]privacy 101
-     * [16]privacy policy
+     * [11]apps
+     * [12]blog
+     * [13]developers
+     * [14]help
+     * [15]jobs
+     * [16]privacy
      * [17]terms (New)
      * [18]store
 
@@ -270,12 +270,12 @@ References
    8. https://foursquare.com/legal/privacy
    9. https://foursquare.com/legal/trademark
   10. https://foursquare.com/about
-  11. http://blog.foursquare.com/
-  12. https://foursquare.com/contact
-  13. http://foursquare.com/help
-  14. https://foursquare.com/jobs/
-  15. https://foursquare.com/privacy/
-  16. https://foursquare.com/legal/privacy
+  11. https://foursquare.com/apps
+  12. http://blog.foursquare.com/
+  13. http://developers.foursquare.com/
+  14. http://foursquare.com/help
+  15. https://foursquare.com/jobs/
+  16. https://foursquare.com/privacy/
   17. https://foursquare.com/legal/terms
   18. http://store.foursquare.com/
   19. javascript:///

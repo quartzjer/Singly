@@ -190,12 +190,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    this Agreement and to delegate any of its obligations hereunder.
 
      * [7]about
-     * [8]blog
-     * [9]contact
-     * [10]help
-     * [11]jobs
-     * [12]privacy 101
-     * [13]privacy policy
+     * [8]apps
+     * [9]blog
+     * [10]developers
+     * [11]help
+     * [12]jobs
+     * [13]privacy
      * [14]terms (New)
      * [15]store
 
@@ -224,12 +224,12 @@ References
    5. https://foursquare.com/
    6. https://foursquare.com/legal/api/platformpolicy
    7. https://foursquare.com/about
-   8. http://blog.foursquare.com/
-   9. https://foursquare.com/contact
-  10. http://foursquare.com/help
-  11. https://foursquare.com/jobs/
-  12. https://foursquare.com/privacy/
-  13. https://foursquare.com/legal/privacy
+   8. https://foursquare.com/apps
+   9. http://blog.foursquare.com/
+  10. http://developers.foursquare.com/
+  11. http://foursquare.com/help
+  12. https://foursquare.com/jobs/
+  13. https://foursquare.com/privacy/
   14. https://foursquare.com/legal/terms
   15. http://store.foursquare.com/
   16. javascript:///

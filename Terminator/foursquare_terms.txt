@@ -668,12 +668,12 @@ Contact.
    Effective Date: August 25, 2011
 
      * [17]about
-     * [18]blog
-     * [19]contact
-     * [20]help
-     * [21]jobs
-     * [22]privacy 101
-     * [23]privacy policy
+     * [18]apps
+     * [19]blog
+     * [20]developers
+     * [21]help
+     * [22]jobs
+     * [23]privacy
      * [24]terms (New)
      * [25]store
 
@@ -712,12 +712,12 @@ References
   15. https://foursquare.com/legal/api/platformpolicy
   16. https://foursquare.com/legal/api/licenseagreement
   17. https://foursquare.com/about
-  18. http://blog.foursquare.com/
-  19. https://foursquare.com/contact
-  20. http://foursquare.com/help
-  21. https://foursquare.com/jobs/
-  22. https://foursquare.com/privacy/
-  23. https://foursquare.com/legal/privacy
+  18. https://foursquare.com/apps
+  19. http://blog.foursquare.com/
+  20. http://developers.foursquare.com/
+  21. http://foursquare.com/help
+  22. https://foursquare.com/jobs/
+  23. https://foursquare.com/privacy/
   24. https://foursquare.com/legal/terms
   25. http://store.foursquare.com/
   26. https://foursquare.com/legal/terms
