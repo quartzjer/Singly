@@ -228,7 +228,7 @@ Policies
        within the applicable safe harbors of the Digital Millennium
        Copyright Act including designating an agent to receive notices of
        claimed infringement, instituting a repeat infringer termination
-       policy and implementing a "notice and takeout" process. In other
+       policy and implementing a "notice and takedown" process. In other
        countries, you must comply with local copyright laws and ensure you
        implement an appropriate "notice and takedown" process upon
        receiving a notice of claimed infringement.
@@ -353,7 +353,7 @@ Examples and Explanations
    that into practice.
 
    [31]Report Documentation Bug
-   Updated about a week ago
+   Updated 2 hours ago
 
    Facebook © 2011
    [32]About[33]Platform Policies[34]Privacy Policy
