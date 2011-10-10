@@ -3,6 +3,9 @@
      * [3]API v2
      * [4]Support
 
+   This API is deprecated. Check out [5]API v3 for the latest
+   documentation.
+
 General API Information
 
 Schema
@@ -21,7 +24,7 @@ http://github.com/api/v2/:format
 
 Authentication
 
-   [5]OAuth is the preferred authentication method because tokens can be
+   [6]OAuth is the preferred authentication method because tokens can be
    limited to specific types of data, and can be revoked by users at any
    time.
 
@@ -104,49 +107,49 @@ Limitations
    access the API more than 60 times in a minute, it will start giving you
    "access denied" errors.
      * General API Information
-     * [6]Commits API
-     * [7]Gist API
-     * [8]Issues API
-     * [9]API Libraries
-     * [10]Network API
-     * [11]OAuth
-     * [12]Object API
-     * [13]Organizations API
-     * [14]Pull Request API
-     * [15]Repositories API
-     * [16]Users API
-       This website is [17]open source. Please help us by forking the
+     * [7]Commits API
+     * [8]Gist API
+     * [9]Issues API
+     * [10]API Libraries
+     * [11]Network API
+     * [12]OAuth
+     * [13]Object API
+     * [14]Organizations API
+     * [15]Pull Request API
+     * [16]Repositories API
+     * [17]Users API
+       This website is [18]open source. Please help us by forking the
        project and adding to it.
 
 GitHub Links
          GitHub
-          + [18]About
-          + [19]Blog
-          + [20]Features
-          + [21]Contact & Support
-          + [22]Training
-          + [23]Site Status
+          + [19]About
+          + [20]Blog
+          + [21]Features
+          + [22]Contact & Support
+          + [23]Training
+          + [24]Site Status
          Tools
-          + [24]GitHub for Mac
-          + [25]Issues for iPhone
-          + [26]Gist: Code Snippets
-          + [27]Enterprise Install
-          + [28]Job Board
+          + [25]GitHub for Mac
+          + [26]Issues for iPhone
+          + [27]Gist: Code Snippets
+          + [28]Enterprise Install
+          + [29]Job Board
          Extras
-          + [29]GitHub Shop
-          + [30]The Octodex
+          + [30]GitHub Shop
+          + [31]The Octodex
          Documentation
-          + [31]GitHub Help
-          + [32]Developer API
-          + [33]GitHub Flavored Markdown
-          + [34]GitHub Pages
-       [35]Home
-          + [36]Terms of Service
-          + [37]Privacy
-          + [38]Security
+          + [32]GitHub Help
+          + [33]Developer API
+          + [34]GitHub Flavored Markdown
+          + [35]GitHub Pages
+       [36]Home
+          + [37]Terms of Service
+          + [38]Privacy
+          + [39]Security
        © year GitHub Inc. All rights reserved.
-       [39]Dedicated Server Powered by the [40]Dedicated Servers and
-       [41]Cloud Computing of Rackspace Hosting®
+       [40]Dedicated Server Powered by the [41]Dedicated Servers and
+       [42]Cloud Computing of Rackspace Hosting®
 
 References
 
@@ -154,40 +157,41 @@ References
    2. http://developer.github.com/v3/
    3. http://develop.github.com/
    4. http://support.github.com/discussions/api
-   5. http://develop.github.com/p/oauth.html
-   6. http://develop.github.com/p/commits.html
-   7. http://develop.github.com/p/gist.html
-   8. http://develop.github.com/p/issues.html
-   9. http://develop.github.com/p/libraries.html
-  10. http://develop.github.com/p/network.html
-  11. http://develop.github.com/p/oauth.html
-  12. http://develop.github.com/p/object.html
-  13. http://develop.github.com/p/orgs.html
-  14. http://develop.github.com/p/pulls.html
-  15. http://develop.github.com/p/repo.html
-  16. http://develop.github.com/p/users.html
-  17. http://github.com/github/develop.github.com
-  18. https://github.com/about
-  19. https://github.com/blog
-  20. https://github.com/features
-  21. https://github.com/contact
-  22. https://github.com/training
-  23. http://status.github.com/
-  24. http://mac.github.com/
-  25. http://mobile.github.com/
-  26. https://gist.github.com/
-  27. http://fi.github.com/
-  28. http://jobs.github.com/
-  29. http://shop.github.com/
-  30. http://octodex.github.com/
-  31. http://help.github.com/
-  32. http://developer.github.com/
-  33. http://github.github.com/github-flavored-markdown/
-  34. http://pages.github.com/
-  35. http://github.com/
-  36. http://help.github.com/terms-of-service/
-  37. http://help.github.com/privacy-policy/
-  38. http://help.github.com/security/
-  39. http://www.rackspace.com/
+   5. http://developer.github.com/v3/
+   6. http://develop.github.com/p/oauth.html
+   7. http://develop.github.com/p/commits.html
+   8. http://develop.github.com/p/gist.html
+   9. http://develop.github.com/p/issues.html
+  10. http://develop.github.com/p/libraries.html
+  11. http://develop.github.com/p/network.html
+  12. http://develop.github.com/p/oauth.html
+  13. http://develop.github.com/p/object.html
+  14. http://develop.github.com/p/orgs.html
+  15. http://develop.github.com/p/pulls.html
+  16. http://develop.github.com/p/repo.html
+  17. http://develop.github.com/p/users.html
+  18. http://github.com/github/develop.github.com
+  19. https://github.com/about
+  20. https://github.com/blog
+  21. https://github.com/features
+  22. https://github.com/contact
+  23. https://github.com/training
+  24. http://status.github.com/
+  25. http://mac.github.com/
+  26. http://mobile.github.com/
+  27. https://gist.github.com/
+  28. http://fi.github.com/
+  29. http://jobs.github.com/
+  30. http://shop.github.com/
+  31. http://octodex.github.com/
+  32. http://help.github.com/
+  33. http://developer.github.com/
+  34. http://github.github.com/github-flavored-markdown/
+  35. http://pages.github.com/
+  36. http://github.com/
+  37. http://help.github.com/terms-of-service/
+  38. http://help.github.com/privacy-policy/
+  39. http://help.github.com/security/
   40. http://www.rackspace.com/
-  41. http://www.rackspacecloud.com/
+  41. http://www.rackspace.com/
+  42. http://www.rackspacecloud.com/
