@@ -195,7 +195,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
      * [10]developers
      * [11]help
      * [12]jobs
-     * [13]privacy
+     * [13]privacy (New)
      * [14]terms (New)
      * [15]store
 

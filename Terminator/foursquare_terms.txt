@@ -673,7 +673,7 @@ Contact.
      * [20]developers
      * [21]help
      * [22]jobs
-     * [23]privacy
+     * [23]privacy (New)
      * [24]terms (New)
      * [25]store
 

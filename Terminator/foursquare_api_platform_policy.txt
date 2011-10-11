@@ -238,7 +238,7 @@ VII. Trademarks
      * [13]developers
      * [14]help
      * [15]jobs
-     * [16]privacy
+     * [16]privacy (New)
      * [17]terms (New)
      * [18]store
 
