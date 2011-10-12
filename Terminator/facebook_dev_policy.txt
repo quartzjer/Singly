@@ -357,10 +357,10 @@ Examples and Explanations
    that into practice.
 
    [36]Report Documentation Bug
-   Updated 8 hours ago
+   Updated on Monday
 
-   Facebook © 2011
-   [37]About[38]Platform Policies[39]Privacy Policy
+   Facebook © 2011 · [37]English (US)
+   [38]About[39]Platform Policies[40]Privacy Policy
 
 References
 
@@ -401,11 +401,12 @@ References
   34. http://developers.facebook.com/policy/credits
   35. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
   36. http://developers.facebook.com/bugs?search_view=search&search_ids%5B0%5D=208685622513742
-  37. http://www.facebook.com/platform
-  38. http://developers.facebook.com/policy/
-  39. http://www.facebook.com/policy.php
+  37. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  38. http://www.facebook.com/platform
+  39. http://developers.facebook.com/policy
+  40. http://www.facebook.com/policy.php
 
    Hidden links:
-  40. http://developers.facebook.com/policy/
-  41. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  42. http://developers.facebook.com/opensource/
+  41. http://developers.facebook.com/policy/
+  42. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  43. http://developers.facebook.com/opensource/
