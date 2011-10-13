@@ -229,7 +229,7 @@ References
   10. http://developers.foursquare.com/
   11. http://foursquare.com/help
   12. https://foursquare.com/jobs/
-  13. https://foursquare.com/privacy/
+  13. https://foursquare.com/legal/privacy
   14. https://foursquare.com/legal/terms
   15. http://store.foursquare.com/
   16. javascript:///

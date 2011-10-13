@@ -717,7 +717,7 @@ References
   20. http://developers.foursquare.com/
   21. http://foursquare.com/help
   22. https://foursquare.com/jobs/
-  23. https://foursquare.com/privacy/
+  23. https://foursquare.com/legal/privacy
   24. https://foursquare.com/legal/terms
   25. http://store.foursquare.com/
   26. https://foursquare.com/legal/terms
