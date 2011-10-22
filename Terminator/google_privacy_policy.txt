@@ -16,7 +16,7 @@
 
 Privacy Policy
 
-   Last modified: October 3, 2010 ([13]view archived versions)
+   Last modified: October 20, 2011 ([13]view archived versions)
 
    This Privacy Policy applies to all of the [14]products, services and
    websites offered by Google Inc. or its subsidiaries or affiliated
@@ -203,10 +203,15 @@ Accessing and updating personal information
 
 Enforcement
 
-   Google adheres to the US Safe Harbor Privacy Principles of Notice,
-   Choice, Onward Transfer, Security, Data Integrity, Access and
-   Enforcement, and is registered with the [26]U.S. Department of
-   Commerceâ€™s Safe Harbor Program.
+   Google complies with the U.S.-EU Safe Harbor Framework and the
+   U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of
+   Commerce regarding the collection, use, and retention of personal
+   information from European Union member countries and Switzerland.
+   Google has certified that it adheres to the Safe Harbor Privacy
+   Principles of notice, choice, onward transfer, security, data
+   integrity, access, and enforcement. To learn more about the Safe Harbor
+   program, and to view Googleâ€™s certification, please visit the
+   [26]Safe Harbor website.
 
    Google regularly reviews its compliance with this Privacy Policy. When
    we receive formal written complaints, it is Googleâ€™s policy to
@@ -254,7 +259,7 @@ References
   23. http://www.doubleclick.com/privacy/dart_adserving.aspx
   24. http://www.google.com/ads/preferences/?hl=en
   25. http://www.google.com/intl/en/privacy/ads/
-  26. http://www.export.gov/safeharbor/
+  26. http://export.gov/safeharbor/
   27. http://www.google.com/intl/en/privacy/archive/
   28. http://www.google.com/intl/en/about.html
   29. http://www.google.com/support/websearch/bin/answer.py?answer=151265&hl=en
