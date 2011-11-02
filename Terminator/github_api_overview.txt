@@ -133,7 +133,7 @@ GitHub Links
           + [25]GitHub for Mac
           + [26]Issues for iPhone
           + [27]Gist: Code Snippets
-          + [28]Enterprise Install
+          + [28]GitHub Enterprise
           + [29]Job Board
          Extras
           + [30]GitHub Shop
@@ -180,7 +180,7 @@ References
   25. http://mac.github.com/
   26. http://mobile.github.com/
   27. https://gist.github.com/
-  28. http://fi.github.com/
+  28. http://enterprise.github.com/
   29. http://jobs.github.com/
   30. http://shop.github.com/
   31. http://octodex.github.com/
