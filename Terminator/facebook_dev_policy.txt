@@ -116,6 +116,9 @@ Policies
    11. [22]Apps on Facebook may not integrate, link to, promote,
        distribute, or redirect to any app on any other competing social
        platform.
+   12. The primary purpose of your Canvas or Page Tab app on Facebook must
+       not be to simply redirect users out of the Facebook experience and
+       onto an external site.
 
    II. Storing and Using Data You Receive From Us
     1. You will only request the data you need to operate your
@@ -357,7 +360,7 @@ Examples and Explanations
    that into practice.
 
    [36]Report Documentation Bug
-   Updated about a month ago
+   Updated 9 hours ago
 
    Facebook © 2011 · [37]English (US)
    [38]About[39]Platform Policies[40]Privacy Policy
