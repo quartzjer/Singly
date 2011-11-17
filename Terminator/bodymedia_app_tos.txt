@@ -219,8 +219,6 @@
 
    © 2011 BodyMedia, Inc.
 
-   indicator_medium.gif
-
    Draft
 
    Quantcast

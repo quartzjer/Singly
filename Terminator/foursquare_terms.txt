@@ -690,12 +690,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [36][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [37][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [38][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [40][windowslive-38f5072d746b29d168455fd2791516dc.png]
-     * [41][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [36][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [37][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [38][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [39][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [40][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [41][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -735,12 +735,12 @@ References
   33. https://foursquare.com/legal/terms
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
-  36. https://foursquare.com/thrillist
-  37. https://foursquare.com/thedewtour
-  38. https://foursquare.com/ifctv
-  39. https://foursquare.com/racked
-  40. https://foursquare.com/windowslive
-  41. https://foursquare.com/joinred
+  36. https://foursquare.com/luckymagazine
+  37. https://foursquare.com/zagat
+  38. https://foursquare.com/thrillist
+  39. https://foursquare.com/brisk
+  40. https://foursquare.com/joinred
+  41. https://foursquare.com/bbcamerica
 
    Hidden links:
   42. https://foursquare.com/legal/terms#languagesContainer

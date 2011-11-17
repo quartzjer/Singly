@@ -256,12 +256,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [30][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [31][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [32][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [33][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [34][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [29][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [30][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [31][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [32][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [33][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [34][mashable-d52adc9976ea3d7302da90feab662cde.png]
 
 References
 
@@ -294,12 +294,12 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/luckymagazine
-  30. https://foursquare.com/tlc
-  31. https://foursquare.com/ifctv
-  32. https://foursquare.com/eater
-  33. https://foursquare.com/brisk
-  34. https://foursquare.com/mazdausa
+  29. https://foursquare.com/mtv
+  30. https://foursquare.com/zagat
+  31. https://foursquare.com/bonappetitmag
+  32. https://foursquare.com/nymag
+  33. https://foursquare.com/walgreens
+  34. https://foursquare.com/mashable
 
    Hidden links:
   35. https://foursquare.com/legal/api/platformpolicy#languagesContainer
