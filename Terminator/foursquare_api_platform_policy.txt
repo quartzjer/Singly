@@ -227,15 +227,15 @@ VII. Trademarks
      * You must read and comply with the [7]Foursquare Trademark and Brand
        Feature Guidelines.
 
-     * [8]about
-     * [9]apps
-     * [10]blog
-     * [11]developers
-     * [12]help
-     * [13]jobs
-     * [14]privacy (New)
-     * [15]terms (New)
-     * [16]store
+     * [8]About
+     * [9]Apps
+     * [10]Blog
+     * [11]Developers
+     * [12]Help
+     * [13]Jobs
+     * [14]Privacy (New)
+     * [15]Terms (New)
+     * [16]Store
      * Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + [17]English
@@ -256,12 +256,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [30][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [31][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [32][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [33][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [34][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [29][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [30][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [31][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [32][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [33][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [34][eater-5a8d27da22828104e13b0a4a50a74db8.png]
 
 References
 
@@ -294,12 +294,12 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/mtv
-  30. https://foursquare.com/zagat
-  31. https://foursquare.com/bonappetitmag
-  32. https://foursquare.com/nymag
-  33. https://foursquare.com/walgreens
-  34. https://foursquare.com/mashable
+  29. https://foursquare.com/vh1
+  30. https://foursquare.com/wsj
+  31. https://foursquare.com/zagat
+  32. https://foursquare.com/gossipgirl
+  33. https://foursquare.com/racked
+  34. https://foursquare.com/eater
 
    Hidden links:
   35. https://foursquare.com/legal/api/platformpolicy#languagesContainer

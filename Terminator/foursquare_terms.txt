@@ -661,15 +661,15 @@ Contact.
    6th Floor, New York, NY 10003.
 
    Effective Date: August 25, 2011
-     * [15]about
-     * [16]apps
-     * [17]blog
-     * [18]developers
-     * [19]help
-     * [20]jobs
-     * [21]privacy (New)
-     * [22]terms (New)
-     * [23]store
+     * [15]About
+     * [16]Apps
+     * [17]Blog
+     * [18]Developers
+     * [19]Help
+     * [20]Jobs
+     * [21]Privacy (New)
+     * [22]Terms (New)
+     * [23]Store
      * Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + [24]English
@@ -690,12 +690,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [36][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [36][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
      * [37][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [38][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [39][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [40][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
-     * [41][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [38][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [39][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [40][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [41][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 References
 
@@ -735,12 +735,12 @@ References
   33. https://foursquare.com/legal/terms
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
-  36. https://foursquare.com/luckymagazine
+  36. https://foursquare.com/mtv
   37. https://foursquare.com/zagat
-  38. https://foursquare.com/thrillist
-  39. https://foursquare.com/brisk
-  40. https://foursquare.com/joinred
-  41. https://foursquare.com/bbcamerica
+  38. https://foursquare.com/tlc
+  39. https://foursquare.com/askmen
+  40. https://foursquare.com/redskins
+  41. https://foursquare.com/nhl
 
    Hidden links:
   42. https://foursquare.com/legal/terms#languagesContainer

@@ -1,4 +1,5 @@
-   REFRESH(0 sec): [1]http://developers.facebook.com/policy?_fb_noscript=1
+   REFRESH(0 sec):
+   [1]http://developers.facebook.com/policy/?_fb_noscript=1
    #[2]alternate
 
    [3]Facebook Developers [4]Documentation[5]Support[6]Blog[7]Apps
@@ -367,8 +368,8 @@ Examples and Explanations
 References
 
    Visible links
-   1. http://developers.facebook.com/policy?_fb_noscript=1
-   2. http://developers.facebook.com/policy
+   1. http://developers.facebook.com/policy/?_fb_noscript=1
+   2. http://developers.facebook.com/policy/
    3. http://developers.facebook.com/
    4. http://developers.facebook.com/docs/
    5. http://developers.facebook.com/support/
@@ -377,8 +378,8 @@ References
    8. http://developers.facebook.com/policy/credits
    9. http://developers.facebook.com/policy/contact
   10. http://www.facebook.com/terms.php
-  11. http://developers.facebook.com/policy#principles
-  12. http://developers.facebook.com/policy#policies
+  11. http://developers.facebook.com/policy/#principles
+  12. http://developers.facebook.com/policy/#policies
   13. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
   14. http://www.facebook.com/developers/developer_help.php?category=Thresholds
   15. http://developers.facebook.com/docs/guides/canvas/
@@ -389,11 +390,11 @@ References
   20. http://developers.facebook.com/docs/mobile/web/build/
   21. http://developers.facebook.com/docs/mobile/web/build/
   22. http://developers.facebook.com/docs/guides/canvas/
-  23. http://developers.facebook.com/policy#definitions
+  23. http://developers.facebook.com/policy/#definitions
   24. https://developers.facebook.com/docs/reference/api/user/
   25. http://developers.facebook.com/docs/reference/fbml/restricted-to
   26. http://www.facebook.com/promotions_guidelines.php
-  27. http://developers.facebook.com/policy#Facebook_social_channels
+  27. http://developers.facebook.com/policy/#Facebook_social_channels
   28. http://developers.facebook.com/adproviders/
   29. http://developers.facebook.com/docs/guides/canvas/
   30. http://developers.facebook.com/docs/authentication/permissions/
@@ -403,7 +404,7 @@ References
   34. http://developers.facebook.com/policy/credits
   35. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
   36. http://developers.facebook.com/bugs?search_view=search&search_ids%5B0%5D=208685622513742
-  37. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy
+  37. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
   38. http://www.facebook.com/platform
   39. http://developers.facebook.com/policy
   40. http://www.facebook.com/policy.php

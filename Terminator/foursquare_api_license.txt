@@ -183,15 +183,15 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    and any action or conduct in violation of the foregoing shall be void
    and without effect. Foursquare expressly reserves the right to assign
    this Agreement and to delegate any of its obligations hereunder.
-     * [5]about
-     * [6]apps
-     * [7]blog
-     * [8]developers
-     * [9]help
-     * [10]jobs
-     * [11]privacy (New)
-     * [12]terms (New)
-     * [13]store
+     * [5]About
+     * [6]Apps
+     * [7]Blog
+     * [8]Developers
+     * [9]Help
+     * [10]Jobs
+     * [11]Privacy (New)
+     * [12]Terms (New)
+     * [13]Store
      * Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + [14]English
@@ -212,12 +212,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [26][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [27][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [28][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [29][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [30][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [31][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [26][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [27][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [28][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [30][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [31][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -247,12 +247,12 @@ References
   23. javascript:///
   24. javascript:///
   25. https://foursquare.com/pages
-  26. https://foursquare.com/tlc
-  27. https://foursquare.com/peoplemag
-  28. https://foursquare.com/redskins
-  29. https://foursquare.com/walgreens
-  30. https://foursquare.com/nhl
-  31. https://foursquare.com/bbcamerica
+  26. https://foursquare.com/historychannel
+  27. https://foursquare.com/vh1
+  28. https://foursquare.com/wsj
+  29. https://foursquare.com/thedewtour
+  30. https://foursquare.com/brisk
+  31. https://foursquare.com/sportsauthority
 
    Hidden links:
   32. https://foursquare.com/legal/api/licenseagreement#languagesContainer
