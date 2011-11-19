@@ -201,8 +201,8 @@ Policies
        including intellectual property rights, privacy, publicity, moral
        or other personal or proprietary right, or that is deceptive or
        fraudulent;
-    3. Gambling, including without limitation, any online casino, sports
-       books, bingo or poker;
+    3. Online gambling, games of skill or lotteries, including online
+       casinos, sports books, bingo, or poker.
     4. Illegal activity and/or illegal contests, pyramid schemes,
        sweepstakes or chain letters; if you run, reference, or facilitate
        a legally permissible sweepstakes, contest, or other promotion you
@@ -360,7 +360,7 @@ Examples and Explanations
    that into practice.
 
    [36]Report Documentation Bug
-   Updated last Friday
+   Updated 6 hours ago
 
    Facebook © 2011 · [37]English (US)
    [38]About[39]Platform Policies[40]Privacy Policy

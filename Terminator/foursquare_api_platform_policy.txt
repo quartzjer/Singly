@@ -256,12 +256,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [30][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [29][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [30][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
      * [31][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [32][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [33][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [34][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [32][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [33][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [34][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -294,12 +294,12 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/vh1
-  30. https://foursquare.com/wsj
+  29. https://foursquare.com/bravotv
+  30. https://foursquare.com/luckymagazine
   31. https://foursquare.com/zagat
-  32. https://foursquare.com/gossipgirl
-  33. https://foursquare.com/racked
-  34. https://foursquare.com/eater
+  32. https://foursquare.com/tlc
+  33. https://foursquare.com/visitpa
+  34. https://foursquare.com/bbcamerica
 
    Hidden links:
   35. https://foursquare.com/legal/api/platformpolicy#languagesContainer

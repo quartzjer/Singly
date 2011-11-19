@@ -691,11 +691,11 @@ Contact.
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [36][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [37][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [38][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [39][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [40][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [41][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [37][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [38][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [39][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [40][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [41][mashable-d52adc9976ea3d7302da90feab662cde.png]
 
 References
 
@@ -736,11 +736,11 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
   36. https://foursquare.com/mtv
-  37. https://foursquare.com/zagat
-  38. https://foursquare.com/tlc
-  39. https://foursquare.com/askmen
-  40. https://foursquare.com/redskins
-  41. https://foursquare.com/nhl
+  37. https://foursquare.com/bravotv
+  38. https://foursquare.com/louisvuitton_hq
+  39. https://foursquare.com/eater
+  40. https://foursquare.com/michelinguides
+  41. https://foursquare.com/mashable
 
    Hidden links:
   42. https://foursquare.com/legal/terms#languagesContainer
