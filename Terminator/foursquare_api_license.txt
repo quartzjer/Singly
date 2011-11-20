@@ -212,11 +212,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [26][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [27][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [28][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [29][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [30][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [26][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [27][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [28][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [29][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
      * [31][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
 
 References
@@ -247,11 +247,11 @@ References
   23. javascript:///
   24. javascript:///
   25. https://foursquare.com/pages
-  26. https://foursquare.com/tlc
-  27. https://foursquare.com/huffingtonpost
-  28. https://foursquare.com/peoplemag
-  29. https://foursquare.com/nationalpost
-  30. https://foursquare.com/michelinguides
+  26. https://foursquare.com/mtv
+  27. https://foursquare.com/thrillist
+  28. https://foursquare.com/ifctv
+  29. https://foursquare.com/peoplemag
+  30. https://foursquare.com/nationalpost
   31. https://foursquare.com/logotv
 
    Hidden links:
