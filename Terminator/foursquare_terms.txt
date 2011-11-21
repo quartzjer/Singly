@@ -690,12 +690,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [36][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [37][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [38][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [39][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [40][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [41][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [36][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [37][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [38][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [39][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [40][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [41][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -735,12 +735,12 @@ References
   33. https://foursquare.com/legal/terms
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
-  36. https://foursquare.com/bonappetitmag
-  37. https://foursquare.com/tlc
-  38. https://foursquare.com/visitpa
-  39. https://foursquare.com/nymag
-  40. https://foursquare.com/racked
-  41. https://foursquare.com/walgreens
+  36. https://foursquare.com/historychannel
+  37. https://foursquare.com/thrillist
+  38. https://foursquare.com/nymag
+  39. https://foursquare.com/peoplemag
+  40. https://foursquare.com/mashable
+  41. https://foursquare.com/brisk
 
    Hidden links:
   42. https://foursquare.com/legal/terms#languagesContainer
