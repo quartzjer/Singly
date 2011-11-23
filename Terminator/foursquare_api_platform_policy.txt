@@ -256,12 +256,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [30][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [31][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [32][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [33][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [34][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [29][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [30][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [31][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [32][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [33][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [34][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 References
 
@@ -294,12 +294,12 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/vh1
-  30. https://foursquare.com/luckymagazine
-  31. https://foursquare.com/nymag
-  32. https://foursquare.com/huffingtonpost
-  33. https://foursquare.com/ifctv
-  34. https://foursquare.com/mazdausa
+  29. https://foursquare.com/bravotv
+  30. https://foursquare.com/tlc
+  31. https://foursquare.com/louisvuitton_hq
+  32. https://foursquare.com/michelinguides
+  33. https://foursquare.com/walgreens
+  34. https://foursquare.com/nhl
 
    Hidden links:
   35. https://foursquare.com/legal/api/platformpolicy#languagesContainer

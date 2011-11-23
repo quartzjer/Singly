@@ -690,12 +690,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [36][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [37][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [38][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [36][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [37][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [38][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [39][redskins-65f70dead6fc656b5c747312e50f01f4.png]
      * [40][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [41][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
 
@@ -735,12 +735,12 @@ References
   33. https://foursquare.com/legal/terms
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
-  36. https://foursquare.com/mtv
-  37. https://foursquare.com/thrillist
-  38. https://foursquare.com/redskins
-  39. https://foursquare.com/racked
+  36. https://foursquare.com/wsj
+  37. https://foursquare.com/bonappetitmag
+  38. https://foursquare.com/ifctv
+  39. https://foursquare.com/redskins
   40. https://foursquare.com/michelinguides
-  41. https://foursquare.com/nhl
+  41. https://foursquare.com/mazdausa
 
    Hidden links:
   42. https://foursquare.com/legal/terms#languagesContainer
