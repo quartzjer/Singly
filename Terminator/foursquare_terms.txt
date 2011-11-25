@@ -690,11 +690,11 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [36][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [37][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [38][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [39][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [40][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [36][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [37][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [38][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [39][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [40][mashable-d52adc9976ea3d7302da90feab662cde.png]
      * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
@@ -735,11 +735,11 @@ References
   33. https://foursquare.com/legal/terms
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
-  36. https://foursquare.com/luckymagazine
-  37. https://foursquare.com/zagat
-  38. https://foursquare.com/thrillist
-  39. https://foursquare.com/nationalpost
-  40. https://foursquare.com/logotv
+  36. https://foursquare.com/historychannel
+  37. https://foursquare.com/thrillist
+  38. https://foursquare.com/racked
+  39. https://foursquare.com/logotv
+  40. https://foursquare.com/mashable
   41. https://foursquare.com/mazdausa
 
    Hidden links:
