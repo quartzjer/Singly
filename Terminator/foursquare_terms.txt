@@ -691,11 +691,11 @@ Contact.
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [36][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [37][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [38][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [39][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [40][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [37][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [38][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [39][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [40][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [41][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -736,11 +736,11 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
   36. https://foursquare.com/historychannel
-  37. https://foursquare.com/thrillist
-  38. https://foursquare.com/racked
-  39. https://foursquare.com/logotv
-  40. https://foursquare.com/mashable
-  41. https://foursquare.com/mazdausa
+  37. https://foursquare.com/luckymagazine
+  38. https://foursquare.com/tlc
+  39. https://foursquare.com/redskins
+  40. https://foursquare.com/windowslive
+  41. https://foursquare.com/sportsauthority
 
    Hidden links:
   42. https://foursquare.com/legal/terms#languagesContainer
