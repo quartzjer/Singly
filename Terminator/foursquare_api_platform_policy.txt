@@ -256,12 +256,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [30][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [31][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [32][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [33][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [34][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [29][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [30][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [31][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [32][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [33][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [34][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -294,12 +294,12 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/mtv
-  30. https://foursquare.com/tlc
-  31. https://foursquare.com/peoplemag
-  32. https://foursquare.com/nationalpost
-  33. https://foursquare.com/racked
-  34. https://foursquare.com/bbcamerica
+  29. https://foursquare.com/wsj
+  30. https://foursquare.com/zagat
+  31. https://foursquare.com/bonappetitmag
+  32. https://foursquare.com/gossipgirl
+  33. https://foursquare.com/walgreens
+  34. https://foursquare.com/sportsauthority
 
    Hidden links:
   35. https://foursquare.com/legal/api/platformpolicy#languagesContainer
