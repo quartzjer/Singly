@@ -256,12 +256,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [30][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [31][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [32][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [33][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [34][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [29][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [30][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [31][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [32][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [33][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [34][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -294,12 +294,12 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/mtv
-  30. https://foursquare.com/ifctv
-  31. https://foursquare.com/peoplemag
-  32. https://foursquare.com/redskins
-  33. https://foursquare.com/michelinguides
-  34. https://foursquare.com/walgreens
+  29. https://foursquare.com/luckymagazine
+  30. https://foursquare.com/tlc
+  31. https://foursquare.com/visitpa
+  32. https://foursquare.com/askmen
+  33. https://foursquare.com/nationalpost
+  34. https://foursquare.com/joinred
 
    Hidden links:
   35. https://foursquare.com/legal/api/platformpolicy#languagesContainer

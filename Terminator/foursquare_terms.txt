@@ -690,12 +690,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [36][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [37][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [38][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [36][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [37][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [38][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [39][redskins-65f70dead6fc656b5c747312e50f01f4.png]
      * [40][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [41][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [41][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -735,12 +735,12 @@ References
   33. https://foursquare.com/legal/terms
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
-  36. https://foursquare.com/historychannel
-  37. https://foursquare.com/vh1
-  38. https://foursquare.com/huffingtonpost
-  39. https://foursquare.com/racked
+  36. https://foursquare.com/bravotv
+  37. https://foursquare.com/louisvuitton_hq
+  38. https://foursquare.com/nymag
+  39. https://foursquare.com/redskins
   40. https://foursquare.com/michelinguides
-  41. https://foursquare.com/mashable
+  41. https://foursquare.com/brisk
 
    Hidden links:
   42. https://foursquare.com/legal/terms#languagesContainer
