@@ -1,4 +1,4 @@
-   REFRESH(0 sec): [1]http://www.facebook.com/terms.php?_fb_noscript=1
+   REFRESH(0 sec): [1]http://www.facebook.com/legal/terms?_fb_noscript=1
    #[2]alternate
 
    [3]Facebook logo
@@ -524,8 +524,8 @@
 
 References
 
-   1. http://www.facebook.com/terms.php?_fb_noscript=1
-   2. http://www.facebook.com/terms.php
+   1. http://www.facebook.com/legal/terms?_fb_noscript=1
+   2. http://www.facebook.com/legal/terms
    3. http://www.facebook.com/
    4. http://www.facebook.com/recover.php
    5. http://www.facebook.com/r.php?locale=en_US
@@ -566,7 +566,7 @@ References
   40. http://www.facebook.com/legal/copyright.php?howto_report
   41. http://www.facebook.com/legal/copyright.php?howto_appeal=1
   42. http://www.facebook.com/terms_pages.php
-  43. http://www.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Fterms.php
+  43. http://www.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms
   44. http://www.facebook.com/mobile/?ref=pf
   45. http://www.facebook.com/find-friends?ref=pf
   46. http://www.facebook.com/badges/?ref=pf
@@ -578,5 +578,5 @@ References
   52. http://developers.facebook.com/?ref=pf
   53. http://www.facebook.com/careers/?ref=pf
   54. http://www.facebook.com/privacy/explanation
-  55. http://www.facebook.com/terms.php?ref=pf
+  55. http://www.facebook.com/legal/terms?ref=pf
   56. http://www.facebook.com/help/?ref=pf

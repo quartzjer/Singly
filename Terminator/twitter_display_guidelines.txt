@@ -1,0 +1,188 @@
+   [1]Skip to Main Content Area
+   [2]Developers Search_________ Search
+     * [3]API Health
+          + [4]API Status
+          + [5]API Issues
+     * [6]Blog
+     * [7]Discussions
+     * [8]Documentation
+          + [9]Overview
+          + [10]REST API
+          + [11]Streaming API
+          + [12]Twitter for Websites
+          + [13]Recently updated
+     * [14]Sign in
+
+   [15]Home → [16]Documentation
+   [17]Tweet
+
+Display Guidelines
+
+   [18]Looking for Broadcast or Offline display guidelines? »
+   The Anatomy of a Tweet
+
+Requirements
+
+    1. Tweet Author: The author's name should be presented as the author's
+       Twitter username or name with the username present. The name should
+       be linked to the user's Twitter profile page at
+       http://twitter.com/username, made actionable using a [19]Web
+       Intent, or linked within your service's internal representation of
+       the author's profile, which should contain a link to the user's
+       Twitter profile page. The author's username should be styled
+       differently than the Tweet text and links (bold, color, size, or
+       other typographic convention), and should not be preceded by an @
+       symbol.
+    2. @mentions: Mentions of other Twitter usernames must link to the
+       profile page at http://twitter.com/username, made actionable using
+       a [20]Web Intent, or linked within your service's internal
+       representation of the user's profile, which should contain a link
+       to the username's Twitter profile page.
+    3. Hashtags: If any hashtags ('#' followed by a string of characters)
+       are mentioned in the Tweet, they must link to a twitter.com search
+       results page for that query term (for example,
+       http://twitter.com/search?q=%23newtwitter). If your service is a
+       "Client", then an internal representation of the results containing
+       a link to the Twitter search page is also acceptable. A "Client" is
+       an application that provides major components of a Twitter-like end
+       user experience. Please see our [21]API Terms of Service for more
+       information on this.
+    4. URLs: If any URLs are included in the Tweet, they must be
+       hyperlinked and the hyperlink must link to the location passed
+       through the API. Hyperlinked URLs are best displayed when visually
+       differentiated (colors or underline).
+    5. Branding: If one Tweet is displayed independently, it must be
+       labeled with either the Twitter wordmark or the Twitter Bird
+       (consult our [22]Image Resources), or with text reading "Content
+       from Twitter." If multiple Tweets are grouped, the Twitter wordmark
+       or "Content from Twitter" must be placed in a close proximity to
+       the grouped content.
+    6. Tweet Box: If showing a box for users to Tweet from, "What's
+       Happening?" should be written above the text field. This Tweet box
+       should also either be near Tweets that include the Twitter wordmark
+       or the Twitter Bird, or the Twitter wordmark or the Twitter Bird
+       should be present within the box.
+         a. Tweet button: The button should be displayed and labeled as
+            "Tweet" if the content is being posted exclusively to Twitter,
+            or "Update" if directing to other services in addition to
+            Twitter.
+         b. Character count: A character count helps users counts down to
+            stay within 140 characters
+    7. Images: If displaying images posted via Twitter, always display the
+       image and its associated Tweet together. The Tweet must include the
+       full text, the author's username or name with the username present,
+       and should be linked to the author's Twitter profile page at
+       http://twitter.com/username. Clicking on the image should
+       ultimately open the image url contained in the Tweet.
+         a. The Tweet text may be displayed beneath the associated image,
+            much like a caption.
+         b. If it is not possible to display the full Tweet along with the
+            image (for example because the image is being displayed as a
+            thumbnail), make the image clickable to a view where it is
+            clearly associated with the Tweet that mentions it.
+
+   Exceptions to the above will be made on a case by case basis by email
+   approval. Please contact [23]trademarks@twitter.com if you feel that an
+   exception is necessary.
+
+Suggestions
+
+   The following are suggestions based on how Tweets look on Twitter. You
+   may find that this isn't the most relevant way to display the data you
+   show, and we encourage your creativity. However, if you're looking for
+   some direction, please see the following:
+    A. Avatar & Alignment: We show the user's avatar on the left side of
+       the Tweet. Remaining Tweet content is aligned‐left, immediately to
+       the right of the avatar. The avatar links the user's Twitter
+       profile page at http://twitter.com/username.
+    B. Timestamp and Permalink: This information can be shown either
+       relative, e.g. "2 minutes ago", or absolute, e.g. "8:45 AM, Jul
+       8th"). The timestamp should be on its own line after the Tweet text
+       and styled differently to be less prominent than the Tweet text
+       (lighter color and/or smaller size). The timestamp should also link
+       to the Twitter hosted permalink page for the individual Tweet.
+    C. Tweet Actions: Reply, Retweet, and Favorite actions should always
+       be available from a Tweet, and should be displayed with their
+       respective action icons. They should be arranged left to right as
+       Reply, Retweet, Favorite. Easily accomplish this by utilizing
+       [24]Web Intents.
+    D. Source: Along with the timestamp and permalink, you may choose to
+       display the client or means by which the Tweet was posted (e.g.
+       "from web" or "from Twitter for iPhone"). If client is supplied,
+       please make sure it links to the source page URL provided.
+    E. Multiple Tweets: If showing multiple Tweets at once, they can be
+       visually separated by horizontal lines, empty spaces, or alternate
+       background colors. The empty space should be proportional to the
+       overall height of the Tweet itself.
+    F. Multiple Tweets, One Author: We find that when showing multiple
+       Tweets from the same user, it looks best if the profile picture is
+       not repeated with each Tweet. Showing one avatar with content from
+       the same user provides for a simpler experience.
+    G. Chronological order: It usually makes sense for Tweets to be
+       ordered in reverse chronological order (latest first), but we
+       understand that this might not always be the most relevant way to
+       arrange Tweets. When shown as search results or other criteria
+       (keyword, user, or other editorial constraints) Tweets may be
+       ordered by those criteria.
+    H. Name with Username: If the full name is displayed alongside the
+       Twitter username, the Twitter username should be visually
+       differentiated (e.g. color or bold) and more prominent.
+    I. Search Link: Information becomes more discoverable when a search
+       term links to a Twitter search results page. If you have a product
+       that returns search results for Tweets, we recommend that the term
+       links back to the relevant search page within Twitter.
+    More information
+          + [25]Web Intents
+          + [26]Guidelines for Use of Tweets in Broadcast or Other Offline
+            Media
+          + [27]Twitter Logos
+          + [28][bird_16_blue.png] Birds, [favorite.png] Favorite,
+            [reply.png] Reply, [retweet.png] Retweet Icons & Sprites
+       For more on how to use the Twitter marks, see
+       [29]http://support.twitter.com/forums/26257/entries/77641
+       [30]Follow @twitterapi
+          + [31]API Terms
+          + [32]API Status
+          + [33]Blog
+          + [34]Discussions
+          + [35]Documentation
+          + [36]A Drupal community site supported by Acquia
+
+References
+
+   1. https://dev.twitter.com/terms/display-guidelines#content-main
+   2. https://dev.twitter.com/
+   3. https://dev.twitter.com/status
+   4. https://dev.twitter.com/status
+   5. https://dev.twitter.com/issues
+   6. https://dev.twitter.com/blog
+   7. https://dev.twitter.com/discussions
+   8. https://dev.twitter.com/docs
+   9. https://dev.twitter.com/docs
+  10. https://dev.twitter.com/docs/api
+  11. https://dev.twitter.com/docs/streaming-api
+  12. https://dev.twitter.com/docs/twitter-for-websites
+  13. https://dev.twitter.com/docs/recent
+  14. https://dev.twitter.com/user/login?destination=node%2F142
+  15. https://dev.twitter.com/
+  16. https://dev.twitter.com/docs
+  17. http://twitter.com/share
+  18. http://support.twitter.com/entries/114233
+  19. https://dev.twitter.com/pages/intents
+  20. https://dev.twitter.com/pages/intents
+  21. https://dev.twitter.com/terms/api-terms
+  22. https://dev.twitter.com/pages/image-resources
+  23. mailto:trademarks@twitter.com
+  24. https://dev.twitter.com/pages/intents
+  25. https://dev.twitter.com/pages/intents
+  26. http://support.twitter.com/entries/114233
+  27. http://twitter.com/about/resources/logos
+  28. https://dev.twitter.com/pages/image-resources
+  29. http://support.twitter.com/forums/26257/entries/77641
+  30. http://twitter.com/twitterapi
+  31. https://dev.twitter.com/terms/api-terms
+  32. https://dev.twitter.com/status
+  33. https://dev.twitter.com/blog
+  34. https://dev.twitter.com/discussions
+  35. https://dev.twitter.com/docs
+  36. http://www.acquia.com/
