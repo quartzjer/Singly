@@ -256,11 +256,11 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [29][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
      * [30][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [31][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [32][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [33][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [31][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [32][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [33][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
      * [34][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
@@ -294,11 +294,11 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/bravotv
+  29. https://foursquare.com/luckymagazine
   30. https://foursquare.com/thrillist
-  31. https://foursquare.com/louisvuitton_hq
-  32. https://foursquare.com/thedewtour
-  33. https://foursquare.com/racked
+  31. https://foursquare.com/instyle
+  32. https://foursquare.com/windowslive
+  33. https://foursquare.com/mazdausa
   34. https://foursquare.com/sportsauthority
 
    Hidden links:
