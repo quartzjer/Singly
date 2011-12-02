@@ -212,12 +212,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [26][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [27][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [28][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [29][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [30][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [31][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [26][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [28][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [29][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [31][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
 
 References
 
@@ -247,12 +247,12 @@ References
   23. javascript:///
   24. javascript:///
   25. https://foursquare.com/pages
-  26. https://foursquare.com/tlc
-  27. https://foursquare.com/gossipgirl
-  28. https://foursquare.com/louisvuitton_hq
-  29. https://foursquare.com/eater
-  30. https://foursquare.com/nhl
-  31. https://foursquare.com/windowslive
+  26. https://foursquare.com/mtv
+  27. https://foursquare.com/historychannel
+  28. https://foursquare.com/bravotv
+  29. https://foursquare.com/wsj
+  30. https://foursquare.com/nationalpost
+  31. https://foursquare.com/logotv
 
    Hidden links:
   32. https://foursquare.com/legal/api/licenseagreement#languagesContainer

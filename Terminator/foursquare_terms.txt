@@ -690,11 +690,11 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [36][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [37][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [38][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [39][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [40][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [36][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [37][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [38][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [39][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [40][mashable-d52adc9976ea3d7302da90feab662cde.png]
      * [41][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
@@ -735,11 +735,11 @@ References
   33. https://foursquare.com/legal/terms
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
-  36. https://foursquare.com/vh1
-  37. https://foursquare.com/tlc
-  38. https://foursquare.com/visitpa
-  39. https://foursquare.com/askmen
-  40. https://foursquare.com/ifctv
+  36. https://foursquare.com/louisvuitton_hq
+  37. https://foursquare.com/huffingtonpost
+  38. https://foursquare.com/instyle
+  39. https://foursquare.com/eater
+  40. https://foursquare.com/mashable
   41. https://foursquare.com/joinred
 
    Hidden links:
