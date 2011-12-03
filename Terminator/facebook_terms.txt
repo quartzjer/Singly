@@ -547,7 +547,7 @@ References
   21. http://www.facebook.com/developers/
   22. http://developers.facebook.com/policy/
   23. http://developers.facebook.com/policy/
-  24. http://www.facebook.com/privacy/
+  24. https://www.facebook.com/settings?tab=ads
   25. http://www.facebook.com/termsofsale.php
   26. http://www.facebook.com/ad_guidelines.php
   27. http://www.facebook.com/help.php?page=926
