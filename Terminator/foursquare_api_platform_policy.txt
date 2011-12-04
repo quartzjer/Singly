@@ -256,12 +256,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [30][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [31][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [32][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [33][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [34][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [29][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [30][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [32][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [33][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [34][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -294,12 +294,12 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/vh1
-  30. https://foursquare.com/zagat
-  31. https://foursquare.com/tlc
-  32. https://foursquare.com/nymag
-  33. https://foursquare.com/racked
-  34. https://foursquare.com/walgreens
+  29. https://foursquare.com/tlc
+  30. https://foursquare.com/louisvuitton_hq
+  31. https://foursquare.com/racked
+  32. https://foursquare.com/walgreens
+  33. https://foursquare.com/mazdausa
+  34. https://foursquare.com/bbcamerica
 
    Hidden links:
   35. https://foursquare.com/legal/api/platformpolicy#languagesContainer
