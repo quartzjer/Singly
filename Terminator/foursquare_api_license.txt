@@ -213,11 +213,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [26][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [27][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [28][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [29][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [30][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [31][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [27][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [28][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [29][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [30][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [31][windowslive-38f5072d746b29d168455fd2791516dc.png]
 
 References
 
@@ -248,11 +248,11 @@ References
   24. javascript:///
   25. https://foursquare.com/pages
   26. https://foursquare.com/historychannel
-  27. https://foursquare.com/bravotv
-  28. https://foursquare.com/bonappetitmag
-  29. https://foursquare.com/visitpa
-  30. https://foursquare.com/louisvuitton_hq
-  31. https://foursquare.com/nymag
+  27. https://foursquare.com/wsj
+  28. https://foursquare.com/tlc
+  29. https://foursquare.com/nymag
+  30. https://foursquare.com/walgreens
+  31. https://foursquare.com/windowslive
 
    Hidden links:
   32. https://foursquare.com/legal/api/licenseagreement#languagesContainer
