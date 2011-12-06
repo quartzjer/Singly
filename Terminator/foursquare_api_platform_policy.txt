@@ -256,12 +256,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [29][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [30][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [31][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [32][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [33][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [34][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [29][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [30][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [31][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [33][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [34][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
 
@@ -294,12 +294,12 @@ References
   26. javascript:///
   27. javascript:///
   28. https://foursquare.com/pages
-  29. https://foursquare.com/visitpa
-  30. https://foursquare.com/askmen
-  31. https://foursquare.com/nationalpost
-  32. https://foursquare.com/instyle
-  33. https://foursquare.com/nhl
-  34. https://foursquare.com/bbcamerica
+  29. https://foursquare.com/mtv
+  30. https://foursquare.com/peoplemag
+  31. https://foursquare.com/logotv
+  32. https://foursquare.com/nhl
+  33. https://foursquare.com/brisk
+  34. https://foursquare.com/mazdausa
 
    Hidden links:
   35. https://foursquare.com/legal/api/platformpolicy#languagesContainer

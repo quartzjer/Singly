@@ -691,11 +691,11 @@ Contact.
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [36][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [37][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [37][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
      * [38][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [39][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [39][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
      * [40][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [41][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [41][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
 
 References
 
@@ -736,11 +736,11 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/pages
   36. https://foursquare.com/wsj
-  37. https://foursquare.com/tlc
+  37. https://foursquare.com/bonappetitmag
   38. https://foursquare.com/visitpa
-  39. https://foursquare.com/nymag
+  39. https://foursquare.com/huffingtonpost
   40. https://foursquare.com/peoplemag
-  41. https://foursquare.com/nationalpost
+  41. https://foursquare.com/racked
 
    Hidden links:
   42. https://foursquare.com/legal/terms#languagesContainer
