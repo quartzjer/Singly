@@ -1,6 +1,8 @@
-   [1]foursquare ____________________ (Submit) Search
-   [2]Log in
-   [3]Sign up
+   #[1]foursquare
+
+   [2]foursquare ____________________ (Submit) Search
+   [3]Log in
+   [4]Sign up
 
    Updated: 04/21/11
 
@@ -14,7 +16,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    1. GRANT OF LICENSE - Subject to your ("Licensee") full compliance with
    all of the terms and conditions of this API Agreement ("Agreement") and
-   the [4]Foursquare Platform Policy, Foursquare Labs, Inc. ("Foursquare")
+   the [5]Foursquare Platform Policy, Foursquare Labs, Inc. ("Foursquare")
    grants Licensee a non-exclusive, revocable, nonsublicensable,
    nontransferable license to download and use the Foursquare application
    program interface and other materials provided by Foursquare
@@ -183,59 +185,59 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    and any action or conduct in violation of the foregoing shall be void
    and without effect. Foursquare expressly reserves the right to assign
    this Agreement and to delegate any of its obligations hereunder.
-     * [5]About
-     * [6]Apps
-     * [7]Blog
-     * [8]Developers
-     * [9]Help
-     * [10]Jobs
-     * [11]Privacy (New)
-     * [12]Terms (New)
-     * [13]Store
+     * [6]About
+     * [7]Apps
+     * [8]Blog
+     * [9]Developers
+     * [10]Help
+     * [11]Jobs
+     * [12]Privacy (New)
+     * [13]Terms (New)
+     * [14]Store
      * Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
-          + [14]English
-          + [15]Italiano
-          + [16]Deutsch
-          + [17]Español
-          + [18]Français
-          + [19]日本語
-          + [20]ภาษาไทย
-          + [21]한국어
-          + [22]Русский
-          + [23]Português
-          + [24]Bahasa Indonesia
+          + [15]English
+          + [16]Italiano
+          + [17]Deutsch
+          + [18]Español
+          + [19]Français
+          + [20]日本語
+          + [21]ภาษาไทย
+          + [22]한국어
+          + [23]Русский
+          + [24]Português
+          + [25]Bahasa Indonesia
 
    foursquare © 2011 Lovingly made in NYC & SF
 
-   Discover more brands in the [25]page gallery.
+   Discover more brands in the [26]page gallery.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [26][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [27][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [28][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [29][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [30][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [31][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [27][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [28][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [29][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [30][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [31][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
    Visible links
-   1. https://foursquare.com/
-   2. https://foursquare.com/login
-   3. https://foursquare.com/signup
-   4. https://foursquare.com/legal/api/platformpolicy
-   5. https://foursquare.com/about
-   6. https://foursquare.com/apps
-   7. http://blog.foursquare.com/
-   8. http://developers.foursquare.com/
-   9. http://foursquare.com/help
-  10. https://foursquare.com/jobs/
-  11. https://foursquare.com/legal/privacy
-  12. https://foursquare.com/legal/terms
-  13. http://store.foursquare.com/
-  14. javascript:///
+   1. https://static-s.foursquare.com/opensearch-6b463ddc6a73b41a3d4b1c705d814fcf.xml
+   2. https://foursquare.com/
+   3. https://foursquare.com/login
+   4. https://foursquare.com/signup
+   5. https://foursquare.com/legal/api/platformpolicy
+   6. https://foursquare.com/about
+   7. https://foursquare.com/apps
+   8. http://blog.foursquare.com/
+   9. http://developers.foursquare.com/
+  10. http://foursquare.com/help
+  11. https://foursquare.com/jobs/
+  12. https://foursquare.com/legal/privacy
+  13. https://foursquare.com/legal/terms
+  14. http://store.foursquare.com/
   15. javascript:///
   16. javascript:///
   17. javascript:///
@@ -246,14 +248,15 @@ References
   22. javascript:///
   23. javascript:///
   24. javascript:///
-  25. https://foursquare.com/pages
-  26. https://foursquare.com/mtv
-  27. https://foursquare.com/bonappetitmag
-  28. https://foursquare.com/instyle
-  29. https://foursquare.com/walgreens
-  30. https://foursquare.com/mashable
-  31. https://foursquare.com/joinred
+  25. javascript:///
+  26. https://foursquare.com/pages
+  27. https://foursquare.com/askmen
+  28. https://foursquare.com/ifctv
+  29. https://foursquare.com/nationalpost
+  30. https://foursquare.com/redskins
+  31. https://foursquare.com/michelinguides
+  32. https://foursquare.com/bbcamerica
 
    Hidden links:
-  32. https://foursquare.com/legal/api/licenseagreement#languagesContainer
-  33. https://foursquare.com/legal/api/licenseagreement
+  33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
+  34. https://foursquare.com/legal/api/licenseagreement
