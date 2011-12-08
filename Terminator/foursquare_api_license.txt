@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [28][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [29][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [30][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [31][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [27][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [28][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [29][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [30][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [31][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/askmen
-  28. https://foursquare.com/ifctv
-  29. https://foursquare.com/nationalpost
-  30. https://foursquare.com/redskins
-  31. https://foursquare.com/michelinguides
-  32. https://foursquare.com/bbcamerica
+  27. https://foursquare.com/vh1
+  28. https://foursquare.com/luckymagazine
+  29. https://foursquare.com/zagat
+  30. https://foursquare.com/thedewtour
+  31. https://foursquare.com/nationalpost
+  32. https://foursquare.com/nhl
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer

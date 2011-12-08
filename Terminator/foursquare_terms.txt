@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [38][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [39][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [40][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [41][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [42][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [37][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [38][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [39][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [40][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [41][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [42][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/bravotv
-  38. https://foursquare.com/huffingtonpost
-  39. https://foursquare.com/nationalpost
-  40. https://foursquare.com/redskins
-  41. https://foursquare.com/mashable
-  42. https://foursquare.com/mazdausa
+  37. https://foursquare.com/mtv
+  38. https://foursquare.com/tlc
+  39. https://foursquare.com/thrillist
+  40. https://foursquare.com/gossipgirl
+  41. https://foursquare.com/nymag
+  42. https://foursquare.com/walgreens
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
