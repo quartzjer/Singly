@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [38][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [39][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [40][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [41][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [42][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [37][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [38][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [39][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [40][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [41][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [42][mashable-d52adc9976ea3d7302da90feab662cde.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/wsj
-  38. https://foursquare.com/thrillist
-  39. https://foursquare.com/louisvuitton_hq
-  40. https://foursquare.com/ifctv
-  41. https://foursquare.com/redskins
-  42. https://foursquare.com/bbcamerica
+  37. https://foursquare.com/bravotv
+  38. https://foursquare.com/vh1
+  39. https://foursquare.com/huffingtonpost
+  40. https://foursquare.com/nationalpost
+  41. https://foursquare.com/michelinguides
+  42. https://foursquare.com/mashable
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer

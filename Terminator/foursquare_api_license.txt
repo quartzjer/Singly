@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [28][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [29][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [30][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [31][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [32][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [27][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [28][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [29][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [30][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [31][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [32][eater-5a8d27da22828104e13b0a4a50a74db8.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/mtv
-  28. https://foursquare.com/gossipgirl
-  29. https://foursquare.com/redskins
-  30. https://foursquare.com/michelinguides
-  31. https://foursquare.com/nhl
-  32. https://foursquare.com/windowslive
+  27. https://foursquare.com/luckymagazine
+  28. https://foursquare.com/wsj
+  29. https://foursquare.com/ifctv
+  30. https://foursquare.com/peoplemag
+  31. https://foursquare.com/nationalpost
+  32. https://foursquare.com/eater
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
