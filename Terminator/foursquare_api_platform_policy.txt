@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [31][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [32][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [33][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [34][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [35][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [30][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [31][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [32][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [33][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [34][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [35][windowslive-38f5072d746b29d168455fd2791516dc.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/zagat
-  31. https://foursquare.com/bonappetitmag
-  32. https://foursquare.com/nationalpost
-  33. https://foursquare.com/walgreens
-  34. https://foursquare.com/mashable
-  35. https://foursquare.com/brisk
+  30. https://foursquare.com/historychannel
+  31. https://foursquare.com/luckymagazine
+  32. https://foursquare.com/thedewtour
+  33. https://foursquare.com/redskins
+  34. https://foursquare.com/nhl
+  35. https://foursquare.com/windowslive
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

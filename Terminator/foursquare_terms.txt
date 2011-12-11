@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [38][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [39][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [40][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [41][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [42][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [37][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [38][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [39][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [40][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [41][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [42][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/bravotv
-  38. https://foursquare.com/vh1
-  39. https://foursquare.com/huffingtonpost
-  40. https://foursquare.com/nationalpost
-  41. https://foursquare.com/michelinguides
-  42. https://foursquare.com/mashable
+  37. https://foursquare.com/mtv
+  38. https://foursquare.com/luckymagazine
+  39. https://foursquare.com/wsj
+  40. https://foursquare.com/louisvuitton_hq
+  41. https://foursquare.com/nymag
+  42. https://foursquare.com/racked
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
