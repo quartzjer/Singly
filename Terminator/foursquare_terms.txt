@@ -692,11 +692,11 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [38][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [39][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [40][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [41][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [37][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [38][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [39][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [40][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [41][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
      * [42][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
 
 References
@@ -738,11 +738,11 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/bonappetitmag
-  38. https://foursquare.com/visitpa
-  39. https://foursquare.com/louisvuitton_hq
-  40. https://foursquare.com/nationalpost
-  41. https://foursquare.com/eater
+  37. https://foursquare.com/vh1
+  38. https://foursquare.com/wsj
+  39. https://foursquare.com/visitpa
+  40. https://foursquare.com/thedewtour
+  41. https://foursquare.com/huffingtonpost
   42. https://foursquare.com/walgreens
 
    Hidden links:
