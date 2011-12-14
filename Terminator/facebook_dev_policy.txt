@@ -2,7 +2,7 @@
    [1]http://developers.facebook.com/policy/?_fb_noscript=1
    #[2]alternate
 
-   [3]Facebook Developers [4]Documentation[5]Support[6]Blog[7]Apps
+   [3]Facebook Developers[4]Documentation[5]Support[6]Blog[7]Apps
    Search Documentation (Submit) Search Documentation / Apps
      * Platform Policies
 
@@ -60,7 +60,8 @@ Policies
        create a physical product for that user's personal and
        non-commercial use.
     5. If you exceed, or plan to exceed, any of the following thresholds
-       please [14]contact us as you may be subject to additional terms:
+       please contact us by creating [14]confidential bug report with the
+       "threshold policy" tag as you may be subject to additional terms:
        (>5M MAU) or (>100M API calls per day) or (>50M impressions per
        day).
     6. Your website must offer an explicit "Log Out" option that also logs
@@ -360,7 +361,7 @@ Examples and Explanations
    that into practice.
 
    [36]Report Documentation Bug
-   Updated about 3 weeks ago
+   Updated 5 hours ago
 
    Facebook © 2011 · [37]English (US)
    [38]About[39]Platform Policies[40]Privacy Policy
@@ -381,7 +382,7 @@ References
   11. http://developers.facebook.com/policy/#principles
   12. http://developers.facebook.com/policy/#policies
   13. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  14. http://www.facebook.com/developers/developer_help.php?category=Thresholds
+  14. https://developers.facebook.com/bugs/create
   15. http://developers.facebook.com/docs/guides/canvas/
   16. http://developers.facebook.com/docs/mobile/web/build/
   17. http://developers.facebook.com/docs/guides/canvas/

@@ -258,11 +258,11 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [31][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [32][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [33][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [34][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [30][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [31][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [32][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [33][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [34][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
      * [35][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
@@ -297,11 +297,11 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/luckymagazine
-  31. https://foursquare.com/visitpa
-  32. https://foursquare.com/thedewtour
-  33. https://foursquare.com/nymag
-  34. https://foursquare.com/michelinguides
+  30. https://foursquare.com/wsj
+  31. https://foursquare.com/tlc
+  32. https://foursquare.com/thrillist
+  33. https://foursquare.com/mashable
+  34. https://foursquare.com/joinred
   35. https://foursquare.com/bbcamerica
 
    Hidden links:
