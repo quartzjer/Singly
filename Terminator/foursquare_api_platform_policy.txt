@@ -235,8 +235,8 @@ VII. Trademarks
      * [12]Developers
      * [13]Help
      * [14]Jobs
-     * [15]Privacy (New)
-     * [16]Terms (New)
+     * [15]Privacy
+     * [16]Terms
      * [17]Store
      * Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
@@ -258,11 +258,11 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [31][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [32][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [33][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [34][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [30][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [31][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [32][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [33][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [34][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
      * [35][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
@@ -297,11 +297,11 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/wsj
-  31. https://foursquare.com/tlc
-  32. https://foursquare.com/thrillist
-  33. https://foursquare.com/mashable
-  34. https://foursquare.com/joinred
+  30. https://foursquare.com/visitpa
+  31. https://foursquare.com/askmen
+  32. https://foursquare.com/ifctv
+  33. https://foursquare.com/walgreens
+  34. https://foursquare.com/mazdausa
   35. https://foursquare.com/bbcamerica
 
    Hidden links:

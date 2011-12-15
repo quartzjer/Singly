@@ -2,7 +2,7 @@
    [1]http://developers.facebook.com/policy/?_fb_noscript=1
    #[2]alternate
 
-   [3]Facebook Developers[4]Documentation[5]Support[6]Blog[7]Apps
+   [3]Facebook Developers [4]Documentation[5]Support[6]Blog[7]Apps
    Search Documentation (Submit) Search Documentation / Apps
      * Platform Policies
 
@@ -60,10 +60,10 @@ Policies
        create a physical product for that user's personal and
        non-commercial use.
     5. If you exceed, or plan to exceed, any of the following thresholds
-       please contact us by creating [14]confidential bug report with the
-       "threshold policy" tag as you may be subject to additional terms:
-       (>5M MAU) or (>100M API calls per day) or (>50M impressions per
-       day).
+       please contact us by creating a [14]confidential bug report with
+       the "threshold policy" tag as you may be subject to additional
+       terms: (>5M MAU) or (>100M API calls per day) or (>50M impressions
+       per day).
     6. Your website must offer an explicit "Log Out" option that also logs
        the user out of Facebook.
     7. Special provisions for apps on Pages:
@@ -361,7 +361,7 @@ Examples and Explanations
    that into practice.
 
    [36]Report Documentation Bug
-   Updated 5 hours ago
+   Updated 11 hours ago
 
    Facebook © 2011 · [37]English (US)
    [38]About[39]Platform Policies[40]Privacy Policy
