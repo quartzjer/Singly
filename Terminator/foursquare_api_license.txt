@@ -214,11 +214,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [28][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [29][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [30][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [31][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [27][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [28][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [29][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [30][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [31][windowslive-38f5072d746b29d168455fd2791516dc.png]
      * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
@@ -250,11 +250,11 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/mtv
-  28. https://foursquare.com/historychannel
-  29. https://foursquare.com/vh1
-  30. https://foursquare.com/thrillist
-  31. https://foursquare.com/nymag
+  27. https://foursquare.com/wsj
+  28. https://foursquare.com/nationalpost
+  29. https://foursquare.com/redskins
+  30. https://foursquare.com/eater
+  31. https://foursquare.com/windowslive
   32. https://foursquare.com/joinred
 
    Hidden links:

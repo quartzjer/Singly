@@ -35,7 +35,7 @@
           + [31]Justin.tv
           + [32]MunchOnMe
           + [33]Photobucket
-          + [34]Presdo
+          + [34]Presdo Match
           + [35]TripIt
           + [36]Variety
      * [37]Discuss
@@ -724,7 +724,7 @@ References
   31. http://developer.linkedin.com/showcase/justintv
   32. http://developer.linkedin.com/showcase/munchonme
   33. http://developer.linkedin.com/showcase/photobucket
-  34. http://developer.linkedin.com/showcase/presdo
+  34. http://developer.linkedin.com/showcase/presdo-match
   35. http://developer.linkedin.com/showcase/tripit
   36. http://developer.linkedin.com/showcase/variety
   37. http://developer.linkedin.com/forum

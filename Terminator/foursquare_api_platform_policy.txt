@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [31][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [32][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [33][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [34][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
-     * [35][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [30][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [31][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [32][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [33][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [34][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [35][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/visitpa
-  31. https://foursquare.com/askmen
-  32. https://foursquare.com/ifctv
-  33. https://foursquare.com/walgreens
-  34. https://foursquare.com/mazdausa
-  35. https://foursquare.com/bbcamerica
+  30. https://foursquare.com/wsj
+  31. https://foursquare.com/bonappetitmag
+  32. https://foursquare.com/thrillist
+  33. https://foursquare.com/thedewtour
+  34. https://foursquare.com/michelinguides
+  35. https://foursquare.com/walgreens
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

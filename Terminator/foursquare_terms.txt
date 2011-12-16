@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [38][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [39][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [40][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [41][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [42][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [37][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [38][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [39][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [40][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [41][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [42][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/wsj
-  38. https://foursquare.com/louisvuitton_hq
-  39. https://foursquare.com/nationalpost
-  40. https://foursquare.com/redskins
-  41. https://foursquare.com/logotv
-  42. https://foursquare.com/joinred
+  37. https://foursquare.com/ifctv
+  38. https://foursquare.com/eater
+  39. https://foursquare.com/mashable
+  40. https://foursquare.com/mazdausa
+  41. https://foursquare.com/joinred
+  42. https://foursquare.com/bbcamerica
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
