@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
      * [28][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [29][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [31][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [32][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [29][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [30][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [31][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/bravotv
+  27. https://foursquare.com/historychannel
   28. https://foursquare.com/vh1
-  29. https://foursquare.com/wsj
-  30. https://foursquare.com/gossipgirl
-  31. https://foursquare.com/askmen
-  32. https://foursquare.com/instyle
+  29. https://foursquare.com/redskins
+  30. https://foursquare.com/instyle
+  31. https://foursquare.com/eater
+  32. https://foursquare.com/brisk
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
