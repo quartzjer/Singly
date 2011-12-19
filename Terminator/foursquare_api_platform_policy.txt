@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [31][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [32][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [33][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [34][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [35][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [30][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [31][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [32][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [33][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [34][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [35][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/vh1
-  31. https://foursquare.com/tlc
-  32. https://foursquare.com/thrillist
-  33. https://foursquare.com/nymag
-  34. https://foursquare.com/michelinguides
-  35. https://foursquare.com/joinred
+  30. https://foursquare.com/historychannel
+  31. https://foursquare.com/peoplemag
+  32. https://foursquare.com/eater
+  33. https://foursquare.com/logotv
+  34. https://foursquare.com/windowslive
+  35. https://foursquare.com/brisk
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

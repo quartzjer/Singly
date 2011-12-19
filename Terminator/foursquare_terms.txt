@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [38][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [39][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [40][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [41][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [42][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [37][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [38][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [39][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [40][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [41][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [42][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/bravotv
-  38. https://foursquare.com/luckymagazine
-  39. https://foursquare.com/thedewtour
-  40. https://foursquare.com/eater
-  41. https://foursquare.com/michelinguides
-  42. https://foursquare.com/logotv
+  37. https://foursquare.com/luckymagazine
+  38. https://foursquare.com/wsj
+  39. https://foursquare.com/nhl
+  40. https://foursquare.com/mazdausa
+  41. https://foursquare.com/joinred
+  42. https://foursquare.com/bbcamerica
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
