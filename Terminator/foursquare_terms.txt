@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [38][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [39][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [40][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
-     * [41][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
-     * [42][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [37][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [38][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [39][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [40][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [41][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [42][eater-5a8d27da22828104e13b0a4a50a74db8.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/luckymagazine
-  38. https://foursquare.com/wsj
-  39. https://foursquare.com/nhl
-  40. https://foursquare.com/mazdausa
-  41. https://foursquare.com/joinred
-  42. https://foursquare.com/bbcamerica
+  37. https://foursquare.com/mtv
+  38. https://foursquare.com/vh1
+  39. https://foursquare.com/gossipgirl
+  40. https://foursquare.com/askmen
+  41. https://foursquare.com/nymag
+  42. https://foursquare.com/eater
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer

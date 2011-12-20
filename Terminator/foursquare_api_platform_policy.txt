@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [31][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [32][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [33][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [34][windowslive-38f5072d746b29d168455fd2791516dc.png]
-     * [35][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [31][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [32][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [33][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [34][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [35][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/historychannel
-  31. https://foursquare.com/peoplemag
-  32. https://foursquare.com/eater
-  33. https://foursquare.com/logotv
-  34. https://foursquare.com/windowslive
-  35. https://foursquare.com/brisk
+  30. https://foursquare.com/gossipgirl
+  31. https://foursquare.com/thedewtour
+  32. https://foursquare.com/nymag
+  33. https://foursquare.com/redskins
+  34. https://foursquare.com/racked
+  35. https://foursquare.com/sportsauthority
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer
