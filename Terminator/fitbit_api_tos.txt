@@ -354,7 +354,7 @@ Miscellaneous
           + [37]Search Foods
 
    Get your Fitbit Wireless Activity Tracker
-   [38]Buy now ©2011 Fitbit Inc. All rights reserved.
+   [38]Buy now
 
 References
 

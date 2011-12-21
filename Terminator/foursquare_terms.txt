@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [38][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [39][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [40][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [41][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [42][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [37][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [38][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [39][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [40][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [42][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/mtv
-  38. https://foursquare.com/vh1
-  39. https://foursquare.com/gossipgirl
-  40. https://foursquare.com/askmen
-  41. https://foursquare.com/nymag
-  42. https://foursquare.com/eater
+  37. https://foursquare.com/bonappetitmag
+  38. https://foursquare.com/gossipgirl
+  39. https://foursquare.com/instyle
+  40. https://foursquare.com/mashable
+  41. https://foursquare.com/mazdausa
+  42. https://foursquare.com/sportsauthority
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer

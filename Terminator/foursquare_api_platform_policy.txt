@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [31][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [32][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [33][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [34][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [35][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [30][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [31][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [32][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [33][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [34][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [35][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/gossipgirl
-  31. https://foursquare.com/thedewtour
-  32. https://foursquare.com/nymag
-  33. https://foursquare.com/redskins
-  34. https://foursquare.com/racked
-  35. https://foursquare.com/sportsauthority
+  30. https://foursquare.com/bravotv
+  31. https://foursquare.com/vh1
+  32. https://foursquare.com/luckymagazine
+  33. https://foursquare.com/wsj
+  34. https://foursquare.com/tlc
+  35. https://foursquare.com/nhl
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

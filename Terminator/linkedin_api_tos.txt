@@ -666,28 +666,29 @@ LinkedIn APIs Terms of Use
 
 Documentation
 
-     * [57]Authentication
-     * [58]People and Connections
-     * [59]Groups
-     * [60]Companies
-     * [61]Jobs
-     * [62]Job Posting
-     * [63]Social Stream
-     * [64]Communications
-     * [65]Libraries and Tools
-     * [66]LinkedIn Guidelines
-          + [67]Branding Guidelines
-          + [68]LinkedIn APIs Terms of Use
-          + [69]LinkedIn Platform Guidelines
-          + [70]Terms and Conditions for Download and Use of LinkedIn
+     * [57]Quick Start Guide
+     * [58]Authentication
+     * [59]People and Connections
+     * [60]Groups
+     * [61]Companies
+     * [62]Jobs
+     * [63]Job Posting
+     * [64]Social Stream
+     * [65]Communications
+     * [66]Libraries and Tools
+     * [67]LinkedIn Guidelines
+          + [68]Branding Guidelines
+          + [69]LinkedIn APIs Terms of Use
+          + [70]LinkedIn Platform Guidelines
+          + [71]Terms and Conditions for Download and Use of LinkedIn
             Marks by LinkedIn Members
-          + [71]LinkedIn Certified Developer Program Terms and Promotions
+          + [72]LinkedIn Certified Developer Program Terms and Promotions
             Guidelines
-     * [72]Reference
+     * [73]Reference
 
-   LinkedIn Corporation © 2011 | [73]User Agreement | [74]Privacy Policy |
-   [75]Copyright Policy | [76]API Terms of Use | [77]Plugins Terms of Use
-   | [78]Platform Guidelines | [79]LinkedIn Engineering
+   LinkedIn Corporation © 2011 | [74]User Agreement | [75]Privacy Policy |
+   [76]Copyright Policy | [77]API Terms of Use | [78]Plugins Terms of Use
+   | [79]Platform Guidelines | [80]LinkedIn Engineering
 
 References
 
@@ -747,26 +748,27 @@ References
   54. http://www.linkedin.com/static?key=privacy_policy
   55. http://developer.linkedin.com/documents/branding-guidelines
   56. http://developer.linkedin.com/documents/linkedin-platform-guidelines
-  57. http://developer.linkedin.com/documents/authentication
-  58. http://developer.linkedin.com/documents/people-and-connections
-  59. http://developer.linkedin.com/documents/groups
-  60. http://developer.linkedin.com/documents/companies
-  61. http://developer.linkedin.com/documents/jobs
-  62. http://developer.linkedin.com/documents/job-posting
-  63. http://developer.linkedin.com/documents/social-stream
-  64. http://developer.linkedin.com/documents/communications
-  65. http://developer.linkedin.com/documents/libraries-and-tools
-  66. http://developer.linkedin.com/linkedin-guidelines
-  67. http://developer.linkedin.com/documents/branding-guidelines
-  68. http://developer.linkedin.com/documents/linkedin-apis-terms-use
-  69. http://developer.linkedin.com/documents/linkedin-platform-guidelines
-  70. http://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
-  71. http://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
-  72. http://developer.linkedin.com/reference
-  73. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
-  74. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
-  75. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
-  76. http://developer.linkedin.com/documents/linkedin-apis-terms-use
-  77. http://developer.linkedin.com/linkedin-plugins-terms-use
-  78. http://developer.linkedin.com/documents/linkedin-platform-guidelines
-  79. http://engineering.linkedin.com/
+  57. http://developer.linkedin.com/documents/quick-start-guide
+  58. http://developer.linkedin.com/documents/authentication
+  59. http://developer.linkedin.com/documents/people-and-connections
+  60. http://developer.linkedin.com/documents/groups
+  61. http://developer.linkedin.com/documents/companies
+  62. http://developer.linkedin.com/documents/jobs
+  63. http://developer.linkedin.com/documents/job-posting
+  64. http://developer.linkedin.com/documents/social-stream
+  65. http://developer.linkedin.com/documents/communications
+  66. http://developer.linkedin.com/documents/libraries-and-tools
+  67. http://developer.linkedin.com/linkedin-guidelines
+  68. http://developer.linkedin.com/documents/branding-guidelines
+  69. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  70. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  71. http://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
+  72. http://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
+  73. http://developer.linkedin.com/reference
+  74. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
+  75. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
+  76. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
+  77. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  78. http://developer.linkedin.com/linkedin-plugins-terms-use
+  79. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  80. http://engineering.linkedin.com/
