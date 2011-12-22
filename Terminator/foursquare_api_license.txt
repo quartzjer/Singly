@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [28][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [29][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [30][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [31][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [27][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [28][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [30][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [32][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/vh1
-  28. https://foursquare.com/zagat
-  29. https://foursquare.com/thrillist
-  30. https://foursquare.com/huffingtonpost
-  31. https://foursquare.com/ifctv
-  32. https://foursquare.com/nhl
+  27. https://foursquare.com/tlc
+  28. https://foursquare.com/visitpa
+  29. https://foursquare.com/thedewtour
+  30. https://foursquare.com/instyle
+  31. https://foursquare.com/racked
+  32. https://foursquare.com/michelinguides
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
