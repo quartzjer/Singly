@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [28][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [30][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [32][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [28][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [29][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [30][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [31][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [32][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/tlc
-  28. https://foursquare.com/visitpa
-  29. https://foursquare.com/thedewtour
-  30. https://foursquare.com/instyle
-  31. https://foursquare.com/racked
-  32. https://foursquare.com/michelinguides
+  27. https://foursquare.com/mtv
+  28. https://foursquare.com/vh1
+  29. https://foursquare.com/nationalpost
+  30. https://foursquare.com/racked
+  31. https://foursquare.com/brisk
+  32. https://foursquare.com/sportsauthority
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer

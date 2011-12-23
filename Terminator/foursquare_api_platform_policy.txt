@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [31][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [32][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [33][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [34][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [35][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [30][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [31][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [32][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [33][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [34][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [35][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/historychannel
-  31. https://foursquare.com/bravotv
-  32. https://foursquare.com/wsj
-  33. https://foursquare.com/louisvuitton_hq
-  34. https://foursquare.com/walgreens
-  35. https://foursquare.com/brisk
+  30. https://foursquare.com/louisvuitton_hq
+  31. https://foursquare.com/thedewtour
+  32. https://foursquare.com/huffingtonpost
+  33. https://foursquare.com/nationalpost
+  34. https://foursquare.com/instyle
+  35. https://foursquare.com/bbcamerica
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer
