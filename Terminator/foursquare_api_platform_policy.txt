@@ -258,11 +258,11 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [31][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [32][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [33][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [34][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [30][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [31][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [32][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [33][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [34][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
      * [35][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
@@ -297,11 +297,11 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/louisvuitton_hq
-  31. https://foursquare.com/thedewtour
-  32. https://foursquare.com/huffingtonpost
-  33. https://foursquare.com/nationalpost
-  34. https://foursquare.com/instyle
+  30. https://foursquare.com/luckymagazine
+  31. https://foursquare.com/thrillist
+  32. https://foursquare.com/gossipgirl
+  33. https://foursquare.com/visitpa
+  34. https://foursquare.com/huffingtonpost
   35. https://foursquare.com/bbcamerica
 
    Hidden links:
