@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [31][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [32][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [33][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [34][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [35][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [30][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [31][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [32][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [33][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [34][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [35][redskins-65f70dead6fc656b5c747312e50f01f4.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/luckymagazine
-  31. https://foursquare.com/thrillist
-  32. https://foursquare.com/gossipgirl
-  33. https://foursquare.com/visitpa
-  34. https://foursquare.com/huffingtonpost
-  35. https://foursquare.com/bbcamerica
+  30. https://foursquare.com/historychannel
+  31. https://foursquare.com/askmen
+  32. https://foursquare.com/nymag
+  33. https://foursquare.com/huffingtonpost
+  34. https://foursquare.com/nationalpost
+  35. https://foursquare.com/redskins
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer
