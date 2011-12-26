@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [28][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [29][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [30][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [31][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [32][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [27][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [28][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [29][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [30][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [31][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/bravotv
-  28. https://foursquare.com/vh1
-  29. https://foursquare.com/bonappetitmag
-  30. https://foursquare.com/thrillist
-  31. https://foursquare.com/gossipgirl
-  32. https://foursquare.com/redskins
+  27. https://foursquare.com/askmen
+  28. https://foursquare.com/louisvuitton_hq
+  29. https://foursquare.com/ifctv
+  30. https://foursquare.com/mashable
+  31. https://foursquare.com/joinred
+  32. https://foursquare.com/bbcamerica
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer

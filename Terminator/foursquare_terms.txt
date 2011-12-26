@@ -692,11 +692,11 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [38][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [39][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [40][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [41][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [37][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [38][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [40][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [41][mashable-d52adc9976ea3d7302da90feab662cde.png]
      * [42][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
@@ -738,11 +738,11 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/bravotv
-  38. https://foursquare.com/askmen
-  39. https://foursquare.com/thedewtour
-  40. https://foursquare.com/nationalpost
-  41. https://foursquare.com/michelinguides
+  37. https://foursquare.com/nymag
+  38. https://foursquare.com/peoplemag
+  39. https://foursquare.com/racked
+  40. https://foursquare.com/nhl
+  41. https://foursquare.com/mashable
   42. https://foursquare.com/joinred
 
    Hidden links:
