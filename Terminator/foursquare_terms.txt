@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [38][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [37][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [38][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [39][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
      * [40][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
      * [41][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [42][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [42][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/nymag
-  38. https://foursquare.com/peoplemag
-  39. https://foursquare.com/racked
+  37. https://foursquare.com/vh1
+  38. https://foursquare.com/nationalpost
+  39. https://foursquare.com/logotv
   40. https://foursquare.com/nhl
   41. https://foursquare.com/mashable
-  42. https://foursquare.com/joinred
+  42. https://foursquare.com/brisk
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
