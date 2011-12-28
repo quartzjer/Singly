@@ -215,11 +215,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [27][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [28][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [29][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [30][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [31][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [32][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [28][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [31][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 References
 
@@ -251,11 +251,11 @@ References
   25. javascript:///
   26. https://foursquare.com/pages
   27. https://foursquare.com/bonappetitmag
-  28. https://foursquare.com/gossipgirl
-  29. https://foursquare.com/askmen
-  30. https://foursquare.com/redskins
-  31. https://foursquare.com/michelinguides
-  32. https://foursquare.com/sportsauthority
+  28. https://foursquare.com/thrillist
+  29. https://foursquare.com/huffingtonpost
+  30. https://foursquare.com/nationalpost
+  31. https://foursquare.com/logotv
+  32. https://foursquare.com/nhl
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
