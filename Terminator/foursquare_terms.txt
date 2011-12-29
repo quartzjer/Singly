@@ -692,11 +692,11 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [38][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [39][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [40][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [41][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [37][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [38][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [39][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [40][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [41][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
      * [42][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
@@ -738,11 +738,11 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/wsj
-  38. https://foursquare.com/thrillist
-  39. https://foursquare.com/gossipgirl
-  40. https://foursquare.com/redskins
-  41. https://foursquare.com/logotv
+  37. https://foursquare.com/historychannel
+  38. https://foursquare.com/bravotv
+  39. https://foursquare.com/tlc
+  40. https://foursquare.com/peoplemag
+  41. https://foursquare.com/brisk
   42. https://foursquare.com/mazdausa
 
    Hidden links:

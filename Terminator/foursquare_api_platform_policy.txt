@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [31][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [32][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [33][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [34][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [35][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [30][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [31][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [32][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [33][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [34][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [35][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/luckymagazine
-  31. https://foursquare.com/bonappetitmag
-  32. https://foursquare.com/tlc
-  33. https://foursquare.com/visitpa
-  34. https://foursquare.com/nymag
-  35. https://foursquare.com/logotv
+  30. https://foursquare.com/mtv
+  31. https://foursquare.com/nymag
+  32. https://foursquare.com/ifctv
+  33. https://foursquare.com/michelinguides
+  34. https://foursquare.com/nhl
+  35. https://foursquare.com/mazdausa
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

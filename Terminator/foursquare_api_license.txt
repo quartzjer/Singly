@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [28][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [31][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [28][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [29][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [30][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [31][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/bonappetitmag
-  28. https://foursquare.com/thrillist
-  29. https://foursquare.com/huffingtonpost
-  30. https://foursquare.com/nationalpost
-  31. https://foursquare.com/logotv
-  32. https://foursquare.com/nhl
+  27. https://foursquare.com/mtv
+  28. https://foursquare.com/eater
+  29. https://foursquare.com/michelinguides
+  30. https://foursquare.com/walgreens
+  31. https://foursquare.com/mashable
+  32. https://foursquare.com/joinred
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
