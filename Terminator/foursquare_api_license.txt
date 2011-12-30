@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [28][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [29][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [30][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [31][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [28][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [29][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [30][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [31][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [32][mashable-d52adc9976ea3d7302da90feab662cde.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/mtv
-  28. https://foursquare.com/eater
-  29. https://foursquare.com/michelinguides
-  30. https://foursquare.com/walgreens
-  31. https://foursquare.com/mashable
-  32. https://foursquare.com/joinred
+  27. https://foursquare.com/historychannel
+  28. https://foursquare.com/wsj
+  29. https://foursquare.com/gossipgirl
+  30. https://foursquare.com/thedewtour
+  31. https://foursquare.com/ifctv
+  32. https://foursquare.com/mashable
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
