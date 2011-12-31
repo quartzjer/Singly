@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [31][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [32][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [33][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [31][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [32][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [33][eater-5a8d27da22828104e13b0a4a50a74db8.png]
      * [34][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [35][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [35][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/nymag
-  31. https://foursquare.com/redskins
-  32. https://foursquare.com/instyle
-  33. https://foursquare.com/logotv
+  30. https://foursquare.com/gossipgirl
+  31. https://foursquare.com/visitpa
+  32. https://foursquare.com/askmen
+  33. https://foursquare.com/eater
   34. https://foursquare.com/mashable
-  35. https://foursquare.com/mazdausa
+  35. https://foursquare.com/brisk
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

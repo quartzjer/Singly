@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [28][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [29][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [30][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [31][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [32][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [27][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [28][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [29][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [31][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/historychannel
-  28. https://foursquare.com/wsj
-  29. https://foursquare.com/gossipgirl
-  30. https://foursquare.com/thedewtour
-  31. https://foursquare.com/ifctv
-  32. https://foursquare.com/mashable
+  27. https://foursquare.com/wsj
+  28. https://foursquare.com/zagat
+  29. https://foursquare.com/tlc
+  30. https://foursquare.com/gossipgirl
+  31. https://foursquare.com/thedewtour
+  32. https://foursquare.com/joinred
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
