@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [31][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [32][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [33][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [34][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [35][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [30][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [31][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [32][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [33][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [34][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [35][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/gossipgirl
-  31. https://foursquare.com/visitpa
-  32. https://foursquare.com/askmen
-  33. https://foursquare.com/eater
-  34. https://foursquare.com/mashable
-  35. https://foursquare.com/brisk
+  30. https://foursquare.com/mtv
+  31. https://foursquare.com/historychannel
+  32. https://foursquare.com/peoplemag
+  33. https://foursquare.com/redskins
+  34. https://foursquare.com/walgreens
+  35. https://foursquare.com/joinred
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer
