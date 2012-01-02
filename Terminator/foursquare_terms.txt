@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [38][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [39][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [40][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [41][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [42][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [37][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [38][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [39][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [40][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [42][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/thedewtour
-  38. https://foursquare.com/nymag
-  39. https://foursquare.com/ifctv
-  40. https://foursquare.com/nationalpost
-  41. https://foursquare.com/racked
-  42. https://foursquare.com/walgreens
+  37. https://foursquare.com/historychannel
+  38. https://foursquare.com/logotv
+  39. https://foursquare.com/mashable
+  40. https://foursquare.com/brisk
+  41. https://foursquare.com/mazdausa
+  42. https://foursquare.com/joinred
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
