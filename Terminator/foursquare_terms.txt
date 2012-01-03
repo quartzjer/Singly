@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [38][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [39][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [40][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
-     * [42][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [37][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [38][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [39][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [40][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [41][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [42][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/historychannel
-  38. https://foursquare.com/logotv
-  39. https://foursquare.com/mashable
-  40. https://foursquare.com/brisk
-  41. https://foursquare.com/mazdausa
-  42. https://foursquare.com/joinred
+  37. https://foursquare.com/mtv
+  38. https://foursquare.com/luckymagazine
+  39. https://foursquare.com/zagat
+  40. https://foursquare.com/tlc
+  41. https://foursquare.com/eater
+  42. https://foursquare.com/michelinguides
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
