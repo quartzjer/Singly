@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [29][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [30][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [31][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [28][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [29][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [30][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [31][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/luckymagazine
-  28. https://foursquare.com/askmen
-  29. https://foursquare.com/louisvuitton_hq
-  30. https://foursquare.com/thedewtour
-  31. https://foursquare.com/nymag
-  32. https://foursquare.com/brisk
+  27. https://foursquare.com/mtv
+  28. https://foursquare.com/peoplemag
+  29. https://foursquare.com/racked
+  30. https://foursquare.com/eater
+  31. https://foursquare.com/nhl
+  32. https://foursquare.com/joinred
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
