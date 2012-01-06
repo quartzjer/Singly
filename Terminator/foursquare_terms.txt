@@ -692,12 +692,32 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [38][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [39][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [40][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [37][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [38][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [39][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [40][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
      * [41][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [42][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [42][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+
+Flag this Photo
+
+     * (*) Spam/Scam
+     * ( ) Nudity
+     * ( ) Hate/Violence
+     * ( ) Illegal
+     * ( ) Unrelated
+
+   Please select a problem.
+
+   [BUTTON Input] (not implemented)___________
+
+Flag this Photo
+
+   Your flag was submitted successfully.
+
+Flag this Photo
+
+   Your flag did not submit. Please try again later.
 
 References
 
@@ -738,12 +758,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/mtv
-  38. https://foursquare.com/bonappetitmag
-  39. https://foursquare.com/tlc
-  40. https://foursquare.com/thedewtour
+  37. https://foursquare.com/luckymagazine
+  38. https://foursquare.com/gossipgirl
+  39. https://foursquare.com/askmen
+  40. https://foursquare.com/louisvuitton_hq
   41. https://foursquare.com/michelinguides
-  42. https://foursquare.com/logotv
+  42. https://foursquare.com/sportsauthority
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer

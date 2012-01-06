@@ -258,12 +258,32 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [31][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [32][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [33][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [30][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [31][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [32][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [33][askmen-32a19bae424cafba11d7131fbc763f6d.png]
      * [34][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [35][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [35][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+
+Flag this Photo
+
+     * (*) Spam/Scam
+     * ( ) Nudity
+     * ( ) Hate/Violence
+     * ( ) Illegal
+     * ( ) Unrelated
+
+   Please select a problem.
+
+   [BUTTON Input] (not implemented)___________
+
+Flag this Photo
+
+   Your flag was submitted successfully.
+
+Flag this Photo
+
+   Your flag did not submit. Please try again later.
 
 References
 
@@ -297,12 +317,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/visitpa
-  31. https://foursquare.com/askmen
-  32. https://foursquare.com/peoplemag
-  33. https://foursquare.com/racked
+  30. https://foursquare.com/historychannel
+  31. https://foursquare.com/zagat
+  32. https://foursquare.com/thrillist
+  33. https://foursquare.com/askmen
   34. https://foursquare.com/eater
-  35. https://foursquare.com/mazdausa
+  35. https://foursquare.com/bbcamerica
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer
