@@ -223,12 +223,12 @@
 
 References
 
-   1. http://developer.bodymedia.com/login/mashery-id?r=http%3A%2F%2Fdeveloper.bodymedia.com%2Fapps%2Ftos&h=619bb3d7f4502fe897d8616eb2402fb3
-   2. http://developer.bodymedia.com/member/register
-   3. http://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
-   4. http://developer.bodymedia.com/Data_Use_Policy
+   1. https://developer.bodymedia.com/login/login?r=https%3A%2F%2Fdeveloper.bodymedia.com%2Fapps%2Ftos&h=182b7bee7b8da375c267c750d818aff6
+   2. https://developer.bodymedia.com/member/register
+   3. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
+   4. https://developer.bodymedia.com/Data_Use_Policy
    5. http://www.bodymedia.com/Support-Help/Policies/Terms-and-Conditions
-   6. http://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
-   7. http://developer.bodymedia.com/page
-   8. http://developer.bodymedia.com/docs
-   9. http://developer.bodymedia.com/forum
+   6. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
+   7. https://developer.bodymedia.com/page
+   8. https://developer.bodymedia.com/docs
+   9. https://developer.bodymedia.com/forum
