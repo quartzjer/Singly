@@ -215,11 +215,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [28][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [29][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [31][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [32][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [28][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [29][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [30][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [31][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [32][ifctv-2373ec68733cd242bd259caa4e545302.png]
 
 Flag this Photo
 
@@ -271,11 +271,11 @@ References
   25. javascript:///
   26. https://foursquare.com/pages
   27. https://foursquare.com/historychannel
-  28. https://foursquare.com/luckymagazine
-  29. https://foursquare.com/wsj
-  30. https://foursquare.com/gossipgirl
-  31. https://foursquare.com/eater
-  32. https://foursquare.com/mazdausa
+  28. https://foursquare.com/vh1
+  29. https://foursquare.com/thrillist
+  30. https://foursquare.com/visitpa
+  31. https://foursquare.com/louisvuitton_hq
+  32. https://foursquare.com/ifctv
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer

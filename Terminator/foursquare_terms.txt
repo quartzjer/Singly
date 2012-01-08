@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [38][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [39][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [40][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [41][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
-     * [42][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [37][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [38][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [39][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [40][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [42][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 Flag this Photo
 
@@ -758,12 +758,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/mtv
-  38. https://foursquare.com/zagat
-  39. https://foursquare.com/askmen
-  40. https://foursquare.com/huffingtonpost
-  41. https://foursquare.com/sportsauthority
-  42. https://foursquare.com/bbcamerica
+  37. https://foursquare.com/bonappetitmag
+  38. https://foursquare.com/huffingtonpost
+  39. https://foursquare.com/peoplemag
+  40. https://foursquare.com/mashable
+  41. https://foursquare.com/mazdausa
+  42. https://foursquare.com/sportsauthority
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
