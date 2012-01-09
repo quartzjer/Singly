@@ -331,7 +331,7 @@ Miscellaneous
 
      * [15]Products
           + [16]Ultra Wireless Tracker
-          + [17]Premium Membership
+          + [17]Premium
           + [18]Mobile
           + [19]Application Gallery
           + [20]API

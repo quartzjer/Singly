@@ -693,11 +693,11 @@ Contact.
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [37][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [38][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [39][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [40][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
-     * [42][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [38][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [39][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [40][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [41][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [42][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 Flag this Photo
 
@@ -759,11 +759,11 @@ References
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
   37. https://foursquare.com/bonappetitmag
-  38. https://foursquare.com/huffingtonpost
-  39. https://foursquare.com/peoplemag
-  40. https://foursquare.com/mashable
-  41. https://foursquare.com/mazdausa
-  42. https://foursquare.com/sportsauthority
+  38. https://foursquare.com/thrillist
+  39. https://foursquare.com/walgreens
+  40. https://foursquare.com/mazdausa
+  41. https://foursquare.com/sportsauthority
+  42. https://foursquare.com/bbcamerica
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
