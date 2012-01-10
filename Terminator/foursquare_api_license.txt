@@ -214,11 +214,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [28][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [29][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [30][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [31][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [27][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [31][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
      * [32][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 Flag this Photo
@@ -270,11 +270,11 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/zagat
-  28. https://foursquare.com/visitpa
-  29. https://foursquare.com/nymag
-  30. https://foursquare.com/huffingtonpost
-  31. https://foursquare.com/redskins
+  27. https://foursquare.com/visitpa
+  28. https://foursquare.com/askmen
+  29. https://foursquare.com/huffingtonpost
+  30. https://foursquare.com/nationalpost
+  31. https://foursquare.com/walgreens
   32. https://foursquare.com/mazdausa
 
    Hidden links:
