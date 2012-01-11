@@ -692,11 +692,11 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [38][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [39][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [40][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [41][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [37][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [38][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [39][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [40][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [41][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
      * [42][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 Flag this Photo
@@ -758,11 +758,11 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/wsj
-  38. https://foursquare.com/nationalpost
-  39. https://foursquare.com/instyle
-  40. https://foursquare.com/eater
-  41. https://foursquare.com/brisk
+  37. https://foursquare.com/askmen
+  38. https://foursquare.com/racked
+  39. https://foursquare.com/mashable
+  40. https://foursquare.com/windowslive
+  41. https://foursquare.com/sportsauthority
   42. https://foursquare.com/bbcamerica
 
    Hidden links:

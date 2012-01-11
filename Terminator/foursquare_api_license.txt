@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [27][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
      * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [31][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [32][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [30][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [31][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 Flag this Photo
 
@@ -270,12 +270,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/visitpa
+  27. https://foursquare.com/zagat
   28. https://foursquare.com/askmen
-  29. https://foursquare.com/huffingtonpost
-  30. https://foursquare.com/nationalpost
-  31. https://foursquare.com/walgreens
-  32. https://foursquare.com/mazdausa
+  29. https://foursquare.com/thedewtour
+  30. https://foursquare.com/logotv
+  31. https://foursquare.com/joinred
+  32. https://foursquare.com/bbcamerica
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
