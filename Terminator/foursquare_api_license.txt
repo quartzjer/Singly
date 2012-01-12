@@ -214,11 +214,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [30][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [31][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [28][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [29][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [30][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
      * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 Flag this Photo
@@ -270,11 +270,11 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/zagat
-  28. https://foursquare.com/askmen
-  29. https://foursquare.com/thedewtour
-  30. https://foursquare.com/logotv
-  31. https://foursquare.com/joinred
+  27. https://foursquare.com/historychannel
+  28. https://foursquare.com/bravotv
+  29. https://foursquare.com/bonappetitmag
+  30. https://foursquare.com/tlc
+  31. https://foursquare.com/racked
   32. https://foursquare.com/bbcamerica
 
    Hidden links:
