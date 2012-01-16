@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [31][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [32][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [33][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [34][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [35][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [31][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [33][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [34][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [35][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 Flag this Photo
 
@@ -317,12 +317,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/ifctv
-  31. https://foursquare.com/peoplemag
-  32. https://foursquare.com/nationalpost
-  33. https://foursquare.com/racked
-  34. https://foursquare.com/michelinguides
-  35. https://foursquare.com/logotv
+  30. https://foursquare.com/gossipgirl
+  31. https://foursquare.com/walgreens
+  32. https://foursquare.com/nhl
+  33. https://foursquare.com/mashable
+  34. https://foursquare.com/windowslive
+  35. https://foursquare.com/bbcamerica
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

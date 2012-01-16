@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [29][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [30][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [31][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [32][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [27][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [28][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [29][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [30][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [31][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [32][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 Flag this Photo
 
@@ -270,12 +270,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/luckymagazine
-  28. https://foursquare.com/askmen
-  29. https://foursquare.com/nymag
-  30. https://foursquare.com/walgreens
-  31. https://foursquare.com/logotv
-  32. https://foursquare.com/mashable
+  27. https://foursquare.com/askmen
+  28. https://foursquare.com/ifctv
+  29. https://foursquare.com/nationalpost
+  30. https://foursquare.com/instyle
+  31. https://foursquare.com/brisk
+  32. https://foursquare.com/sportsauthority
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
