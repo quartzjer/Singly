@@ -217,7 +217,7 @@
      * [8]Documentation
      * [9]Forums
 
-   © 2011 BodyMedia, Inc.
+   © 2012 BodyMedia, Inc.
 
    Quantcast
 

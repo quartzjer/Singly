@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [30][tlc-452c53346d8cd7f2379560259e726208.png]
      * [31][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [32][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [33][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [34][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [35][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [32][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [33][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [34][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [35][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 Flag this Photo
 
@@ -317,12 +317,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/historychannel
+  30. https://foursquare.com/tlc
   31. https://foursquare.com/thrillist
-  32. https://foursquare.com/louisvuitton_hq
-  33. https://foursquare.com/huffingtonpost
-  34. https://foursquare.com/nhl
-  35. https://foursquare.com/joinred
+  32. https://foursquare.com/gossipgirl
+  33. https://foursquare.com/ifctv
+  34. https://foursquare.com/redskins
+  35. https://foursquare.com/nhl
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

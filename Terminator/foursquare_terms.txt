@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [38][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [37][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [38][tlc-452c53346d8cd7f2379560259e726208.png]
      * [39][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [40][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [41][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [42][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [40][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [41][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [42][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 Flag this Photo
 
@@ -758,12 +758,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/bravotv
-  38. https://foursquare.com/bonappetitmag
+  37. https://foursquare.com/vh1
+  38. https://foursquare.com/tlc
   39. https://foursquare.com/visitpa
-  40. https://foursquare.com/louisvuitton_hq
-  41. https://foursquare.com/michelinguides
-  42. https://foursquare.com/logotv
+  40. https://foursquare.com/ifctv
+  41. https://foursquare.com/mashable
+  42. https://foursquare.com/mazdausa
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer

@@ -7,7 +7,7 @@
      * [6]The Tour
      * [7]Sign Up
      * [8]Explore [9]More options
-          + [10]Explore Page
+          + [10]Explore Home
           + [11]Last 7 Days Interesting
           + [12]Popular Tags
           + [13]Calendar
