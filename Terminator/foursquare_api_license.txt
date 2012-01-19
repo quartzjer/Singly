@@ -215,31 +215,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [28][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [32][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-
-Flag this Photo
-
-     * (*) Spam/Scam
-     * ( ) Nudity
-     * ( ) Hate/Violence
-     * ( ) Illegal
-     * ( ) Unrelated
-
-   Please select a problem.
-
-   [BUTTON Input] (not implemented)___________
-
-Flag this Photo
-
-   Your flag was submitted successfully.
-
-Flag this Photo
-
-   Your flag did not submit. Please try again later.
+     * [28][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [29][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [30][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [31][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [32][windowslive-38f5072d746b29d168455fd2791516dc.png]
 
 References
 
@@ -271,11 +251,11 @@ References
   25. javascript:///
   26. https://foursquare.com/pages
   27. https://foursquare.com/historychannel
-  28. https://foursquare.com/thrillist
-  29. https://foursquare.com/thedewtour
-  30. https://foursquare.com/nationalpost
-  31. https://foursquare.com/racked
-  32. https://foursquare.com/eater
+  28. https://foursquare.com/bonappetitmag
+  29. https://foursquare.com/tlc
+  30. https://foursquare.com/visitpa
+  31. https://foursquare.com/thedewtour
+  32. https://foursquare.com/windowslive
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
