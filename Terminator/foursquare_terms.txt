@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [38][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [39][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [40][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [41][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [42][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [37][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [38][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [40][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [41][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [42][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/bravotv
-  38. https://foursquare.com/vh1
-  39. https://foursquare.com/wsj
-  40. https://foursquare.com/huffingtonpost
-  41. https://foursquare.com/nationalpost
-  42. https://foursquare.com/instyle
+  37. https://foursquare.com/nationalpost
+  38. https://foursquare.com/instyle
+  39. https://foursquare.com/racked
+  40. https://foursquare.com/michelinguides
+  41. https://foursquare.com/brisk
+  42. https://foursquare.com/sportsauthority
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer

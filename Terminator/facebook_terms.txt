@@ -505,9 +505,8 @@
      * [38]Advertising Guidelines: These guidelines outline the policies
        that apply to advertisements placed on Facebook.
      * [39]Promotions Guidelines: These guidelines outline the policies
-       that apply if you have obtained written pre-approval from us to
-       offer contests, sweepstakes, and other types of promotions on
-       Facebook.
+       that apply if you offer contests, sweepstakes, and other types of
+       promotions on Facebook.
      * [40]How to Report Claims of Intellectual Property Infringement
      * [41]How to Appeal Claims of Copyright Infringement
      * [42]Pages Terms
