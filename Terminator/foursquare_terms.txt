@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [38][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [40][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [41][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [42][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [37][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [38][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [39][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [40][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [41][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [42][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/nationalpost
-  38. https://foursquare.com/instyle
-  39. https://foursquare.com/racked
-  40. https://foursquare.com/michelinguides
-  41. https://foursquare.com/brisk
-  42. https://foursquare.com/sportsauthority
+  37. https://foursquare.com/gossipgirl
+  38. https://foursquare.com/visitpa
+  39. https://foursquare.com/nymag
+  40. https://foursquare.com/huffingtonpost
+  41. https://foursquare.com/mazdausa
+  42. https://foursquare.com/bbcamerica
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer

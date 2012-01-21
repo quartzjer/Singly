@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [31][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [32][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [33][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [34][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [35][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [30][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [31][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [32][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [33][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [34][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [35][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/bravotv
-  31. https://foursquare.com/vh1
-  32. https://foursquare.com/gossipgirl
-  33. https://foursquare.com/huffingtonpost
-  34. https://foursquare.com/logotv
-  35. https://foursquare.com/brisk
+  30. https://foursquare.com/mtv
+  31. https://foursquare.com/wsj
+  32. https://foursquare.com/askmen
+  33. https://foursquare.com/nationalpost
+  34. https://foursquare.com/racked
+  35. https://foursquare.com/walgreens
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer
