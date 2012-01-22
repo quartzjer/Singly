@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [28][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [29][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [30][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [31][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
-     * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [27][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [28][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [29][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [30][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [31][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [32][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
 
 References
 
@@ -250,12 +250,12 @@ References
   24. javascript:///
   25. javascript:///
   26. https://foursquare.com/pages
-  27. https://foursquare.com/bravotv
-  28. https://foursquare.com/tlc
-  29. https://foursquare.com/askmen
-  30. https://foursquare.com/ifctv
-  31. https://foursquare.com/sportsauthority
-  32. https://foursquare.com/joinred
+  27. https://foursquare.com/luckymagazine
+  28. https://foursquare.com/wsj
+  29. https://foursquare.com/thrillist
+  30. https://foursquare.com/visitpa
+  31. https://foursquare.com/huffingtonpost
+  32. https://foursquare.com/logotv
 
    Hidden links:
   33. https://foursquare.com/legal/api/licenseagreement#languagesContainer
