@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [30][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [31][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [32][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [33][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [34][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
-     * [35][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [30][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [31][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [32][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [33][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [34][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [35][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -297,12 +297,12 @@ References
   27. javascript:///
   28. javascript:///
   29. https://foursquare.com/pages
-  30. https://foursquare.com/bravotv
-  31. https://foursquare.com/gossipgirl
-  32. https://foursquare.com/thedewtour
-  33. https://foursquare.com/nhl
-  34. https://foursquare.com/mazdausa
-  35. https://foursquare.com/joinred
+  30. https://foursquare.com/mtv
+  31. https://foursquare.com/vh1
+  32. https://foursquare.com/visitpa
+  33. https://foursquare.com/louisvuitton_hq
+  34. https://foursquare.com/nhl
+  35. https://foursquare.com/brisk
 
    Hidden links:
   36. https://foursquare.com/legal/api/platformpolicy#languagesContainer

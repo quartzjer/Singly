@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [38][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [39][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [40][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [41][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [42][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [37][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [38][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [40][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [41][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [42][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
 
@@ -738,12 +738,12 @@ References
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/terms
   36. https://foursquare.com/pages
-  37. https://foursquare.com/luckymagazine
-  38. https://foursquare.com/visitpa
-  39. https://foursquare.com/louisvuitton_hq
-  40. https://foursquare.com/thedewtour
-  41. https://foursquare.com/nationalpost
-  42. https://foursquare.com/walgreens
+  37. https://foursquare.com/nymag
+  38. https://foursquare.com/peoplemag
+  39. https://foursquare.com/racked
+  40. https://foursquare.com/logotv
+  41. https://foursquare.com/brisk
+  42. https://foursquare.com/mazdausa
 
    Hidden links:
   43. https://foursquare.com/legal/terms#languagesContainer
