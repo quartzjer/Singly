@@ -12,7 +12,7 @@
    [3]http://www.flickr.com/utos_detect.gne which is incorporated by
    reference, and you further agree to comply with the Flickr Community
    Guidelines (Community Guidelines) located at
-   [4]http://www.flickr.com/guidelines.gne.
+   [4]http://www.flickr.com/help/guidelines/.
 
    Yahoo! ("Flickr") reserves the right to update and change, from time to
    time, these Additional Terms and all documents incorporated by
@@ -327,7 +327,7 @@ References
    1. http://www.flickr.com/atos/pro#gift
    2. http://www.flickr.com/atos/pro/
    3. http://www.flickr.com/utos_detect.gne
-   4. http://www.flickr.com/guidelines.gne
+   4. http://www.flickr.com/help/guidelines/
    5. http://flickr.com/help/limits/#28
    6. http://privacy.yahoo.com/
    7. http://www.flickr.com/gift_terms_purchaser.gne

@@ -674,30 +674,30 @@ Contact.
      * [24]Store
      * Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
-          + [25]English
-          + [26]Italiano
-          + [27]Deutsch
-          + [28]Español
-          + [29]Français
-          + [30]日本語
-          + [31]ภาษาไทย
-          + [32]한국어
-          + [33]Русский
-          + [34]Português
-          + [35]Bahasa Indonesia
+          + English
+          + Italiano
+          + Deutsch
+          + Español
+          + Français
+          + 日本語
+          + ภาษาไทย
+          + 한국어
+          + Русский
+          + Português
+          + Bahasa Indonesia
 
-   foursquare © 2011 Lovingly made in NYC & SF
+   foursquare © 2012 Lovingly made in NYC & SF
 
-   Discover more brands in the [36]page gallery.
+   Discover more brands in the [25]page gallery.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [37][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [38][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [39][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [40][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [41][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [42][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [26][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [27][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [28][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [29][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [30][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [31][ifctv-2373ec68733cd242bd259caa4e545302.png]
 
 References
 
@@ -726,25 +726,14 @@ References
   22. https://foursquare.com/legal/privacy
   23. https://foursquare.com/legal/terms
   24. http://store.foursquare.com/
-  25. https://foursquare.com/legal/terms
-  26. https://foursquare.com/legal/terms
-  27. https://foursquare.com/legal/terms
-  28. https://foursquare.com/legal/terms
-  29. https://foursquare.com/legal/terms
-  30. https://foursquare.com/legal/terms
-  31. https://foursquare.com/legal/terms
-  32. https://foursquare.com/legal/terms
-  33. https://foursquare.com/legal/terms
-  34. https://foursquare.com/legal/terms
-  35. https://foursquare.com/legal/terms
-  36. https://foursquare.com/pages
-  37. https://foursquare.com/nymag
-  38. https://foursquare.com/peoplemag
-  39. https://foursquare.com/racked
-  40. https://foursquare.com/logotv
-  41. https://foursquare.com/brisk
-  42. https://foursquare.com/mazdausa
+  25. https://foursquare.com/pages
+  26. https://foursquare.com/mtv
+  27. https://foursquare.com/luckymagazine
+  28. https://foursquare.com/thrillist
+  29. https://foursquare.com/gossipgirl
+  30. https://foursquare.com/huffingtonpost
+  31. https://foursquare.com/ifctv
 
    Hidden links:
-  43. https://foursquare.com/legal/terms#languagesContainer
-  44. https://foursquare.com/legal/terms
+  32. https://foursquare.com/legal/terms#languagesContainer
+  33. https://foursquare.com/legal/terms
