@@ -5,24 +5,28 @@
 
    ﻿
 
-   [1]Home
-   [2]About Google
-   [3]Privacy Highlights
-   [4]Privacy Policy
-   [5]Privacy FAQ
+   This Terms of Service will be replaced by our [1]new Google Terms of
+   Service effective March 1, 2012. Please see our [2]overview page for
+   additional details.
+
+   [3]Home
+   [4]About Google
+   [5]Privacy Highlights
+   [6]Privacy Policy
+   [7]Privacy FAQ
    Terms of Service
-   [6]Terms of Service Highlights
+   [8]Terms of Service Highlights
    More privacy info:
-   • [7]Desktop
-   • [8]Gmail
-   • [9]Groups
-   • [10]Orkut
-   • [11]Personalized Homepage
-   • [12]Personalized Search
-   • [13]Store
-   • [14]Talk
-   • [15]Toolbar
-   • [16]Web Accelerator
+   • [9]Desktop
+   • [10]Gmail
+   • [11]Groups
+   • [12]Orkut
+   • [13]Personalized Homepage
+   • [14]Personalized Search
+   • [15]Store
+   • [16]Talk
+   • [17]Toolbar
+   • [18]Web Accelerator
    Find on this site:
    __________
    Search
@@ -180,14 +184,14 @@ Google Terms of Service
 
      6.3 If you become aware of any unauthorized use of your password or
      of your account, you agree to notify Google immediately at
-     [17]http://www.google.com/support/accounts/bin/answer.py?answer=5858
+     [19]http://www.google.com/support/accounts/bin/answer.py?answer=5858
      5.
 
    7. Privacy and your personal information
 
      7.1 For information about Google’s data protection practices, please
      read Google’s privacy policy at
-     [18]http://www.google.com/privacy.html. This policy explains how
+     [20]http://www.google.com/privacy.html. This policy explains how
      Google treats your personal information, and protects your privacy,
      when you use the Services.
 
@@ -219,7 +223,7 @@ Google Terms of Service
      all Content from any Service. For some of the Services, Google may
      provide tools to filter out explicit sexual content. These tools
      include the SafeSearch preference settings (see
-     [19]http://www.google.com/help/customize.html#safe). In addition,
+     [21]http://www.google.com/help/customize.html#safe). In addition,
      there are commercially available services and software to limit
      access to material that you may find objectionable.
 
@@ -255,7 +259,7 @@ Google Terms of Service
      that agreement, any applicable provisions of the Terms, and Google's
      brand feature use guidelines as updated from time to time. These
      guidelines can be viewed online at
-     [20]http://www.google.com/permissions/guidelines.html (or such other
+     [22]http://www.google.com/permissions/guidelines.html (or such other
      URL as Google may provide for this purpose from time to time).
 
      9.4 Other than the limited license set forth in Section 11, Google
@@ -482,11 +486,11 @@ Google Terms of Service
      intellectual property law (including, in the United States, the
      Digital Millennium Copyright Act) and to terminating the accounts of
      repeat infringers. Details of Google’s policy can be found at
-     [21]http://www.google.com/dmca.html.
+     [23]http://www.google.com/dmca.html.
 
      16.2 Google operates a trade mark complaints procedure in respect of
      Google’s advertising business, details of which can be found at
-     [22]http://www.google.com/tm_complaint.html.
+     [24]http://www.google.com/tm_complaint.html.
 
    17. Advertisements
 
@@ -526,7 +530,7 @@ Google Terms of Service
      19.1 Google may make changes to the Universal Terms or Additional
      Terms from time to time. When these changes are made, Google will
      make a new copy of the Universal Terms available at
-     [23]http://www.google.com/accounts/TOS?hl=en and any new Additional
+     [25]http://www.google.com/accounts/TOS?hl=en and any new Additional
      Terms will be made available to you from within, or through, the
      affected Services.
 
@@ -587,39 +591,41 @@ Google Terms of Service
      April 16, 2007
 
 
-   ©2008 Google - [24]Home - [25]About Google - [26]Privacy Policy -
-   [27]Terms of Service
+   ©2008 Google - [26]Home - [27]About Google - [28]Privacy Policy -
+   [29]Terms of Service
 
 References
 
    Visible links
-   1. http://www.google.com/
-   2. http://www.google.com/about.html
-   3. http://www.google.com/privacy.html
-   4. http://www.google.com/privacypolicy.html
-   5. http://www.google.com/privacy_faq.html
-   6. http://www.google.com/accounts/tos/highlights/utos-us-en-h.html
-   7. http://desktop.google.com/privacypolicy.html
-   8. http://gmail.google.com/gmail/help/privacy.html
-   9. http://groups-beta.google.com/googlegroups/privacy.html
-  10. http://www.orkut.com/privacy.aspx
-  11. http://www.google.com/help/privacy_fusionph.html
-  12. http://www.google.com/searchhistory/privacy.html
-  13. http://www.googlestore.com/privacy.asp
-  14. http://www.google.com/talk/privacy.html
-  15. http://toolbar.google.com/privacy.html
-  16. http://webaccelerator.google.com/privacy.html
-  17. http://www.google.com/support/accounts/bin/answer.py?answer=58585
-  18. http://www.google.com/privacy.html
-  19. http://www.google.com/help/customize.html#safe
-  20. http://www.google.com/permissions/guidelines.html
-  21. http://www.google.com/dmca.html
-  22. http://www.google.com/tm_complaint.html
-  23. http://www.google.com/accounts/TOS?hl=en
-  24. http://www.google.com/
-  25. http://www.google.com/about.html
-  26. http://www.google.com/privacy.html
-  27. http://www.google.com/accounts/TOS?hl=en
+   1. http://www.google.com/policies/terms/
+   2. http://www.google.com/policies/
+   3. http://www.google.com/
+   4. http://www.google.com/about.html
+   5. http://www.google.com/privacy.html
+   6. http://www.google.com/privacypolicy.html
+   7. http://www.google.com/privacy_faq.html
+   8. http://www.google.com/accounts/tos/highlights/utos-us-en-h.html
+   9. http://desktop.google.com/privacypolicy.html
+  10. http://gmail.google.com/gmail/help/privacy.html
+  11. http://groups-beta.google.com/googlegroups/privacy.html
+  12. http://www.orkut.com/privacy.aspx
+  13. http://www.google.com/help/privacy_fusionph.html
+  14. http://www.google.com/searchhistory/privacy.html
+  15. http://www.googlestore.com/privacy.asp
+  16. http://www.google.com/talk/privacy.html
+  17. http://toolbar.google.com/privacy.html
+  18. http://webaccelerator.google.com/privacy.html
+  19. http://www.google.com/support/accounts/bin/answer.py?answer=58585
+  20. http://www.google.com/privacy.html
+  21. http://www.google.com/help/customize.html#safe
+  22. http://www.google.com/permissions/guidelines.html
+  23. http://www.google.com/dmca.html
+  24. http://www.google.com/tm_complaint.html
+  25. http://www.google.com/accounts/TOS?hl=en
+  26. http://www.google.com/
+  27. http://www.google.com/about.html
+  28. http://www.google.com/privacy.html
+  29. http://www.google.com/accounts/TOS?hl=en
 
    Hidden links:
-  28. http://www.google.com/
+  30. http://www.google.com/
