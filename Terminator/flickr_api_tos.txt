@@ -401,7 +401,7 @@ References
   37. http://blog.flickr.net/
   38. http://www.flickr.com/jobs/
   39. http://www.flickr.com/help/guidelines/
-  40. http://www.flickr.com/report_abuse.gne
+  40. http://www.flickr.com/abuse/
   41. http://www.flickr.com/help/
   42. http://www.flickr.com/help/forum/
   43. http://www.flickr.com/help/faq/
@@ -423,7 +423,7 @@ References
   59. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
   60. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
   61. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  62. http://www.flickr.com/terms.gne
-  63. http://www.flickr.com/privacy_policy.gne
+  62. http://www.flickr.com/help/terms/
+  63. http://www.flickr.com/help/privacy-policy/
   64. http://safely.yahoo.com/
   65. http://docs.yahoo.com/info/copyright/copyright.html

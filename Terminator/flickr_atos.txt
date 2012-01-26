@@ -1,4 +1,4 @@
-                     Flickr pro Additional Terms of Service
+                     Flickr Pro Additional Terms of Service
 
    [Click [1]here to review the Flickr Gift Purchaser Terms]
 
@@ -6,26 +6,32 @@
 
 1. ACCEPTANCE OF YAHOO! TERMS
 
-   Welcome to Flickr pro. By using Flickr pro, you agree to these
-   Additional Terms located at [2]http://www.flickr.com/atos/pro/ that
-   supplement the Yahoo! Terms of Service (TOS) located at
-   [3]http://www.flickr.com/utos_detect.gne which is incorporated by
-   reference, and you further agree to comply with the Flickr Community
-   Guidelines (Community Guidelines) located at
-   [4]http://www.flickr.com/help/guidelines/.
+   Welcome to Flickr Pro (“Flickr Pro” or the “Service”). By using Flickr
+   Pro, you agree to these Additional Terms located at
+   [2]http://www.flickr.com/atos/pro/ (and any successor page) that
+   supplement the Yahoo! Terms of Service (“TOS)” located at
+   [3]http://www.flickr.com/utos_detect.gne and the Yahoo! Privacy Policy
+   located at [4]http://privacy.yahoo.com/ (and any successor pages),
+   which are incorporated by reference, and you further agree to comply
+   with the Flickr Community Guidelines (Community Guidelines) located at
+   [5]http://www.flickr.com/guidelines.gne, and any successor page. If any
+   conflict between the terms and conditions of these Additional Terms and
+   those in the TOS occurs, the terms and conditions of these Additional
+   Terms will control, except to the extent that the TOS imposes
+   additional restrictions and liabilities on your actions.
 
    Yahoo! ("Flickr") reserves the right to update and change, from time to
    time, these Additional Terms and all documents incorporated by
    reference. You can always find the most recent version of this
    Additional Terms and the most recent version of the Yahoo! Terms of
-   Service at the URL indicated above.
+   Service, Yahoo! Privacy Policy, and the Community Guidelines at the
+   URLs indicated above.
 
 2. DESCRIPTION OF SERVICE
 
-  2.1 Flickr pro
-
    Please click on the following link to learn what additional features
-   Flickr Pro provides to subscribers [5]http://flickr.com/help/limits/#28
+   Flickr Pro provides to subscribers
+   [6]http://flickr.com/help/limits/#28.
 
 3. YAHOO! ID AND YAHOO! WALLET REQUIREMENT
 
@@ -34,7 +40,7 @@
    billing and shipping information and other information (your
    "Registration Data"). If you do not have a Yahoo! ID or a Yahoo!
    Wallet, you will be prompted to complete the registration process for
-   them before you can pay for the Services.
+   them before you can pay for the Service.
 
    To use Yahoo! Wallet, you must provide true, accurate, and current
    Registration Data and keep that information accurate. You, and not
@@ -54,35 +60,25 @@
    provided, however, that nothing in this section shall impose a duty on
    Yahoo! to make any such disclosures.
 
-4. PAYMENT TERMS
+4. PAYMENT
 
-  4.1 General Terms
+  4.1 Payment Terms
 
-   The current fee for the Service you have selected will automatically
-   and immediately be charged to your payment instrument or account on the
-   date that you click on the "Purchase Order" button in the ordering
-   process. Fees charged for one Service may not be credited towards other
-   services. All currency references are in U.S. dollars.
+   Your credit card will automatically be charged the current fee for the
+   Service you choose on the date that you click on the "Place Order"
+   button in the ordering process. If you do not cancel your Flickr Pro
+   service by the end of the current term, your credit card on file will
+   also automatically be charged the then-current fee for that Service at
+   the commencement of each renewal term. Fees may not be credited towards
+   other services. Current fees will be posted on Flickr in the Options
+   section located at [7]http://flickr.com/help/limits/#28. All currency
+   references are in U.S. dollars. Please note, unless Yahoo! provides
+   express notice otherwise, payment for the Service is non-refundable. If
+   you cancel your Flickr Pro, your account will automatically revert to a
+   free Flickr account upon the expiration of your Flickr Pro term and
+   will be subject to the limitations of a free Flickr account.
 
-  4.2 Payment for Subscription
-
-   Payment occurs on a pre-pay basis and payment will not be automatically
-   renewed at the end of the term. The amount you are to pay will depend
-   upon which term of subscription you choose. For example, if you choose
-   one year of Flickr pro, you will be charged for the one year price
-   upfront. If you choose the two year term of Flickr pro, you will be
-   charged for the entire two year price upfront. Please note: If you have
-   received a Free pro Period, then you will not be charged for those days
-   covered by the Free pro Period. You will be contacted in order to renew
-   your Flickr pro account prior to the end of any expiration of the
-   account (either the expiration of a Free pro Period or a paid Flickr
-   pro term), at which point you may elect to purchase a new Flickr pro
-   term. If you do not elect to purchase a new Flickr pro term, your
-   account will automatically revert to a free Flickr account upon the
-   expiration of your Flickr pro term or Free pro Period and will be
-   subject to the limitations of a free Flickr account.
-
-  4.4 Account Updater
+  4.2 Account Updater
 
    As a convenience to its users, Yahoo! subscribes to a third party
    service that can refresh expired credit card or debit card numbers with
@@ -95,9 +91,9 @@
    receipt and use of updated credit card or debit card account
    information from your financial institution in connection with the
    provision of the Service as provided in the TOS, these Additional
-   Terms, and the Yahoo! Privacy Policy.
+   Terms, the Yahoo! Privacy Policy, and the Community Guidelines.
 
-  4.5 Fraud Protections
+  4.3 Fraud Protections
 
    To protect against potential fraud, Yahoo! may take steps to verify the
    validity of the credit card information you provide to us. The
@@ -112,16 +108,9 @@
    Yahoo! to debit and credit your credit card account for an amount less
    than one dollar for such verification purposes.
 
-  4.6 Cancellation of Subscription
+  4.4 Termination
 
-   Please note, unless Flickr gives notice to the contrary, payment for
-   subscriptions are non-refundable. If you cancel your subscription
-   before the end of the term for which you paid, your cancellation will
-   take effect immediately and you will not be given any refund.
-
-  4.7 Termination
-
-   If your credit card is invalid for any reason, your Flickr pro account
+   If your credit card is invalid for any reason, your Flickr Pro account
    will revert to a free Flickr account and will be subject to the
    limitations of a free Flickr account; provided, however, that Flickr
    reserves the right to cancel your account entirely in such case,
@@ -133,12 +122,12 @@
 
    Flickr expressly reserves the right to immediately modify, delete
    content from, suspend or terminate your account and refuse current or
-   future use of any Yahoo! service, including Flickr pro, if Flickr, in
+   future use of any Yahoo! service, including Flickr Pro, if Flickr, in
    its sole discretion believes you have: (i) violated or tried to violate
    the rights of others; or (ii) acted inconsistently with the spirit or
    letter of the TOS, the Community Guidelines or these Additional Terms.
-   In such event, your Flickr pro account may be suspended or cancelled
-   immediately in our discretion, all the information and content
+   In such event, your Flickr Pro account may be suspended or cancelled
+   immediately in Flickr’s discretion, all the information and content
    contained within it deleted permanently and you will not be entitled to
    any refund of any of the amounts you've paid for such account. Flickr
    accepts no liability for information or content that is deleted.
@@ -149,19 +138,20 @@
    affiliates, officers, agents, or other partners, and employees, from
    any claim or demand, including reasonable attorneys' fees, made by any
    third party due to or arising out of your use of and access to Flickr
-   pro, your violation of the TOS, these Additional Terms or the Community
+   Pro, your violation of the TOS, these Additional Terms or the Community
    Guidelines, your violation of any rights of another person or entity,
    or your violation of any applicable laws or regulations.
 
 7. PRIVACY
 
    Registration Data and certain other information about you are subject
-   to our Privacy Policy. For more information, see our full privacy
-   policy at [6]http://privacy.yahoo.com/.
+   to our Privacy Policy. For more information, see our privacy policy at
+   [8]http://info.yahoo.com/privacy/us/yahoo/wallet/details.html, and any
+   successor page.
 
 8. AGE REQUIREMENTS FOR USE OF FLICKR PRO
 
-   Flickr pro is available for individuals aged 13 years or older. If you
+   Flickr Pro is available for individuals aged 13 years or older. If you
    are 13 or older but under the age of 18, you should review these terms
    and conditions with your parent or guardian to make sure that you and
    your parent or guardian understand and agree to these terms and
@@ -169,19 +159,28 @@
 
 9. OBJECTIONABLE MATERIAL
 
-   You understand that by using Flickr pro, you may encounter content that
+   You understand that by using Flickr Pro, you may encounter content that
    may be deemed offensive, indecent, or objectionable, which content may
    or may not be identified as having explicit subject matter.
-   Nevertheless, you agree to use Flickr pro at your sole risk and that
+   Nevertheless, you agree to use Flickr Pro at your sole risk and that
    Flickr shall not have any liability to you for content that may be
    found to be offensive, indecent, or objectionable.
 
-10. LOCATION OF LAWSUIT
+10. CHOICE OF LAW AND FORUM
 
-   The Yahoo! Terms of Service, which apply to your Flickr pro account,
-   provides that both you and Flickr agree to submit to the personal and
-   exclusive jurisdiction of the courts located within the county of Santa
-   Clara, California.
+   You and Yahoo! each agree that these Additional Terms and the
+   relationship between the parties shall be governed by the laws of the
+   State of California without regard to its conflict of law provisions
+   and that any and all claims, causes of action or disputes (regardless
+   of theory) arising out of or relating to these Additional Terms, or the
+   relationship between you and Yahoo!, shall be brought exclusively in
+   the courts located in the county of Santa Clara, California or the U.S.
+   District Court for the Northern District of California. You and Yahoo!
+   agree to submit to the personal jurisdiction of the courts located
+   within the county of Santa Clara, California or the Northern District
+   of California, and agree to waive any and all objections to the
+   exercise of jurisdiction over the parties by such courts and to venue
+   in such courts.
 
    THE FOLLOWING TERMS AND CONDITIONS ARE APPLIED TO FLICKR GIFT PURCHASES
    ONLY
@@ -190,20 +189,21 @@
 
    Welcome to Flickr Gift Certificate. By purchasing a Flickr Gift
    Certificate, you agree to these Gift Purchaser Terms located at
-   [7]http://www.flickr.com/gift_terms_purchaser.gne that supplement the
+   [9]http://www.flickr.com/gift_terms_purchaser.gne that supplement the
    Yahoo! Terms of Service ("TOS") located at
-   [8]http://docs.yahoo.com/info/terms/, which are incorporated by
-   reference.
+   [10]http://docs.yahoo.com/info/terms/ (and any successor pages), which
+   are incorporated by reference.
+
    Separate Terms of Service govern the redemption and use of the gift
    certificate and the use of the product by the recipient, and must be
    agreed by the recipient of a gift certificate prior to redemption of
    the gift certificate and use of the product. Those terms are located at
-   [9]http://www.flickr.com/gift_terms_redeemer.gne. Flickr reserves the
-   right to update and change, from time to time, these Gift Purchaser
-   Terms and all documents incorporated by reference. You can always find
-   the most recent version of these Gift Purchaser Terms and the most
-   recent version of the Yahoo! Terms of Service at the URLs indicated
-   above.
+   [11]http://www.flickr.com/gift_terms_redeemer.gne, and any successor
+   page. Flickr reserves the right to update and change, from time to
+   time, these Gift Purchaser Terms and all documents incorporated by
+   reference. You can always find the most recent version of these Gift
+   Purchaser Terms and the most recent version of the Yahoo! Terms of
+   Service at the URLs indicated above.
 
 2. DESCRIPTION OF SERVICE
 
@@ -313,7 +313,7 @@
 
    Registration Data and certain other information about you is subject to
    our Privacy Policy. For more information, see the Yahoo! Privacy Policy
-   at [10]http://privacy.yahoo.com/.
+   at [12]http://privacy.yahoo.com/, and any successor page.
 
 11. NO LIABILITY
 
@@ -327,10 +327,12 @@ References
    1. http://www.flickr.com/atos/pro#gift
    2. http://www.flickr.com/atos/pro/
    3. http://www.flickr.com/utos_detect.gne
-   4. http://www.flickr.com/help/guidelines/
-   5. http://flickr.com/help/limits/#28
-   6. http://privacy.yahoo.com/
-   7. http://www.flickr.com/gift_terms_purchaser.gne
-   8. http://docs.yahoo.com/info/terms/
-   9. http://www.flickr.com/gift_terms_redeemer.gne
-  10. http://privacy.yahoo.com/
+   4. http://privacy.yahoo.com/
+   5. http://www.flickr.com/guidelines.gne
+   6. http://flickr.com/help/limits/#28
+   7. http://flickr.com/help/limits/#28
+   8. http://info.yahoo.com/privacy/us/yahoo/wallet/details.html
+   9. http://www.flickr.com/gift_terms_purchaser.gne
+  10. http://docs.yahoo.com/info/terms/
+  11. http://www.flickr.com/gift_terms_redeemer.gne
+  12. http://privacy.yahoo.com/
