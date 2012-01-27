@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [26][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [26][wsj-5f803466964a6770b380df19bb99adef.png]
      * [27][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [28][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [29][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [30][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [31][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [28][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [29][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [30][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [31][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -727,12 +727,12 @@ References
   23. https://foursquare.com/legal/terms
   24. http://store.foursquare.com/
   25. https://foursquare.com/pages
-  26. https://foursquare.com/zagat
+  26. https://foursquare.com/wsj
   27. https://foursquare.com/nymag
-  28. https://foursquare.com/eater
-  29. https://foursquare.com/walgreens
-  30. https://foursquare.com/brisk
-  31. https://foursquare.com/mazdausa
+  28. https://foursquare.com/huffingtonpost
+  29. https://foursquare.com/nationalpost
+  30. https://foursquare.com/mashable
+  31. https://foursquare.com/sportsauthority
 
    Hidden links:
   32. https://foursquare.com/legal/terms#languagesContainer

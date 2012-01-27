@@ -214,12 +214,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [16][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [17][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [18][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [19][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [20][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [21][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [16][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [17][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [18][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [19][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [20][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [21][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
 
 References
 
@@ -239,12 +239,12 @@ References
   13. https://foursquare.com/legal/terms
   14. http://store.foursquare.com/
   15. https://foursquare.com/pages
-  16. https://foursquare.com/wsj
-  17. https://foursquare.com/tlc
-  18. https://foursquare.com/ifctv
-  19. https://foursquare.com/instyle
-  20. https://foursquare.com/eater
-  21. https://foursquare.com/nhl
+  16. https://foursquare.com/historychannel
+  17. https://foursquare.com/zagat
+  18. https://foursquare.com/bonappetitmag
+  19. https://foursquare.com/thrillist
+  20. https://foursquare.com/redskins
+  21. https://foursquare.com/walgreens
 
    Hidden links:
   22. https://foursquare.com/legal/api/licenseagreement#languagesContainer

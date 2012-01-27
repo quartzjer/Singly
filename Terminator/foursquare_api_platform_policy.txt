@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [19][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [20][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [21][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [22][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [23][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [24][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [19][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [20][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [21][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [22][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [23][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [24][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -286,12 +286,12 @@ References
   16. https://foursquare.com/legal/terms
   17. http://store.foursquare.com/
   18. https://foursquare.com/pages
-  19. https://foursquare.com/bonappetitmag
-  20. https://foursquare.com/tlc
-  21. https://foursquare.com/thrillist
-  22. https://foursquare.com/louisvuitton_hq
-  23. https://foursquare.com/redskins
-  24. https://foursquare.com/mazdausa
+  19. https://foursquare.com/askmen
+  20. https://foursquare.com/nymag
+  21. https://foursquare.com/ifctv
+  22. https://foursquare.com/logotv
+  23. https://foursquare.com/sportsauthority
+  24. https://foursquare.com/joinred
 
    Hidden links:
   25. https://foursquare.com/legal/api/platformpolicy#languagesContainer
