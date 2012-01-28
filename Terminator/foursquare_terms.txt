@@ -692,12 +692,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [26][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [27][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [28][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [29][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [30][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [31][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [26][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [27][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [28][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [29][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [31][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
 
 References
 
@@ -727,12 +727,12 @@ References
   23. https://foursquare.com/legal/terms
   24. http://store.foursquare.com/
   25. https://foursquare.com/pages
-  26. https://foursquare.com/wsj
-  27. https://foursquare.com/nymag
-  28. https://foursquare.com/huffingtonpost
-  29. https://foursquare.com/nationalpost
-  30. https://foursquare.com/mashable
-  31. https://foursquare.com/sportsauthority
+  26. https://foursquare.com/bravotv
+  27. https://foursquare.com/thrillist
+  28. https://foursquare.com/thedewtour
+  29. https://foursquare.com/ifctv
+  30. https://foursquare.com/nationalpost
+  31. https://foursquare.com/instyle
 
    Hidden links:
   32. https://foursquare.com/legal/terms#languagesContainer
