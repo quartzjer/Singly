@@ -258,12 +258,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [19][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [20][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [19][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [20][bravotv-0941a1c1254881ab873b66987f08f740.png]
      * [21][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [22][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [23][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [24][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [22][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [23][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [24][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
 
 References
 
@@ -286,12 +286,12 @@ References
   16. https://foursquare.com/legal/terms
   17. http://store.foursquare.com/
   18. https://foursquare.com/pages
-  19. https://foursquare.com/zagat
-  20. https://foursquare.com/gossipgirl
+  19. https://foursquare.com/mtv
+  20. https://foursquare.com/bravotv
   21. https://foursquare.com/askmen
-  22. https://foursquare.com/nymag
-  23. https://foursquare.com/ifctv
-  24. https://foursquare.com/eater
+  22. https://foursquare.com/instyle
+  23. https://foursquare.com/eater
+  24. https://foursquare.com/michelinguides
 
    Hidden links:
   25. https://foursquare.com/legal/api/platformpolicy#languagesContainer
