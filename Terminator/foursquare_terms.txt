@@ -672,7 +672,8 @@ Contact.
      * [22]Privacy
      * [23]Terms
      * [24]Store
-     * Do none of the words on this site make sense to you? Select your
+     * [25]English
+       Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + English
           + Italiano
@@ -688,16 +689,16 @@ Contact.
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   Discover more brands in the [25]page gallery.
+   Discover more brands in the [26]page gallery.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [26][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [27][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [28][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [29][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [30][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
-     * [31][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [27][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [28][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [29][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [30][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 References
 
@@ -726,14 +727,14 @@ References
   22. https://foursquare.com/legal/privacy
   23. https://foursquare.com/legal/terms
   24. http://store.foursquare.com/
-  25. https://foursquare.com/pages
-  26. https://foursquare.com/bonappetitmag
-  27. https://foursquare.com/nymag
-  28. https://foursquare.com/instyle
-  29. https://foursquare.com/racked
-  30. https://foursquare.com/joinred
-  31. https://foursquare.com/bbcamerica
+  25. https://foursquare.com/legal/terms#languagesContainer
+  26. https://foursquare.com/pages
+  27. https://foursquare.com/vh1
+  28. https://foursquare.com/bonappetitmag
+  29. https://foursquare.com/tlc
+  30. https://foursquare.com/instyle
+  31. https://foursquare.com/racked
+  32. https://foursquare.com/nhl
 
    Hidden links:
-  32. https://foursquare.com/legal/terms#languagesContainer
   33. https://foursquare.com/legal/terms

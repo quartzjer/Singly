@@ -703,8 +703,8 @@ References
    8. http://developer.linkedin.com/plugins
    9. http://developer.linkedin.com/plugins
   10. http://developer.linkedin.com/plugins/apply
-  11. http://developer.linkedin.com/plugins/share-button
-  12. http://developer.linkedin.com/plugins/member-profile-plugin
+  11. http://developer.linkedin.com/plugins/share-plugin-generator
+  12. http://developer.linkedin.com/plugins/member-profile-plugin-generator
   13. http://developer.linkedin.com/plugins/company-insider-plugin
   14. http://developer.linkedin.com/plugins/company-profile-plugin
   15. http://developer.linkedin.com/documents/creating-member-profile-plugin

@@ -238,7 +238,8 @@ VII. Trademarks
      * [15]Privacy
      * [16]Terms
      * [17]Store
-     * Do none of the words on this site make sense to you? Select your
+     * [18]English
+       Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + English
           + Italiano
@@ -254,16 +255,16 @@ VII. Trademarks
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   Discover more brands in the [18]page gallery.
+   Discover more brands in the [19]page gallery.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [19][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [20][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [21][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [22][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [20][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [21][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [22][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
      * [23][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
      * [24][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [25][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -285,14 +286,14 @@ References
   15. https://foursquare.com/legal/privacy
   16. https://foursquare.com/legal/terms
   17. http://store.foursquare.com/
-  18. https://foursquare.com/pages
-  19. https://foursquare.com/mtv
-  20. https://foursquare.com/historychannel
-  21. https://foursquare.com/gossipgirl
-  22. https://foursquare.com/huffingtonpost
+  18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
+  19. https://foursquare.com/pages
+  20. https://foursquare.com/bravotv
+  21. https://foursquare.com/luckymagazine
+  22. https://foursquare.com/nymag
   23. https://foursquare.com/nhl
   24. https://foursquare.com/joinred
+  25. https://foursquare.com/bbcamerica
 
    Hidden links:
-  25. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   26. https://foursquare.com/legal/api/platformpolicy
