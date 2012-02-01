@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [28][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [29][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [30][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [27][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [28][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [29][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [30][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [31][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/vh1
-  28. https://foursquare.com/bonappetitmag
-  29. https://foursquare.com/tlc
-  30. https://foursquare.com/instyle
-  31. https://foursquare.com/racked
-  32. https://foursquare.com/nhl
+  27. https://foursquare.com/askmen
+  28. https://foursquare.com/huffingtonpost
+  29. https://foursquare.com/michelinguides
+  30. https://foursquare.com/walgreens
+  31. https://foursquare.com/mashable
+  32. https://foursquare.com/brisk
 
    Hidden links:
   33. https://foursquare.com/legal/terms

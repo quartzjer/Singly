@@ -259,10 +259,10 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [21][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [22][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [23][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [20][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [21][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [22][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [23][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
      * [24][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
      * [25][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
@@ -288,10 +288,10 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/bravotv
-  21. https://foursquare.com/luckymagazine
-  22. https://foursquare.com/nymag
-  23. https://foursquare.com/nhl
+  20. https://foursquare.com/ifctv
+  21. https://foursquare.com/peoplemag
+  22. https://foursquare.com/michelinguides
+  23. https://foursquare.com/walgreens
   24. https://foursquare.com/joinred
   25. https://foursquare.com/bbcamerica
 
