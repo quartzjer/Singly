@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [28][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [29][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [30][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [31][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [27][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [28][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [30][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [31][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/askmen
-  28. https://foursquare.com/huffingtonpost
-  29. https://foursquare.com/michelinguides
-  30. https://foursquare.com/walgreens
-  31. https://foursquare.com/mashable
-  32. https://foursquare.com/brisk
+  27. https://foursquare.com/vh1
+  28. https://foursquare.com/louisvuitton_hq
+  29. https://foursquare.com/thedewtour
+  30. https://foursquare.com/eater
+  31. https://foursquare.com/michelinguides
+  32. https://foursquare.com/nhl
 
    Hidden links:
   33. https://foursquare.com/legal/terms

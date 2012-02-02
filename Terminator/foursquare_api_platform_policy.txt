@@ -259,10 +259,10 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [21][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [22][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [23][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [20][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [21][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [22][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [23][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
      * [24][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
      * [25][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
@@ -288,10 +288,10 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/ifctv
-  21. https://foursquare.com/peoplemag
-  22. https://foursquare.com/michelinguides
-  23. https://foursquare.com/walgreens
+  20. https://foursquare.com/zagat
+  21. https://foursquare.com/askmen
+  22. https://foursquare.com/racked
+  23. https://foursquare.com/michelinguides
   24. https://foursquare.com/joinred
   25. https://foursquare.com/bbcamerica
 
