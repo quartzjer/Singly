@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [28][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [30][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [31][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [32][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [27][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [28][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [29][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [30][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [31][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/louisvuitton_hq
-  28. https://foursquare.com/thedewtour
-  29. https://foursquare.com/huffingtonpost
-  30. https://foursquare.com/ifctv
-  31. https://foursquare.com/instyle
-  32. https://foursquare.com/mashable
+  27. https://foursquare.com/redskins
+  28. https://foursquare.com/racked
+  29. https://foursquare.com/nhl
+  30. https://foursquare.com/mazdausa
+  31. https://foursquare.com/sportsauthority
+  32. https://foursquare.com/bbcamerica
 
    Hidden links:
   33. https://foursquare.com/legal/terms
