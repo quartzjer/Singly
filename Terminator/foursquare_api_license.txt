@@ -216,11 +216,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [17][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [18][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [19][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [20][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [21][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [22][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [18][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [19][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [20][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [21][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [22][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -242,11 +242,11 @@ References
   15. https://foursquare.com/legal/api/licenseagreement#languagesContainer
   16. https://foursquare.com/pages
   17. https://foursquare.com/zagat
-  18. https://foursquare.com/visitpa
-  19. https://foursquare.com/askmen
-  20. https://foursquare.com/nymag
-  21. https://foursquare.com/redskins
-  22. https://foursquare.com/racked
+  18. https://foursquare.com/askmen
+  19. https://foursquare.com/nymag
+  20. https://foursquare.com/nationalpost
+  21. https://foursquare.com/brisk
+  22. https://foursquare.com/joinred
 
    Hidden links:
   23. https://foursquare.com/legal/api/licenseagreement
