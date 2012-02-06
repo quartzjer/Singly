@@ -260,11 +260,11 @@ VII. Trademarks
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [20][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [21][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [22][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [23][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [24][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [25][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [21][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [22][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [23][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [24][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [25][mashable-d52adc9976ea3d7302da90feab662cde.png]
 
 References
 
@@ -289,11 +289,11 @@ References
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
   20. https://foursquare.com/historychannel
-  21. https://foursquare.com/eater
-  22. https://foursquare.com/michelinguides
-  23. https://foursquare.com/mashable
-  24. https://foursquare.com/brisk
-  25. https://foursquare.com/joinred
+  21. https://foursquare.com/vh1
+  22. https://foursquare.com/peoplemag
+  23. https://foursquare.com/michelinguides
+  24. https://foursquare.com/nhl
+  25. https://foursquare.com/mashable
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy

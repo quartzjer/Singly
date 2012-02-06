@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [28][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [30][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [31][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [32][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [28][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [29][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [30][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [31][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/wsj
-  28. https://foursquare.com/thrillist
-  29. https://foursquare.com/thedewtour
-  30. https://foursquare.com/michelinguides
-  31. https://foursquare.com/mashable
-  32. https://foursquare.com/windowslive
+  27. https://foursquare.com/mtv
+  28. https://foursquare.com/gossipgirl
+  29. https://foursquare.com/visitpa
+  30. https://foursquare.com/huffingtonpost
+  31. https://foursquare.com/nationalpost
+  32. https://foursquare.com/joinred
 
    Hidden links:
   33. https://foursquare.com/legal/terms
