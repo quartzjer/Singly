@@ -215,12 +215,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [17][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [18][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [19][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [20][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [21][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [22][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [17][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [18][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [19][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [20][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [21][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [22][windowslive-38f5072d746b29d168455fd2791516dc.png]
 
 References
 
@@ -241,12 +241,12 @@ References
   14. http://store.foursquare.com/
   15. https://foursquare.com/legal/api/licenseagreement#languagesContainer
   16. https://foursquare.com/pages
-  17. https://foursquare.com/vh1
-  18. https://foursquare.com/bonappetitmag
-  19. https://foursquare.com/gossipgirl
-  20. https://foursquare.com/ifctv
-  21. https://foursquare.com/racked
-  22. https://foursquare.com/nhl
+  17. https://foursquare.com/mtv
+  18. https://foursquare.com/tlc
+  19. https://foursquare.com/thrillist
+  20. https://foursquare.com/thedewtour
+  21. https://foursquare.com/michelinguides
+  22. https://foursquare.com/windowslive
 
    Hidden links:
   23. https://foursquare.com/legal/api/licenseagreement

@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [21][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [22][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [23][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [24][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [25][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [20][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [21][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [22][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [23][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [24][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [25][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/historychannel
-  21. https://foursquare.com/vh1
-  22. https://foursquare.com/peoplemag
-  23. https://foursquare.com/michelinguides
-  24. https://foursquare.com/nhl
-  25. https://foursquare.com/mashable
+  20. https://foursquare.com/gossipgirl
+  21. https://foursquare.com/askmen
+  22. https://foursquare.com/thedewtour
+  23. https://foursquare.com/nymag
+  24. https://foursquare.com/logotv
+  25. https://foursquare.com/joinred
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy
