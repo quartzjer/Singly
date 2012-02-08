@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [21][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [22][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [23][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [24][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [25][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [20][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [21][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [22][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [23][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [24][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [25][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/gossipgirl
-  21. https://foursquare.com/askmen
-  22. https://foursquare.com/thedewtour
-  23. https://foursquare.com/nymag
-  24. https://foursquare.com/logotv
-  25. https://foursquare.com/joinred
+  20. https://foursquare.com/bonappetitmag
+  21. https://foursquare.com/thrillist
+  22. https://foursquare.com/peoplemag
+  23. https://foursquare.com/eater
+  24. https://foursquare.com/mashable
+  25. https://foursquare.com/mazdausa
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy
