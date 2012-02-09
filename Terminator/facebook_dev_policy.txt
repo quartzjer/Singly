@@ -386,7 +386,7 @@ Additional Languages
    [50]Türkçe
 
    [51]Report Documentation Bug
-   Updated about 2 weeks ago
+   Updated 19 hours ago
 
    Facebook © 2012 · [52]English (US)
    [53]About[54]Platform Policies[55]Privacy Policy
@@ -405,32 +405,32 @@ References
    9. http://developers.facebook.com/policy/credits
   10. http://developers.facebook.com/policy/contact
   11. http://developers.facebook.com/policy/#otherlanguages
-  12. http://www.facebook.com/terms.php
+  12. https://www.facebook.com/terms.php
   13. http://developers.facebook.com/policy/#principles
   14. http://developers.facebook.com/policy/#policies
-  15. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  15. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
   16. https://developers.facebook.com/bugs/create
-  17. http://developers.facebook.com/docs/guides/canvas/
-  18. http://developers.facebook.com/docs/mobile/web/build/
-  19. http://developers.facebook.com/docs/guides/canvas/
-  20. http://developers.facebook.com/docs/mobile/web/build/
-  21. http://developers.facebook.com/docs/guides/canvas/
-  22. http://developers.facebook.com/docs/mobile/web/build/
-  23. http://developers.facebook.com/docs/mobile/web/build/
-  24. http://developers.facebook.com/docs/guides/canvas/
+  17. https://developers.facebook.com/docs/guides/canvas/
+  18. https://developers.facebook.com/docs/mobile/web/build/
+  19. https://developers.facebook.com/docs/guides/canvas/
+  20. https://developers.facebook.com/docs/mobile/web/build/
+  21. https://developers.facebook.com/docs/guides/canvas/
+  22. https://developers.facebook.com/docs/mobile/web/build/
+  23. https://developers.facebook.com/docs/mobile/web/build/
+  24. https://developers.facebook.com/docs/guides/canvas/
   25. http://developers.facebook.com/policy/#definitions
   26. https://developers.facebook.com/docs/reference/api/user/
-  27. http://developers.facebook.com/docs/reference/fbml/restricted-to
-  28. http://www.facebook.com/promotions_guidelines.php
+  27. https://developers.facebook.com/docs/reference/api/application/#restrictions
+  28. https://www.facebook.com/promotions_guidelines.php
   29. http://developers.facebook.com/policy/#Facebook_social_channels
-  30. http://developers.facebook.com/adproviders/
-  31. http://developers.facebook.com/docs/guides/canvas/
-  32. http://developers.facebook.com/docs/authentication/permissions/
-  33. http://www.facebook.com/brandpermissions/logos.php
-  34. http://www.facebook.com/ad_guidelines.php
+  30. https://developers.facebook.com/adproviders/
+  31. https://developers.facebook.com/docs/guides/canvas/
+  32. https://developers.facebook.com/docs/authentication/permissions/
+  33. https://www.facebook.com/brandpermissions/logos.php
+  34. https://www.facebook.com/ad_guidelines.php
   35. http://developers.facebook.com/policy/credits
   36. http://developers.facebook.com/policy/credits
-  37. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  37. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
   38. https://developers.facebook.com/policy/Arabic/
   39. https://developers.facebook.com/policy/ChineseHK/
   40. https://developers.facebook.com/policy/ChineseTW/

@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [21][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [22][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [23][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [24][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [25][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [20][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [21][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [22][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [23][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [24][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [25][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/bonappetitmag
-  21. https://foursquare.com/thrillist
-  22. https://foursquare.com/peoplemag
-  23. https://foursquare.com/eater
-  24. https://foursquare.com/mashable
-  25. https://foursquare.com/mazdausa
+  20. https://foursquare.com/bravotv
+  21. https://foursquare.com/thedewtour
+  22. https://foursquare.com/huffingtonpost
+  23. https://foursquare.com/peoplemag
+  24. https://foursquare.com/nhl
+  25. https://foursquare.com/joinred
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy
