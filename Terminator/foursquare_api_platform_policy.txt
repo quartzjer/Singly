@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [21][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [21][wsj-5f803466964a6770b380df19bb99adef.png]
      * [22][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [23][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [24][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [25][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [23][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [24][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [25][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/bravotv
-  21. https://foursquare.com/bonappetitmag
+  20. https://foursquare.com/mtv
+  21. https://foursquare.com/wsj
   22. https://foursquare.com/visitpa
-  23. https://foursquare.com/thedewtour
-  24. https://foursquare.com/racked
-  25. https://foursquare.com/michelinguides
+  23. https://foursquare.com/michelinguides
+  24. https://foursquare.com/mashable
+  25. https://foursquare.com/mazdausa
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy
