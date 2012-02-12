@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [21][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [22][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [23][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [24][mashable-d52adc9976ea3d7302da90feab662cde.png]
-     * [25][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [20][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [21][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [22][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [23][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [24][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [25][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/mtv
-  21. https://foursquare.com/wsj
-  22. https://foursquare.com/visitpa
-  23. https://foursquare.com/michelinguides
-  24. https://foursquare.com/mashable
-  25. https://foursquare.com/mazdausa
+  20. https://foursquare.com/askmen
+  21. https://foursquare.com/peoplemag
+  22. https://foursquare.com/mashable
+  23. https://foursquare.com/windowslive
+  24. https://foursquare.com/brisk
+  25. https://foursquare.com/bbcamerica
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy
