@@ -259,9 +259,9 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [21][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [22][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [20][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [21][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [22][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
      * [23][eater-5a8d27da22828104e13b0a4a50a74db8.png]
      * [24][mashable-d52adc9976ea3d7302da90feab662cde.png]
      * [25][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
@@ -288,9 +288,9 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/mtv
-  21. https://foursquare.com/wsj
-  22. https://foursquare.com/zagat
+  20. https://foursquare.com/huffingtonpost
+  21. https://foursquare.com/nationalpost
+  22. https://foursquare.com/instyle
   23. https://foursquare.com/eater
   24. https://foursquare.com/mashable
   25. https://foursquare.com/joinred
