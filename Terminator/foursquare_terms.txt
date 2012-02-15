@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [28][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [30][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [31][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [32][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [28][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [29][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [30][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [32][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/bonappetitmag
-  28. https://foursquare.com/gossipgirl
-  29. https://foursquare.com/huffingtonpost
-  30. https://foursquare.com/redskins
-  31. https://foursquare.com/eater
-  32. https://foursquare.com/walgreens
+  27. https://foursquare.com/mtv
+  28. https://foursquare.com/historychannel
+  29. https://foursquare.com/luckymagazine
+  30. https://foursquare.com/wsj
+  31. https://foursquare.com/racked
+  32. https://foursquare.com/michelinguides
 
    Hidden links:
   33. https://foursquare.com/legal/terms
