@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [28][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [29][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [30][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [32][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [27][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [30][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [31][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/mtv
-  28. https://foursquare.com/historychannel
-  29. https://foursquare.com/luckymagazine
-  30. https://foursquare.com/wsj
-  31. https://foursquare.com/racked
-  32. https://foursquare.com/michelinguides
+  27. https://foursquare.com/wsj
+  28. https://foursquare.com/askmen
+  29. https://foursquare.com/huffingtonpost
+  30. https://foursquare.com/walgreens
+  31. https://foursquare.com/logotv
+  32. https://foursquare.com/joinred
 
    Hidden links:
   33. https://foursquare.com/legal/terms

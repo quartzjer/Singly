@@ -29,7 +29,7 @@ Get affiliated
 
 API Terms of Service
 
-   These Terms of Service were last updated on March 24, 2011
+   These Terms of Service were last updated on February 10, 2012
 
    The Fitbit API (the “API”) is provided as an asset to community members
    and partners to facilitate innovation in health, wellness and tracking
@@ -45,17 +45,24 @@ API Terms of Service
 
    If there is a use case you would like to see covered that is not
    currently supported by the API or these Terms of Service, please
-   contact us at api@fitbit.com to discuss your needs. Additionally,
+   contact us at [9]api@fitbit.com to discuss your needs. Additionally,
    please participate in the Fitbit API developer group, which can be
-   found [9]here.
+   found [10]here.
 
-Certain Definitions
+1. Certain Definitions
+
+   “Application(s)” means applications developed by you that interact with
+   the Fitbit Platform.
+
+   “Customer Data” means any data collected by users of your Developer
+   Application, including but not limited to the names, addresses, URL's,
+   or e-mail addresses of any Fitbit customer.
 
    “Fitbit Data” means the user data collected from the Fitbit Tracker and
    made available to you through the API.
 
    “Fitbit User Interface” means the Fitbit user interface, currently
-   located at [10]www.fitbit.com.
+   located at [11]www.fitbit.com.
 
    “Fitbit Platform” means the Fitbit API, the Fitbit Data and the Fitbit
    User Interface.
@@ -65,15 +72,14 @@ Certain Definitions
    “User Data” means that subset of the Fitbit Data that is associated
    with a User.
 
-Data Access, Restrictions & Policies
+2. Data Access, Restrictions & Policies
 
-    1. You may use the API to develop web, desktop or mobile applications
-       (each an “Application”) designed to interact with and enhance the
-       Fitbit Platform or for data backup purposes.
+    1. You may use the API to develop Applications designed to interact
+       with and enhance the Fitbit Platform or for data backup purposes.
     2. All access to and use of API, the Fitbit Data and/or the Fitbit
        User Interface, and any documentation or other assets provided to
        you by Fitbit shall be governed by these Terms of Service, in
-       addition to the [11]Fitbit Terms of Use
+       addition to the [12]Fitbit Terms of Use
     3. The API is made available for the purposes of extending and
        improving the Fitbit product experience, and the API should not be
        used to create services that replace the Fitbit Platform.
@@ -106,27 +112,25 @@ Data Access, Restrictions & Policies
             other benchmarking or competitive purposes.
 
    If you are unsure whether your intended use of the API is in compliance
-   with these Terms of Service, please contact us at [12]api@fitbit.com to
+   with these Terms of Service, please contact us at [13]api@fitbit.com to
    discuss, Additionally, please participate in the Fitbit API Developer
-   Group located [13]here.
+   Group located [14]here.
 
-Principles & Best Practices
+3. Principles & Best Practices
 
    When developing with the API, we ask that you honor the following
    Principles and Best Practices:
-
     1. Do not be destructive of User Data
-          + Do your best to be true to user intent when capturing,
-            recording or displaying User Data.
-          + Do not overwrite or delete User Data without explicit User
-            intent and confirmation.
-          + Do not misrepresent data to a User after retrieval from or
-            before submission to the Fitbit system. For example, when
-            displaying User Data to be submitted to the Fitbit system,
-            represent the data as it will be submitted, without
-            potentially confusing summarization, aggregation or exchange
-            of units.
-    2. Respect Users and their Privacy
+    2. Do your best to be true to user intent when capturing, recording or
+       displaying User Data.
+    3. Do not overwrite or delete User Data without explicit User intent
+       and confirmation.
+    4. Do not misrepresent data to a User after retrieval from or before
+       submission to the Fitbit system. For example, when displaying User
+       Data to be submitted to the Fitbit system, represent the data as it
+       will be submitted, without potentially confusing summarization,
+       aggregation or exchange of units.
+    5. Respect Users and their Privacy
           + Be clear to Users about what User Data will be retrieved from
             or submitted to Fitbit when they use your Application.
           + Provide Users with a privacy policy for your Application that
@@ -145,9 +149,9 @@ Principles & Best Practices
             your Application.
           + Ensure that your Application complies with the Fitbit Terms of
             Use.
-          + Ensure that your Application complies with all relevant
-            privacy and security laws, rules and regulations.
-    3. Offer Users a clear path back to their Fitbit Account
+               o Ensure that your Application complies with all relevant
+                 privacy and security laws, rules and regulations.
+    6. Offer Users a clear path back to their Fitbit Account
           + Always provide clear documentation and links for Users to
             navigate to their Fitbit Account from your Application.
           + Paths to Fitbit User accounts should be available wherever
@@ -155,7 +159,7 @@ Principles & Best Practices
           + Paths to User's Fitbit accounts should be available in
             “Settings,” “Account” or a similar location from within your
             Application.
-    4. Be a good partner to Fitbit
+    7. Be a good partner to Fitbit
           + Work to compliment or extend the Fitbit Product and Services
             with your Application, without replacing the use of the Fitbit
             User Interface.
@@ -172,7 +176,7 @@ Principles & Best Practices
           + Ensure that your Application complies with all applicable
             federal, state and local laws, rules and regulations.
 
-Integrating Fitbit Features into your Application
+4. Integrating Fitbit Features into your Application
 
     1. Fitbit Login
           + Users must be presented with either the option to create a
@@ -182,37 +186,174 @@ Integrating Fitbit Features into your Application
           + Honor each User’s Fitbit privacy settings when displaying data
             in your Application.
 
-Display Guidelines & Trademark Usage
+5. Data Display Acknowledgement Guidelines
 
-     * When displaying Fitbit Data in your Application, Fitbit should be
-       noted as the source of that data.
-     * When collecting Fitbit Data in your Application, it must be noted
+    1. When displaying Fitbit Data in your Application, Fitbit should be
+       noted as the source of that data using the text link and/or logo
+       icon made available to you through Fitbit’s Developer Portal.
+    2. When collecting Fitbit Data in your Application, it must be noted
        that the data will be published to Fitbit.
-     * When displaying Fitbit Data in your Application, paths to the
+    3. When displaying Fitbit Data in your Application, paths to the
        User's Fitbit Account should be available along with the data.
-     * When displaying Fitbit Data in your Application, that data should
-       be accompanied by the [14]Fitbit Logo and Logotype.
 
-License; Ownership of Certain Intellectual Property
+6. License; Ownership of Certain Intellectual Property
 
-   Subject at all times to your full compliance with these Terms of
-   Service, Fitbit grants you a nonexclusive, revocable, nonsublicensable,
-   nontransferable license to download and use the API to develop
-   reproduce and distribute Applications that enhance and interact with
-   the Fitbit Platform. Fitbit also grants you a nonexclusive, revocable,
-   nonsublicensable, nontransferable, limited, worldwide and royalty-free
-   license to use, reproduce, display and distribute the Fitbit trademark
-   and logos (the “Fitbit Marks”) solely in connection with your
-   Application, subject to any trademark guidelines that may be provided
-   from time to time by Fitbit.
+    1. Subject at all times to your full compliance with these Terms of
+       Service, Fitbit grants you a nonexclusive, revocable,
+       non-sublicensable, non-transferable royalty free license to use the
+       API solely to develop reproduce and distribute Developer
+       Applications. Fitbit has no obligation to provide any type of
+       support for the Fitbit API or any services or content related
+       thereto.
+    2. You hereby grant to Fitbit a worldwide, non-exclusive, royalty
+       free, license to copy, display, perform, transmit, and use any
+       Developer Applications and related marks and logos that you create
+       using the Fitbit API, for the purposes of promoting Fitbit and
+       marketing and providing those Developer Applications to customers.
+       However, Fitbit has no obligation to use or promote any Developer
+       Application. Further, you acknowledge that Fitbit reserves the
+       right to disable or upgrade the Fitbit API and related services at
+       any time without notice to you and without any form of compensation
+       or consideration to you, regardless of the status of any Developer
+       Applications. Fitbit has no obligation to ensure that an upgrade of
+       the Fitbit API or related services will continue to be compatible
+       with existing Developer Applications.
+    3. You represent and warrant that you have all rights, including all
+       copyright, trademark and other intellectual property rights, in the
+       Developer Applications necessary to offer the Developer
+       Applications to end users and to grant the license to Fitbit in
+       this Agreement.
+    4. You, and not Fitbit, are responsible for providing all customer and
+       technical support and maintenance for your Developer Applications.
+       You agree to use commercially reasonable measures to maintain the
+       security of Customer Data collected in connection with any of your
+       products or services offered. You agree to not market, sell,
+       transfer or disclose any such Customer Data to any third parties,
+       except as expressly permitted by the customer or except as
+       otherwise provided by law. Customers must be permitted to express
+       contact preferences, via notice and opt-out, at the point of
+       collection and in each subsequent marketing piece.
 
-   You expressly acknowledge that Fitbit retains all worldwide rights,
-   title and interest in and to the API, the Fitbit Platform, and the
-   Fitbit Marks, including all intellectual property rights therein, and
-   any derivative works or enhancements thereof. Any rights not expressly
-   granted to you herein are withheld.
+7. Restrictions
 
-Termination
+   You may not:
+     * use the Fitbit API to design or develop anything other than
+       Developer Applications;
+     * modify, create derivative works of, reverse engineer, reverse
+       compile, or disassemble the Fitbit API;
+     * distribute, sell, lease, rent, lend, or sublicense any part of the
+       Fitbit API or related services or content to any third party except
+       as included within and necessary to distribute Developer
+       Applications;
+     * access or attempt to access any Fitbit server, computer system,
+       service or content other than what is expressly authorized by
+       Fitbit. If your Developer Application causes technical stress to
+       the Fitbit platform, Fitbit will disable your access.
+
+8. No Unlawful Activity
+
+   You agree that your Developer Application will not:
+     * upload or otherwise transmit any content that is unlawful,
+       threatening, abusive, harassing, tortuous, defamatory, vulgar,
+       obscene, libelous, invasive of another's privacy, hateful, or
+       racially, ethnically or otherwise objectionable;
+     * harm minors in any way;
+     * impersonate any person or entity, including, but not limited to,
+       any Fitbit representative, or misrepresent your affiliation with
+       any person or entity;
+     * forge headers or otherwise manipulate identifiers in order to
+       disguise the origin of any content transmitted;
+     * upload or otherwise transmit any content that you do not have a
+       right to transmit under any law or under contractual relationships;
+     * upload or otherwise transmit any content that infringes any patent,
+       trademark, trade secret, copyright or other proprietary rights of
+       any person;
+     * upload or otherwise transmit any unsolicited or unauthorized
+       advertising, promotional materials, "junk mail," "spam," "chain
+       letters," or "pyramid schemes,";
+     * upload or otherwise transmit any material that contains software
+       viruses or any other computer code, files or programs designed to
+       interrupt, destroy or limit the functionality of any computer
+       software or hardware or telecommunications equipment;
+     * interfere with or disrupt servers or other computer systems;
+     * violate any applicable law or regulation, including, but not
+       limited to, laws regarding the export of technical data;
+     * incite or provide instructional information about illegal
+       activities; or conduct raffles, contests, lotteries or sweepstakes.
+
+9. Reservation of Rights and Ownership
+
+   The Fitbit API is licensed, not sold, and Fitbit reserves all rights
+   not expressly granted to you in this Agreement. This Agreement in no
+   way conveys any ownership rights to you in any Fitbit platform, Fitbit
+   data or Fitbit content accessed through your Developer Applications.
+
+10. Website Links, Developer Application Naming Restrictions, and Use of
+Fitbit Marks
+
+    1. You may establish a link to the Fitbit website (www.fitbit.com),
+       provided that the link does not state or imply that Fitbit sponsors
+       or endorses any other web site, or presents Fitbit in a false,
+       misleading, defamatory or derogatory manner. This permission to
+       link to the Fitbit website does not permit you to use any Fitbit
+       materials or content, unless separately agreed to in this Agreement
+       or some other agreement with Fitbit.
+    2. You may not use “FITBIT” or any variation thereof in the name of
+       your Developer Applications. You may not use “FITBIT” or any
+       variation thereof in any domain name, email address, keyword or
+       social media user name.
+    3. You may make truthful, factual references to Fitbit in plain-text
+       prose descriptions of your Developer Applications’ features and
+       benefits (including references to a Developer Application’s
+       interoperability with Fitbit). For example, the FITBIT trademark
+       can only be used in the manner shown in one of the referential
+       descriptions below:
+          + “Designed for use with the FITBIT® platform”
+          + “For use with FITBIT® [insert particular feature/product
+            name]”
+          + “Synchs with FITBIT® [insert particular feature/product name]”
+          + “Designed to interact with FITBIT® data”
+       These phrases can appear near, but must be completely separate and
+       apart from the name/logo of the Developer Application. The font
+       size of phrases using the FITBIT mark should not be larger than the
+       surrounding font, and should not appear more prominently than the
+       name/logo of the Developer Application.
+    4. In all materials that contain an approved phrase as set out above,
+       including product packaging, the following legend must also be
+       placed in the "fine print" of such materials. The legend may be in
+       a small type size, but must still be legible: "Fitbit is a
+       registered trademark and service mark of Fitbit, Inc. [Insert name
+       of the Developer Application] is designed for use with the Fitbit
+       platform. This product is not put out by Fitbit, and Fitbit does
+       not service or warrant the functionality of this product."
+    5. You acknowledge and agree that this Agreement does not include the
+       right to use any Fitbit logo (each a “Fitbit Logo” and together the
+       “Fitbit Logos”) as part of any brand for the Developer Applications
+       themselves, or as part of any brand(s) or trade name(s) or other
+       designators for your business or non-tested products. The Fitbit
+       Logo may be used only in the size and format made available to you
+       through Fitbit’s Developer Portal to label or designate data
+       records fetched from the Fitbit Platform. You may not be use the
+       Fitbit Logos in any other manner, including but not limited to use
+       on promotional materials, standalone technical support or
+       consulting services, or other goods or services without Fitbit’s
+       explicit written permission.
+
+11. Your Feedback
+
+   Any feedback, suggestions and ideas (“Feedback”) that you provide to
+   Fitbit regarding the Fitbit API, the Fitbit website, Fitbit products,
+   or content or services related thereto will be treated by Fitbit as
+   non-confidential, and Fitbit may, in its sole discretion, use the
+   Feedback you provide to Fitbit in any way, including in future
+   modifications of the Fitbit API, services, products, multimedia works
+   and/or advertising and promotional materials relating thereto. You
+   hereby grant Fitbit a perpetual, worldwide, fully transferable,
+   irrevocable, royalty free license to use, reproduce, modify, create
+   derivative works from, distribute and display the Feedback in any
+   manner and for any purpose.
+
+12. Termination
 
    You may terminate any license granted to you hereunder at any time by
    ceasing your access to and use of the API and any use of the Fitbit
@@ -224,12 +365,13 @@ Termination
    may also terminate any license provided to you hereunder for any reason
    with at least thirty (30) days notice to you. Fitbit will not be liable
    for any costs, expenses, or damages that may result from termination of
-   this agreement.
+   this agreement. The following Sections of this Agreement shall survive
+   any termination or expiration:
 
    Upon any termination of this agreement, you will promptly cease using
    the API and the Fitbit Data.
 
-Confidentiality
+13. Confidentiality
 
    You may be given access to certain non-public proprietary information,
    software and specifications related to the API and the Fitbit Product
@@ -244,7 +386,7 @@ Confidentiality
    less than a reasonable degree of care. This section shall survive
    termination of these Terms of Service.
 
-Disclaimers
+14. Disclaimers
 
    THE FITBIT DATA, THE API, AND THE FITBIT PLATFORM, ALONG WITH ANY OTHER
    MATERIALS PROVIDED BY FITBIT IN CONNECTION WITH YOUR USE OF THE FITBIT
@@ -257,12 +399,12 @@ Disclaimers
    PROVIDED HEREUNDER WILL MEET YOUR REQUIREMENTS, BE ERROR FREE,
    UNINTERRUPTED, VIRUS FREE OR SECURE.
 
-Limitation of Liability
+15. Limitation of Liability
 
    IN NO EVENT WILL FITBIT BE LIABLE TO YOU FOR ANY SPECIAL, INCIDENTAL,
    EXEMPLARY, PUMITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF USE,
    DATA, BUSINESS OR PROFITS) ARISING OUT OF OR IN CONNECTION WITH THIS
-   AGREEMENT OR YOUR USE OF THE APIOR FITBIT PLATFORM, WHETHER ARISING
+   AGREEMENT OR YOUR USE OF THE API OR FITBIT PLATFORM, WHETHER ARISING
    FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING
    NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND REGARDLESS OF WHETHER
    YOU HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. THE
@@ -272,7 +414,7 @@ Limitation of Liability
    WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE
    AGGREGATE FEES YOU PAID FOR ACCESS TO THE API DURING THE LAST YEAR.
 
-Indemnification
+16. Indemnification
 
    You will indemnify, defend and hold Fitbit, its subsidiaries,
    affiliates, officers and employees harmless from and against any and
@@ -292,7 +434,7 @@ Indemnification
    the Limitation of Liability section above, shall survive termination of
    these Terms of Service.
 
-Government Use
+17. Government Use
 
    If you are part of an agency, department or other entity of the U.S.
    Government, the use, duplication, reproduction, release, modification,
@@ -305,29 +447,45 @@ Government Use
    by the U.S. Government shall be governed solely by these Terms of
    Service.
 
-Miscellaneous
+18. Miscellaneous
 
-   These Terms of Service constitute the entire agreement among the
-   parties with respect to the subject matter hereof and supersedes all
-   prior proposals, understandings and communications between the parties
-   with respect to that subject matter. These Terms of Service do not
-   create or imply any partnership, agency or joint venture between the
-   parties hereto. These Terms of Service will be governed by the laws of
-   the State of California, without regard to or application of conflicts
-   of law rules or principles. All claims arising out of or relating to
-   these Terms of Service will be brought exclusively in the federal or
-   state courts of San Francisco County, California, USA and you consent
-   to personal jurisdiction in those courts. No waiver by Fitbit of any
-   covenant or right under these Terms of Service will be effective in
-   writing duly authorized by Fitbit. If any part of these Terms of
-   Service is determined to be invalid or unenforceable by a court of
-   competent jurisdiction, that provision will be enforced to the maximum
-   extent permissible and the remaining provisions of these Terms of
-   Service will remain in full force and effect. All notices to you in
-   connection with these Terms of Service may be delivered via email at
-   the email address provided to Fitbit by you. Fitbit expressly reserves
-   the right to assign these Terms of Service and/or to delegate any of
-   its obligations hereunder.
+    1. These Terms of Service constitute the entire agreement among the
+       parties with respect to the subject matter hereof and supersedes
+       all prior proposals, understandings and communications between the
+       parties with respect to that subject matter.
+    2. You may not assign this Agreement or any rights or obligations
+       hereunder, without prior written consent of Fitbit. Any attempted
+       assignment without such prior written consent shall be void. Fitbit
+       may assign this Agreement upon prior written notice to you.
+    3. These Terms of Service do not create or imply any partnership,
+       agency or joint venture between the parties hereto.
+    4. These Terms of Service will be governed by the laws of the State of
+       California, without regard to or application of conflicts of law
+       rules or principles.
+    5. All claims arising out of or relating to these Terms of Service
+       will be brought exclusively in the federal or state courts of San
+       Francisco County, California, USA and you consent to personal
+       jurisdiction in those courts.
+    6. No waiver by Fitbit of any covenant or right under these Terms of
+       Service will be effective in writing duly authorized by Fitbit.
+    7. If any part of these Terms of Service is determined to be invalid
+       or unenforceable by a court of competent jurisdiction, that
+       provision will be enforced to the maximum extent permissible and
+       the remaining provisions of these Terms of Service will remain in
+       full force and effect.
+    8. All notices to you in connection with these Terms of Service may be
+       delivered via email at the email address provided to Fitbit by you.
+
+19. Export Restrictions.
+
+   You acknowledge that you will comply with U.S. Export Administration
+   Regulations. You will not export or re-export this product, directly or
+   indirectly, to: (1) any countries that are subject to U.S. export
+   restrictions; (2) any end user who has been prohibited from
+   participating in U.S. export transactions by any federal agency of the
+   U.S. government; or (3) any end user who you know or have reason to
+   know will utilize them in the design, development or production of
+   nuclear, chemical or biological weapons.
 
      * [15]Products
           + [16]Ultra Wireless Tracker
@@ -372,12 +530,12 @@ References
    6. https://dev.fitbit.com/apps
    7. http://dev.fitbit.com/static/FitbitLogosAndGuidelines.zip
    8. http://www.fitbit.com/affiliate
-   9. https://groups.google.com/forum/#!forum/fitbit-api
-  10. http://www.fitbit.com/
-  11. http://www.fitbit.com/terms
-  12. mailto:api@fitbit.com
-  13. https://groups.google.com/forum/?pli=1#!forum/fitbit-api
-  14. http://dev.fitbit.com/static/FitbitLogosAndGuidelines.zip
+   9. mailto:api@fitbit.com
+  10. https://groups.google.com/forum/#%21forum/fitbit-api
+  11. http://www.fitbit.com/
+  12. http://dev.fitbit.com/terms
+  13. mailto:api@fitbit.com
+  14. https://groups.google.com/forum/?pli=1#%21forum/fitbit-api
   15. http://www.fitbit.com/product
   16. http://www.fitbit.com/product
   17. http://www.fitbit.com/premium/about
