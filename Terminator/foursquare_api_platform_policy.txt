@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [21][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [22][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [23][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [24][windowslive-38f5072d746b29d168455fd2791516dc.png]
-     * [25][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [21][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [22][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [23][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [24][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [25][windowslive-38f5072d746b29d168455fd2791516dc.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/vh1
-  21. https://foursquare.com/luckymagazine
-  22. https://foursquare.com/louisvuitton_hq
-  23. https://foursquare.com/eater
-  24. https://foursquare.com/windowslive
-  25. https://foursquare.com/bbcamerica
+  20. https://foursquare.com/mtv
+  21. https://foursquare.com/zagat
+  22. https://foursquare.com/visitpa
+  23. https://foursquare.com/ifctv
+  24. https://foursquare.com/nhl
+  25. https://foursquare.com/windowslive
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy

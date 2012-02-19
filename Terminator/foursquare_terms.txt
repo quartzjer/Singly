@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [28][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [29][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
-     * [30][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [31][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [27][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [28][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [29][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [30][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [31][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [32][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/bonappetitmag
-  28. https://foursquare.com/tlc
-  29. https://foursquare.com/thrillist
-  30. https://foursquare.com/gossipgirl
-  31. https://foursquare.com/peoplemag
-  32. https://foursquare.com/bbcamerica
+  27. https://foursquare.com/gossipgirl
+  28. https://foursquare.com/ifctv
+  29. https://foursquare.com/eater
+  30. https://foursquare.com/nhl
+  31. https://foursquare.com/windowslive
+  32. https://foursquare.com/joinred
 
    Hidden links:
   33. https://foursquare.com/legal/terms

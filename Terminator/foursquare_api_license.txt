@@ -216,11 +216,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [17][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [18][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [19][wsj-5f803466964a6770b380df19bb99adef.png]
-     * [20][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [21][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [22][eater-5a8d27da22828104e13b0a4a50a74db8.png]
+     * [18][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [19][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [20][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [21][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [22][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -242,11 +242,11 @@ References
   15. https://foursquare.com/legal/api/licenseagreement#languagesContainer
   16. https://foursquare.com/pages
   17. https://foursquare.com/mtv
-  18. https://foursquare.com/bravotv
-  19. https://foursquare.com/wsj
-  20. https://foursquare.com/redskins
-  21. https://foursquare.com/racked
-  22. https://foursquare.com/eater
+  18. https://foursquare.com/bonappetitmag
+  19. https://foursquare.com/thedewtour
+  20. https://foursquare.com/nationalpost
+  21. https://foursquare.com/redskins
+  22. https://foursquare.com/brisk
 
    Hidden links:
   23. https://foursquare.com/legal/api/licenseagreement
