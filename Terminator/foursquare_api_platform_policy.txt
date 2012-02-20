@@ -259,11 +259,11 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [21][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [22][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [23][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [24][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [20][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [21][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [22][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [23][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [24][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
      * [25][windowslive-38f5072d746b29d168455fd2791516dc.png]
 
 References
@@ -288,11 +288,11 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/mtv
-  21. https://foursquare.com/zagat
-  22. https://foursquare.com/visitpa
-  23. https://foursquare.com/ifctv
-  24. https://foursquare.com/nhl
+  20. https://foursquare.com/luckymagazine
+  21. https://foursquare.com/gossipgirl
+  22. https://foursquare.com/askmen
+  23. https://foursquare.com/redskins
+  24. https://foursquare.com/racked
   25. https://foursquare.com/windowslive
 
    Hidden links:
