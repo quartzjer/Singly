@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [21][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [22][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [23][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [24][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [25][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [20][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [21][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [22][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
+     * [23][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [24][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [25][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/luckymagazine
-  21. https://foursquare.com/gossipgirl
-  22. https://foursquare.com/askmen
-  23. https://foursquare.com/redskins
-  24. https://foursquare.com/racked
-  25. https://foursquare.com/windowslive
+  20. https://foursquare.com/vh1
+  21. https://foursquare.com/thrillist
+  22. https://foursquare.com/visitpa
+  23. https://foursquare.com/ifctv
+  24. https://foursquare.com/windowslive
+  25. https://foursquare.com/joinred
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy
