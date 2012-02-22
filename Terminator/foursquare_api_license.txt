@@ -216,11 +216,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    Follow these brands to unlock badges and find interesting tips around
    your city!
      * [17][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [18][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [19][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
-     * [20][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [21][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
-     * [22][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [18][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [19][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [20][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [21][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [22][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -242,11 +242,11 @@ References
   15. https://foursquare.com/legal/api/licenseagreement#languagesContainer
   16. https://foursquare.com/pages
   17. https://foursquare.com/bravotv
-  18. https://foursquare.com/luckymagazine
-  19. https://foursquare.com/instyle
-  20. https://foursquare.com/brisk
-  21. https://foursquare.com/joinred
-  22. https://foursquare.com/bbcamerica
+  18. https://foursquare.com/vh1
+  19. https://foursquare.com/thrillist
+  20. https://foursquare.com/gossipgirl
+  21. https://foursquare.com/nhl
+  22. https://foursquare.com/brisk
 
    Hidden links:
   23. https://foursquare.com/legal/api/licenseagreement
