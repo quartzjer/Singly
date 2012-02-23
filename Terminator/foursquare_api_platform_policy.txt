@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [21][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [22][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [23][tlc-452c53346d8cd7f2379560259e726208.png]
-     * [24][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [25][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [20][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [21][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [22][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [23][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [24][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [25][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/mtv
-  21. https://foursquare.com/historychannel
-  22. https://foursquare.com/bonappetitmag
-  23. https://foursquare.com/tlc
-  24. https://foursquare.com/peoplemag
-  25. https://foursquare.com/joinred
+  20. https://foursquare.com/luckymagazine
+  21. https://foursquare.com/nationalpost
+  22. https://foursquare.com/instyle
+  23. https://foursquare.com/logotv
+  24. https://foursquare.com/windowslive
+  25. https://foursquare.com/sportsauthority
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy
