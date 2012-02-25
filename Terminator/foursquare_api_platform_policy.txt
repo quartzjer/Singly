@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [21][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [22][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [23][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [24][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [25][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [21][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [22][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [23][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [24][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [25][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/zagat
-  21. https://foursquare.com/gossipgirl
-  22. https://foursquare.com/visitpa
-  23. https://foursquare.com/nationalpost
-  24. https://foursquare.com/racked
-  25. https://foursquare.com/mashable
+  20. https://foursquare.com/mtv
+  21. https://foursquare.com/historychannel
+  22. https://foursquare.com/wsj
+  23. https://foursquare.com/zagat
+  24. https://foursquare.com/michelinguides
+  25. https://foursquare.com/bbcamerica
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy

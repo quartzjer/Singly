@@ -693,10 +693,10 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [28][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [29][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [30][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [27][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [30][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
      * [31][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
      * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
@@ -729,10 +729,10 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/mtv
-  28. https://foursquare.com/racked
-  29. https://foursquare.com/walgreens
-  30. https://foursquare.com/logotv
+  27. https://foursquare.com/zagat
+  28. https://foursquare.com/askmen
+  29. https://foursquare.com/thedewtour
+  30. https://foursquare.com/nymag
   31. https://foursquare.com/brisk
   32. https://foursquare.com/bbcamerica
 
