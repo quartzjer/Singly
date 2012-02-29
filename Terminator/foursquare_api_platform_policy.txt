@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [21][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [22][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [23][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
-     * [24][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
-     * [25][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [20][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [21][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [22][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [23][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [24][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [25][windowslive-38f5072d746b29d168455fd2791516dc.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/bravotv
-  21. https://foursquare.com/thedewtour
-  22. https://foursquare.com/racked
-  23. https://foursquare.com/nhl
-  24. https://foursquare.com/sportsauthority
-  25. https://foursquare.com/bbcamerica
+  20. https://foursquare.com/vh1
+  21. https://foursquare.com/luckymagazine
+  22. https://foursquare.com/wsj
+  23. https://foursquare.com/askmen
+  24. https://foursquare.com/redskins
+  25. https://foursquare.com/windowslive
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy

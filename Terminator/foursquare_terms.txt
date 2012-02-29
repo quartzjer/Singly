@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [28][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [29][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [30][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [31][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
-     * [32][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [27][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [28][wsj-5f803466964a6770b380df19bb99adef.png]
+     * [29][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [30][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [31][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/nymag
-  28. https://foursquare.com/huffingtonpost
-  29. https://foursquare.com/eater
-  30. https://foursquare.com/logotv
-  31. https://foursquare.com/mazdausa
-  32. https://foursquare.com/sportsauthority
+  27. https://foursquare.com/vh1
+  28. https://foursquare.com/wsj
+  29. https://foursquare.com/bonappetitmag
+  30. https://foursquare.com/askmen
+  31. https://foursquare.com/ifctv
+  32. https://foursquare.com/brisk
 
    Hidden links:
   33. https://foursquare.com/legal/terms
