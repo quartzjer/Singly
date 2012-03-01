@@ -215,12 +215,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [17][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [18][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [19][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
-     * [20][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [21][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [22][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [17][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [18][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [19][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [20][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [21][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [22][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -241,12 +241,12 @@ References
   14. http://store.foursquare.com/
   15. https://foursquare.com/legal/api/licenseagreement#languagesContainer
   16. https://foursquare.com/pages
-  17. https://foursquare.com/mtv
-  18. https://foursquare.com/luckymagazine
-  19. https://foursquare.com/bonappetitmag
-  20. https://foursquare.com/redskins
-  21. https://foursquare.com/michelinguides
-  22. https://foursquare.com/bbcamerica
+  17. https://foursquare.com/tlc
+  18. https://foursquare.com/gossipgirl
+  19. https://foursquare.com/logotv
+  20. https://foursquare.com/mashable
+  21. https://foursquare.com/brisk
+  22. https://foursquare.com/joinred
 
    Hidden links:
   23. https://foursquare.com/legal/api/licenseagreement

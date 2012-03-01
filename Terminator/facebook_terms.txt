@@ -536,7 +536,7 @@ References
   11. http://www.facebook.com/editapps.php
   12. http://www.facebook.com/policy.php
   13. http://developers.facebook.com/docs/
-  14. http://www.facebook.com/promotions_guidelines.php
+  14. https://www.facebook.com/page_guidelines.php#promotionsguidelines
   15. http://www.facebook.com/legal/copyright.php?howto_report
   16. http://www.facebook.com/termsofsale.php
   17. http://www.facebook.com/user_deals_terms.php
@@ -561,7 +561,7 @@ References
   36. http://www.facebook.com/platform
   37. http://developers.facebook.com/policy/
   38. http://www.facebook.com/ad_guidelines.php
-  39. http://www.facebook.com/promotions_guidelines.php
+  39. https://www.facebook.com/page_guidelines.php#promotionsguidelines
   40. http://www.facebook.com/legal/copyright.php?howto_report
   41. http://www.facebook.com/legal/copyright.php?howto_appeal=1
   42. http://www.facebook.com/terms_pages.php
