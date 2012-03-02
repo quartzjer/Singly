@@ -693,11 +693,11 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [28][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [29][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [30][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [31][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [27][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [28][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [29][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [30][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [31][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
      * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
@@ -729,11 +729,11 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/askmen
-  28. https://foursquare.com/louisvuitton_hq
-  29. https://foursquare.com/thedewtour
-  30. https://foursquare.com/nationalpost
-  31. https://foursquare.com/walgreens
+  27. https://foursquare.com/bravotv
+  28. https://foursquare.com/gossipgirl
+  29. https://foursquare.com/nymag
+  30. https://foursquare.com/ifctv
+  31. https://foursquare.com/peoplemag
   32. https://foursquare.com/brisk
 
    Hidden links:

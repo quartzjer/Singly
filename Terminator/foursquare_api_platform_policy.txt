@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [21][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [22][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [23][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [24][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
-     * [25][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [20][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [21][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [22][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [23][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [24][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [25][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/gossipgirl
-  21. https://foursquare.com/askmen
-  22. https://foursquare.com/huffingtonpost
-  23. https://foursquare.com/ifctv
-  24. https://foursquare.com/sportsauthority
-  25. https://foursquare.com/bbcamerica
+  20. https://foursquare.com/louisvuitton_hq
+  21. https://foursquare.com/redskins
+  22. https://foursquare.com/racked
+  23. https://foursquare.com/michelinguides
+  24. https://foursquare.com/logotv
+  25. https://foursquare.com/brisk
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy
