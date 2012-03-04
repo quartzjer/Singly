@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [28][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [29][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [30][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [31][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [32][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [27][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [28][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
+     * [30][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [32][windowslive-38f5072d746b29d168455fd2791516dc.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/historychannel
-  28. https://foursquare.com/zagat
-  29. https://foursquare.com/louisvuitton_hq
-  30. https://foursquare.com/nymag
-  31. https://foursquare.com/ifctv
-  32. https://foursquare.com/michelinguides
+  27. https://foursquare.com/luckymagazine
+  28. https://foursquare.com/nymag
+  29. https://foursquare.com/huffingtonpost
+  30. https://foursquare.com/peoplemag
+  31. https://foursquare.com/racked
+  32. https://foursquare.com/windowslive
 
    Hidden links:
   33. https://foursquare.com/legal/terms
