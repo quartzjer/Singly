@@ -215,12 +215,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [17][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [18][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [19][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [20][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
-     * [21][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
-     * [22][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
+     * [17][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [18][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [19][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [20][ifctv-2373ec68733cd242bd259caa4e545302.png]
+     * [21][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [22][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
 
 References
 
@@ -241,12 +241,12 @@ References
   14. http://store.foursquare.com/
   15. https://foursquare.com/legal/api/licenseagreement#languagesContainer
   16. https://foursquare.com/pages
-  17. https://foursquare.com/mtv
-  18. https://foursquare.com/zagat
-  19. https://foursquare.com/ifctv
-  20. https://foursquare.com/mazdausa
-  21. https://foursquare.com/sportsauthority
-  22. https://foursquare.com/joinred
+  17. https://foursquare.com/bravotv
+  18. https://foursquare.com/gossipgirl
+  19. https://foursquare.com/thedewtour
+  20. https://foursquare.com/ifctv
+  21. https://foursquare.com/redskins
+  22. https://foursquare.com/racked
 
    Hidden links:
   23. https://foursquare.com/legal/api/licenseagreement
