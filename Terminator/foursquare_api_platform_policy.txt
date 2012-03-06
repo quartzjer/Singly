@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][historychannel-95584722ba53e415ac18df83889193d8.png]
-     * [21][bravotv-0941a1c1254881ab873b66987f08f740.png]
+     * [20][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [21][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
      * [22][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [23][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [24][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
-     * [25][sportsauthority-93924724c9d33050d8a4f963a79b3c84.png]
+     * [23][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [24][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [25][mashable-d52adc9976ea3d7302da90feab662cde.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/historychannel
-  21. https://foursquare.com/bravotv
+  20. https://foursquare.com/gossipgirl
+  21. https://foursquare.com/huffingtonpost
   22. https://foursquare.com/ifctv
-  23. https://foursquare.com/peoplemag
-  24. https://foursquare.com/brisk
-  25. https://foursquare.com/sportsauthority
+  23. https://foursquare.com/walgreens
+  24. https://foursquare.com/logotv
+  25. https://foursquare.com/mashable
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy

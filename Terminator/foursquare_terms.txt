@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [28][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
-     * [29][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [30][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [31][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [27][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [29][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [30][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [31][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
+     * [32][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/mtv
-  28. https://foursquare.com/vh1
-  29. https://foursquare.com/huffingtonpost
-  30. https://foursquare.com/ifctv
-  31. https://foursquare.com/racked
-  32. https://foursquare.com/brisk
+  27. https://foursquare.com/bonappetitmag
+  28. https://foursquare.com/askmen
+  29. https://foursquare.com/louisvuitton_hq
+  30. https://foursquare.com/thedewtour
+  31. https://foursquare.com/nationalpost
+  32. https://foursquare.com/michelinguides
 
    Hidden links:
   33. https://foursquare.com/legal/terms
