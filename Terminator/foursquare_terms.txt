@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][bonappetitmag-5e889691be117df941a773a6e332ca31.png]
+     * [27][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
      * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [29][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [30][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
-     * [31][nationalpost-4783056a7b2fdafaaa1554dd1e9ca556.png]
-     * [32][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [29][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
+     * [30][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [31][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
+     * [32][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/bonappetitmag
+  27. https://foursquare.com/gossipgirl
   28. https://foursquare.com/askmen
-  29. https://foursquare.com/louisvuitton_hq
-  30. https://foursquare.com/thedewtour
-  31. https://foursquare.com/nationalpost
-  32. https://foursquare.com/michelinguides
+  29. https://foursquare.com/nymag
+  30. https://foursquare.com/redskins
+  31. https://foursquare.com/walgreens
+  32. https://foursquare.com/mazdausa
 
    Hidden links:
   33. https://foursquare.com/legal/terms

@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [21][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [22][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [23][walgreens-2ccfa8c83d8a8b9b63e5507401d6e2bb.png]
-     * [24][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
-     * [25][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
+     * [21][thrillist-21a194378fc1a08b3329d17f5f5a8c19.png]
+     * [22][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [23][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
+     * [24][windowslive-38f5072d746b29d168455fd2791516dc.png]
+     * [25][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/gossipgirl
-  21. https://foursquare.com/huffingtonpost
-  22. https://foursquare.com/ifctv
-  23. https://foursquare.com/walgreens
-  24. https://foursquare.com/logotv
-  25. https://foursquare.com/mashable
+  20. https://foursquare.com/mtv
+  21. https://foursquare.com/thrillist
+  22. https://foursquare.com/thedewtour
+  23. https://foursquare.com/michelinguides
+  24. https://foursquare.com/windowslive
+  25. https://foursquare.com/mazdausa
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy

@@ -25,7 +25,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: December 15, 2011
+   Date of Last Revision: March 6, 2012
 
    Facebook Platform is an extension of Facebook, whose mission is to give
    people the power to share and make the world more open and connected.
@@ -59,7 +59,12 @@ I. Features and Functionality
 
     1. You must not violate any law or the rights of any individual or
        entity, and must not expose Facebook or Facebook users to harm or
-       legal liability as determined by us in our sole discretion.
+       legal liability as determined by us in our sole discretion. In
+       particular you will (if applicable): comply with the Video Privacy
+       Protection Act (VPPA), and obtain any opt-in consent necessary from
+       users so that user data subject to the VPPA may be shared on
+       Facebook. You represent that any disclosure to us will not be
+       incidental to the ordinary course of your business.
     2. You must not include functionality that proxies, requests or
        collects Facebook usernames or passwords.
     3. You must not circumvent (or claim to circumvent) our intended
@@ -75,10 +80,8 @@ I. Features and Functionality
        per day).
     6. Your website must offer an explicit "Log Out" option that also logs
        the user out of Facebook.
-    7. Special provisions for apps on Pages:
-       a. Apps on Pages must not host media that plays automatically
-       without a user's interaction.
-       b. When a user visits your Page, if they have not given explicit
+    7. Special provision for apps on Pages:
+       a. When a user visits your Page, if they have not given explicit
        permission by authorizing your Facebook app or directly providing
        information to your Page, you may only use information obtained
        from us and the user's interaction with your Page in connection
@@ -107,10 +110,12 @@ I. Features and Functionality
        or via any previous transaction such as the user's earlier purchase
        of a prepaid gift card or electronic code. In-game rewards of
        virtual currency or virtual goods earned by users through game-play
-       activity alone are exempt from this definition. [23]Mobile Web Apps
-       that are running within a Facebook iOS app may not use Facebook
-       Credits.
-   10. Applications may reward users with virtual currency or virtual
+       activity alone are exempt from this definition.
+   10. [23]Mobile Web Apps that are running within a Facebook iOS app may
+       only use iOS approved payment methods. These apps must not
+       reference, use, or otherwise encourage use of Facebook Credits and
+       other non-iOS approved payment methods.
+   11. Applications may reward users with virtual currency or virtual
        goods in exchange for user actions that do not involve third
        parties, but rewards for user actions that involve third parties
        must be powered by Facebook Credits by integrating Facebook Credits
@@ -122,10 +127,10 @@ I. Features and Functionality
        not reward users with virtual currency for engaging in passive
        actions offered by third parties, such as watching a video, playing
        a mini-game, or taking an anonymous poll.
-   11. [24]Apps on Facebook may not integrate, link to, promote,
+   12. [24]Apps on Facebook may not integrate, link to, promote,
        distribute, or redirect to any app on any other competing social
        platform.
-   12. The primary purpose of your Canvas or Page Tab app on Facebook must
+   13. The primary purpose of your Canvas or Page Tab app on Facebook must
        not be to simply redirect users out of the Facebook experience and
        onto an external site.
 
@@ -391,11 +396,10 @@ Additional Languages
    [49]Polski
    [50]Português (Brasil)
    [51]Türkçe
-   [52]Report Documentation Bug
-   Updated last Wednesday
+   Updated 6 hours ago
 
-   Facebook © 2012 · [53]English (US)
-   [54]About[55]Platform Policies[56]Privacy Policy
+   Facebook © 2012 · [52]English (US)
+   [53]About[54]Platform Policies[55]Privacy Policy
 
 References
 
@@ -451,13 +455,12 @@ References
   49. https://developers.facebook.com/policy/Polski/
   50. https://developers.facebook.com/policy/Portugues/
   51. https://developers.facebook.com/policy/Turkce/
-  52. http://developers.facebook.com/bugs?search_view=search&search_ids%5B0%5D=208685622513742
-  53. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  54. http://www.facebook.com/platform
-  55. http://developers.facebook.com/policy
-  56. http://www.facebook.com/policy.php
+  52. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  53. http://www.facebook.com/platform
+  54. http://developers.facebook.com/policy
+  55. http://www.facebook.com/policy.php
 
    Hidden links:
-  57. http://developers.facebook.com/policy/
-  58. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  59. http://developers.facebook.com/opensource/
+  56. http://developers.facebook.com/policy/
+  57. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  58. http://developers.facebook.com/opensource/
