@@ -215,9 +215,13 @@
    expiration or termination of this API Agreement for any reason.
      * [7]About
      * [8]Documentation
-     * [9]Forums
+     * [9]Gallery
+     * [10]Forums
 
    © 2012 BodyMedia, Inc.
+
+   Follow us:
+   [11]Twitter [12]Facebook
 
    Quantcast
 
@@ -231,4 +235,7 @@ References
    6. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
    7. https://developer.bodymedia.com/page
    8. https://developer.bodymedia.com/docs
-   9. https://developer.bodymedia.com/forum
+   9. https://developer.bodymedia.com/DataAPIGallery
+  10. https://developer.bodymedia.com/forum
+  11. http://twitter.com/#!/bodymediaAPI
+  12. http://www.facebook.com/BodyMediaFIT

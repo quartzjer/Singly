@@ -215,12 +215,12 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [17][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [18][nymag-12462dbb98fbc540f46b191ed6e40b01.png]
-     * [19][ifctv-2373ec68733cd242bd259caa4e545302.png]
-     * [20][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [21][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [22][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [17][vh1-bb870b187d4e4378457e4a8e7df33e28.png]
+     * [18][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
+     * [19][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [20][thedewtour-2b74233d9a5c3c288a51d0551d5d5380.png]
+     * [21][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
+     * [22][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -241,12 +241,12 @@ References
   14. http://store.foursquare.com/
   15. https://foursquare.com/legal/api/licenseagreement#languagesContainer
   16. https://foursquare.com/pages
-  17. https://foursquare.com/bravotv
-  18. https://foursquare.com/nymag
-  19. https://foursquare.com/ifctv
-  20. https://foursquare.com/redskins
-  21. https://foursquare.com/eater
-  22. https://foursquare.com/logotv
+  17. https://foursquare.com/vh1
+  18. https://foursquare.com/luckymagazine
+  19. https://foursquare.com/gossipgirl
+  20. https://foursquare.com/thedewtour
+  21. https://foursquare.com/nhl
+  22. https://foursquare.com/joinred
 
    Hidden links:
   23. https://foursquare.com/legal/api/licenseagreement

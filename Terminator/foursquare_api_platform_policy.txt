@@ -259,12 +259,12 @@ VII. Trademarks
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [20][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [21][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [22][visitpa-d674def529b46e1bbb4dbe4f9c7d073c.png]
-     * [23][huffingtonpost-262ab305b811279f8a04ea072b4f6ec9.png]
-     * [24][eater-5a8d27da22828104e13b0a4a50a74db8.png]
-     * [25][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [20][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [21][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [22][instyle-6cd564fb136003e9ebe14581b38f09b3.png]
+     * [23][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [24][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [25][joinred-6b8edbfec8aeb5e256f7824ca757cb81.png]
 
 References
 
@@ -288,12 +288,12 @@ References
   17. http://store.foursquare.com/
   18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
   19. https://foursquare.com/pages
-  20. https://foursquare.com/mtv
-  21. https://foursquare.com/luckymagazine
-  22. https://foursquare.com/visitpa
-  23. https://foursquare.com/huffingtonpost
-  24. https://foursquare.com/eater
-  25. https://foursquare.com/brisk
+  20. https://foursquare.com/tlc
+  21. https://foursquare.com/gossipgirl
+  22. https://foursquare.com/instyle
+  23. https://foursquare.com/racked
+  24. https://foursquare.com/mashable
+  25. https://foursquare.com/joinred
 
    Hidden links:
   26. https://foursquare.com/legal/api/platformpolicy

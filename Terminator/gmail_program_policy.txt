@@ -1,12 +1,13 @@
-                                    [1]Gmail
+[1]Google About Gmail
 
-     * [2]About
-     * [3]What's New
-     * [4]Blog
-     * [5]Tips
-     * [6]For work
-     * [7]Help Center
-     * [8]Create an account
+   [2]Create an account
+     * [3]About
+     * [4]Switch to Gmail
+     * [5]What's New
+     * [6]Tips
+     * [7]Blog
+     * [8]For Business
+     * [9]Help
 
 Gmail Program Policies
 
@@ -83,16 +84,22 @@ Account Inactivity
    Google may terminate your account in accordance with the terms of
    service if you fail to login to your account for a period of nine
    months.
-   Â© Google Â· [9]Terms & Privacy
+
+   [10]Gmail Program Policies
+     * [11]Google
+     * [12]Privacy & Terms
 
 References
 
    1. http://mail.google.com/
-   2. http://mail.google.com/mail/help/about.html
-   3. http://mail.google.com/mail/help/about_whatsnew.html
-   4. http://mail.google.com/mail/help/blog.html%20[English%20Only]
-   5. http://mail.google.com/mail/help/tips.html
-   6. http://www.google.com/apps/intl/en/business/messaging.html#utm_medium=et&utm_source=gmail-en-mktgleft&utm_campaign=crossnav
-   7. http://mail.google.com/support?ctx=about&hl=en
-   8. http://mail.google.com/mail/signup?pc=leftnav&co=en&hl=en
-   9. http://mail.google.com/mail/help/terms.html
+   2. http://mail.google.com/mail/signup?pc=leftnav&co=en&hl=en
+   3. http://mail.google.com/mail/help/about.html
+   4. http://mail.google.com/mail/help/switch.html
+   5. http://mail.google.com/mail/help/about_whatsnew.html
+   6. http://mail.google.com/mail/help/tips.html
+   7. http://gmailblog.blogspot.com/
+   8. http://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
+   9. http://mail.google.com/support?ctx=about&hl=en
+  10. http://www.google.com/mail/help/program_policies.html
+  11. http://mail.google.com/
+  12. http://mail.google.com/intl/en/policies/

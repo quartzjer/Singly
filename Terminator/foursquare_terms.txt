@@ -693,11 +693,11 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][mtv-d34bf51fbbc359f632297f4ac3f30d57.png]
-     * [28][bravotv-0941a1c1254881ab873b66987f08f740.png]
-     * [29][luckymagazine-81550ed80bb77ddf9fa7e09c94ef4ac3.png]
-     * [30][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [31][mashable-d52adc9976ea3d7302da90feab662cde.png]
+     * [27][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
+     * [29][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
+     * [30][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [31][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
      * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
 
 References
@@ -729,11 +729,11 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/mtv
-  28. https://foursquare.com/bravotv
-  29. https://foursquare.com/luckymagazine
-  30. https://foursquare.com/askmen
-  31. https://foursquare.com/mashable
+  27. https://foursquare.com/zagat
+  28. https://foursquare.com/askmen
+  29. https://foursquare.com/louisvuitton_hq
+  30. https://foursquare.com/peoplemag
+  31. https://foursquare.com/michelinguides
   32. https://foursquare.com/brisk
 
    Hidden links:
