@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
-     * [28][askmen-32a19bae424cafba11d7131fbc763f6d.png]
-     * [29][louisvuitton_hq-af91c38804c53cd96494cbcee3081e49.png]
-     * [30][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [31][michelinguides-3c39d0a6e0f6a3d4f7e97eecc56e35f3.png]
-     * [32][brisk-b6ab79d5c75604d7edabd1c852d6c951.png]
+     * [27][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
+     * [28][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [29][redskins-65f70dead6fc656b5c747312e50f01f4.png]
+     * [30][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
+     * [31][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
+     * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/zagat
-  28. https://foursquare.com/askmen
-  29. https://foursquare.com/louisvuitton_hq
-  30. https://foursquare.com/peoplemag
-  31. https://foursquare.com/michelinguides
-  32. https://foursquare.com/brisk
+  27. https://foursquare.com/gossipgirl
+  28. https://foursquare.com/peoplemag
+  29. https://foursquare.com/redskins
+  30. https://foursquare.com/racked
+  31. https://foursquare.com/mazdausa
+  32. https://foursquare.com/bbcamerica
 
    Hidden links:
   33. https://foursquare.com/legal/terms

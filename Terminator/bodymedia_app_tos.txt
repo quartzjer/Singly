@@ -218,10 +218,12 @@
      * [9]Gallery
      * [10]Forums
 
+   [11]Learn more about BodyMedia
+
    © 2012 BodyMedia, Inc.
 
    Follow us:
-   [11]Twitter [12]Facebook
+   [12]Twitter [13]Facebook
 
    Quantcast
 
@@ -237,5 +239,6 @@ References
    8. https://developer.bodymedia.com/docs
    9. https://developer.bodymedia.com/DataAPIGallery
   10. https://developer.bodymedia.com/forum
-  11. http://twitter.com/#!/bodymediaAPI
-  12. http://www.facebook.com/BodyMediaFIT
+  11. http://www.bodymedia.com/
+  12. http://twitter.com/#!/bodymediaAPI
+  13. http://www.facebook.com/BodyMediaFIT
