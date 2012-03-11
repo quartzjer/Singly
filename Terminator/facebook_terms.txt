@@ -8,7 +8,6 @@
                         [4]Forgot your password?
    [5]Sign UpFacebook helps you connect and share with the people in your
    life.
-
    This agreement was written in English (US). To the extent any
    translated version of this agreement conflicts with the English
    version, the English version controls.  Please note that Section 16

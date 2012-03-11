@@ -693,12 +693,12 @@ Contact.
 
    Follow these brands to unlock badges and find interesting tips around
    your city!
-     * [27][gossipgirl-f14d1cd63af42cc72fbfb5a63ef7fd53.png]
-     * [28][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
-     * [29][redskins-65f70dead6fc656b5c747312e50f01f4.png]
-     * [30][racked-a3267a25a96d81fb9b6751e3b3ad9b53.png]
-     * [31][mazdausa-1ce502a58e49b91088bddcf599ddfdd2.png]
-     * [32][bbcamerica-d777b112c51696700dbd348e1b1e6817.png]
+     * [27][historychannel-95584722ba53e415ac18df83889193d8.png]
+     * [28][zagat-8b66bfe2d9e855328c6c8e37691ed0e2.png]
+     * [29][tlc-452c53346d8cd7f2379560259e726208.png]
+     * [30][peoplemag-ca9357cc68d6f591f5b1ec5c906005df.png]
+     * [31][logotv-0afb40c1a573dd867a71133f0bf5642b.png]
+     * [32][nhl-4cee16e31bae52a2bd87c7e6d0176aea.png]
 
 References
 
@@ -729,12 +729,12 @@ References
   24. http://store.foursquare.com/
   25. https://foursquare.com/legal/terms#languagesContainer
   26. https://foursquare.com/pages
-  27. https://foursquare.com/gossipgirl
-  28. https://foursquare.com/peoplemag
-  29. https://foursquare.com/redskins
-  30. https://foursquare.com/racked
-  31. https://foursquare.com/mazdausa
-  32. https://foursquare.com/bbcamerica
+  27. https://foursquare.com/historychannel
+  28. https://foursquare.com/zagat
+  29. https://foursquare.com/tlc
+  30. https://foursquare.com/peoplemag
+  31. https://foursquare.com/logotv
+  32. https://foursquare.com/nhl
 
    Hidden links:
   33. https://foursquare.com/legal/terms
