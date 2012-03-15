@@ -396,7 +396,7 @@ Additional Languages
    [49]Polski
    [50]Português (Brasil)
    [51]Türkçe
-   Updated about a week ago
+   Updated 10 hours ago
 
    Facebook © 2012 · [52]English (US)
    [53]About[54]Platform Policies[55]Privacy Policy
@@ -431,7 +431,7 @@ References
   25. http://developers.facebook.com/policy/#definitions
   26. http://developers.facebook.com/docs/reference/api/user/
   27. http://developers.facebook.com/docs/reference/api/application/#restrictions
-  28. https://www.facebook.com/promotions_guidelines.php
+  28. https://www.facebook.com/page_guidelines.php#promotionsguidelines
   29. http://developers.facebook.com/policy/#Facebook_social_channels
   30. http://developers.facebook.com/adproviders/
   31. http://developers.facebook.com/docs/guides/canvas/
