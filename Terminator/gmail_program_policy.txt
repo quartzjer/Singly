@@ -99,7 +99,7 @@ References
    6. http://mail.google.com/mail/help/tips.html
    7. http://gmailblog.blogspot.com/
    8. http://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
-   9. http://support.google.com/support?ctx=about&hl=en
+   9. http://support.google.com/mail/?ctx=about&hl=en
   10. http://www.google.com/mail/help/program_policies.html
   11. http://mail.google.com/
   12. http://mail.google.com/intl/en/policies/
