@@ -1,4 +1,6 @@
-[1]Google About Gmail
+[1]Google
+
+About Gmail
 
    [2]Create an account
      * [3]About
@@ -85,9 +87,12 @@ Account Inactivity
    service if you fail to login to your account for a period of nine
    months.
 
-   [10]Gmail Program Policies
-     * [11]Google
-     * [12]Privacy & Terms
+   Are you a Gmail Ninja?
+   [10]gmail.com/tips
+
+   [11]Gmail Program Policies
+     * [12]Google
+     * [13]Privacy & Terms
 
 References
 
@@ -99,7 +104,8 @@ References
    6. http://mail.google.com/mail/help/tips.html
    7. http://gmailblog.blogspot.com/
    8. http://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
-   9. http://support.google.com/mail/?ctx=about&hl=en
-  10. http://www.google.com/mail/help/program_policies.html
-  11. http://mail.google.com/
-  12. http://mail.google.com/intl/en/policies/
+   9. http://support.google.com/mail/?hl=en&p=mktg
+  10. http://mail.google.com/mail/help/tips.html
+  11. http://www.google.com/mail/help/program_policies.html
+  12. http://mail.google.com/
+  13. http://mail.google.com/intl/en/policies/
