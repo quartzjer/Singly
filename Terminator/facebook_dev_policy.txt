@@ -399,7 +399,7 @@ Additional Languages
    Updated about a month ago
 
    Facebook © 2012 · [52]English (US)
-   [53]About[54]Platform Policies[55]Privacy Policy
+   [53]About[54]Careers[55]Platform Policies[56]Privacy Policy
 
 References
 
@@ -457,10 +457,11 @@ References
   51. https://developers.facebook.com/policy/Turkce/
   52. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
   53. http://www.facebook.com/platform
-  54. http://developers.facebook.com/policy
-  55. http://www.facebook.com/policy.php
+  54. http://www.facebook.com/careers
+  55. http://developers.facebook.com/policy
+  56. http://www.facebook.com/policy.php
 
    Hidden links:
-  56. http://developers.facebook.com/policy/
-  57. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  58. http://developers.facebook.com/opensource/
+  57. http://developers.facebook.com/policy/
+  58. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  59. http://developers.facebook.com/opensource/
