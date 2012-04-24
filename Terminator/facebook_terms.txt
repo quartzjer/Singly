@@ -2,10 +2,11 @@
    #[2]alternate
 
    [3]Facebook logo
-   Email
-   ____________________ Log In
+   Email                Password
+   ____________________ ____________________    Log In
    [ ] Keep me logged in
-   [4]Sign UpFacebook helps you connect and share with the people in your
+                        [4]Forgot your password?
+   [5]Sign UpFacebook helps you connect and share with the people in your
    life.
 
    This agreement was written in English (US). To the extent any
@@ -16,11 +17,11 @@
    Date of Last Revision: April 26, 2011.
    Statement of Rights and Responsibilities
    This Statement of Rights and Responsibilities (Statement) derives from
-   the [5]Facebook Principles, and governs our relationship with users and
+   the [6]Facebook Principles, and governs our relationship with users and
    others who interact with Facebook. By using or accessing Facebook, you
    agree to this Statement.
     1. Privacy
-       Your privacy is very important to us. We designed our [6]Privacy
+       Your privacy is very important to us. We designed our [7]Privacy
        Policy to make important disclosures about how you can use Facebook
        to share with others and how we collect and can use your content
        and information.  We encourage you to read the Privacy Policy, and
@@ -28,12 +29,12 @@
 
     2. Sharing Your Content and Information
        You own all of the content and information you post on Facebook,
-       and you can control how it is shared through your [7]privacy and
-       [8]application settings. In addition:
+       and you can control how it is shared through your [8]privacy and
+       [9]application settings. In addition:
          1. For content that is covered by intellectual property rights,
             like photos and videos (IP content), you specifically give us
-            the following permission, subject to your [9]privacy and
-            [10]application settings: you grant us a non-exclusive,
+            the following permission, subject to your [10]privacy and
+            [11]application settings: you grant us a non-exclusive,
             transferable, sub-licensable, royalty-free, worldwide license
             to use any IP content that you post on or in connection with
             Facebook (IP License). This IP License ends when you delete
@@ -49,7 +50,7 @@
             respect your privacy, and your agreement with that application
             will control how the application can use, store, and transfer
             that content and information.  (To learn more about Platform,
-            read our [11]Privacy Policy and [12]Platform Page.)
+            read our [12]Privacy Policy and [13]Platform Page.)
          4. When you publish content or information using the Public
             setting, it means that you are allowing everyone, including
             people off of Facebook, to access and use that information,
@@ -82,7 +83,7 @@
          8. You will not develop or operate a third-party application
             containing alcohol-related or other mature content (including
             advertisements) without appropriate age-based restrictions.
-         9. You will follow our [13]Promotions Guidelines and all
+         9. You will follow our [14]Promotions Guidelines and all
             applicable laws if you publicize or offer any contest,
             giveaway, or sweepstakes (“promotion”) on Facebook.
         10. You will not use Facebook to do anything unlawful, misleading,
@@ -130,7 +131,7 @@
          2. We can remove any content or information you post on Facebook
             if we believe that it violates this Statement.
          3. We will provide you with tools to help you protect your
-            intellectual property rights. To learn more, visit our [14]How
+            intellectual property rights. To learn more, visit our [15]How
             to Report Claims of Intellectual Property Infringement page.
          4. If we remove your content for infringing someone else's
             copyright, and you believe we removed it by mistake, we will
@@ -167,10 +168,10 @@
 
     7. Payments and Deals
          1. If you make a payment on Facebook or use Facebook Credits, you
-            agree to our [15]Payments Terms.
-         2. If purchase a Deal, you agree to our [16]Deals Terms.
+            agree to our [16]Payments Terms.
+         2. If purchase a Deal, you agree to our [17]Deals Terms.
          3. If you provide a Deal or partner with us to provide a Deal,
-            you agree to the [17]Merchant Deal Terms in addition to any
+            you agree to the [18]Merchant Deal Terms in addition to any
             other agreements you may have with us.
 
     8. Special Provisions Applicable to Share Links
@@ -191,8 +192,8 @@
        website, the following additional terms apply to you:
          1. You are responsible for your application and its content and
             all uses you make of Platform. This includes ensuring your
-            application or use of Platform meets our [18]Facebook Platform
-            Policies and our [19]Advertising Guidelines.
+            application or use of Platform meets our [19]Facebook Platform
+            Policies and our [20]Advertising Guidelines.
          2. Your access to and use of data you receive from Facebook, will
             be limited as follows:
               1. You will only request data you need to operate your
@@ -200,7 +201,7 @@
               2. You will have a privacy policy that tells users what user
                  data you are going to use and how you will use, display,
                  share, or transfer that data and you will include your
-                 privacy policy URL in the [20]Developer Application.
+                 privacy policy URL in the [21]Developer Application.
               3. You will not use, display, share, or transfer a user’s
                  data in a manner inconsistent with your privacy policy.
               4. You will delete all data you receive from us concerning a
@@ -222,7 +223,7 @@
                  expectations.
               9. We can limit your access to data.
              10. You will comply with all other restrictions contained in
-                 our [21]Facebook Platform Policies.
+                 our [22]Facebook Platform Policies.
          3. You will not give us information that you independently
             collect from a user or a user's content without that user's
             consent.
@@ -242,7 +243,7 @@
             others.
         11. You may use the logos we make available to developers or issue
             a press release or other public statement so long as you
-            follow our [22]Facebook Platform Policies.
+            follow our [23]Facebook Platform Policies.
         12. We can issue a press release describing our relationship with
             you.
         13. You will comply with all applicable laws. In particular you
@@ -274,7 +275,7 @@
        Our goal is to deliver ads that are not only valuable to
        advertisers, but also valuable to you. In order to do that, you
        agree to the following:
-         1. You can use your [23]privacy settings to limit how your name
+         1. You can use your [24]privacy settings to limit how your name
             and profile picture may be associated with commercial,
             sponsored, or related content (such as a brand you like)
             served or enhanced by us. You give us permission to use your
@@ -301,9 +302,9 @@
             effectiveness of your advertising campaign, we may broaden the
             targeting criteria you specify.
          3. You will pay for your Orders in accordance with our
-            [24]Payments Terms. The amount you owe will be calculated
+            [25]Payments Terms. The amount you owe will be calculated
             based on our tracking mechanisms.
-         4. Your ads will comply with our [25]Advertising Guidelines.
+         4. Your ads will comply with our [26]Advertising Guidelines.
          5. We will determine the size, placement, and positioning of your
             ads.
          6. We do not guarantee the activity that your ads will receive,
@@ -312,7 +313,7 @@
             not responsible for click fraud or other improper actions that
             affect the cost of running ads.  We do, however, have systems
             to detect and filter certain suspicious activity, learn more
-            [26]here.
+            [27]here.
          8. You can cancel your Order at any time through our online
             portal, but it may take up to 24 hours before the ad stops
             running.  You are responsible for paying for those ads.
@@ -337,19 +338,19 @@
 
    12. Special Provisions Applicable to Pages
        If you create or administer a Page on Facebook, you agree to our
-       [27]Pages Terms.
+       [28]Pages Terms.
 
    13. Amendments
          1. We can change this Statement if we provide you notice (by
-            posting the change on the [28]Facebook Site Governance Page)
+            posting the change on the [29]Facebook Site Governance Page)
             and an opportunity to comment.  To get notice of any future
-            changes to this Statement, visit our [29]Facebook Site
+            changes to this Statement, visit our [30]Facebook Site
             Governance Page and become a fan.
          2. For changes to sections 7, 8, 9, and 11 (sections relating to
             payments, application developers, website operators, and
             advertisers), we will give you a minimum of three days notice.
             For all other changes we will give you a minimum of seven days
-            notice. All such comments must be made on the [30]Facebook
+            notice. All such comments must be made on the [31]Facebook
             Site Governance Page.
          3. If more than 7,000 users comment on the proposed change, we
             will also give you the opportunity to participate in a vote in
@@ -427,12 +428,12 @@
             commercial activities on Facebook (such as advertising or
             payments) or operate a Platform application or website.
          3. Certain specific terms that apply only for German users are
-            available [31]here.
+            available [32]here.
 
    17. Definitions
          1. By Facebook we mean the features and services we make
             available, including through (a) our website at
-            [32]www.facebook.com and any other Facebook branded or
+            [33]www.facebook.com and any other Facebook branded or
             co-branded websites (including sub-domains, international
             versions, widgets, and mobile versions); (b) our Platform; (c)
             social plugins such as the like button, the share button and
@@ -492,88 +493,89 @@
             accessing Facebook.
 
    You may also want to review the following documents:
-     * [33]Privacy Policy: The Privacy Policy is designed to help you
+     * [34]Privacy Policy: The Privacy Policy is designed to help you
        understand how we collect and use information.
-     * [34]Payment Terms: These additional terms apply to all payments
+     * [35]Payment Terms: These additional terms apply to all payments
        made on or through Facebook.
-     * [35]Platform Page: This page helps you better understand what
+     * [36]Platform Page: This page helps you better understand what
        happens when you add a third-party application or use Facebook
        Connect, including how they may access and use your data.
-     * [36]Facebook Platform Policies: These guidelines outline the
+     * [37]Facebook Platform Policies: These guidelines outline the
        policies that apply to applications, including Connect sites.
-     * [37]Advertising Guidelines: These guidelines outline the policies
+     * [38]Advertising Guidelines: These guidelines outline the policies
        that apply to advertisements placed on Facebook.
-     * [38]Promotions Guidelines: These guidelines outline the policies
+     * [39]Promotions Guidelines: These guidelines outline the policies
        that apply if you offer contests, sweepstakes, and other types of
        promotions on Facebook.
-     * [39]How to Report Claims of Intellectual Property Infringement
-     * [40]How to Appeal Claims of Copyright Infringement
-     * [41]Pages Terms
+     * [40]How to Report Claims of Intellectual Property Infringement
+     * [41]How to Appeal Claims of Copyright Infringement
+     * [42]Pages Terms
 
    To access the Statement of Rights and Responsibilities in several
    different languages, change the language setting for your Facebook
    session by clicking on the language link in the left corner of most
    pages.  If the Statement is not available in the language you select,
    we will default to the English version.
-   Facebook © 2012 · [42]English (US)
-   [43]Mobile · [44]Find Friends · [45]Badges · [46]People · [47]Pages ·
-   [48]About · [49]Advertising · [50]Create a Page · [51]Developers ·
-   [52]Careers · [53]Privacy · [54]Terms · [55]Help
+   Facebook © 2012 · [43]English (US)
+   [44]Mobile · [45]Find Friends · [46]Badges · [47]People · [48]Pages ·
+   [49]About · [50]Advertising · [51]Create a Page · [52]Developers ·
+   [53]Careers · [54]Privacy · [55]Terms · [56]Help
 
 References
 
    1. http://www.facebook.com/legal/terms?_fb_noscript=1
    2. http://www.facebook.com/legal/terms
    3. http://www.facebook.com/
-   4. http://www.facebook.com/r.php?locale=en_US&v=0
-   5. http://www.facebook.com/principles.php
-   6. http://www.facebook.com/policy.php
-   7. http://www.facebook.com/privacy/
-   8. http://www.facebook.com/editapps.php
-   9. http://www.facebook.com/privacy/
-  10. http://www.facebook.com/editapps.php
-  11. http://www.facebook.com/policy.php
-  12. http://developers.facebook.com/docs/
-  13. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  14. http://www.facebook.com/legal/copyright.php?howto_report
-  15. http://www.facebook.com/termsofsale.php
-  16. http://www.facebook.com/user_deals_terms.php
-  17. https://www.facebook.com/merchant_deals_terms.php
-  18. http://developers.facebook.com/policy/
-  19. http://www.facebook.com/ad_guidelines.php
-  20. http://www.facebook.com/developers/
-  21. http://developers.facebook.com/policy/
+   4. http://www.facebook.com/recover.php
+   5. http://www.facebook.com/r.php?locale=en_US&v=0
+   6. http://www.facebook.com/principles.php
+   7. http://www.facebook.com/policy.php
+   8. http://www.facebook.com/privacy/
+   9. http://www.facebook.com/editapps.php
+  10. http://www.facebook.com/privacy/
+  11. http://www.facebook.com/editapps.php
+  12. http://www.facebook.com/policy.php
+  13. http://developers.facebook.com/docs/
+  14. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  15. http://www.facebook.com/legal/copyright.php?howto_report
+  16. http://www.facebook.com/termsofsale.php
+  17. http://www.facebook.com/user_deals_terms.php
+  18. https://www.facebook.com/merchant_deals_terms.php
+  19. http://developers.facebook.com/policy/
+  20. http://www.facebook.com/ad_guidelines.php
+  21. http://www.facebook.com/developers/
   22. http://developers.facebook.com/policy/
-  23. https://www.facebook.com/settings?tab=ads
-  24. http://www.facebook.com/termsofsale.php
-  25. http://www.facebook.com/ad_guidelines.php
-  26. http://www.facebook.com/help.php?page=926
-  27. http://www.facebook.com/terms_pages.php
-  28. http://www.facebook.com/fbsitegovernance
+  23. http://developers.facebook.com/policy/
+  24. https://www.facebook.com/settings?tab=ads
+  25. http://www.facebook.com/termsofsale.php
+  26. http://www.facebook.com/ad_guidelines.php
+  27. http://www.facebook.com/help.php?page=926
+  28. http://www.facebook.com/terms_pages.php
   29. http://www.facebook.com/fbsitegovernance
   30. http://www.facebook.com/fbsitegovernance
-  31. http://www.facebook.com/terms/provisions/german/index.php
-  32. http://www.facebook.com/
-  33. http://www.facebook.com/policy.php
-  34. http://www.facebook.com/termsofsale.php
-  35. http://www.facebook.com/platform
-  36. http://developers.facebook.com/policy/
-  37. http://www.facebook.com/ad_guidelines.php
-  38. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  39. http://www.facebook.com/legal/copyright.php?howto_report
-  40. http://www.facebook.com/legal/copyright.php?howto_appeal=1
-  41. http://www.facebook.com/terms_pages.php
-  42. http://www.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms
-  43. http://www.facebook.com/mobile/?ref=pf
-  44. http://www.facebook.com/find-friends?ref=pf
-  45. http://www.facebook.com/badges/?ref=pf
-  46. http://www.facebook.com/directory/people/
-  47. http://www.facebook.com/directory/pages/
-  48. http://www.facebook.com/facebook
-  49. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
-  50. http://www.facebook.com/pages/create.php?ref_type=sitefooter
-  51. http://developers.facebook.com/?ref=pf
-  52. http://www.facebook.com/careers/?ref=pf
-  53. http://www.facebook.com/privacy/explanation
-  54. http://www.facebook.com/legal/terms?ref=pf
-  55. http://www.facebook.com/help/?ref=pf
+  31. http://www.facebook.com/fbsitegovernance
+  32. http://www.facebook.com/terms/provisions/german/index.php
+  33. http://www.facebook.com/
+  34. http://www.facebook.com/policy.php
+  35. http://www.facebook.com/termsofsale.php
+  36. http://www.facebook.com/platform
+  37. http://developers.facebook.com/policy/
+  38. http://www.facebook.com/ad_guidelines.php
+  39. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  40. http://www.facebook.com/legal/copyright.php?howto_report
+  41. http://www.facebook.com/legal/copyright.php?howto_appeal=1
+  42. http://www.facebook.com/terms_pages.php
+  43. http://www.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms
+  44. http://www.facebook.com/mobile/?ref=pf
+  45. http://www.facebook.com/find-friends?ref=pf
+  46. http://www.facebook.com/badges/?ref=pf
+  47. http://www.facebook.com/directory/people/
+  48. http://www.facebook.com/directory/pages/
+  49. http://www.facebook.com/facebook
+  50. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+  51. http://www.facebook.com/pages/create.php?ref_type=sitefooter
+  52. http://developers.facebook.com/?ref=pf
+  53. http://www.facebook.com/careers/?ref=pf
+  54. http://www.facebook.com/privacy/explanation
+  55. http://www.facebook.com/legal/terms?ref=pf
+  56. http://www.facebook.com/help/?ref=pf
