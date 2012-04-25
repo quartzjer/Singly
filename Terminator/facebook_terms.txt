@@ -2,7 +2,7 @@
    #[2]alternate
 
    [3]Facebook logo
-   Email                Password
+   Email or Phone       Password
    ____________________ ____________________    Log In
    [ ] Keep me logged in
                         [4]Forgot your password?

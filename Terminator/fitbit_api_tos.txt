@@ -495,24 +495,25 @@ Fitbit Marks
      * [25]Help
           + [26]Fitbit Aria 101
           + [27]FAQ
-          + [28]Product Manual
-          + [29]Returns & Warranty
-          + [30]Downloads
-     * [31]Company
-          + [32]About Fitbit
-          + [33]Affiliates
-          + [34]Jobs
-          + [35]Blog
-          + [36]Privacy Policy
-          + [37]Terms of Use
-     * [38]Explore
-          + [39]Calories in Foods
-          + [40]Foods by Restaurant
-          + [41]Foods by Brand
-          + [42]Search Foods
+          + [28]Ultra Product Manual
+          + [29]Aria Product Manual
+          + [30]Returns & Warranty
+          + [31]Downloads
+     * [32]Company
+          + [33]About Fitbit
+          + [34]Affiliates
+          + [35]Jobs
+          + [36]Blog
+          + [37]Privacy Policy
+          + [38]Terms of Use
+     * [39]Explore
+          + [40]Calories in Foods
+          + [41]Foods by Restaurant
+          + [42]Foods by Brand
+          + [43]Search Foods
 
    Get your Fitbit Wireless Activity Tracker
-   [43]Buy Now
+   [44]Buy Now
    United States
      * United Kingdom
      * United States
@@ -550,22 +551,23 @@ References
   26. javascript:$.aria101()
   27. http://help.fitbit.com/
   28. http://www.fitbit.com/manual
-  29. http://www.fitbit.com/returns
-  30. http://www.fitbit.com/start
-  31. http://www.fitbit.com/company
+  29. http://www.fitbit.com/manual/aria
+  30. http://www.fitbit.com/returns
+  31. http://www.fitbit.com/start
   32. http://www.fitbit.com/company
-  33. http://www.fitbit.com/affiliate
-  34. http://www.fitbit.com/jobs
-  35. http://blog.fitbit.com/
-  36. http://www.fitbit.com/privacy
-  37. http://www.fitbit.com/terms
-  38. http://www.fitbit.com/foods/categories
+  33. http://www.fitbit.com/company
+  34. http://www.fitbit.com/affiliate
+  35. http://www.fitbit.com/jobs
+  36. http://blog.fitbit.com/
+  37. http://www.fitbit.com/privacy
+  38. http://www.fitbit.com/terms
   39. http://www.fitbit.com/foods/categories
-  40. http://www.fitbit.com/foods/restaurants
-  41. http://www.fitbit.com/foods/brands
-  42. http://www.fitbit.com/foods/search
-  43. http://www.fitbit.com/order
+  40. http://www.fitbit.com/foods/categories
+  41. http://www.fitbit.com/foods/restaurants
+  42. http://www.fitbit.com/foods/brands
+  43. http://www.fitbit.com/foods/search
+  44. http://www.fitbit.com/order
 
    Hidden links:
-  44. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
-  45. http://wiki.fitbit.com/display/API
+  45. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
+  46. http://wiki.fitbit.com/display/API
