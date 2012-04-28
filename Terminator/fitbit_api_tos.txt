@@ -514,10 +514,6 @@ Fitbit Marks
 
    Get your Fitbit Wireless Activity Tracker
    [44]Buy Now
-   United States
-     * United Kingdom
-     * United States
-
    ©2012 Fitbit Inc. All rights reserved.
 
 References
@@ -566,7 +562,7 @@ References
   41. http://www.fitbit.com/foods/restaurants
   42. http://www.fitbit.com/foods/brands
   43. http://www.fitbit.com/foods/search
-  44. http://www.fitbit.com/order
+  44. https://www.fitbit.com/order
 
    Hidden links:
   45. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
