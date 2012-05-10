@@ -327,7 +327,7 @@ Specific product practices
      * [38]Books
      * [39]Wallet
 
-   [English____________________________________]
+   [English______________________________________]
      * [40]Google
      * [41]Privacy & Terms
 
