@@ -25,7 +25,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: April 25, 2012
+   Date of Last Revision: May 10, 2012
 
    Facebook Platform is an extension of Facebook, whose mission is to give
    people the power to share and make the world more open and connected.
@@ -80,17 +80,17 @@ I. Features and Functionality
        per day).
     6. Your website must offer an explicit "Log Out" option that also logs
        the user out of Facebook.
-    7. Special provision for apps on Pages:
-       a. When a user visits your Page, if they have not given explicit
-       permission by authorizing your Facebook app or directly providing
-       information to your Page, you may only use information obtained
-       from us and the user's interaction with your Page in connection
-       with that Page. For example, although you may use aggregate
-       analytics for your individual Page, you must not combine
-       information from any other sources to customize the user's
-       experience on your Page and may not use any information about the
-       user's interaction with your Page in any other context (such as
-       analytics or customization across other Pages or websites).
+    7. Special provision for apps on Pages: When a user visits your Page,
+       if they have not given explicit permission by authorizing your
+       Facebook app or directly providing information to your Page, you
+       may only use information obtained from us and the user's
+       interaction with your Page in connection with that Page. For
+       example, although you may use aggregate analytics for your
+       individual Page, you must not combine information from any other
+       sources to customize the user's experience on your Page and may not
+       use any information about the user's interaction with your Page in
+       any other context (such as analytics or customization across other
+       Pages or websites).
     8. You must not use or make derivative use of Facebook icons, or use
        terms for Facebook features and functionality, if such use could
        confuse users into thinking that the reference is to Facebook
@@ -133,6 +133,8 @@ I. Features and Functionality
    13. The primary purpose of your Canvas or Page Tab app on Facebook must
        not be to simply redirect users out of the Facebook experience and
        onto an external site.
+   14. You must not include data obtained from us in any search engine or
+       directory without our written permission.
 
 II. Storing and Using Data You Receive From Us
 
@@ -396,7 +398,7 @@ Additional Languages
    [49]Polski
    [50]Português (Brazil)
    [51]Türkçe
-   Updated about 2 weeks ago
+   Updated 10 hours ago
 
    Facebook © 2012 · [52]English (US)
    [53]About[54]Careers[55]Platform Policies[56]Privacy Policy
