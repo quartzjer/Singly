@@ -512,7 +512,7 @@ References
    8. https://dev.twitter.com/docs
    9. https://dev.twitter.com/docs
   10. https://dev.twitter.com/docs/api
-  11. https://dev.twitter.com/docs/streaming-api
+  11. https://dev.twitter.com/docs/streaming-apis
   12. https://dev.twitter.com/docs/twitter-for-websites
   13. https://dev.twitter.com/docs/recent
   14. https://dev.twitter.com/user/login?destination=node%2F110
