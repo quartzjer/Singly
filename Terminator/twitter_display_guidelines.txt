@@ -13,7 +13,7 @@
           + [13]Recently updated
      * [14]Sign in
 
-   [15]Home → [16]Documentation
+   [15]Home → [16]Terms of Service
    [17]Tweet
 
 Display Guidelines
@@ -165,7 +165,7 @@ References
   13. https://dev.twitter.com/docs/recent
   14. https://dev.twitter.com/user/login?destination=node%2F142
   15. https://dev.twitter.com/
-  16. https://dev.twitter.com/docs
+  16. https://dev.twitter.com/terms/api-terms
   17. http://twitter.com/share
   18. http://support.twitter.com/entries/114233
   19. https://dev.twitter.com/pages/intents

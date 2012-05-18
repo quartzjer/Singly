@@ -13,12 +13,12 @@
           + [13]Recently updated
      * [14]Sign in
 
-   [15]Home → [16]Documentation
-   [17]Tweet
+   [15]Home
+   [16]Tweet
 
 Developer Rules of the Road
 
-   Last Update - 1st of June 2011
+   Last Update - 17th of May 2012
 
 Rules of the Road
 
@@ -49,7 +49,7 @@ I. Twitter Content
    1. All use of the Twitter API and content, documentation, code, and
    related materials made available to you on or through Twitter ("Twitter
    Content") is subject to and must comply with these Rules. As a
-   reminder, you and your Service are subject to the [18]Twitter Terms of
+   reminder, you and your Service are subject to the [17]Twitter Terms of
    Service.
 
    2. You may use the Twitter API and Twitter Content in connection with
@@ -133,7 +133,7 @@ II. Principles
 
     1. Maintain the integrity of Tweets. There is a lot of information
        packed into Tweets even though they are just 140 characters long
-       (e.g., links to usernames). The [19]Display Guidelines are a part
+       (e.g., links to usernames). The [18]Display Guidelines are a part
        of the Rules and provide guidance on how to best convey all the
        intended information in a Tweet.
        A few highlights:
@@ -162,7 +162,7 @@ II. Principles
     3. Your Service should not:
           + use business names and/or logos in a manner that can mislead,
             confuse, or deceive users. For more information on use of
-            Twitter Marks, see our trademark rules [20]here
+            Twitter Marks, see our trademark rules [19]here
           + confuse or mislead users about the source or purpose of your
             application.
           + use as its Application Website URL an unrelated URL, a site
@@ -180,10 +180,10 @@ II. Principles
 
 2. Don't create or distribute spam
 
-    1. Spam can take many forms. Please abide by the spam rules [21]here.
+    1. Spam can take many forms. Please abide by the spam rules [20]here.
     2. If your application performs automatic actions (including Tweeting
        or other content updates), make sure you comply with the Automation
-       Rules found [22]here.
+       Rules found [21]here.
     3. Do not mass-register applications. This includes:
           + creating tokens/applications for the purpose of preventing
             others from using or selling those names, or other commercial
@@ -199,8 +199,14 @@ II. Principles
 
 3. Respect user privacy
 
-    1. Your Service must display a privacy policy. Clearly disclose what
-       you are doing with information you collect from users.
+    1. Your Service must display and comply with a privacy policy that
+       clearly discloses what you are doing with information you collect
+       from users. If your Service supports cookies, your privacy policy
+       must disclose that third parties may be placing and reading cookies
+       on the systems of your users in the course of providing content to
+       them. Your privacy policy should also provide information about
+       user options for cookie management and the [22]Do Not Track setting
+       in supporting web browsers.
     2. Clearly disclose when you are adding location information to a
        user's Tweets, whether as a geotag or annotations data. Be clear
        about whether you are adding a place or specific coordinates. If
@@ -517,13 +523,13 @@ References
   13. https://dev.twitter.com/docs/recent
   14. https://dev.twitter.com/user/login?destination=node%2F110
   15. https://dev.twitter.com/
-  16. https://dev.twitter.com/docs
-  17. http://twitter.com/share
-  18. http://twitter.com/tos
-  19. https://dev.twitter.com/pages/display_guidelines
-  20. http://support.twitter.com/articles/77641
-  21. http://support.twitter.com/articles/18311#spam
-  22. http://support.twitter.com/articles/76915
+  16. http://twitter.com/share
+  17. http://twitter.com/tos
+  18. https://dev.twitter.com/pages/display_guidelines
+  19. http://support.twitter.com/articles/77641
+  20. http://support.twitter.com/articles/18311#spam
+  21. http://support.twitter.com/articles/76915
+  22. https://support.twitter.com/articles/20169453
   23. https://dev.twitter.com/pages/geo_dev_guidelines
   24. http://support.twitter.com/articles/114233
   25. http://support.twitter.com/articles/18311
