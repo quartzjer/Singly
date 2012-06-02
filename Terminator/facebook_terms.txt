@@ -517,7 +517,7 @@
    we will default to the English version.
    Facebook © 2012 · [42]English (US)
    [43]Mobile · [44]Find Friends · [45]Badges · [46]People · [47]Pages ·
-   [48]About · [49]Create an Ad · [50]Create a Page · [51]Developers ·
+   [48]About · [49]Advertise · [50]Create a Page · [51]Developers ·
    [52]Careers · [53]Privacy · [54]Terms · [55]Help
 
 References
@@ -570,7 +570,7 @@ References
   46. http://www.facebook.com/directory/people/
   47. http://www.facebook.com/directory/pages/
   48. http://www.facebook.com/facebook
-  49. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto&extra_2=AdvertisingLink%3ACREATE_AN_AD
+  49. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto&extra_2=AdvertisingLink%3AADVERTISE
   50. http://www.facebook.com/pages/create.php?ref_type=sitefooter
   51. http://developers.facebook.com/?ref=pf
   52. http://www.facebook.com/careers/?ref=pf
