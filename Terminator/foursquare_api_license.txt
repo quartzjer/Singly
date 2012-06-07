@@ -200,7 +200,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
      * [10]Developers
      * [11]Help
      * [12]Jobs
-     * [13]Privacy
+     * [13]Privacy (Updated)
      * [14]Terms
      * [15]Store
      * [16]English
@@ -220,7 +220,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [licenseagreement&amp;sig=zTOC%2FhDmkTfKhiGVDmYuuk861bw%3D]
+   [licenseagreement&amp;sig=dD0UPuGl1j%2B%2BsFbPlU7wDfYf3bU%3D]
 
 References
 

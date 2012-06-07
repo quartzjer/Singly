@@ -678,7 +678,7 @@ Contact.
      * [20]Developers
      * [21]Help
      * [22]Jobs
-     * [23]Privacy
+     * [23]Privacy (Updated)
      * [24]Terms
      * [25]Store
      * [26]English
@@ -698,7 +698,7 @@ Contact.
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [terms&amp;sig=FP5dcbpc2zw9B%2BMq0eW64UUAp6E%3D]
+   [terms&amp;sig=EDNfFKgdbX9MxLZhBx3NGQnPKsM%3D]
 
 References
 
