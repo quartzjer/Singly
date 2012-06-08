@@ -217,10 +217,11 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
           + Русский
           + Português
           + Bahasa Indonesia
+          + Türkçe
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [licenseagreement&amp;sig=dD0UPuGl1j%2B%2BsFbPlU7wDfYf3bU%3D]
+   [licenseagreement&amp;sig=jS4NhTDCGPp8TZTX5P%2FOD7E1k%2Fs%3D]
 
 References
 
