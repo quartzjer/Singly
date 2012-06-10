@@ -2,7 +2,7 @@
    #[2]alternate
 
    [3]Facebook logo
-   Phone or Email
+   Email or Phone
    ____________________ Log In
    [ ] Keep me logged in
    [4]Sign UpFacebook helps you connect and share with the people in your
@@ -560,7 +560,7 @@
    we will default to the English version.
    Facebook © 2012 · [40]English (US)
    [41]Mobile · [42]Find Friends · [43]Badges · [44]People · [45]Pages ·
-   [46]About · [47]Advertise · [48]Create a Page · [49]Developers ·
+   [46]About · [47]Advertising · [48]Create a Page · [49]Developers ·
    [50]Careers · [51]Privacy · [52]Terms · [53]Help
 
 References
@@ -611,7 +611,7 @@ References
   44. http://www.facebook.com/directory/people/
   45. http://www.facebook.com/directory/pages/
   46. http://www.facebook.com/facebook
-  47. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto&extra_2=AdvertisingLink%3AADVERTISE
+  47. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto&extra_2=AdvertisingLink%3ACONTROL
   48. http://www.facebook.com/pages/create.php?ref_type=sitefooter
   49. http://developers.facebook.com/?ref=pf
   50. http://www.facebook.com/careers/?ref=pf
