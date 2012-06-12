@@ -353,7 +353,7 @@ Special Terms for Pages.
        information for your internal business purposes in connection with
        your use of the Service and in accordance with foursquare's Privacy
        Policy.
-     * You will not use deceptive practices to get users to "follow" your
+     * You will not use deceptive practices to get users to "like" your
        Page.
      * You are responsible for ensuring that your Page, including any
        Content you post on your Page, shall comply with all applicable
@@ -673,15 +673,14 @@ Contact.
 
    Effective Date: August 25, 2011
      * [17]About
-     * [18]Apps
-     * [19]Blog
-     * [20]Developers
-     * [21]Help
-     * [22]Jobs
-     * [23]Privacy (Updated)
-     * [24]Terms
-     * [25]Store
-     * [26]English
+     * [18]Blog
+     * [19]Developers
+     * [20]Help
+     * [21]Jobs
+     * [22]Privacy (Updated)
+     * [23]Terms
+     * [24]Store
+     * [25]English
        Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + English
@@ -699,7 +698,7 @@ Contact.
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [terms&amp;sig=R9%2Bc4i87He2daKborjPYhF9EPAs%3D]
+   [terms&amp;sig=WJxrShGqIMRfUK6HNHHwqD%2FI2ZU%3D]
 
 References
 
@@ -721,16 +720,15 @@ References
   15. https://foursquare.com/legal/api/platformpolicy
   16. https://foursquare.com/legal/api/licenseagreement
   17. https://foursquare.com/about
-  18. https://foursquare.com/apps
-  19. http://blog.foursquare.com/
-  20. http://developers.foursquare.com/
-  21. http://foursquare.com/help
-  22. https://foursquare.com/jobs/
-  23. https://foursquare.com/legal/privacy
-  24. https://foursquare.com/legal/terms
-  25. http://store.foursquare.com/
-  26. https://foursquare.com/legal/terms#languagesContainer
+  18. http://blog.foursquare.com/
+  19. http://developers.foursquare.com/
+  20. http://foursquare.com/help
+  21. https://foursquare.com/jobs/
+  22. https://foursquare.com/legal/privacy
+  23. https://foursquare.com/legal/terms
+  24. http://store.foursquare.com/
+  25. https://foursquare.com/legal/terms#languagesContainer
 
    Hidden links:
+  26. https://foursquare.com/legal/terms
   27. https://foursquare.com/legal/terms
-  28. https://foursquare.com/legal/terms
