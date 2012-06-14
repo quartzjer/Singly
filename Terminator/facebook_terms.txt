@@ -561,7 +561,7 @@
    we will default to the English version.
    Facebook © 2012 · [41]English (US)
    [42]Mobile · [43]Find Friends · [44]Badges · [45]People · [46]Pages ·
-   [47]About · [48]Advertising · [49]Create a Page · [50]Developers ·
+   [47]About · [48]Create an Ad · [49]Create a Page · [50]Developers ·
    [51]Careers · [52]Privacy · [53]Terms · [54]Help
 
 References
@@ -613,7 +613,7 @@ References
   45. http://www.facebook.com/directory/people/
   46. http://www.facebook.com/directory/pages/
   47. http://www.facebook.com/facebook
-  48. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+  48. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto&extra_2=AdvertisingLink%3ACREATE_AN_AD
   49. http://www.facebook.com/pages/create.php?ref_type=sitefooter
   50. http://developers.facebook.com/?ref=pf
   51. http://www.facebook.com/careers/?ref=pf
