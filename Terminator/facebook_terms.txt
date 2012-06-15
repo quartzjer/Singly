@@ -6,8 +6,7 @@
    ____________________ ____________________    Log In
    [ ] Keep me logged in
                         [4]Forgot your password?
-   [5]Sign UpFacebook helps you connect and share with the people in your
-   life.
+   [5]Sign UpConnect and share with the people in your life.
 
    This agreement was written in English (US). To the extent any
    translated version of this agreement conflicts with the English
@@ -561,8 +560,8 @@
    we will default to the English version.
    Facebook © 2012 · [41]English (US)
    [42]Mobile · [43]Find Friends · [44]Badges · [45]People · [46]Pages ·
-   [47]About · [48]Create an Ad · [49]Create a Page · [50]Developers ·
-   [51]Careers · [52]Privacy · [53]Terms · [54]Help
+   [47]About · [48]Advertise · [49]Create a Page · [50]Developers ·
+   [51]Careers · [52]Privacy · [53]Cookies · [54]Terms · [55]Help
 
 References
 
@@ -570,7 +569,7 @@ References
    2. http://www.facebook.com/legal/terms
    3. http://www.facebook.com/
    4. http://www.facebook.com/recover.php
-   5. http://www.facebook.com/r.php?locale=en_US&v=0
+   5. http://www.facebook.com/r.php?locale=en_US&v=1
    6. http://www.facebook.com/principles.php
    7. http://www.facebook.com/policy.php
    8. http://www.facebook.com/privacy/
@@ -613,10 +612,11 @@ References
   45. http://www.facebook.com/directory/people/
   46. http://www.facebook.com/directory/pages/
   47. http://www.facebook.com/facebook
-  48. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto&extra_2=AdvertisingLink%3ACREATE_AN_AD
+  48. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto&extra_2=AdvertisingLink%3AADVERTISE
   49. http://www.facebook.com/pages/create.php?ref_type=sitefooter
   50. http://developers.facebook.com/?ref=pf
   51. http://www.facebook.com/careers/?ref=pf
   52. http://www.facebook.com/privacy/explanation
-  53. http://www.facebook.com/policies/?ref=pf
-  54. http://www.facebook.com/help/?ref=pf
+  53. http://www.facebook.com/help/cookies
+  54. http://www.facebook.com/policies/?ref=pf
+  55. http://www.facebook.com/help/?ref=pf
