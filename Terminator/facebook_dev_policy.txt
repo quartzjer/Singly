@@ -74,10 +74,9 @@ I. Features and Functionality
        create a physical product for that user's personal and
        non-commercial use.
     5. If you exceed, or plan to exceed, any of the following thresholds
-       please contact us by creating a [16]confidential bug report with
-       the "threshold policy" tag as you may be subject to additional
-       terms: (>5M MAU) or (>100M API calls per day) or (>50M impressions
-       per day).
+       please [16]contact us as you may be subject to additional terms:
+       (>5M MAU) or (>100M API calls per day) or (>50M impressions per
+       day).
     6. Your website must offer an explicit "Log Out" option that also logs
        the user out of Facebook.
     7. Special provision for apps on Pages: When a user visits your Page,
@@ -268,8 +267,8 @@ E. Advertisements and Cross-Promotions
        other applications, or provide web search functionality in content
        distributed through [29]Facebook social channels.
     2. You can only utilize advertising or similar monetization related
-       products or services from companies that appear on this [30]list
-       within [31]Apps on Facebook.com.
+       products or services from companies that appear on this [30]list of
+       Advertising Providers within [31]Apps on Facebook.com.
 
 IV. Application Integration Points
 
@@ -316,10 +315,10 @@ V. Enforcement
    as we in our sole discretion deem appropriate.
 
    Communication with developers takes place via an email sent from the
-   facebook.com or facebookmail.com domain to the Developer Contact email
-   address registered to the application. To stay in touch, please ensure
-   that your email address is current and that you do not filter out any
-   such messages.
+   facebook.com or facebookmail.com domain to the contact email address
+   registered to the application. To stay in touch, please ensure that
+   your email address is current and that you do not filter out any such
+   messages.
 
 VI. Changes
 
@@ -398,10 +397,11 @@ Additional Languages
    [49]Polski
    [50]Português (Brazil)
    [51]Türkçe
-   Updated about a month ago
+   Updated 12 hours ago
 
    Facebook © 2012 · [52]English (US)
-   [53]About[54]Careers[55]Platform Policies[56]Privacy Policy
+   [53]About[54]Advertising[55]Careers[56]Platform Policies[57]Privacy
+   Policy
 
 References
 
@@ -421,7 +421,7 @@ References
   13. http://developers.facebook.com/policy/#principles
   14. http://developers.facebook.com/policy/#policies
   15. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  16. http://developers.facebook.com/bugs/create
+  16. https://www.facebook.com/help/contact/?id=206103619499608
   17. http://developers.facebook.com/docs/guides/canvas/
   18. http://developers.facebook.com/docs/mobile/web/build/
   19. http://developers.facebook.com/docs/guides/canvas/
@@ -459,11 +459,12 @@ References
   51. https://developers.facebook.com/policy/Turkce/
   52. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
   53. http://www.facebook.com/platform
-  54. http://www.facebook.com/careers
-  55. http://developers.facebook.com/policy
-  56. http://www.facebook.com/policy.php
+  54. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  55. http://www.facebook.com/careers
+  56. http://developers.facebook.com/policy
+  57. http://www.facebook.com/policy.php
 
    Hidden links:
-  57. http://developers.facebook.com/policy/
-  58. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  59. http://developers.facebook.com/opensource/
+  58. http://developers.facebook.com/policy/
+  59. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  60. http://developers.facebook.com/opensource/
