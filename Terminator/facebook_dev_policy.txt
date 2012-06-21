@@ -7,7 +7,7 @@
    [4]Documentation[5]Support[6]Blog[7]Apps[8]Log In
      * Platform Policies
 
-     * [9]Credits Terms
+     * [9]Payments Terms
      * [10]Contact Facebook
 
      Supplemental Materials
@@ -353,7 +353,7 @@ VIII. Branding and Promotion Policy
 
 IX. [35]Advertising Guidelines
 
-X. [36]Facebook Credits
+X. [36]Facebook Developer Payments Terms
 
    Developers participating in the program for accepting credits are
    subject to [37]these terms.
@@ -397,7 +397,7 @@ Additional Languages
    [49]Polski
    [50]Português (Brazil)
    [51]Türkçe
-   Updated 12 hours ago
+   Updated 18 hours ago
 
    Facebook © 2012 · [52]English (US)
    [53]About[54]Advertising[55]Careers[56]Platform Policies[57]Privacy
