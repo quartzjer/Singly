@@ -1,13 +1,16 @@
 
-   [1][dev-back.png]
-   [2][dev-logo.gif]
+   [1][dev-back.png.he0f1af371399a07c249720f469d802e3.pack?items=%2Fdesign
+   %2F2010-11%2Fimages%2Fdev%2Fdev-back.png]
+   [2][dev-logo.gif.ha2128b5a1ddc863bbf35a7baf6969f49.pack?items=%2Fdesign
+   %2F2010-11%2Fimages%2Fdev%2Fdev-logo.gif]
      * [3]Log in
 
      * [4]Overview
      * [5]Register an App
      * [6]Manage My Apps
 
-   [dev-home-banner.jpg]
+   [dev-home-banner.jpg.h4b09ef6195679fccaa1714e937cdb7d1.pack?items=%2Fde
+   sign%2F2010-11%2Fimages%2Fdev%2Fdev-home-banner.jpg]
 
      * Visit Dev Forum
      * Read API Docs
@@ -22,7 +25,8 @@ Get affiliated
 
    Become a Fitbit Affiliate and make money from your users who buy a
    Fitbit.
-   [affiliate.jpg] [10]Learn more
+   [affiliate.jpg.h035cd42dcfaadc17daa432dcb3739b2c.pack?items=%2Fdesign%2
+   F2010-11%2Fimages%2Fdev%2Faffiliate.jpg] [10]Learn more
 
 API Terms of Service
 

@@ -27,8 +27,8 @@ Introduction
 
    Date of Last Revision: May 10, 2012
 
-   Facebook Platform is an extension of Facebook, whose mission is to give
-   people the power to share and make the world more open and connected.
+   Facebook Platform is an extension of Facebook, whose mission is to make
+   the world more open and connected.
 
    Platform applications and developers are required to comply with, and
    are subject to, the following documents:
@@ -95,11 +95,11 @@ I. Features and Functionality
        confuse users into thinking that the reference is to Facebook
        features or functionality.
     9. Games that are an [17]App on Facebook or [18]Mobile Web must use
-       Facebook Credits as their sole and exclusive payment method for all
-       virtual goods and currencies made available to users within the
+       Facebook Payments as their sole and exclusive payment method for
+       all virtual goods and currencies made available to users within the
        game. All other payment options are prohibited within games that
        are on [19]Apps on Facebook or [20]Mobile Web unless they go
-       through Facebook Credits rather than directly through that payment
+       through Facebook Payments rather than directly through that payment
        option. By “Payment Method” we mean any method that allows a user
        to complete a transaction where the user receives virtual currency
        or virtual goods in a game that is an [21]App on Facebook or
@@ -112,20 +112,20 @@ I. Features and Functionality
        activity alone are exempt from this definition.
    10. [23]Mobile Web Apps that are running within the Facebook iOS app
        must not accept payments. In particular, these apps must not
-       reference, use, or otherwise encourage the use of Facebook Credits
+       reference, use, or otherwise encourage the use of Facebook Payments
        or other non-iOS approved payment methods.
    11. Applications may reward users with virtual currency or virtual
        goods in exchange for user actions that do not involve third
        parties, but rewards for user actions that involve third parties
-       must be powered by Facebook Credits by integrating Facebook Credits
-       offers. For example, you may not reward users with virtual currency
-       or virtual goods in exchange for any action in which personally
-       identifiable information is shared with a third party, you may not
-       reward users with virtual currency or virtual goods in exchange for
-       third party downloads, such as toolbars or ringtones, and you may
-       not reward users with virtual currency for engaging in passive
-       actions offered by third parties, such as watching a video, playing
-       a mini-game, or taking an anonymous poll.
+       must be powered by Facebook Payments by integrating Facebook
+       Payments offers. For example, you may not reward users with virtual
+       currency or virtual goods in exchange for any action in which
+       personally identifiable information is shared with a third party,
+       you may not reward users with virtual currency or virtual goods in
+       exchange for third party downloads, such as toolbars or ringtones,
+       and you may not reward users with virtual currency for engaging in
+       passive actions offered by third parties, such as watching a video,
+       playing a mini-game, or taking an anonymous poll.
    12. [24]Apps on Facebook may not integrate, link to, promote,
        distribute, or redirect to any app on any other competing social
        platform.
@@ -355,7 +355,7 @@ IX. [35]Advertising Guidelines
 
 X. [36]Facebook Developer Payments Terms
 
-   Developers participating in the program for accepting credits are
+   Developers participating in the program for accepting payments are
    subject to [37]these terms.
 
 XI. Ads API
@@ -397,7 +397,7 @@ Additional Languages
    [49]Polski
    [50]Português (Brazil)
    [51]Türkçe
-   Updated on Wednesday
+   Updated 11 hours ago
 
    Facebook © 2012 · [52]English (US)
    [53]About[54]Advertising[55]Careers[56]Platform Policies[57]Privacy
