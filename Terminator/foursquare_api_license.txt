@@ -220,7 +220,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [licenseagreement&amp;event=pltp&amp;sig=ULz6Z39wEjwNlHwoPDXgUoJlGQI%3D
+   [licenseagreement&amp;event=pltp&amp;sig=XKss2hd4N3mMOQIhwGmJmg1Cxso%3D
    ]
 
 References
