@@ -370,9 +370,18 @@ XI. Ads API
        access to our Ads API. If you create a unique application on behalf
        of the third party, you must include a required field for your
        clients to agree to Facebook Terms and Policies.
-    3. You must, upon request, provide advertisers with a report on their
-       ad spend, and your report must itemize how much advertisers spend
-       on Facebook ads and fees for your service.
+    3. You may place 1x1 pixel view tags on certain advertisements with
+       our prior authorization. All data collected or obtained by you or
+       the advertiser, including but not limited to all view tag data that
+       is not otherwise available through the Facebook service, and all
+       data derived therefrom, may only be used by you or the advertiser
+       on an anonymous basis to optimize and measure the performance of
+       that advertiser's Facebook campaign. Neither you nor the advertiser
+       may use data for the following purposes: retargeting whether on or
+       off of the Facebook service; to commingle the data across multiple
+       campaigns; to build or augment any user profiles, or to use
+       piggybacking or redirects with the 1x1 pixel tags, or for any other
+       purpose not expressly authorized by us.
 
 Examples and Explanations
 
@@ -397,7 +406,7 @@ Additional Languages
    [49]Polski
    [50]Português (Brazil)
    [51]Türkçe
-   Updated last Friday
+   Updated 6 hours ago
 
    Facebook © 2012 · [52]English (US)
    [53]About[54]Advertising[55]Careers[56]Platform Policies[57]Privacy
