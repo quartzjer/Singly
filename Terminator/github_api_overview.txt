@@ -1,197 +1,321 @@
-   [1][logo.png]
-     * [2]API v3
-     * [3]API v2
-     * [4]Support
+   #[1]GitHub
 
-   This API is deprecated. Check out [5]API v3 for the latest
-   documentation.
+   [2]GitHub GitHub
+     * [3]Signup and Pricing
+     * [4]Explore GitHub
+     * [5]Features
+     * [6]Blog
+     * [7]Sign in
 
-General API Information
+   [404.png?1331936729]
 
-Schema
+There isn't a GitHub Page hosted here, sorry.
 
-   All API access is over HTTP and starts with
-http://github.com/api/v2/:format
+Are you trying to publish one?
 
-   where :format is one of 'json', 'xml' or 'yaml', specifying what the
-   response data should be formatted in. For all of the rest of this
-   documentation, we will be leaving off that part, since it is the same
-   for every API call.
+   We'll send you an email when your page has been built. It may take up
+   to ten minutes until your page is available.
 
-   Note: XML and YAML support is currently deprecated. Existing API calls
-   will continue to support it, but new API features will only support
-   JSON.
-
-Authentication
-
-   [6]OAuth is the preferred authentication method because tokens can be
-   limited to specific types of data, and can be revoked by users at any
-   time.
-
-   You can use HTTP Basic Auth to authenticate as a GitHub user. If you
-   want to pass your API token instead, add "/token" to the Basic Auth
-   username. Note that all requests that need authentication should
-   include the Authentication header. Unauthenticated requests will return
-   404 to prevent any sort of private information leakage.
-
-   You may also pass login and token to any URL. Note that this method of
-   authentication is deprecated.
-
-   Several of the calls will return extra data if you are authenticated as
-   a user that owns the repository or has access to it as a collaborator.
-   For example, a call to get information on one of your private
-   repositories would be:
-$ curl -u "schacon:PASSWORD" \
-  http://github.com/api/v2/json/user/show/schacon | jsonpretty
-{
-  "user": {
-    "company": "GitHub",
-    "name": "Scott Chacon",
-    "following_count": 11,
-    "blog": "http:\/\/scottchacon.com",
-    "public_repo_count": 52,
-    "public_gist_count": 45,
-    "disk_usage": 294392,
-    "collaborators": 3,
-    "plan": {
-      "name": "small",
-      "collaborators": 5,
-      "space": 1228800,
-      "private_repos": 10
-    },
-    "id": 70,
-    "owned_private_repo_count": 10,
-    "total_private_repo_count": 14,
-    "private_gist_count": 11,
-    "login": "schacon",
-    "followers_count": 182,
-    "created_at": "2008\/01\/27 09:19:28 -0800",
-    "email": "schacon@gmail.com",
-    "location": "Redwood City, CA"
-  }
-}
-
-   Here's a Basic Auth example using the API Token:
-$ curl -u "schacon/token:6ef8395fecf207165f1a82178ae1b984" \
-  http://github.com/api/v2/json/user/show/schacon | jsonpretty
-{
-  "user": {...
-
-Secure Access
-
-   You can access any API call over HTTPS, though public data can also be
-   accessed over HTTP.
-
-JSON callbacks
-
-   If you send a 'callback' variable to any call, it will wrap the result
-   JSON in that function, so you can automatically execute it.
-$ curl http://github.com/api/v2/json/issues/list/schacon/simplegit/open?callback
-=myJsFunction
-myJsFunction({"issues": [
-{"user": "schacon",
-"updated_at": "2009/04/17 16:19:02 -0700",
-"body": "something",
-"title": "new",
-"number": 2,
-"votes": 0,
-"position": 1.0,
-"created_at": "2009/04/17 16:18:50 -0700",
-"state": "open"}
-]});
-
-Limitations
-
-   Currently we are limiting API calls to 60 per minute. This may change
-   in the future, or possibly per user at some point, but if you try to
-   access the API more than 60 times in a minute, it will start giving you
-   "access denied" errors.
-     * General API Information
-     * [7]Commits API
-     * [8]Gist API
-     * [9]Issues API
-     * [10]API Libraries
-     * [11]Network API
-     * [12]OAuth
-     * [13]Object API
-     * [14]Organizations API
-     * [15]Pull Request API
-     * [16]Repositories API
-     * [17]Users API
-       This website is [18]open source. Please help us by forking the
-       project and adding to it.
+   [8]Read the Full Documentation to learn how to set up
+   username.github.com
 
 GitHub Links
-         GitHub
-          + [19]About
-          + [20]Blog
-          + [21]Features
-          + [22]Contact & Support
-          + [23]Training
-          + [24]Site Status
-         Tools
-          + [25]GitHub for Mac
-          + [26]Issues for iPhone
-          + [27]Gist: Code Snippets
-          + [28]GitHub Enterprise
-          + [29]Job Board
-         Extras
-          + [30]GitHub Shop
-          + [31]The Octodex
-         Documentation
-          + [32]GitHub Help
-          + [33]Developer API
-          + [34]GitHub Flavored Markdown
-          + [35]GitHub Pages
-       [36]Home
-          + [37]Terms of Service
-          + [38]Privacy
-          + [39]Security
-       © year GitHub Inc. All rights reserved.
-       [40]Dedicated Server Powered by the [41]Dedicated Servers and
-       [42]Cloud Computing of Rackspace Hosting®
+
+    GitHub
+     * [9]About
+     * [10]Blog
+     * [11]Features
+     * [12]Contact & Support
+     * [13]Training
+     * [14]GitHub Enterprise
+     * [15]Site Status
+
+    Clients
+     * [16]GitHub for Mac
+     * [17]GitHub for Windows
+     * [18]GitHub for Eclipse
+     * [19]GitHub Mobile Apps
+
+    Tools
+     * [20]Gauges: Web analytics
+     * [21]Speaker Deck: Presentations
+     * [22]Gist: Code snippets
+    Extras
+     * [23]Job Board
+     * [24]GitHub Shop
+     * [25]The Octodex
+
+    Documentation
+     * [26]GitHub Help
+     * [27]Developer API
+     * [28]GitHub Flavored Markdown
+     * [29]GitHub Pages
+
+     * [30]Terms of Service
+     * [31]Privacy
+     * [32]Security
+
+   © 2012 GitHub Inc. All rights reserved.
+   [33]Dedicated Server Powered by the [34]Dedicated Servers and
+   [35]Cloud Computing of Rackspace Hosting®
+
+Keyboard Shortcuts [36](see all)
+
+Site wide shortcuts
+
+   s
+          Focus site search
+
+   ?
+          Bring up this help dialog
+
+Commit list
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   c or o or enter
+          Open commit
+
+   y
+          Expand URL to its canonical form
+
+Pull request list
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   o or enter
+          Open issue
+
+   âŒ˜ctrl + enter
+          Submit comment
+
+Issues
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   x
+          Toggle selection
+
+   o or enter
+          Open issue
+
+   âŒ˜ctrl + enter
+          Submit comment
+
+   c
+          Create issue
+
+   l
+          Create label
+
+   i
+          Back to inbox
+
+   u
+          Back to issues
+
+   /
+          Focus issues search
+
+Issues Dashboard
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   o or enter
+          Open issue
+
+Network Graph
+
+   â†� or h
+          Scroll left
+
+   â†’ or l
+          Scroll right
+
+   â†‘ or k
+          Scroll up
+
+   â†“ or j
+          Scroll down
+
+   t
+          Toggle visibility of head labels
+
+   shift â†� or shift h
+          Scroll all the way left
+
+   shift â†’ or shift l
+          Scroll all the way right
+
+   shift â†‘ or shift k
+          Scroll all the way up
+
+   shift â†“ or shift j
+          Scroll all the way down
+
+Source Code Browsing
+
+   t
+          Activates the file finder
+
+   l
+          Jump to line
+
+   w
+          Switch branch/tag
+
+   y
+          Expand URL to its canonical form
+
+Browsing Commits
+
+   âŒ˜ctrl + enter
+          Submit comment
+
+   escape
+          Close form
+
+   p
+          Parent commit
+
+   o
+          Other parent commit
+
+Markdown Cheat Sheet
+
+Format Text
+
+   Headers
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+   Text styles
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+
+Lists
+
+   Unordered
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+   Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
+Miscellaneous
+
+   Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+   Links
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+   Blockquotes
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+Code Examples in Markdown
+
+   Syntax highlighting with [37]GFM
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+   Or, indent your code 4 spaces
+Here is a Python code example
+without syntax highlighting:
+
+    def foo:
+      if not bar:
+        return true
+
+   Inline code for comments
+I think you should use an
+`<addr>` element here instead.
+
+   Something went wrong with that request. Please try again. [38]Dismiss
+
+Looking for the GitHub logo?
+
+     * GitHub Logo [39]Github_logo [40]Download
+     * The Octocat [41]Octocat [42]Download
 
 References
 
-   1. http://develop.github.com/
-   2. http://developer.github.com/v3/
-   3. http://develop.github.com/
-   4. http://support.github.com/discussions/api
-   5. http://developer.github.com/v3/
-   6. http://develop.github.com/p/oauth.html
-   7. http://develop.github.com/p/commits.html
-   8. http://develop.github.com/p/gist.html
-   9. http://develop.github.com/p/issues.html
-  10. http://develop.github.com/p/libraries.html
-  11. http://develop.github.com/p/network.html
-  12. http://develop.github.com/p/oauth.html
-  13. http://develop.github.com/p/object.html
-  14. http://develop.github.com/p/orgs.html
-  15. http://develop.github.com/p/pulls.html
-  16. http://develop.github.com/p/repo.html
-  17. http://develop.github.com/p/users.html
-  18. http://github.com/github/develop.github.com
-  19. https://github.com/about
-  20. https://github.com/blog
-  21. https://github.com/features
-  22. https://github.com/contact
-  23. https://github.com/training
-  24. http://status.github.com/
-  25. http://mac.github.com/
-  26. http://mobile.github.com/
-  27. https://gist.github.com/
-  28. http://enterprise.github.com/
-  29. http://jobs.github.com/
-  30. http://shop.github.com/
-  31. http://octodex.github.com/
-  32. http://help.github.com/
-  33. http://developer.github.com/
-  34. http://github.github.com/github-flavored-markdown/
-  35. http://pages.github.com/
-  36. http://github.com/
-  37. http://help.github.com/terms-of-service/
-  38. http://help.github.com/privacy-policy/
-  39. http://help.github.com/security/
-  40. http://www.rackspace.com/
-  41. http://www.rackspace.com/
-  42. http://www.rackspacecloud.com/
+   1. http://develop.github.com/opensearch.xml
+   2. http://github.com/
+   3. https://github.com/plans
+   4. https://github.com/explore
+   5. https://github.com/features
+   6. https://github.com/blog
+   7. https://github.com/login
+   8. http://pages.github.com/
+   9. https://github.com/about
+  10. https://github.com/blog
+  11. https://github.com/features
+  12. https://github.com/contact
+  13. https://github.com/training
+  14. http://enterprise.github.com/
+  15. http://status.github.com/
+  16. http://mac.github.com/
+  17. http://windows.github.com/
+  18. http://eclipse.github.com/
+  19. http://mobile.github.com/
+  20. http://get.gaug.es/
+  21. http://speakerdeck.com/
+  22. https://gist.github.com/
+  23. http://jobs.github.com/
+  24. http://shop.github.com/
+  25. http://octodex.github.com/
+  26. http://help.github.com/
+  27. http://developer.github.com/
+  28. http://github.github.com/github-flavored-markdown/
+  29. http://pages.github.com/
+  30. https://github.com/site/terms
+  31. https://github.com/site/privacy
+  32. https://github.com/security
+  33. http://www.rackspace.com/
+  34. http://www.rackspace.com/
+  35. http://www.rackspacecloud.com/
+  36. http://develop.github.com/p/general.html
+  37. http://github.github.com/github-flavored-markdown/
+  38. http://develop.github.com/p/general.html
+  39. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
+  40. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
+  41. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
+  42. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
