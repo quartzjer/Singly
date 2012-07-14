@@ -262,7 +262,7 @@ References
    6. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
    7. https://developer.bodymedia.com/page
    8. https://developer.bodymedia.com/docs
-   9. https://developer.bodymedia.com/DataAPIGallery
+   9. https://developer.bodymedia.com/BodyMediaGallery
   10. https://developer.bodymedia.com/forum
   11. http://www.bodymedia.com/
   12. http://twitter.com/#!/bodymediaAPI
