@@ -197,6 +197,23 @@ Browsing Commits
    o
           Other parent commit
 
+Notifications
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   o or enter
+          Open notification
+
+   e or shift i or y
+          Mark as read
+
+   shift m
+          Mute thread
+
 Markdown Cheat Sheet
 
 Format Text
