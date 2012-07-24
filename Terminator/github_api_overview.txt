@@ -328,7 +328,7 @@ References
   32. https://github.com/security
   33. http://www.rackspace.com/
   34. http://www.rackspace.com/
-  35. http://www.rackspacecloud.com/
+  35. http://www.rackspace.com/cloud
   36. http://develop.github.com/p/general.html
   37. http://github.github.com/github-flavored-markdown/
   38. http://develop.github.com/p/general.html
