@@ -20,7 +20,7 @@
 
 Privacy Policy
 
-   Last modified: March 1, 2012 ([14]view archived versions)
+   Last modified: July 27, 2012 ([14]view archived versions)
 
    There are many different ways you can use our services â€“ to search
    for and share information, to communicate with other people or to
@@ -326,10 +326,11 @@ Specific product practices
      * [37]Chrome and Chrome OS
      * [38]Books
      * [39]Wallet
+     * [40]Fiber
 
    [English______________________________________]
-     * [40]Google
-     * [41]Privacy & Terms
+     * [41]Google
+     * [42]Privacy & Terms
 
 References
 
@@ -372,5 +373,6 @@ References
   37. http://www.google.com/chrome/intl/en/privacy.html
   38. http://books.google.com/intl/en/googlebooks/privacy.html
   39. http://wallet.google.com/files/privacy.html?hl=en
-  40. http://www.google.com/
-  41. http://www.google.com/intl/en/policies/
+  40. https://fiber.google.com/legal/privacy.html
+  41. http://www.google.com/
+  42. http://www.google.com/intl/en/policies/

@@ -243,12 +243,13 @@
      * [9]Gallery
      * [10]Forums
 
-   [11]Learn more about BodyMedia
+   [11]Learn more about BodyMedia [12]Display Branding and Attribution
+   Policy [13]Data Use Policy [14]API Terms of Use
 
    © 2012 BodyMedia, Inc.
 
    Follow us:
-   [12]Twitter [13]Facebook
+   [15]Twitter [16]Facebook
 
    Quantcast
 
@@ -265,5 +266,8 @@ References
    9. https://developer.bodymedia.com/BodyMediaGallery
   10. https://developer.bodymedia.com/forum
   11. http://www.bodymedia.com/
-  12. http://twitter.com/#!/bodymediaAPI
-  13. http://www.facebook.com/BodyMediaFIT
+  12. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
+  13. https://developer.bodymedia.com/Data_Use_Policy
+  14. https://developer.bodymedia.com/API_Terms_of_Use
+  15. http://twitter.com/#!/bodymediaAPI
+  16. http://www.facebook.com/BodyMediaFIT
