@@ -56,10 +56,8 @@ GitHub Links
      * [32]Security
 
    © 2012 GitHub Inc. All rights reserved.
-   [33]Dedicated Server Powered by the [34]Dedicated Servers and
-   [35]Cloud Computing of Rackspace Hosting®
 
-Keyboard Shortcuts [36](see all)
+Keyboard Shortcuts [33](see all)
 
 Site wide shortcuts
 
@@ -264,7 +262,7 @@ As Kanye West said:
 
 Code Examples in Markdown
 
-   Syntax highlighting with [37]GFM
+   Syntax highlighting with [34]GFM
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -285,12 +283,12 @@ without syntax highlighting:
 I think you should use an
 `<addr>` element here instead.
 
-   Something went wrong with that request. Please try again. [38]Dismiss
+   Something went wrong with that request. Please try again. [35]Dismiss
 
 Looking for the GitHub logo?
 
-     * GitHub Logo [39]Github_logo [40]Download
-     * The Octocat [41]Octocat [42]Download
+     * GitHub Logo [36]Github_logo [37]Download
+     * The Octocat [38]Octocat [39]Download
 
 References
 
@@ -326,13 +324,10 @@ References
   30. https://github.com/site/terms
   31. https://github.com/site/privacy
   32. https://github.com/security
-  33. http://www.rackspace.com/
-  34. http://www.rackspace.com/
-  35. http://www.rackspace.com/cloud
-  36. http://develop.github.com/p/general.html
-  37. http://github.github.com/github-flavored-markdown/
-  38. http://develop.github.com/p/general.html
-  39. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
-  40. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
-  41. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
-  42. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
+  33. http://develop.github.com/p/general.html
+  34. http://github.github.com/github-flavored-markdown/
+  35. http://develop.github.com/p/general.html
+  36. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
+  37. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
+  38. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
+  39. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
