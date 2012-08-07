@@ -96,16 +96,16 @@ Account Inactivity
 
 References
 
-   1. http://mail.google.com/
-   2. http://mail.google.com/mail/signup?pc=programpolicies&co=en&hl=en
-   3. http://mail.google.com/mail/help/about.html
-   4. http://mail.google.com/mail/help/switch.html
-   5. http://mail.google.com/mail/help/about_whatsnew.html
-   6. http://mail.google.com/mail/help/tips.html
+   1. https://mail.google.com/
+   2. https://mail.google.com/mail/signup?pc=programpolicies&co=en&hl=en
+   3. https://mail.google.com/mail/help/intl/en/about.html
+   4. https://mail.google.com/mail/help/intl/en/switch.html
+   5. https://mail.google.com/mail/help/intl/en/about_whatsnew.html
+   6. https://mail.google.com/mail/help/intl/en/tips.html
    7. http://gmailblog.blogspot.com/
-   8. http://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
-   9. http://support.google.com/mail/?hl=en&p=mktg
-  10. http://mail.google.com/mail/help/tips.html
-  11. http://www.google.com/mail/help/program_policies.html
-  12. http://mail.google.com/
-  13. http://mail.google.com/intl/en/policies/
+   8. https://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
+   9. https://support.google.com/mail/?hl=en&p=mktg
+  10. https://mail.google.com/mail/help/intl/en/tips.html
+  11. https://mail.google.com/mail/help/intl/en/program_policies.html
+  12. https://mail.google.com/
+  13. https://mail.google.com/intl/en/policies/
