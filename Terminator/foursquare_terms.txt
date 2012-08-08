@@ -698,14 +698,14 @@ Contact.
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [terms&amp;sig=Iy2Cu2gbZv2wQQphPAptsBhJn9w%3D]
+   [terms&amp;sig=CyIF9hX4y36ly7ezxhWVlK3UNrY%3D]
 
 References
 
    Visible links
    1. https://ss0.4sqi.net/opensearch-6b463ddc6a73b41a3d4b1c705d814fcf.xml
    2. https://foursquare.com/
-   3. https://foursquare.com/login
+   3. https://foursquare.com/login?continue=%2Flegal%2Fterms&clicked=true
    4. https://foursquare.com/signup
    5. https://foursquare.com/download
    6. https://foursquare.com/

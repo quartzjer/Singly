@@ -4,7 +4,7 @@
 
    [3]Facebook Developers
    Search______________ (Submit) Search
-   [4]Documentation[5]Tools[6]Support[7]Blog[8]Apps[9]Log In
+   [4]Docs[5]Tools[6]Support[7]News[8]Apps[9]Log In
      * Platform Policies
 
      * [10]Payments Terms
@@ -25,7 +25,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: May 10, 2012
+   Date of Last Revision: August 7, 2012
 
    Facebook Platform is an extension of Facebook, whose mission is to make
    the world more open and connected.
@@ -200,55 +200,62 @@ II. Storing and Using Data You Receive From Us
        application. You are responsible for all activities that occur
        under your account identifiers.
 
-III. Application Content
+III. Content
 
-A. Responsibility for Content
+A. General
 
-   You are responsible for all content of and within your application,
-   including advertisements, user-generated content, and any content
-   hosted, streamed or otherwise delivered to users by third parties. You
-   must make it clear that this content is not provided by Facebook.
+    1. Responsibility for content: You are responsible for all content of
+       and within your application, including advertisements,
+       user-generated content, and any content hosted, streamed or
+       otherwise delivered to users by third parties. You must make it
+       clear that this content is not provided by Facebook. You must also
+       comply with the [28]Facebook Community Standards.
+    2. Demographic restrictions: You are responsible for restricting
+       access to your content in accordance with our content policies and
+       all applicable laws and regulations. Although we [29]provide
+       controls to assist with this, please note that we make no
+       representations regarding the sufficiency of any controls provided
+       to you and that you are ultimately responsible for establishing
+       legally compliant restrictions for each country where your app is
+       visible.
+    3. Advertisements and cross-promotions:
+       a. You must not include advertisements, cross-promote other
+       applications, or provide web search functionality in content
+       distributed through [30]Facebook social channels.
+       b. You can only utilize advertising or similar monetization related
+       products or services from companies that appear on this [31]list of
+       Advertising Providers within [32]Apps on Facebook.com.
+    4. Promotions: If you run, reference, or facilitate a promotion
+       (contest, competition, or sweepstake) on Facebook, you must comply
+       with Facebook’s [33]Promotions Guidelines.
+    5. Permission from Facebook: You must not promote, or provide content
+       referencing, facilitating, or containing online gambling, games of
+       skill or lotteries without our written permission.
 
-B. Prohibited Content
+B. Content Rights
 
-   You agree that you will not promote, or provide content referencing,
-   facilitating, containing or using, the following:
-    1. Alcohol-related content (unless the appropriate [28]Demographic
-       Restrictions are used), or sale of tobacco products, ammunition
-       and/or firearms;
-    2. Content that infringes upon the rights of any third party,
-       including intellectual property rights, privacy, publicity, moral
-       or other personal or proprietary right, or that is deceptive or
-       fraudulent;
-    3. Online gambling, games of skill or lotteries, including online
-       casinos, sports books, bingo, or poker.
-    4. Illegal activity and/or illegal contests, pyramid schemes,
-       sweepstakes or chain letters; if you run, reference, or facilitate
-       a legally permissible sweepstakes, contest, or other promotion you
-       are subject to Facebook's [29]Promotions Guidelines;
-    5. Content that is hateful, threatening, defamatory, or pornographic;
-       incites violence; or contains nudity or graphic or gratuitous
-       violence.
-
-C. Rights to Content
-
-    1. You must ensure that you own or have secured all rights necessary
+    1. You agree that you will not promote or provide content that
+       references, facilitates, contains or uses content that infringes
+       upon the rights of any third party, including intellectual property
+       rights, privacy, publicity, moral or other personal or proprietary
+       rights, or that is deceptive or fraudulent.
+    2. You must ensure that you own or have secured all rights necessary
        to copy, display, distribute, deliver, render and publicly perform
        all content of or within your application to Facebook users in all
        countries where you make the content available.
-    2. You are responsible for all licensing, reporting and payout
+    3. You are responsible for all licensing, reporting and payout
        obligations to third parties required in connection with content of
        or within your application.
-    3. You must use commercially reasonable geo-filtering technology to
+    4. You must use commercially reasonable geo-filtering technology to
        block access to your application's content in countries where you
        are unauthorized to deliver such content, or where delivery of such
        content would otherwise infringe the rights of a third party.
-    4. Although we have no obligation to do so, in our sole discretion we
+    5. Although we have no obligation to do so, in our sole discretion we
        may request, and you are required to provide us, proof that your
        application and any content of or within your application is
        properly licensed.
 
-D. Third Party Generated Content
+C. Third Party Content
 
    If your application contains content submitted or provided by third
    parties, you must comply with the following rules:
@@ -257,23 +264,14 @@ D. Third Party Generated Content
        Copyright Act including designating an agent to receive notices of
        claimed infringement, instituting a repeat infringer termination
        policy and implementing a "notice and takedown" process. In other
-       countries, you must comply with local copyright laws and ensure you
-       implement an appropriate "notice and takedown" process upon
-       receiving a notice of claimed infringement.
-
-E. Advertisements and Cross-Promotions
-
-    1. You must not include advertisements or promotions, cross-promote
-       other applications, or provide web search functionality in content
-       distributed through [30]Facebook social channels.
-    2. You can only utilize advertising or similar monetization related
-       products or services from companies that appear on this [31]list of
-       Advertising Providers within [32]Apps on Facebook.com.
+       countries, you must comply with local copyright laws and implement
+       an appropriate "notice and takedown" process upon receiving a
+       notice of claimed infringement.
 
 IV. Application Integration Points
 
     1. You must not incentivize users to use (or gate content behind the
-       use of) [33]Facebook social channels, or imply that an incentive is
+       use of) [34]Facebook social channels, or imply that an incentive is
        directly tied to the use of our channels.
     2. You must not pre-fill any of the fields associated with the
        following products, unless the user manually generated the content
@@ -282,7 +280,7 @@ IV. Application Integration Points
        parameter for stream.publish), Photos (caption), Videos
        (description), Notes (title and content), Links (comment), and
        Jabber/XMPP.
-    3. If a user grants you a publishing [34]permission, actions you take
+    3. If a user grants you a publishing [35]permission, actions you take
        on the user's behalf must be expected by the user and consistent
        with the user's actions within your app.
     4. Platform integrations, including social plugins:
@@ -348,15 +346,15 @@ VII. Definitions
 
 VIII. Branding and Promotion Policy
 
-   You must follow the guidelines set forth in the [35]Facebook Brand
+   You must follow the guidelines set forth in the [36]Facebook Brand
    Resource and Permissions Center.
 
-IX. [36]Advertising Guidelines
+IX. [37]Advertising Guidelines
 
-X. [37]Facebook Developer Payments Terms
+X. [38]Facebook Developer Payments Terms
 
    Developers participating in the program for accepting payments are
-   subject to [38]these terms.
+   subject to [39]these terms.
 
 XI. Ads API
 
@@ -388,28 +386,28 @@ Examples and Explanations
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [39]examples and explanations will help you understand how to put
+   these [40]examples and explanations will help you understand how to put
    that into practice.
 
 Additional Languages
 
-   [40]العربية
-   [41]中文(香港)
-   [42]中文(台灣)
-   [43]Deutsch
-   [44]Español
-   [45]Français
-   [46]עברית
-   [47]Italiano
-   [48]日本語
-   [49]한국어
-   [50]Polski
-   [51]Português (Brasil)
-   [52]Türkçe
-   Updated about a week ago
+   [41]العربية
+   [42]中文(香港)
+   [43]中文(台灣)
+   [44]Deutsch
+   [45]Español
+   [46]Français
+   [47]עברית
+   [48]Italiano
+   [49]日本語
+   [50]한국어
+   [51]Polski
+   [52]Português (Brasil)
+   [53]Türkçe
+   Updated 11 hours ago
 
-   Facebook © 2012 · [53]English (US)
-   [54]About[55]Advertising[56]Careers[57]Platform Policies[58]Privacy
+   Facebook © 2012 · [54]English (US)
+   [55]About[56]Advertising[57]Careers[58]Platform Policies[59]Privacy
    Policy
 
 References
@@ -442,39 +440,40 @@ References
   25. http://developers.facebook.com/docs/guides/canvas/
   26. http://developers.facebook.com/policy/#definitions
   27. http://developers.facebook.com/docs/reference/api/user/
-  28. http://developers.facebook.com/docs/reference/api/application/#restrictions
-  29. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  28. https://www.facebook.com/communitystandards
+  29. http://developers.facebook.com/docs/reference/api/application/#restrictions
   30. http://developers.facebook.com/policy/#Facebook_social_channels
   31. http://developers.facebook.com/adproviders/
   32. http://developers.facebook.com/docs/guides/canvas/
-  33. http://developers.facebook.com/policy/#Facebook_social_channels
-  34. http://developers.facebook.com/docs/authentication/permissions/
-  35. https://www.facebook.com/brandpermissions/logos.php
-  36. https://www.facebook.com/ad_guidelines.php
-  37. http://developers.facebook.com/policy/credits
+  33. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  34. http://developers.facebook.com/policy/#Facebook_social_channels
+  35. http://developers.facebook.com/docs/authentication/permissions/
+  36. https://www.facebook.com/brandpermissions/logos.php
+  37. https://www.facebook.com/ad_guidelines.php
   38. http://developers.facebook.com/policy/credits
-  39. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  40. https://developers.facebook.com/policy/Arabic/
-  41. https://developers.facebook.com/policy/ChineseHK/
-  42. https://developers.facebook.com/policy/ChineseTW/
-  43. https://developers.facebook.com/policy/Deutsch/
-  44. https://developers.facebook.com/policy/Espanol/
-  45. https://developers.facebook.com/policy/Francais/
-  46. https://developers.facebook.com/policy/Hebrew/
-  47. https://developers.facebook.com/policy/Italiano/
-  48. https://developers.facebook.com/policy/Japanese/
-  49. https://developers.facebook.com/policy/Korean/
-  50. https://developers.facebook.com/policy/Polski/
-  51. https://developers.facebook.com/policy/Portugues/
-  52. https://developers.facebook.com/policy/Turkce/
-  53. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  54. http://www.facebook.com/platform
-  55. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
-  56. http://www.facebook.com/careers
-  57. http://developers.facebook.com/policy
-  58. http://www.facebook.com/policy.php
+  39. http://developers.facebook.com/policy/credits
+  40. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  41. https://developers.facebook.com/policy/Arabic/
+  42. https://developers.facebook.com/policy/ChineseHK/
+  43. https://developers.facebook.com/policy/ChineseTW/
+  44. https://developers.facebook.com/policy/Deutsch/
+  45. https://developers.facebook.com/policy/Espanol/
+  46. https://developers.facebook.com/policy/Francais/
+  47. https://developers.facebook.com/policy/Hebrew/
+  48. https://developers.facebook.com/policy/Italiano/
+  49. https://developers.facebook.com/policy/Japanese/
+  50. https://developers.facebook.com/policy/Korean/
+  51. https://developers.facebook.com/policy/Polski/
+  52. https://developers.facebook.com/policy/Portugues/
+  53. https://developers.facebook.com/policy/Turkce/
+  54. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  55. http://www.facebook.com/FacebookDevelopers
+  56. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  57. http://www.facebook.com/careers
+  58. http://developers.facebook.com/policy
+  59. http://www.facebook.com/policy.php
 
    Hidden links:
-  59. http://developers.facebook.com/policy/
-  60. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  61. http://developers.facebook.com/opensource/
+  60. http://developers.facebook.com/policy/
+  61. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  62. http://developers.facebook.com/opensource/
