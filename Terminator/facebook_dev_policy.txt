@@ -3,7 +3,7 @@
    #[2]alternate
 
    [3]Facebook Developers
-   Search______________ (Submit) Search
+   Search Facebook Deve (Submit) Search Facebook Developers
    [4]Docs[5]Tools[6]Support[7]News[8]Apps[9]Log In
      * Platform Policies
 
@@ -25,7 +25,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: August 7, 2012
+   Date of Last Revision: August 8, 2012
 
    Facebook Platform is an extension of Facebook, whose mission is to make
    the world more open and connected.
@@ -126,9 +126,11 @@ I. Features and Functionality
        and you may not reward users with virtual currency for engaging in
        passive actions offered by third parties, such as watching a video,
        playing a mini-game, or taking an anonymous poll.
-   12. [25]Apps on Facebook may not integrate, link to, promote,
-       distribute, or redirect to any app on any other competing social
-       platform.
+   12. Competing social networks: (a) You may not use Facebook Platform to
+       export user data into a competing social network without our
+       permission; (b) [25]Apps on Facebook may not integrate, link to,
+       promote, distribute, or redirect to any app on any other competing
+       social network.
    13. The primary purpose of your Canvas or Page Tab app on Facebook must
        not be to simply redirect users out of the Facebook experience and
        onto an external site.
@@ -404,7 +406,7 @@ Additional Languages
    [51]Polski
    [52]Português (Brasil)
    [53]Türkçe
-   Updated 11 hours ago
+   Updated 5 hours ago
 
    Facebook © 2012 · [54]English (US)
    [55]About[56]Advertising[57]Careers[58]Platform Policies[59]Privacy
