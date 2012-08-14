@@ -69,18 +69,27 @@ LinkedIn APIs Terms of Use
             Terms of Use. If you use both APIs and LinkedIn plugins in
             your Application, you must comply with these Terms and the
             Plugins Terms of Use.
-         3. Who Our Partner Program Is For
-            Some applications require an additional business relationship
-            with us to use our Platform. Without that separate agreement,
-            the use of our APIs in Partner Program Applications is not
-            permitted under these Terms. “Partner Program Applications”
-            means any application or service that falls into one or more
-            of the following categories:
+         3. Who Our Partner Programs Are For
+            We designed our Partner Programs to give specific categories
+            of applications access to our Platform. Approved partners in
+            these programs often get enhanced use of our APIs and premium
+            support.
+            Learn more about all of our Partner Programs, including the
+            application process, at
+            [26]https://developer.linkedin.com/partner-programs.
+            If your application falls into one or more of the following
+            categories, you are required to be part of one of our Partner
+            Programs and have a signed agreement with LinkedIn that allows
+            you to use our APIs in your application:
                o Applications used for hiring, marketing, or sales. For
                  example, employee hiring, company marketing or
                  monitoring, lead generation, relationship management,
                  systematic matching of people with their LinkedIn
                  profile, or anything with a similar feature or purpose.
+                 Developers interested in these categories often apply to
+                 one of the following Partner Programs: Social Media
+                 Management, Ads, ATS, Job Postings, CRM, or our Certified
+                 Developer Program.
                o Applications that currently have or expect to have more
                  than 250,000 lifetime members using our APIs, make more
                  than 500,000 daily API calls, make more than 500,000
@@ -92,11 +101,10 @@ LinkedIn APIs Terms of Use
                  the member, such as a member’s connections, people found
                  via search, and information about companies and job
                  postings.
-            Learn more about our partner programs at
-            [26]https://developer.linkedin.com/partner-programs. If you
-            believe you are a good fit for one of these programs or are
-            wondering if you could be building a Partner Program
-            Application, please contact us.
+            If you believe that you are a good fit for one of these
+            programs or are interested in building an application that
+            requires access or permission under our Partner Programs,
+            please contact us.
     2. Joining our Program
          1. Developer Accounts and Access Credentials
               1. Developer Account.

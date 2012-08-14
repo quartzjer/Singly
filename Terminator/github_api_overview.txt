@@ -7,7 +7,7 @@
      * [6]Blog
      * [7]Sign in
 
-   [404.png?1338956357]
+   [404.png?1340659511]
 
 There isn't a GitHub Page hosted here, sorry.
 
@@ -95,6 +95,9 @@ Pull request list
    âŒ˜ctrl + enter
           Submit comment
 
+   âŒ˜ctrl + shift p
+          Preview comment
+
 Issues
 
    j
@@ -111,6 +114,9 @@ Issues
 
    âŒ˜ctrl + enter
           Submit comment
+
+   âŒ˜ctrl + shift p
+          Preview comment
 
    c
           Create issue
