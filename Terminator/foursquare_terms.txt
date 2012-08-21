@@ -698,13 +698,13 @@ Contact.
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1345438104&amp;ref=&amp;p=%2Flegal%2
-   Fterms&amp;sig=ptZ54zEmrtiTYrcfD7qSJkOMSCM%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1345524502&amp;ref=&amp;p=%2Flegal%2
+   Fterms&amp;sig=praGY6mhf5Ph7Fn8FhfbPKpLnsg%3D]
 
 References
 
    Visible links
-   1. https://ss0.4sqi.net/opensearch-f622d7e0319b8abfdcdd9a63812f71e6.xml
+   1. https://ss1.4sqi.net/opensearch-7f41dcb8fcd581df7d9c682de36f88ec.xml
    2. https://foursquare.com/
    3. https://foursquare.com/login?continue=%2Flegal%2Fterms&clicked=true
    4. https://foursquare.com/signup

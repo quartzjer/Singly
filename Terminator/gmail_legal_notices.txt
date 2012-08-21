@@ -30,7 +30,7 @@ Your Intellectual Property Rights
 References
 
    1. https://mail.google.com/
-   2. https://mail.google.com/mail/signup?pc=legalnotices&co=en&hl=en
+   2. https://accounts.google.com/SignUp?service&mail&hl=en&continue=http%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-legalnotices-en
    3. https://mail.google.com/mail/help/intl/en/about.html
    4. https://mail.google.com/mail/help/intl/en/switch.html
    5. https://mail.google.com/mail/help/intl/en/about_whatsnew.html
@@ -39,6 +39,6 @@ References
    8. https://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
    9. https://support.google.com/mail/?hl=en&p=mktg
   10. https://mail.google.com/mail/help/intl/en/tips.html
-  11. https://www.google.com/mail/help/program_policies.html
+  11. https://mail.google.com/mail/help/intl/en/program_policies.html
   12. https://mail.google.com/
   13. https://mail.google.com/intl/en/policies/

@@ -264,13 +264,13 @@ VII. Trademarks
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1345438103&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Fplatformpolicy&amp;sig=%2FuUTwiGCdFbe%2BfV0fsjD7o39Hws%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1345524501&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Fplatformpolicy&amp;sig=9c4eI2iO39iqZSasiEFoEu7ocg0%3D]
 
 References
 
    Visible links
-   1. https://ss0.4sqi.net/opensearch-f622d7e0319b8abfdcdd9a63812f71e6.xml
+   1. https://ss1.4sqi.net/opensearch-7f41dcb8fcd581df7d9c682de36f88ec.xml
    2. https://foursquare.com/
    3. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Fplatformpolicy&clicked=true
    4. https://foursquare.com/signup
