@@ -698,8 +698,8 @@ Contact.
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1345524502&amp;ref=&amp;p=%2Flegal%2
-   Fterms&amp;sig=praGY6mhf5Ph7Fn8FhfbPKpLnsg%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1345610900&amp;ref=&amp;p=%2Flegal%2
+   Fterms&amp;sig=WJJ3KWMt8Ptphw60K79CeyVJzsI%3D]
 
 References
 
@@ -722,7 +722,7 @@ References
   16. https://foursquare.com/legal/api/licenseagreement
   17. https://foursquare.com/about
   18. http://blog.foursquare.com/
-  19. http://developers.foursquare.com/
+  19. http://developer.foursquare.com/
   20. http://foursquare.com/help
   21. https://foursquare.com/jobs/
   22. https://foursquare.com/legal/privacy

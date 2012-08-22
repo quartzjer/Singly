@@ -264,8 +264,8 @@ VII. Trademarks
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1345524501&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Fplatformpolicy&amp;sig=9c4eI2iO39iqZSasiEFoEu7ocg0%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1345610899&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Fplatformpolicy&amp;sig=IZzzZyxVFL5N0rAvfju6d0WugaE%3D]
 
 References
 
@@ -281,7 +281,7 @@ References
    9. https://foursquare.com/legal/trademark
   10. https://foursquare.com/about
   11. http://blog.foursquare.com/
-  12. http://developers.foursquare.com/
+  12. http://developer.foursquare.com/
   13. http://foursquare.com/help
   14. https://foursquare.com/jobs/
   15. https://foursquare.com/legal/privacy
