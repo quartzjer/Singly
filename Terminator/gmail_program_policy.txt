@@ -106,6 +106,6 @@ References
    8. https://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
    9. https://support.google.com/mail/?hl=en&p=mktg
   10. https://mail.google.com/mail/help/intl/en/tips.html
-  11. https://mail.google.com/mail/help/intl/en/program_policies.html
+  11. https://www.google.com/mail/help/program_policies.html
   12. https://mail.google.com/
   13. https://mail.google.com/intl/en/policies/
