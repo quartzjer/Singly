@@ -10,16 +10,17 @@
           + [10]REST API
           + [11]Streaming API
           + [12]Twitter for Websites
-          + [13]Recently updated
-     * [14]Sign in
+          + [13]Field Guide
+          + [14]Recently updated
+     * [15]Sign in
 
-   [15]Home
-   [16]Tweet
+   [16]Home
+   [17]Tweet
 
 Developer Rules of the Road
 
-     * [17]View
-     * [18]What links here
+     * [18]View
+     * [19]What links here
 
    Last Update - 17th of May 2012
 
@@ -52,7 +53,7 @@ I. Twitter Content
    1. All use of the Twitter API and content, documentation, code, and
    related materials made available to you on or through Twitter ("Twitter
    Content") is subject to and must comply with these Rules. As a
-   reminder, you and your Service are subject to the [19]Twitter Terms of
+   reminder, you and your Service are subject to the [20]Twitter Terms of
    Service.
 
    2. You may use the Twitter API and Twitter Content in connection with
@@ -136,7 +137,7 @@ II. Principles
 
     1. Maintain the integrity of Tweets. There is a lot of information
        packed into Tweets even though they are just 140 characters long
-       (e.g., links to usernames). The [20]Display Guidelines are a part
+       (e.g., links to usernames). The [21]Display Guidelines are a part
        of the Rules and provide guidance on how to best convey all the
        intended information in a Tweet.
        A few highlights:
@@ -165,7 +166,7 @@ II. Principles
     3. Your Service should not:
           + use business names and/or logos in a manner that can mislead,
             confuse, or deceive users. For more information on use of
-            Twitter Marks, see our trademark rules [21]here
+            Twitter Marks, see our trademark rules [22]here
           + confuse or mislead users about the source or purpose of your
             application.
           + use as its Application Website URL an unrelated URL, a site
@@ -183,10 +184,10 @@ II. Principles
 
 2. Don't create or distribute spam
 
-    1. Spam can take many forms. Please abide by the spam rules [22]here.
+    1. Spam can take many forms. Please abide by the spam rules [23]here.
     2. If your application performs automatic actions (including Tweeting
        or other content updates), make sure you comply with the Automation
-       Rules found [23]here.
+       Rules found [24]here.
     3. Do not mass-register applications. This includes:
           + creating tokens/applications for the purpose of preventing
             others from using or selling those names, or other commercial
@@ -208,13 +209,13 @@ II. Principles
        must disclose that third parties may be placing and reading cookies
        on the systems of your users in the course of providing content to
        them. Your privacy policy should also provide information about
-       user options for cookie management and the [24]Do Not Track setting
+       user options for cookie management and the [25]Do Not Track setting
        in supporting web browsers.
     2. Clearly disclose when you are adding location information to a
        user's Tweets, whether as a geotag or annotations data. Be clear
        about whether you are adding a place or specific coordinates. If
        your application allows users to Tweet with their location be sure
-       that it complies with the best practices found [25]here.
+       that it complies with the best practices found [26]here.
     3. You should not solicit another developer's consumer keys or
        consumer secrets especially if they will be stored or used for
        actions outside of that developer's control. Keys and secrets that
@@ -227,7 +228,7 @@ II. Principles
 4. Be a good partner to Twitter
 
     1. If you display Tweets in an offline context, do so according to the
-       guidelines found [26]here.
+       guidelines found [27]here.
     2. Respect the features and functionality embedded with or included in
        Twitter Content or the Twitter API. Do not attempt to interfere
        with, intercept, disrupt, filter, or disable any features of the
@@ -238,9 +239,9 @@ II. Principles
             Content, not by publicly displaying to other end users that
             the Tweet was unfavorited or deleted.
     3. If your application causes or induces user accounts to violate the
-       [27]Twitter Rules (for example, by retweeting spam updates,
+       [28]Twitter Rules (for example, by retweeting spam updates,
        repeatedly posting duplicate links, etc.), it may be suspended or
-       terminated. We've provided some guidance in our [28]Abuse
+       terminated. We've provided some guidance in our [29]Abuse
        Prevention and Security help page.
     4. Respect the intellectual property rights of others.
     5. Do not use the Twitter Verified Account badge, Verified Account
@@ -499,15 +500,15 @@ V. Other Legal Terms
    the maximum extent permissible and the remaining provisions of this
    agreement will remain in full force and effect.
 
-   View the [29]API Terms of Service: Archive or [30]the most recent
+   View the [30]API Terms of Service: Archive or [31]the most recent
    changes.
-   [31]Follow @twitterapi
-     * [32]API Terms
-     * [33]API Status
-     * [34]Blog
-     * [35]Discussions
-     * [36]Documentation
-     * [37]A Drupal community site supported by Acquia
+   [32]Follow @twitterapi
+     * [33]API Terms
+     * [34]API Status
+     * [35]Blog
+     * [36]Discussions
+     * [37]Documentation
+     * [38]A Drupal community site supported by Acquia
 
 References
 
@@ -523,28 +524,29 @@ References
   10. https://dev.twitter.com/docs/api
   11. https://dev.twitter.com/docs/streaming-apis
   12. https://dev.twitter.com/docs/twitter-for-websites
-  13. https://dev.twitter.com/docs/recent
-  14. https://dev.twitter.com/user/login?destination=node%2F110
-  15. https://dev.twitter.com/
-  16. http://twitter.com/share
-  17. https://dev.twitter.com/terms/api-terms
-  18. https://dev.twitter.com/node/110/backlinks
-  19. http://twitter.com/tos
-  20. https://dev.twitter.com/pages/display_guidelines
-  21. https://twitter.com/about/logos
-  22. http://support.twitter.com/articles/18311#spam
-  23. http://support.twitter.com/articles/76915
-  24. https://support.twitter.com/articles/20169453
-  25. https://dev.twitter.com/pages/geo_dev_guidelines
-  26. http://support.twitter.com/articles/114233
-  27. http://support.twitter.com/articles/18311
-  28. http://support.twitter.com/articles/79901
-  29. https://dev.twitter.com/terms/api-terms/archive
-  30. https://dev.twitter.com/terms/api-terms/diff
-  31. http://twitter.com/twitterapi
-  32. https://dev.twitter.com/terms/api-terms
-  33. https://dev.twitter.com/status
-  34. https://dev.twitter.com/blog
-  35. https://dev.twitter.com/discussions
-  36. https://dev.twitter.com/docs
-  37. http://www.acquia.com/
+  13. https://dev.twitter.com/docs/platform-objects
+  14. https://dev.twitter.com/docs/recent
+  15. https://dev.twitter.com/user/login?destination=node%2F110
+  16. https://dev.twitter.com/
+  17. http://twitter.com/share
+  18. https://dev.twitter.com/terms/api-terms
+  19. https://dev.twitter.com/node/110/backlinks
+  20. http://twitter.com/tos
+  21. https://dev.twitter.com/pages/display_guidelines
+  22. https://twitter.com/about/logos
+  23. http://support.twitter.com/articles/18311#spam
+  24. http://support.twitter.com/articles/76915
+  25. https://support.twitter.com/articles/20169453
+  26. https://dev.twitter.com/pages/geo_dev_guidelines
+  27. http://support.twitter.com/articles/114233
+  28. http://support.twitter.com/articles/18311
+  29. http://support.twitter.com/articles/79901
+  30. https://dev.twitter.com/terms/api-terms/archive
+  31. https://dev.twitter.com/terms/api-terms/diff
+  32. http://twitter.com/twitterapi
+  33. https://dev.twitter.com/terms/api-terms
+  34. https://dev.twitter.com/status
+  35. https://dev.twitter.com/blog
+  36. https://dev.twitter.com/discussions
+  37. https://dev.twitter.com/docs
+  38. http://www.acquia.com/
