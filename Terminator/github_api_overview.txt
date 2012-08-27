@@ -7,7 +7,7 @@
      * [6]Blog
      * [7]Sign in
 
-   [404.png?1331954220]
+   [404.png?1338945075]
 
 There isn't a GitHub Page hosted here, sorry.
 
@@ -289,15 +289,16 @@ without syntax highlighting:
 I think you should use an
 `<addr>` element here instead.
 
-   Something went wrong with that request. Please try again. [35]Dismiss
+   Something went wrong with that request. Please try again.
 
 Looking for the GitHub logo?
 
-     * GitHub Logo [36]Github_logo [37]Download
-     * The Octocat [38]Octocat [39]Download
+     * GitHub Logo [35]Github_logo [36]Download
+     * The Octocat [37]Octocat [38]Download
 
 References
 
+   Visible links
    1. http://develop.github.com/opensearch.xml
    2. http://github.com/
    3. https://github.com/plans
@@ -332,8 +333,10 @@ References
   32. https://github.com/security
   33. http://develop.github.com/p/general.html
   34. http://github.github.com/github-flavored-markdown/
-  35. http://develop.github.com/p/general.html
+  35. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
   36. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
-  37. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
+  37. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
   38. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
-  39. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
+
+   Hidden links:
+  39. http://develop.github.com/p/general.html
