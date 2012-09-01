@@ -243,8 +243,8 @@ A. General
        (contest, competition, or sweepstake) on Facebook, you must comply
        with Facebook’s [44]Promotions Guidelines.
     5. Permission from Facebook: You must not promote, or provide content
-       referencing, facilitating, or containing online gambling, games of
-       skill or lotteries without our written permission.
+       referencing, facilitating, or containing online gambling, real
+       money games of skill or lotteries without our written permission.
 
 B. Content Rights
 
@@ -418,7 +418,7 @@ Additional Languages
    [62]Polski
    [63]Português (Brasil)
    [64]Türkçe
-   Updated on Wednesday
+   Updated 12 hours ago
 
    Facebook © 2012 · [65]English (US)
    [66]About[67]Advertising[68]Careers[69]Platform Policies[70]Privacy
