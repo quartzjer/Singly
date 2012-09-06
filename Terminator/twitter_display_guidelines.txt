@@ -7,7 +7,7 @@
      * [7]Discussions
      * [8]Documentation
           + [9]Overview
-          + [10]REST API
+          + [10]REST API v1.1
           + [11]Streaming API
           + [12]Twitter for Websites
           + [13]Field Guide
@@ -17,123 +17,174 @@
    [16]Home → [17]Terms of Service
    [18]Tweet
 
-Display Guidelines
+Developer Display Requirements
 
 Introduction
 
-   Users must have a consistent experience wherever they interact with
-   Tweets, whether on Twitter.com, a mobile client, website, or in an
-   application developed with the Twitter API. To ensure consistency
-   across the platform and ecosystem, we’ve put together the following
-   Display Guidelines for developers to implement when creating
-   experiences with Tweets and Timelines.
+   The power of Twitter is in the network of people using it, and its
+   ability to bring users closer to what’s most meaningful to them. When
+   we first launched, Tweets were a simple 140 character update. However,
+   as Twitter evolved, so too has the way that users view and interact
+   with Tweets.
+   Today’s Tweets are rich living conversations: a user can give feedback
+   to the author, participate in the conversation, and spread the word.
+   For that to happen, Tweets must be shown in a way that meets the user’s
+   expectation - whether on a mobile phone, on a web site, in a desktop
+   application, or anywhere else.
+   Developing the following set of Display Requirements allows Tweets to
+   remain connected to every user on Twitter. For example, if Tweet
+   actions aren’t enabled, a Tweet can’t be replied to or reach more users
+   with Retweets. If @usernames and avatars aren’t linked to profiles,
+   users can’t learn more about or easily follow that interesting Twitter
+   account. It’s also worth noting that we have embeddable Tweets and
+   embeddable timelines available, which will take care of these Display
+   Requirements for you.
+   Lastly, we’re committed to bringing the power and interactivity of the
+   Twitter network to all platforms, and we will continue to evolve the
+   user experience within Tweets and timelines. This is a living document,
+   so please check back from time to time for updates.
+   Effective date: October 5th, 2012
+   Last update date: September 5th, 2012
 
 Individual Tweet
 
+   Above: Examples for rendering details of Individual Tweets on websites
+                              and mobile apps.
+
     1. Tweet Author
-         1. The Tweet author’s avatar must always be displayed.
-         2. The author’s name and @username must be displayed next to the
-            avatar.
-         3. The @username must always be displayed with the “@” symbol.
+         1. The Tweet author’s avatar must always be displayed, unless
+            your application is displaying Tweets on a mobile platform
+            that has clear physical or technical limitations (e.g.,
+            low-end feature phones).
+         2. The @username must always be displayed with the “@” symbol.
+         3. The author’s name and @username must be displayed to the right
+            of the avatar either on one line horizontally or stacked one
+            above the other vertically, with the name first.
          4. The avatar, name, and @username must all link to the user’s
-            Twitter profile [1].
+            Twitter profile.
     2. Tweet Text
          1. Tweet text must be displayed on a line below the author’s name
-            and @username, and may not be altered or modified in any way.
-         2. [19]Entities within the Tweet text must be properly linked to
-            their appropriate home on Twitter.com:
-              1. @mentions must link to the mentioned user’s profile [1].
-              2. #hashtags must link to a twitter.com search with the
-                 hashtag as the query. e.g. #flora must be linked to
-                 [20]https://twitter.com/search/%23flora
+            and @username, and may not be altered or modified in any way
+            except as outlined in these requirements.
+         2. [19]Tweet Entities within the Tweet text must be properly
+            linked to their appropriate home on Twitter. For example:
+              1. User_mentions must link to the mentioned user’s profile.
+              2. Hashtags must link to a twitter.com search with the
+                 hashtag as the query.
               3. Links in Tweet text must be displayed using the
                  display_url field in the URL entities API response, and
                  link to the original t.co url field.
     3. Tweet Actions
          1. Reply, Retweet, and Favorite action icons must always be
             visible for the user to interact with the Tweet. These actions
-            must be implemented using [21]Web Intents or with the
+            must be implemented using [20]Web Intents or with the
             authenticated Twitter API.
-         2. No other social or 3rd party actions may be attached to a
-            Tweet.
-    4. Timestamp and Permalink
+         2. No other social or 3rd party actions similar to Follow, Reply,
+            Retweet and Favorite may be attached to a Tweet.
+    4. Tweet Timestamp
          1. The Tweet timestamp must always be visible and include the
-            time and date. e.g. “3:00 PM - 31 May 12”.
-         2. The Tweet timestamp must always be linked to the Tweet
-            permalink page on twitter.com. e.g.
-            [22]https://twitter.com/jack/statuses/20
-    5. Branding
+            time and date. e.g., “3:00 PM - 31 May 12”.
+    5. Tweet Permalink
+         1. The Tweet timestamp must always be linked to the Tweet
+            permalink.
+    6. Branding
          1. It must always be clear to the viewing user that they are
             looking at a Tweet, and that the content is from Twitter.
-         2. [23]The Twitter logo or [24]Follow button for the Tweet author
-            must always be displayed in the top right corner.
-    6. Images and Media
-         1. pic.twitter.com images available in the [25]Tweet entities
-            must be displayed as part of the Tweet, and must link back to
-            the Tweet permalink page.
-         2. pic.twitter.com images may not be detached and displayed
-            separately from the Tweet.
+         2. [21]The Twitter logo or [22]Follow button for the Tweet author
+            must always be displayed.
+         3. The Twitter logo must link to Twitter.
+       For linking Tweet authors (1d), Tweet entities (2b), Tweet
+       permalinks (5a) and the Twitter Logo (6c), please see “Linking to
+       Twitter” below for additional guidance.
+    Timelines In addition to the above Individual Tweet Display
+       Requirements, a few modifications to the Tweet anatomy are required
+       when displaying as part of a timeline:
 
-Timelines
+      Above: Examples for rendering a timeline of Individual Tweets on
+                          websites and mobile apps.
+         1. Tweet Author
+              1. The author’s name and @username should be displayed on
+                 one line horizontally or stacked one above the other
+                 vertically, with the name first.
+              2. The @username must always be displayed with the “@”
+                 symbol.
+              3. The avatar must be positioned to the left of the name,
+                 @username, and Tweet text.
+         2. Tweet Actions
+              1. Reply, Retweet and Favorite Tweet actions must always be
+                 available to the user when interacting with the Tweet on
+                 the timeline. e.g., select, hover, touch, swipe.
+              2. For applications on mobile platforms, you may choose to
+                 link the entire Tweet area to the Individual Tweet within
+                 your app or on Twitter to provide users access to Tweet
+                 actions.
+         3. Tweet Timestamps
+              1. Tweet timestamp should be displayed in the top right
+                 corner.
+              2. For Tweets that have been sent in the last 24 hours, use
+                 the short form timestamp relative to the current time,
+                 for example “20s” for a Tweet sent 20 seconds ago, “3m”
+                 for 3 minutes ago, “5h” for 5 hours ago.
+              3. Tweets older than 24 hours should show a short form date
+                 including the day and month, e.g., “6 Jun”.
+         4. Tweet Permalink
+              1. The Tweet timestamp must always be linked to the Tweet
+                 permalink.
+              2. For applications on mobile platforms, you may choose to
+                 link the entire Tweet area to the Tweet permalink.
+         5. Retweet Indicator
+              1. If the Tweet being displayed is a Retweet, the name of
+                 the user who Retweeted it and the Retweet icon must be
+                 displayed under the Tweet text. e.g., “Retweeted by Josh
+                 Brewer”. The name should link to the the Retweeting
+                 user’s profile, unless your application is displaying
+                 Tweets on a mobile platform that has clear physical or
+                 technical limitations.
+         6. Timeline Integrity
+              1. Tweets that are grouped together into a timeline must not
+                 be rendered with non-Twitter content. e.g., comments,
+                 updates from other networks.
+         7. Branding
+              1. It must always be clear to the viewing user that they are
+                 looking at a Twitter timeline, and that the content is
+                 from Twitter.
+              2. [23]The Twitter logo must always be displayed directly
+                 adjacent to the timeline (e.g., top of the timeline).
+            All timelines must allow users to view details of an
+            Individual Tweet with the requirements above. However, if
+            displaying Individual Tweets on a mobile platform has clear
+            physical or technical limitations that prevents meeting these
+            requirements, you must direct users to twitter.com or a
+            official Twitter mobile client to display the details of an
+            Individual Tweet.
+            For linking to Tweet actions (2b), Tweet permalinks (4a, 4b)
+            and Retweet user (5a), please see “Linking to Twitter” below
+            for additional guidance.
 
-   In addition to the above Tweet display guidelines, a few modifications
-   to the Tweet anatomy are required when displaying as part of a
-   timeline:
-
-    1. Tweet Author
-         1. The user’s name and @username should be displayed on one line,
-            with the name first.
-         2. The avatar must be positioned to the left of the name,
-            @username, and Tweet text.
-    2. Timestamps
-         1. Tweet timestamp should be displayed in the top right corner.
-         2. For Tweets that have been sent in the last 24 hours, use the
-            short form timestamp, for example “20s” for a Tweet sent 20
-            seconds ago, “3m” for 3 minutes ago, “5h” for 5 hours ago.
-         3. Tweets older than 24 hours should show a short form date
-            including the day and month, e.g. “6 Jun”.
-    3. Tweet Actions
-         1. Reply, Retweet and Favorite Tweet action icons must always be
-            available to the user when interacting with the Tweet on the
-            timeline. e.g. hover, touch.
-    4. Retweets
-         1. If the Tweet being displayed is a Retweet, the name of the
-            user who Retweeted it and the Retweet icon must be displayed
-            under the Tweet text. e.g. “Retweeted by Josh Brewer”. The
-            name should link to the the Retweeting user’s profile [1].
-    5. Timeline Integrity
-         1. Tweets that are grouped together into a timeline should not be
-            rendered with non-Twitter content. e.g. comments, updates from
-            other networks.
-
-Footnotes
-
-    1. Linking the @username to a Twitter profile:
-         1. You must use one of the methods below when linking from an
-            avatar, name, and @username:
-              1. Link directly to the user’s profile page on twitter.com.
-                 e.g. [26]https://twitter.com/jack
-              2. Use a [27]Web Intent to the user’s profile.
-              3. Link to an internal profile for the user within your app.
-                 That profile must have a link back to the user’s profile
-                 page on Twitter.com.
-
-   Applications that cannot implement these guidelines due to the
-   technical limitations of their platform should make a best effort to
-   satisfy as many rules as possible. Exceptions will be made on a case by
-   case basis by email approval. Please contact [28]trademarks@twitter.com
-   if you feel that an exception is necessary.
-   [29]Follow @twitterapi
-     * [30]API Terms
-     * [31]API Status
-     * [32]Blog
-     * [33]Discussions
-     * [34]Documentation
-     * [35]A Drupal community site supported by Acquia
+Linking to Twitter
+            When linking from an avatar, name, @username, Tweet entity,
+            Tweet action, Tweet permalink or the Twitter logo, you must
+            use one of the methods below when linking:
+              1. Link directly to the correct twitter.com URL e.g.,
+                 [24]https://twitter.com/jack/statuses/20
+              2. Use [25]Web Intents
+            Applications that cannot implement these guidelines due to the
+            technical limitations of their platform should make a best
+            effort to satisfy as many rules as possible. Exceptions will
+            be made on a case by case basis by email approval. Please
+            contact [26]trademarks@twitter.com if you feel that an
+            exception is necessary.
+            [27]Follow @twitterapi
+               o [28]API Terms
+               o [29]API Status
+               o [30]Blog
+               o [31]Discussions
+               o [32]Documentation
+               o [33]A Drupal community site supported by Acquia
 
 References
 
-   1. https://dev.twitter.com/terms/display-guidelines#content-main
+   1. https://dev.twitter.com/terms/display-requirements#content-main
    2. https://dev.twitter.com/
    3. https://dev.twitter.com/status
    4. https://dev.twitter.com/status
@@ -142,7 +193,7 @@ References
    7. https://dev.twitter.com/discussions
    8. https://dev.twitter.com/docs
    9. https://dev.twitter.com/docs
-  10. https://dev.twitter.com/docs/api
+  10. https://dev.twitter.com/docs/api/1.1
   11. https://dev.twitter.com/docs/streaming-apis
   12. https://dev.twitter.com/docs/twitter-for-websites
   13. https://dev.twitter.com/docs/platform-objects
@@ -152,19 +203,17 @@ References
   17. https://dev.twitter.com/terms/api-terms
   18. http://twitter.com/share
   19. https://dev.twitter.com/docs/tweet-entities
-  20. https://twitter.com/search/%23flora
-  21. https://dev.twitter.com/docs/intents
-  22. https://twitter.com/jack/statuses/20
+  20. https://dev.twitter.com/docs/intents
+  21. https://twitter.com/about/logos
+  22. https://dev.twitter.com/docs/follow-button
   23. https://twitter.com/about/logos
-  24. https://dev.twitter.com/docs/follow-button
-  25. https://dev.twitter.com/docs/tweet-entities
-  26. https://twitter.com/jack
-  27. https://dev.twitter.com/docs/intents
-  28. mailto:trademarks@twitter.com
-  29. http://twitter.com/twitterapi
-  30. https://dev.twitter.com/terms/api-terms
-  31. https://dev.twitter.com/status
-  32. https://dev.twitter.com/blog
-  33. https://dev.twitter.com/discussions
-  34. https://dev.twitter.com/docs
-  35. http://www.acquia.com/
+  24. https://twitter.com/jack/statuses/20
+  25. https://dev.twitter.com/docs/intents
+  26. mailto:trademarks@twitter.com
+  27. http://twitter.com/twitterapi
+  28. https://dev.twitter.com/terms/api-terms
+  29. https://dev.twitter.com/status
+  30. https://dev.twitter.com/blog
+  31. https://dev.twitter.com/discussions
+  32. https://dev.twitter.com/docs
+  33. http://www.acquia.com/
