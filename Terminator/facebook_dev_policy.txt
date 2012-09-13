@@ -25,7 +25,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: August 29, 2012
+   Date of Last Revision: September 12, 2012
 
    Facebook Platform is an extension of Facebook, whose mission is to make
    the world more open and connected.
@@ -159,8 +159,10 @@ II. Storing and Using Data You Receive From Us
        any rights to such data.
     3. You will have a privacy policy that tells users what user data you
        are going to use and how you will use, display, share, or transfer
-       that data and you will include your privacy policy URL in the
-       Developer Application.
+       that data. In addition, you will include your privacy policy URL in
+       the App Dashboard, and must also include a link to your app's
+       privacy policy in any app marketplace that provides you with the
+       functionality to do so.
     4. A user's friends' data can only be used in the context of the
        user's experience on your application.
     5. Subject to certain restrictions, including on transfer, users give
@@ -418,7 +420,7 @@ Additional Languages
    [62]Polski
    [63]Português (Brasil)
    [64]Türkçe
-   Updated about a week ago
+   Updated 9 hours ago
 
    Facebook © 2012 · [65]English (US)
    [66]About[67]Advertising[68]Careers[69]Platform Policies[70]Privacy
