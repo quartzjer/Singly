@@ -220,8 +220,8 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1349066836&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Flicenseagreement&amp;sig=%2BaPiKoj0lj3p3VNv4H7TUZvlxdY%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1349153231&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Flicenseagreement&amp;sig=8zV21XmmlLEgX5qeRJXGRiSkL08%3D]
 
 References
 
