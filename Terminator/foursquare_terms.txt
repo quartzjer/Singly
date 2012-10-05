@@ -1,6 +1,6 @@
    #[1]foursquare
 
-   [2]foursquare ____________________ (Submit) Search
+   [2]foursquare ____________________
    [3]Log in
    [4]Sign up
 
@@ -698,8 +698,8 @@ Contact.
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1349326028&amp;ref=&amp;p=%2Flegal%2
-   Fterms&amp;sig=a2NNOXVFzsZC1wcc67ty1lZD2lc%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1349412425&amp;ref=&amp;p=%2Flegal%2
+   Fterms&amp;sig=xK9ZgVK1W%2FJBCiUjz720nvZhFwg%3D]
 
 References
 
