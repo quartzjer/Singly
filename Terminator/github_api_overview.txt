@@ -7,7 +7,7 @@
      * [6]Blog
      * [7]Sign in
 
-   [404.png?1340935010]
+   [404.png?1340659511]
 
 There isn't a GitHub Page hosted here, sorry.
 
@@ -311,7 +311,7 @@ References
   10. https://github.com/blog
   11. https://github.com/features
   12. https://github.com/contact
-  13. https://github.com/training
+  13. http://training.github.com/
   14. http://enterprise.github.com/
   15. http://status.github.com/
   16. http://mac.github.com/
