@@ -25,7 +25,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: September 12, 2012
+   Date of Last Revision: October 10, 2012
 
    Facebook Platform is an extension of Facebook, whose mission is to make
    the world more open and connected.
@@ -248,6 +248,12 @@ A. General
        referencing, facilitating, or containing online gambling, online
        real money games of skill or online lotteries without our written
        permission.
+    6. Quality of content: you are responsible for providing users with a
+       quality experience and must not confuse, defraud, mislead, spam or
+       surprise users. For example, you must monitor your app's negative
+       feedback in [45]Application Insights to ensure it stays below our
+       thresholds, avoid excessive advertisements or bugs, and ensure the
+       description of your app is consistent with your app's content.
 
 B. Content Rights
 
@@ -288,7 +294,7 @@ C. Third Party Content
 IV. Application Integration Points
 
     1. You must not incentivize users to use (or gate content behind the
-       use of) [45]Facebook social channels, or imply that an incentive is
+       use of) [46]Facebook social channels, or imply that an incentive is
        directly tied to the use of our channels.
     2. You must not pre-fill any of the fields associated with the
        following products, unless the user manually generated the content
@@ -297,7 +303,7 @@ IV. Application Integration Points
        parameter for stream.publish), Photos (caption), Videos
        (description), Notes (title and content), Links (comment), and
        Jabber/XMPP.
-    3. If a user grants you a publishing [46]permission, actions you take
+    3. If a user grants you a publishing [47]permission, actions you take
        on the user's behalf must be expected by the user and consistent
        with the user's actions within your app.
     4. Platform integrations, including social plugins:
@@ -363,15 +369,15 @@ VII. Definitions
 
 VIII. Branding and Promotion Policy
 
-   You must follow the guidelines set forth in the [47]Facebook Brand
+   You must follow the guidelines set forth in the [48]Facebook Brand
    Resource and Permissions Center.
 
-IX. [48]Advertising Guidelines
+IX. [49]Advertising Guidelines
 
-X. [49]Facebook Developer Payments Terms
+X. [50]Facebook Developer Payments Terms
 
    Developers participating in the program for accepting payments are
-   subject to [50]these terms.
+   subject to [51]these terms.
 
 XI. Ads API
 
@@ -403,28 +409,28 @@ Examples and Explanations
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [51]examples and explanations will help you understand how to put
+   these [52]examples and explanations will help you understand how to put
    that into practice.
 
 Additional Languages
 
-   [52]العربية
-   [53]中文(香港)
-   [54]中文(台灣)
-   [55]Deutsch
-   [56]Español
-   [57]Français
-   [58]עברית
-   [59]Italiano
-   [60]日本語
-   [61]한국어
-   [62]Polski
-   [63]Português (Brasil)
-   [64]Türkçe
-   Updated about 3 weeks ago
+   [53]العربية
+   [54]中文(香港)
+   [55]中文(台灣)
+   [56]Deutsch
+   [57]Español
+   [58]Français
+   [59]עברית
+   [60]Italiano
+   [61]日本語
+   [62]한국어
+   [63]Polski
+   [64]Português (Brasil)
+   [65]Türkçe
+   Updated 11 hours ago
 
-   Facebook © 2012 · [65]English (US)
-   [66]About[67]Advertising[68]Careers[69]Platform Policies[70]Privacy
+   Facebook © 2012 · [66]English (US)
+   [67]About[68]Advertising[69]Careers[70]Platform Policies[71]Privacy
    Policy
 
 References
@@ -474,34 +480,35 @@ References
   42. http://developers.facebook.com/adproviders/
   43. http://developers.facebook.com/docs/guides/canvas/
   44. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  45. http://developers.facebook.com/policy/#Facebook_social_channels
-  46. http://developers.facebook.com/docs/authentication/permissions/
-  47. https://www.facebook.com/brandpermissions/logos.php
-  48. https://www.facebook.com/ad_guidelines.php
-  49. http://developers.facebook.com/policy/credits
+  45. http://www.facebook.com/insights
+  46. http://developers.facebook.com/policy/#Facebook_social_channels
+  47. http://developers.facebook.com/docs/authentication/permissions/
+  48. https://www.facebook.com/brandpermissions/logos.php
+  49. https://www.facebook.com/ad_guidelines.php
   50. http://developers.facebook.com/policy/credits
-  51. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  52. https://developers.facebook.com/policy/Arabic/
-  53. https://developers.facebook.com/policy/ChineseHK/
-  54. https://developers.facebook.com/policy/ChineseTW/
-  55. https://developers.facebook.com/policy/Deutsch/
-  56. https://developers.facebook.com/policy/Espanol/
-  57. https://developers.facebook.com/policy/Francais/
-  58. https://developers.facebook.com/policy/Hebrew/
-  59. https://developers.facebook.com/policy/Italiano/
-  60. https://developers.facebook.com/policy/Japanese/
-  61. https://developers.facebook.com/policy/Korean/
-  62. https://developers.facebook.com/policy/Polski/
-  63. https://developers.facebook.com/policy/Portugues/
-  64. https://developers.facebook.com/policy/Turkce/
-  65. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  66. http://www.facebook.com/FacebookDevelopers
-  67. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
-  68. http://www.facebook.com/careers
-  69. http://developers.facebook.com/policy
-  70. http://www.facebook.com/policy.php
+  51. http://developers.facebook.com/policy/credits
+  52. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  53. https://developers.facebook.com/policy/Arabic/
+  54. https://developers.facebook.com/policy/ChineseHK/
+  55. https://developers.facebook.com/policy/ChineseTW/
+  56. https://developers.facebook.com/policy/Deutsch/
+  57. https://developers.facebook.com/policy/Espanol/
+  58. https://developers.facebook.com/policy/Francais/
+  59. https://developers.facebook.com/policy/Hebrew/
+  60. https://developers.facebook.com/policy/Italiano/
+  61. https://developers.facebook.com/policy/Japanese/
+  62. https://developers.facebook.com/policy/Korean/
+  63. https://developers.facebook.com/policy/Polski/
+  64. https://developers.facebook.com/policy/Portugues/
+  65. https://developers.facebook.com/policy/Turkce/
+  66. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  67. http://www.facebook.com/FacebookDevelopers
+  68. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  69. http://www.facebook.com/careers
+  70. http://developers.facebook.com/policy
+  71. http://www.facebook.com/policy.php
 
    Hidden links:
-  71. http://developers.facebook.com/policy/
-  72. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  73. http://developers.facebook.com/opensource/
+  72. http://developers.facebook.com/policy/
+  73. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  74. http://developers.facebook.com/opensource/

@@ -6,7 +6,8 @@
    ____________________ ____________________    Log In
    [ ] Keep me logged in
                         [4]Forgot your password?
-   [5]Sign UpConnect and share with the people in your life.
+   [5]Sign UpFacebook helps you connect and share with the people in your
+   life.
    This agreement was written in English (US). To the extent any
    translated version of this agreement conflicts with the English
    version, the English version controls.  Please note that Section 17
@@ -568,7 +569,7 @@ References
    2. http://www.facebook.com/legal/terms
    3. http://www.facebook.com/
    4. http://www.facebook.com/recover/initiate
-   5. http://www.facebook.com/r.php?locale=en_US&loxv=v1_WITH_RULE
+   5. http://www.facebook.com/r.php?locale=en_US&loxv=v0_CURRENT
    6. http://www.facebook.com/principles.php
    7. http://www.facebook.com/policy.php
    8. http://www.facebook.com/privacy/
