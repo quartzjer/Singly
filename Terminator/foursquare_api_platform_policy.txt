@@ -3,7 +3,6 @@
    [2]foursquare ____________________
    [3]Log in
    [4]Sign up
-   [5]Explore
 
 You must enable JavaScript to use foursquare.com
 
@@ -11,7 +10,7 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [6]Download foursquare for your smart phone and start exploring the
+   [5]Download foursquare for your smart phone and start exploring the
    world around you!
 
    Last updated: 08/11/11
@@ -20,7 +19,7 @@ Foursquare API Platform Policy
 
    Users of the Foursquare Labs, Inc. ("Foursquare") application
    programming interface ("API") are required to comply with Foursquare's
-   [7]Terms of Use, [8]API License Agreement and the terms and conditions
+   [6]Terms of Use, [7]API License Agreement and the terms and conditions
    of this Policy.
 
 I. General
@@ -212,7 +211,7 @@ VI. Privacy Policy
                  received and how you use and disclose it;
                o you share user data with Foursquare, for use by
                  Foursquare for its own purposes; and
-               o the user may read the [9]foursquare privacy policy
+               o the user may read the [8]foursquare privacy policy
           + You must clearly and conspicuously present your privacy policy
             to each user at the point of application and/or download,
             installation, authorization or first-run, and you must also
@@ -236,18 +235,18 @@ VII. Trademarks
        "All of the foursquare^® logos (including all badges) and
        trademarks displayed on this [application/service] are the property
        of Foursquare Labs, Inc.
-     * You must read and comply with the [10]Foursquare Trademark and
-       Brand Feature Guidelines.
+     * You must read and comply with the [9]Foursquare Trademark and Brand
+       Feature Guidelines.
 
-     * [11]About
-     * [12]Blog
-     * [13]Developers
-     * [14]Help
-     * [15]Jobs
-     * [16]Privacy (Updated)
-     * [17]Terms
-     * [18]Store
-     * [19]English
+     * [10]About
+     * [11]Blog
+     * [12]Developers
+     * [13]Help
+     * [14]Jobs
+     * [15]Privacy (Updated)
+     * [16]Terms
+     * [17]Store
+     * [18]English
        Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + English
@@ -265,32 +264,31 @@ VII. Trademarks
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1350276408&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Fplatformpolicy&amp;sig=RthwD%2FGEZdQdKjgnnD1g4nqRnbY%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1350362806&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Fplatformpolicy&amp;sig=ThIvgZyfccxYSnWVVjZy7kR8NwE%3D]
 
 References
 
    Visible links
-   1. https://ss1.4sqi.net/opensearch-7f41dcb8fcd581df7d9c682de36f88ec.xml
+   1. https://ss0.4sqi.net/opensearch-f622d7e0319b8abfdcdd9a63812f71e6.xml
    2. https://foursquare.com/
    3. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Fplatformpolicy&clicked=true
    4. https://foursquare.com/signup
-   5. https://foursquare.com/explore
-   6. https://foursquare.com/download
-   7. https://foursquare.com/legal/terms
-   8. https://foursquare.com/legal/api/licenseagreement
-   9. https://foursquare.com/legal/privacy
-  10. https://foursquare.com/legal/trademark
-  11. https://foursquare.com/about
-  12. http://blog.foursquare.com/
-  13. http://developer.foursquare.com/
-  14. http://foursquare.com/help
-  15. https://foursquare.com/jobs/
-  16. https://foursquare.com/legal/privacy
-  17. https://foursquare.com/legal/terms
-  18. http://store.foursquare.com/
-  19. https://foursquare.com/legal/api/platformpolicy#languagesContainer
+   5. https://foursquare.com/download
+   6. https://foursquare.com/legal/terms
+   7. https://foursquare.com/legal/api/licenseagreement
+   8. https://foursquare.com/legal/privacy
+   9. https://foursquare.com/legal/trademark
+  10. https://foursquare.com/about
+  11. http://blog.foursquare.com/
+  12. http://developer.foursquare.com/
+  13. http://foursquare.com/help
+  14. https://foursquare.com/jobs/
+  15. https://foursquare.com/legal/privacy
+  16. https://foursquare.com/legal/terms
+  17. http://store.foursquare.com/
+  18. https://foursquare.com/legal/api/platformpolicy#languagesContainer
 
    Hidden links:
+  19. https://foursquare.com/legal/api/platformpolicy
   20. https://foursquare.com/legal/api/platformpolicy
-  21. https://foursquare.com/legal/api/platformpolicy
