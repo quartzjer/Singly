@@ -4,7 +4,8 @@
 
    [3]Facebook Developers
    Search Facebook Deve (Submit) Search Facebook Developers
-   [4]Docs[5]Tools[6]Support[7]News[8]Apps[9]Log In
+   [4]Docs[5]Tools[6]Support[7]News[8]Apps
+   [9]Log In
      * Platform Policies
 
      * [10]Payments Terms
@@ -440,7 +441,7 @@ References
    2. http://developers.facebook.com/policy/
    3. http://developers.facebook.com/
    4. http://developers.facebook.com/docs/
-   5. http://developers.facebook.com/tools
+   5. http://developers.facebook.com/tools/
    6. http://developers.facebook.com/support/
    7. http://developers.facebook.com/blog/
    8. https://developers.facebook.com/apps
