@@ -508,10 +508,10 @@ Help
 
 Device Help
 
-     * [26]Fitbit Zip Help
-     * [27]Fitbit One Help
-     * [28]Fitbit Ultra Help
-     * [29]Fitbit Aria Help
+     * [26]Zip Tracker Help
+     * [27]One Tracker Help
+     * [28]Ultra Tracker Help
+     * [29]Aria Scale Help
 
 Services
 
