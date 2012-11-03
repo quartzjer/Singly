@@ -1,7 +1,342 @@
-   REFRESH(0 sec): [1]http://develop.github.com/p/general.html
+   #[1]GitHub
 
+   [2]GitHub GitHub
+     * [3]Signup and Pricing
+     * [4]Explore GitHub
+     * [5]Features
+     * [6]Blog
+     * [7]Sign in
 
+   [404.png?1340659511]
+
+There isn't a GitHub Page hosted here, sorry.
+
+Are you trying to publish one?
+
+   We'll send you an email when your page has been built. It may take up
+   to ten minutes until your page is available.
+
+   [8]Read the Full Documentation to learn how to set up
+   username.github.com
+
+GitHub Links
+
+    GitHub
+     * [9]About
+     * [10]Blog
+     * [11]Features
+     * [12]Contact & Support
+     * [13]Training
+     * [14]GitHub Enterprise
+     * [15]Site Status
+
+    Clients
+     * [16]GitHub for Mac
+     * [17]GitHub for Windows
+     * [18]GitHub for Eclipse
+     * [19]GitHub Mobile Apps
+
+    Tools
+     * [20]Gauges: Web analytics
+     * [21]Speaker Deck: Presentations
+     * [22]Gist: Code snippets
+    Extras
+     * [23]Job Board
+     * [24]GitHub Shop
+     * [25]The Octodex
+
+    Documentation
+     * [26]GitHub Help
+     * [27]Developer API
+     * [28]GitHub Flavored Markdown
+     * [29]GitHub Pages
+
+     * [30]Terms of Service
+     * [31]Privacy
+     * [32]Security
+
+   © 2012 GitHub Inc. All rights reserved.
+
+Keyboard Shortcuts [33](see all)
+
+Site wide shortcuts
+
+   s
+          Focus command bar
+
+   ?
+          Bring up this help dialog
+
+Commit list
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   c or o or enter
+          Open commit
+
+   y
+          Expand URL to its canonical form
+
+Pull request list
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   o or enter
+          Open issue
+
+   âŒ˜ctrl + enter
+          Submit comment
+
+   âŒ˜ctrl + shift p
+          Preview comment
+
+Issues
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   x
+          Toggle selection
+
+   o or enter
+          Open issue
+
+   âŒ˜ctrl + enter
+          Submit comment
+
+   âŒ˜ctrl + shift p
+          Preview comment
+
+   c
+          Create issue
+
+   l
+          Create label
+
+   i
+          Back to inbox
+
+   u
+          Back to issues
+
+   /
+          Focus issues search
+
+Issues Dashboard
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   o or enter
+          Open issue
+
+Network Graph
+
+   â†� or h
+          Scroll left
+
+   â†’ or l
+          Scroll right
+
+   â†‘ or k
+          Scroll up
+
+   â†“ or j
+          Scroll down
+
+   t
+          Toggle visibility of head labels
+
+   shift â†� or shift h
+          Scroll all the way left
+
+   shift â†’ or shift l
+          Scroll all the way right
+
+   shift â†‘ or shift k
+          Scroll all the way up
+
+   shift â†“ or shift j
+          Scroll all the way down
+
+Source Code Browsing
+
+   t
+          Activates the file finder
+
+   l
+          Jump to line
+
+   w
+          Switch branch/tag
+
+   y
+          Expand URL to its canonical form
+
+Browsing Commits
+
+   âŒ˜ctrl + enter
+          Submit comment
+
+   escape
+          Close form
+
+   p
+          Parent commit
+
+   o
+          Other parent commit
+
+Notifications
+
+   j
+          Move selection down
+
+   k
+          Move selection up
+
+   o or enter
+          Open notification
+
+   e or shift i or y
+          Mark as read
+
+   shift m
+          Mute thread
+
+Markdown Cheat Sheet
+
+Format Text
+
+   Headers
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+   Text styles
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+
+Lists
+
+   Unordered
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+   Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
+Miscellaneous
+
+   Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+   Links
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+   Blockquotes
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+Code Examples in Markdown
+
+   Syntax highlighting with [34]GFM
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+   Or, indent your code 4 spaces
+Here is a Python code example
+without syntax highlighting:
+
+    def foo:
+      if not bar:
+        return true
+
+   Inline code for comments
+I think you should use an
+`<addr>` element here instead.
+
+   Something went wrong with that request. Please try again.
+
+Looking for the GitHub logo?
+
+     * GitHub Logo [35]Github_logo [36]Download
+     * The Octocat [37]Octocat [38]Download
 
 References
 
-   1. http://develop.github.com/p/general.html
+   Visible links
+   1. http://develop.github.com/opensearch.xml
+   2. http://github.com/
+   3. https://github.com/plans
+   4. https://github.com/explore
+   5. https://github.com/features
+   6. https://github.com/blog
+   7. https://github.com/login
+   8. http://pages.github.com/
+   9. https://github.com/about
+  10. https://github.com/blog
+  11. https://github.com/features
+  12. https://github.com/contact
+  13. http://training.github.com/
+  14. http://enterprise.github.com/
+  15. http://status.github.com/
+  16. http://mac.github.com/
+  17. http://windows.github.com/
+  18. http://eclipse.github.com/
+  19. http://mobile.github.com/
+  20. http://get.gaug.es/
+  21. http://speakerdeck.com/
+  22. https://gist.github.com/
+  23. http://jobs.github.com/
+  24. http://shop.github.com/
+  25. http://octodex.github.com/
+  26. http://help.github.com/
+  27. http://developer.github.com/
+  28. http://github.github.com/github-flavored-markdown/
+  29. http://pages.github.com/
+  30. https://github.com/site/terms
+  31. https://github.com/site/privacy
+  32. https://github.com/security
+  33. http://develop.github.com/p/general.html
+  34. http://github.github.com/github-flavored-markdown/
+  35. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
+  36. http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip
+  37. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
+  38. http://github-media-downloads.s3.amazonaws.com/Octocats.zip
+
+   Hidden links:
+  39. http://develop.github.com/p/general.html
