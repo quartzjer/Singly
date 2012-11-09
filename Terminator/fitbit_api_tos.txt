@@ -535,12 +535,10 @@ Products
        Wireless Activity Tracker
      * [41]One^™
        Wireless Activity + Sleep Tracker
-     * [42]Ultra^™
-       Wireless Activity + Sleep Tracker
-     * [43]Aria^™
+     * [42]Aria^™
        Wi-Fi Smart Scale
 
-   [44]Shop Devices
+   [43]Shop Devices
 
 References
 
@@ -586,10 +584,9 @@ References
   39. http://www.fitbit.com/foods/search
   40. http://www.fitbit.com/zip
   41. http://www.fitbit.com/one
-  42. http://www.fitbit.com/product
-  43. http://www.fitbit.com/product/aria
-  44. http://www.fitbit.com/store
+  42. http://www.fitbit.com/product/aria
+  43. http://www.fitbit.com/store
 
    Hidden links:
-  45. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
-  46. http://wiki.fitbit.com/display/API
+  44. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
+  45. http://wiki.fitbit.com/display/API

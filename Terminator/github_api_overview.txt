@@ -1,13 +1,13 @@
    #[1]GitHub
 
    [2]GitHub GitHub
-     * [3]Signup and Pricing
+     * [3]Sign up for free
      * [4]Explore GitHub
      * [5]Features
      * [6]Blog
      * [7]Sign in
 
-   [404.png?1340659561]
+   [404.png?1338945075]
 
 There isn't a GitHub Page hosted here, sorry.
 
@@ -301,7 +301,7 @@ References
    Visible links
    1. http://develop.github.com/opensearch.xml
    2. http://github.com/
-   3. https://github.com/plans
+   3. https://github.com/signup
    4. https://github.com/explore
    5. https://github.com/features
    6. https://github.com/blog
