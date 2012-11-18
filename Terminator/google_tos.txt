@@ -236,8 +236,6 @@ About these Terms
      * [10]Google
      * [11]Privacy & Terms
 
-   [12]Take our survey
-
 References
 
    1. http://www.google.com/
@@ -251,4 +249,3 @@ References
    9. http://www.google.com/intl/en/contact/
   10. http://www.google.com/
   11. http://www.google.com/intl/en/policies/
-  12. http://survey.googleratings.com/wix/p6584169.aspx
