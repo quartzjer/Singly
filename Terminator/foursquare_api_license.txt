@@ -1,8 +1,10 @@
-   #[1]foursquare
+   #[1]foursquare [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate [13]alternate
 
-   [2]foursquare ____________________
-     * [3]Log in
-     * [4]Sign up
+   [14]foursquare ____________________
+     * [15]Log in
+     * [16]Sign up
 
 You must enable JavaScript to use foursquare.com
 
@@ -10,7 +12,7 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [5]Download foursquare for your smart phone and start exploring the
+   [17]Download foursquare for your smart phone and start exploring the
    world around you!
 
    Updated: 04/21/11
@@ -25,14 +27,14 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    1. GRANT OF LICENSE - Subject to your ("Licensee") full compliance with
    all of the terms and conditions of this API Agreement ("Agreement") and
-   the [6]Foursquare Platform Policy, Foursquare Labs, Inc. ("Foursquare")
-   grants Licensee a non-exclusive, revocable, nonsublicensable,
-   nontransferable license to download and use the Foursquare application
-   program interface and other materials provided by Foursquare
-   (collectively, "API") to develop, reproduce, display and distribute
-   applications, websites and/or services (collectively “Applications”)
-   that interoperate with Foursquare’s foursquare^® service,
-   Foursquare.com or any other web property owned by Foursquare
+   the [18]Foursquare Platform Policy, Foursquare Labs, Inc.
+   ("Foursquare") grants Licensee a non-exclusive, revocable,
+   nonsublicensable, nontransferable license to download and use the
+   Foursquare application program interface and other materials provided
+   by Foursquare (collectively, "API") to develop, reproduce, display and
+   distribute applications, websites and/or services (collectively
+   “Applications”) that interoperate with Foursquare’s foursquare^®
+   service, Foursquare.com or any other web property owned by Foursquare
    (collectively "Foursquare Service"). Licensee may not install or use
    the API for any other purpose without Foursquare's prior written
    consent. Licensee shall not use the API in connection with or to
@@ -194,15 +196,15 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    and any action or conduct in violation of the foregoing shall be void
    and without effect. Foursquare expressly reserves the right to assign
    this Agreement and to delegate any of its obligations hereunder.
-     * [7]About
-     * [8]Blog
-     * [9]Developers
-     * [10]Help
-     * [11]Jobs
-     * [12]Privacy (Updated)
-     * [13]Terms
-     * [14]Store
-     * [15]English
+     * [19]About
+     * [20]Blog
+     * [21]Developers
+     * [22]Help
+     * [23]Jobs
+     * [24]Privacy (Updated)
+     * [25]Terms
+     * [26]Store
+     * [27]English
        Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + English
@@ -220,28 +222,40 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1353303950&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Flicenseagreement&amp;sig=JaiEMJthm0O2zx2RWrW9AIZmJpk%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1353390348&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Flicenseagreement&amp;sig=Mw2tSQYt2OcMHaVewr5jlEuDShY%3D]
 
 References
 
    Visible links
    1. https://ss0.4sqi.net/opensearch-f622d7e0319b8abfdcdd9a63812f71e6.xml
-   2. https://foursquare.com/
-   3. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Flicenseagreement&clicked=true
-   4. https://foursquare.com/signup
-   5. https://foursquare.com/download
-   6. https://foursquare.com/legal/api/platformpolicy
-   7. https://foursquare.com/about
-   8. http://blog.foursquare.com/
-   9. http://developer.foursquare.com/
-  10. http://foursquare.com/help
-  11. https://foursquare.com/jobs/
-  12. https://foursquare.com/legal/privacy
-  13. https://foursquare.com/legal/terms
-  14. http://store.foursquare.com/
-  15. https://foursquare.com/legal/api/licenseagreement#languagesContainer
+   2. https://en.foursquare.com/legal/api/licenseagreement
+   3. https://it.foursquare.com/legal/api/licenseagreement
+   4. https://de.foursquare.com/legal/api/licenseagreement
+   5. https://es.foursquare.com/legal/api/licenseagreement
+   6. https://fr.foursquare.com/legal/api/licenseagreement
+   7. https://ja.foursquare.com/legal/api/licenseagreement
+   8. https://th.foursquare.com/legal/api/licenseagreement
+   9. https://ko.foursquare.com/legal/api/licenseagreement
+  10. https://ru.foursquare.com/legal/api/licenseagreement
+  11. https://pt.foursquare.com/legal/api/licenseagreement
+  12. https://id.foursquare.com/legal/api/licenseagreement
+  13. https://tr.foursquare.com/legal/api/licenseagreement
+  14. https://foursquare.com/
+  15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Flicenseagreement&clicked=true
+  16. https://foursquare.com/signup
+  17. https://foursquare.com/download
+  18. https://foursquare.com/legal/api/platformpolicy
+  19. https://foursquare.com/about
+  20. http://blog.foursquare.com/
+  21. http://developer.foursquare.com/
+  22. http://foursquare.com/help
+  23. https://foursquare.com/jobs/
+  24. https://foursquare.com/legal/privacy
+  25. https://foursquare.com/legal/terms
+  26. http://store.foursquare.com/
+  27. https://foursquare.com/legal/api/licenseagreement#languagesContainer
 
    Hidden links:
-  16. https://foursquare.com/legal/api/licenseagreement
-  17. https://foursquare.com/legal/api/licenseagreement
+  28. https://foursquare.com/legal/api/licenseagreement
+  29. https://foursquare.com/legal/api/licenseagreement
