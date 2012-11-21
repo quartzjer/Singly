@@ -47,7 +47,7 @@ Introduction
    user experience within Tweets and timelines. This is a living document,
    so please check back from time to time for updates.
    Effective date: October 5th, 2012
-   Last update date: September 5th, 2012
+   Last update date: November 20th, 2012
 
 Individual Tweet
 
@@ -138,11 +138,11 @@ Individual Tweet
          5. Retweet Indicator
               1. If the Tweet being displayed is a Retweet, the name of
                  the user who Retweeted it and the Retweet icon must be
-                 displayed under the Tweet text. e.g., “Retweeted by Josh
-                 Brewer”. The name should link to the the Retweeting
-                 user’s profile, unless your application is displaying
-                 Tweets on a mobile platform that has clear physical or
-                 technical limitations.
+                 displayed above or under the Tweet text. e.g., “Retweeted
+                 by Josh Brewer”. The name should link to the the
+                 Retweeting user’s profile, unless your application is
+                 displaying Tweets on a mobile platform that has clear
+                 physical or technical limitations.
          6. Timeline Integrity
               1. Tweets that are grouped together into a timeline must not
                  be rendered with non-Twitter content. e.g., comments,
