@@ -266,8 +266,8 @@ VII. Trademarks
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1353476745&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Fplatformpolicy&amp;sig=SlO1gfdM%2FnIrTQ207M0gEBTdjVE%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1353563143&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Fplatformpolicy&amp;sig=x1BmNXknESGOnhEuDPGtkc5nFco%3D]
 
 References
 
