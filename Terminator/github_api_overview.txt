@@ -2,11 +2,12 @@
 
    [2]GitHub GitHub
      * [3]Explore GitHub
-     * [4]Features
-     * [5]Blog
+     * [4]Search
+     * [5]Features
+     * [6]Blog
 
-   [6]Sign up for free [7]Sign in
-   [404.png?1331936678]
+   [7]Sign up for free [8]Sign in
+   [404.png?1338956357]
 
 There isn't a GitHub Page hosted here, sorry.
 
@@ -15,47 +16,47 @@ Are you trying to publish one?
    We'll send you an email when your page has been built. It may take up
    to ten minutes until your page is available.
 
-   [8]Read the Full Documentation to learn how to set up
+   [9]Read the Full Documentation to learn how to set up
    username.github.com
 
    GitHub
-          [9]About us
-          [10]Blog
-          [11]Contact & support
-          [12]GitHub Enterprise
-          [13]Site status
+          [10]About us
+          [11]Blog
+          [12]Contact & support
+          [13]GitHub Enterprise
+          [14]Site status
 
    Applications
-          [14]GitHub for Mac
-          [15]GitHub for Windows
-          [16]GitHub for Eclipse
-          [17]GitHub mobile apps
+          [15]GitHub for Mac
+          [16]GitHub for Windows
+          [17]GitHub for Eclipse
+          [18]GitHub mobile apps
 
    Services
-          [18]Gauges: Web analytics
-          [19]Speaker Deck: Presentations
-          [20]Gist: Code snippets
-          [21]Job board
+          [19]Gauges: Web analytics
+          [20]Speaker Deck: Presentations
+          [21]Gist: Code snippets
+          [22]Job board
 
    Documentation
-          [22]GitHub Help
-          [23]Developer API
-          [24]GitHub Flavored Markdown
-          [25]GitHub Pages
+          [23]GitHub Help
+          [24]Developer API
+          [25]GitHub Flavored Markdown
+          [26]GitHub Pages
 
    More
-          [26]Training
-          [27]Students & teachers
-          [28]The Shop
-          [29]The Octodex
+          [27]Training
+          [28]Students & teachers
+          [29]The Shop
+          [30]The Octodex
      __________________________________________________________________
 
    © 2012 GitHub Inc. All rights reserved.
-     * [30]Terms of Service
-     * [31]Privacy
-     * [32]Security
+     * [31]Terms of Service
+     * [32]Privacy
+     * [33]Security
 
-Keyboard Shortcuts [33](see all)
+Keyboard Shortcuts [34](see all)
 
 Site wide shortcuts
 
@@ -266,7 +267,7 @@ As Kanye West said:
 
 Code Examples in Markdown
 
-   Syntax highlighting with [34]GFM
+   Syntax highlighting with [35]GFM
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -295,38 +296,39 @@ References
    1. http://develop.github.com/opensearch.xml
    2. http://github.com/
    3. https://github.com/explore
-   4. https://github.com/features
-   5. https://github.com/blog
-   6. https://github.com/signup
-   7. https://github.com/login
-   8. http://pages.github.com/
-   9. https://github.com/about
-  10. https://github.com/blog
-  11. https://github.com/contact
-  12. http://enterprise.github.com/
-  13. http://status.github.com/
-  14. http://mac.github.com/
-  15. http://windows.github.com/
-  16. http://eclipse.github.com/
-  17. http://mobile.github.com/
-  18. http://get.gaug.es/
-  19. http://speakerdeck.com/
-  20. https://gist.github.com/
-  21. http://jobs.github.com/
-  22. http://help.github.com/
-  23. http://developer.github.com/
-  24. http://github.github.com/github-flavored-markdown/
-  25. http://pages.github.com/
-  26. http://training.github.com/
-  27. https://github.com/edu
-  28. http://shop.github.com/
-  29. http://octodex.github.com/
-  30. https://github.com/site/terms
-  31. https://github.com/site/privacy
-  32. https://github.com/security
-  33. http://develop.github.com/p/general.html
-  34. http://github.github.com/github-flavored-markdown/
+   4. https://github.com/search
+   5. https://github.com/features
+   6. https://github.com/blog
+   7. https://github.com/signup
+   8. https://github.com/login
+   9. http://pages.github.com/
+  10. https://github.com/about
+  11. https://github.com/blog
+  12. https://github.com/contact
+  13. http://enterprise.github.com/
+  14. http://status.github.com/
+  15. http://mac.github.com/
+  16. http://windows.github.com/
+  17. http://eclipse.github.com/
+  18. http://mobile.github.com/
+  19. http://get.gaug.es/
+  20. http://speakerdeck.com/
+  21. https://gist.github.com/
+  22. http://jobs.github.com/
+  23. http://help.github.com/
+  24. http://developer.github.com/
+  25. http://github.github.com/github-flavored-markdown/
+  26. http://pages.github.com/
+  27. http://training.github.com/
+  28. https://github.com/edu
+  29. http://shop.github.com/
+  30. http://octodex.github.com/
+  31. https://github.com/site/terms
+  32. https://github.com/site/privacy
+  33. https://github.com/security
+  34. http://develop.github.com/p/general.html
+  35. http://github.github.com/github-flavored-markdown/
 
    Hidden links:
-  35. https://github.com/
-  36. http://develop.github.com/p/general.html
+  36. https://github.com/
+  37. http://develop.github.com/p/general.html
