@@ -46,7 +46,6 @@ Introduction
    Twitter network to all platforms, and we will continue to evolve the
    user experience within Tweets and timelines. This is a living document,
    so please check back from time to time for updates.
-   Effective date: October 5th, 2012
    Last update date: November 20th, 2012
 
 Individual Tweet
