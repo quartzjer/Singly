@@ -682,60 +682,60 @@ Documentation
 
 References
 
-   1. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-   2. https://developer.linkedin.com/linkedin-policies
-   3. https://developer.linkedin.com/documents/branding-guidelines
-   4. https://developer.linkedin.com/documents/linkedin-apis-terms-use#main-content
-   5. https://developer.linkedin.com/user/login
-   6. https://developer.linkedin.com/
-   7. https://developer.linkedin.com/
-   8. https://developer.linkedin.com/whydevelop
-   9. https://developer.linkedin.com/showcase/wordpress
-  10. https://developer.linkedin.com/apis
-  11. https://developer.linkedin.com/documents/quick-start-guide
-  12. https://developer.linkedin.com/rest
-  13. https://developer.linkedin.com/javascript
-  14. https://developer.linkedin.com/plugins
-  15. https://developer.linkedin.com/linkedin-policies
-  16. https://developer.linkedin.com/forums/rest
+   1. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+   2. http://developer.linkedin.com/linkedin-policies
+   3. http://developer.linkedin.com/documents/branding-guidelines
+   4. http://developer.linkedin.com/documents/linkedin-apis-terms-use#main-content
+   5. http://developer.linkedin.com/user/login
+   6. http://developer.linkedin.com/
+   7. http://developer.linkedin.com/
+   8. http://developer.linkedin.com/whydevelop
+   9. http://developer.linkedin.com/showcase/wordpress
+  10. http://developer.linkedin.com/apis
+  11. http://developer.linkedin.com/documents/quick-start-guide
+  12. http://developer.linkedin.com/rest
+  13. http://developer.linkedin.com/javascript
+  14. http://developer.linkedin.com/plugins
+  15. http://developer.linkedin.com/linkedin-policies
+  16. http://developer.linkedin.com/forums/rest
   17. https://www.linkedin.com/secure/developer
-  18. https://developer.linkedin.com/documents/libraries-and-tools
-  19. https://developer.linkedin.com/documents/libraries-and-tools
-  20. https://developer.linkedin.com/forum
-  21. https://developer.linkedin.com/forums/plugins
-  22. https://developer.linkedin.com/forums/javascript
-  23. https://developer.linkedin.com/forums/rest
-  24. https://developer.linkedin.com/blog
+  18. http://developer.linkedin.com/documents/libraries-and-tools
+  19. http://developer.linkedin.com/documents/libraries-and-tools
+  20. http://developer.linkedin.com/forum
+  21. http://developer.linkedin.com/forums/plugins
+  22. http://developer.linkedin.com/forums/javascript
+  23. http://developer.linkedin.com/forums/rest
+  24. http://developer.linkedin.com/blog
   25. https://developer.linkedin.com/partner-programs
   26. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
   27. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
   28. https://developer.linkedin.com/documents/linkedin-platform-guidelines
   29. https://developer.linkedin.com/documents/branding-guidelines
-  30. https://developer.linkedin.com/documents/branding-guidelines
-  31. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  32. https://developer.linkedin.com/documents/quick-start-guide
-  33. https://developer.linkedin.com/documents/authentication
-  34. https://developer.linkedin.com/core-concepts
-  35. https://developer.linkedin.com/documents/people
-  36. https://developer.linkedin.com/documents/groups
-  37. https://developer.linkedin.com/documents/companies
-  38. https://developer.linkedin.com/documents/jobs
-  39. https://developer.linkedin.com/documents/job-posting
-  40. https://developer.linkedin.com/documents/share-and-social-stream
-  41. https://developer.linkedin.com/documents/communications
-  42. https://developer.linkedin.com/ads
-  43. https://developer.linkedin.com/documents/libraries-and-tools
-  44. https://developer.linkedin.com/linkedin-policies
-  45. https://developer.linkedin.com/documents/branding-guidelines
-  46. https://developer.linkedin.com/documents/linkedin-apis-terms-use
-  47. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  48. https://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
-  49. https://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
-  50. https://developer.linkedin.com/reference
+  30. http://developer.linkedin.com/documents/branding-guidelines
+  31. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  32. http://developer.linkedin.com/documents/quick-start-guide
+  33. http://developer.linkedin.com/documents/authentication
+  34. http://developer.linkedin.com/core-concepts
+  35. http://developer.linkedin.com/documents/people
+  36. http://developer.linkedin.com/documents/groups
+  37. http://developer.linkedin.com/documents/companies
+  38. http://developer.linkedin.com/documents/jobs
+  39. http://developer.linkedin.com/documents/job-posting
+  40. http://developer.linkedin.com/documents/share-and-social-stream
+  41. http://developer.linkedin.com/documents/communications
+  42. http://developer.linkedin.com/ads
+  43. http://developer.linkedin.com/documents/libraries-and-tools
+  44. http://developer.linkedin.com/linkedin-policies
+  45. http://developer.linkedin.com/documents/branding-guidelines
+  46. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  47. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  48. http://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
+  49. http://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
+  50. http://developer.linkedin.com/reference
   51. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
   52. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
   53. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
-  54. https://developer.linkedin.com/documents/linkedin-apis-terms-use
-  55. https://developer.linkedin.com/linkedin-plugins-license-agreement
-  56. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  54. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  55. http://developer.linkedin.com/linkedin-plugins-license-agreement
+  56. http://developer.linkedin.com/documents/linkedin-platform-guidelines
   57. http://engineering.linkedin.com/
