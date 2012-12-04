@@ -7,7 +7,7 @@
    available.
 
    [1]Read the full documentation to learn how to set up
-   github.dev/pages/username
+   github.com/pages/username
      * [2]Contact Support
      * [3]Status Site
      * [4]@github
