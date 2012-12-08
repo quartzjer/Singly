@@ -331,7 +331,8 @@ Specific product practices
 
    [English______________________________________]
      * [42]Google
-     * [43]Privacy & Terms
+     * [43]About Google
+     * [44]Privacy & Terms
 
 References
 
@@ -377,4 +378,5 @@ References
   40. http://wallet.google.com/files/privacy.html?hl=en
   41. https://fiber.google.com/legal/privacy.html
   42. http://www.google.com/
-  43. http://www.google.com/intl/en/policies/
+  43. http://www.google.com/intl/en/about/
+  44. http://www.google.com/intl/en/policies/

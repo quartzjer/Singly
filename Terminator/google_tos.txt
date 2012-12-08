@@ -234,7 +234,8 @@ About these Terms
 
    [English______________________________________]
      * [10]Google
-     * [11]Privacy & Terms
+     * [11]About Google
+     * [12]Privacy & Terms
 
 References
 
@@ -248,4 +249,5 @@ References
    8. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
    9. http://www.google.com/intl/en/contact/
   10. http://www.google.com/
-  11. http://www.google.com/intl/en/policies/
+  11. http://www.google.com/intl/en/about/
+  12. http://www.google.com/intl/en/policies/
