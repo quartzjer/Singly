@@ -26,7 +26,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: November 14, 2012
+   Date of Last Revision: December 12, 2012
 
    Facebook Platform is an extension of Facebook, whose mission is to make
    the world more open and connected.
@@ -163,14 +163,17 @@ II. Storing and Using Data You Receive From Us
        the App Dashboard, and must also include a link to your app's
        privacy policy in any app marketplace that provides you with the
        functionality to do so.
-    4. A user's friends' data can only be used in the context of the
-       user's experience on your application.
-    5. Subject to certain restrictions, including on transfer, users give
-       you their [37]basic account information when they connect with your
-       application. For all other data obtained through use of the
-       Facebook API, you must obtain explicit consent from the user who
-       provided the data to us before using it for any purpose other than
-       displaying it back to the user on your application.
+    4. Until you display a conspicuous link to your privacy policy in your
+       app, any data accessed by your app (including basic account
+       information) may only be used in the context of the user's
+       experience in that app. A user's friends' data can only be used in
+       the context of the user's experience on your application.
+    5. Subject to certain restrictions, including on use and transfer,
+       users give you their [37]basic account information when they
+       connect with your application. For all other data obtained through
+       use of the Facebook API, you must obtain explicit consent from the
+       user who provided the data to us before using it for any purpose
+       other than displaying it back to the user on your application.
     6. You will not directly or indirectly transfer any data you receive
        from us, including user data or Facebook User IDs, to (or use such
        data in connection with) any ad network, ad exchange, data broker,
@@ -194,11 +197,12 @@ II. Storing and Using Data You Receive From Us
        must never share this anonymous unique identifier with a data
        broker, information broker, or any other service that we may define
        as such under our sole discretion.
-    9. You will not sell any data. If you are acquired by or merge with a
-       third party, you can continue to use user data within your
-       application, but you cannot transfer data outside your application.
+    9. You will not sell or purchase any data obtained from us by anyone.
+       If you are acquired by or merge with a third party, you can
+       continue to use user data within your application, but you cannot
+       transfer data outside your application.
    10. If you stop using Platform or we disable your application, you must
-       delete all data you have received through use of the Facebook API
+       delete all information about a user you have received from us
        unless: (a) it is basic account information; or (b) you have
        received explicit consent from the user to retain their data.
    11. You cannot use a user’s friend list outside of your application,
@@ -211,10 +215,10 @@ II. Storing and Using Data You Receive From Us
        terms.
    13. You will not include data you receive from us concerning a user in
        any advertising creative, even if a user consents to such use.
-   14. You must not give your secret key to another party, unless that
-       party is an agent acting on your behalf as an operator of your
-       application. You are responsible for all activities that occur
-       under your account identifiers.
+   14. You must not give your secret key and access tokens to another
+       party, unless that party is an agent acting on your behalf as an
+       operator of your application. You are responsible for all
+       activities that occur under your account identifiers.
 
 III. Content
 
@@ -428,7 +432,7 @@ Additional Languages
    [64]Polski
    [65]Português (Brasil)
    [66]Türkçe
-   Updated last Wednesday
+   Updated 8 hours ago
 
    Facebook © 2012 · [67]English (US)
    [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy

@@ -1,15 +1,12 @@
 [1]Google
 
-About Gmail
+   [2]Sign in [3]Create an account
 
-   [2]Create an account
-     * [3]About
-     * [4]Switch to Gmail
-     * [5]What's New
-     * [6]Tips
-     * [7]Blog
-     * [8]For Business
-     * [9]Help
+     * [4]Gmail
+     * [5]About
+     * [6]Why Gmail
+     * [7]Features
+     * [8]Help
 
 Gmail Program Policies
 
@@ -87,25 +84,29 @@ Account Inactivity
    service if you fail to login to your account for a period of nine
    months.
 
-   Are you a Gmail Ninja?
-   [10]gmail.com/tips
+     * [9]For Business
+     * [10]Mobile
+     * [11]Help
+     * [12]Our policy
 
-   [11]Gmail Program Policies
-     * [12]Google
-     * [13]Privacy & Terms
+     * [13]Google
+     * [14]About Google
+     * [15]Privacy & Terms
 
 References
 
    1. https://mail.google.com/
-   2. https://mail.google.com/mail/signup?pc=programpolicies&co=en&hl=en
-   3. https://mail.google.com/mail/help/intl/en/about.html
-   4. https://mail.google.com/mail/help/intl/en/switch.html
-   5. https://mail.google.com/mail/help/intl/en/about_whatsnew.html
-   6. https://mail.google.com/mail/help/intl/en/tips.html
-   7. http://gmailblog.blogspot.com/
-   8. https://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
-   9. https://support.google.com/mail/?hl=en&p=mktg
-  10. https://mail.google.com/mail/help/intl/en/tips.html
-  11. https://mail.google.com/mail/help/intl/en/program_policies.html
-  12. https://mail.google.com/
-  13. https://mail.google.com/intl/en/policies/
+   2. https://accounts.google.com/ServiceLogin?service=mail
+   3. https://accounts.google.com/SignUp?service&mail&hl=en&continue=http%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpc%3Dtopnav-programpolicies-en
+   4. https://mail.google.com/
+   5. https://mail.google.com/mail/help/intl/en/about.html
+   6. https://mail.google.com/mail/help/intl/en/whygmail.html
+   7. https://mail.google.com/mail/help/intl/en/features.html
+   8. https://support.google.com/mail/?hl=en
+   9. https://www.google.com/apps/intl/en/business/gmail.html#utm_campaign=en_US&utm_source=en_US_cgmail&utm_medium=et&utm_term=nel_topbar
+  10. https://www.google.com/mobile/gmail/
+  11. https://support.google.com/mail/?hl=en
+  12. https://mail.google.com/mail/help/intl/en/program_policies.html
+  13. https://mail.google.com/
+  14. https://mail.google.com/intl/en/about/
+  15. https://mail.google.com/intl/en/policies/
