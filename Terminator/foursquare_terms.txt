@@ -676,13 +676,14 @@ Contact.
    Effective Date: August 25, 2011
      * [29]About
      * [30]Blog
-     * [31]Developers
-     * [32]Help
-     * [33]Jobs
-     * [34]Privacy (Updated)
-     * [35]Terms
-     * [36]Store
-     * [37]English
+     * [31]Businesses
+     * [32]Developers
+     * [33]Help
+     * [34]Jobs
+     * [35]Privacy (Updated)
+     * [36]Terms
+     * [37]Store
+     * [38]English
        Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + English
@@ -700,8 +701,8 @@ Contact.
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1355377508&amp;ref=&amp;p=%2Flegal%2
-   Fterms&amp;sig=VzrGSVlXWCika0Sgepd%2Bb5fped8%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1355463907&amp;ref=&amp;p=%2Flegal%2
+   Fterms&amp;sig=mPgRjhuO2aS50CWd3Yy13rtPUGc%3D]
 
 References
 
@@ -736,14 +737,15 @@ References
   28. https://foursquare.com/legal/api/licenseagreement
   29. https://foursquare.com/about
   30. http://blog.foursquare.com/
-  31. http://developer.foursquare.com/
-  32. http://foursquare.com/help
-  33. https://foursquare.com/jobs/
-  34. https://foursquare.com/legal/privacy
-  35. https://foursquare.com/legal/terms
-  36. http://store.foursquare.com/
-  37. https://foursquare.com/legal/terms#languagesContainer
+  31. http://business.foursquare.com/
+  32. http://developer.foursquare.com/
+  33. http://foursquare.com/help
+  34. https://foursquare.com/jobs/
+  35. https://foursquare.com/legal/privacy
+  36. https://foursquare.com/legal/terms
+  37. http://store.foursquare.com/
+  38. https://foursquare.com/legal/terms#languagesContainer
 
    Hidden links:
-  38. https://foursquare.com/legal/terms
   39. https://foursquare.com/legal/terms
+  40. https://foursquare.com/legal/terms

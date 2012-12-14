@@ -246,13 +246,14 @@ VII. Trademarks
 
      * [22]About
      * [23]Blog
-     * [24]Developers
-     * [25]Help
-     * [26]Jobs
-     * [27]Privacy (Updated)
-     * [28]Terms
-     * [29]Store
-     * [30]English
+     * [24]Businesses
+     * [25]Developers
+     * [26]Help
+     * [27]Jobs
+     * [28]Privacy (Updated)
+     * [29]Terms
+     * [30]Store
+     * [31]English
        Do none of the words on this site make sense to you? Select your
        favorite language below for greater clarity:
           + English
@@ -270,8 +271,8 @@ VII. Trademarks
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1355377508&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Fplatformpolicy&amp;sig=S3sqKxb8hLU%2FKEzSwnWrrr3nAik%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1355463906&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Fplatformpolicy&amp;sig=jEKfO%2BrRF9h0lh4JbG7Py2g5vWM%3D]
 
 References
 
@@ -299,14 +300,15 @@ References
   21. https://foursquare.com/legal/trademark
   22. https://foursquare.com/about
   23. http://blog.foursquare.com/
-  24. http://developer.foursquare.com/
-  25. http://foursquare.com/help
-  26. https://foursquare.com/jobs/
-  27. https://foursquare.com/legal/privacy
-  28. https://foursquare.com/legal/terms
-  29. http://store.foursquare.com/
-  30. https://foursquare.com/legal/api/platformpolicy#languagesContainer
+  24. http://business.foursquare.com/
+  25. http://developer.foursquare.com/
+  26. http://foursquare.com/help
+  27. https://foursquare.com/jobs/
+  28. https://foursquare.com/legal/privacy
+  29. https://foursquare.com/legal/terms
+  30. http://store.foursquare.com/
+  31. https://foursquare.com/legal/api/platformpolicy#languagesContainer
 
    Hidden links:
-  31. https://foursquare.com/legal/api/platformpolicy
   32. https://foursquare.com/legal/api/platformpolicy
+  33. https://foursquare.com/legal/api/platformpolicy
