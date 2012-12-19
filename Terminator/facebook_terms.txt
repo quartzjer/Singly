@@ -5,7 +5,7 @@
    Email or Phone
    ____________________ Log In
    [ ] Keep me logged in
-   [4]Sign UpConnect and share with the people in your life.
+   Connect and share with the people in your life.[4]Sign Up
 
    This agreement was written in English (US). To the extent any
    translated version of this agreement conflicts with the English
@@ -547,9 +547,9 @@
    we will default to the English version.
    Facebook © 2012 · [39]English (US)
    [40]Mobile · [41]Find Friends · [42]Badges · [43]People · [44]Pages ·
-   [45]Apps · [46]Games · [47]Music · [48]About · [49]Create an Ad ·
-   [50]Create a Page · [51]Developers · [52]Careers · [53]Privacy ·
-   [54]Cookies · [55]Terms · [56]Help
+   [45]Places · [46]Apps · [47]Games · [48]Music · [49]About · [50]Create
+   an Ad · [51]Create a Page · [52]Developers · [53]Careers · [54]Privacy
+   · [55]Cookies · [56]Terms · [57]Help
 
 References
 
@@ -597,15 +597,16 @@ References
   42. http://www.facebook.com/badges/?ref=pf
   43. http://www.facebook.com/directory/people/
   44. http://www.facebook.com/directory/pages/
-  45. http://www.facebook.com/appcenter/?ref=pf
-  46. http://www.facebook.com/appcenter/category/games/?ref=pf
-  47. http://www.facebook.com/appcenter/category/music/?ref=pf
-  48. http://www.facebook.com/facebook
-  49. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
-  50. http://www.facebook.com/pages/create.php?ref_type=sitefooter
-  51. http://developers.facebook.com/?ref=pf
-  52. http://www.facebook.com/careers/?ref=pf
-  53. http://www.facebook.com/privacy/explanation
-  54. http://www.facebook.com/help/cookies
-  55. http://www.facebook.com/policies/?ref=pf
-  56. http://www.facebook.com/help/?ref=pf
+  45. http://www.facebook.com/directory/places/
+  46. http://www.facebook.com/appcenter/?ref=pf
+  47. http://www.facebook.com/appcenter/category/games/?ref=pf
+  48. http://www.facebook.com/appcenter/category/music/?ref=pf
+  49. http://www.facebook.com/facebook
+  50. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+  51. http://www.facebook.com/pages/create.php?ref_type=sitefooter
+  52. http://developers.facebook.com/?ref=pf
+  53. http://www.facebook.com/careers/?ref=pf
+  54. http://www.facebook.com/privacy/explanation
+  55. http://www.facebook.com/help/cookies
+  56. http://www.facebook.com/policies/?ref=pf
+  57. http://www.facebook.com/help/?ref=pf
