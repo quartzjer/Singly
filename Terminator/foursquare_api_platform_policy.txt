@@ -6,22 +6,13 @@
      * [15]Log in
      * [16]Sign up
 
-You must enable JavaScript to use foursquare.com
-
-   We use the latest and greatest technology available to provide the best
-   possible web experience.
-   Please enable JavaScript in your browser settings to continue.
-
-   [17]Download foursquare for your smart phone and start exploring the
-   world around you!
-
    Last updated: 11/26/12
 
 Foursquare API Platform Policy
 
    Users of the Foursquare Labs, Inc. ("Foursquare") application
    programming interface ("API") are required to comply with Foursquare's
-   [18]Terms of Use, [19]API License Agreement and the terms and
+   [17]Terms of Use, [18]API License Agreement and the terms and
    conditions of this Policy.
 
 I. General
@@ -217,7 +208,7 @@ VI. Privacy Policy
                  received and how you use and disclose it;
                o you share user data with Foursquare, for use by
                  Foursquare for its own purposes; and
-               o the user may read the [20]Foursquare privacy policy
+               o the user may read the [19]Foursquare privacy policy
           + You must clearly and conspicuously present your privacy policy
             to each user at the point of application and/or download,
             installation, authorization or first-run, and you must also
@@ -241,9 +232,17 @@ VII. Trademarks
        "All of the Foursquare^® logos (including all badges) and
        trademarks displayed on this [application/service] are the property
        of Foursquare Labs, Inc.
-     * You must read and comply with the [21]Foursquare Trademark and
+     * You must read and comply with the [20]Foursquare Trademark and
        Brand Feature Guidelines.
 
+You must enable JavaScript to use foursquare.com
+
+   We use the latest and greatest technology available to provide the best
+   possible web experience.
+   Please enable JavaScript in your browser settings to continue.
+
+   [21]Download foursquare for your smart phone and start exploring the
+   world around you!
      * [22]About
      * [23]Blog
      * [24]Businesses
@@ -271,8 +270,8 @@ VII. Trademarks
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1355983243&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Fplatformpolicy&amp;sig=sh0zRqnQeOpl82ky9pnTYyaC68w%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1356069641&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Fplatformpolicy&amp;sig=bDMoSsav1L0xQ58XCFQomyf%2Ftk0%3D]
 
 References
 
@@ -293,11 +292,11 @@ References
   14. https://foursquare.com/
   15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Fplatformpolicy&clicked=true
   16. https://foursquare.com/signup
-  17. https://foursquare.com/download
-  18. https://foursquare.com/legal/terms
-  19. https://foursquare.com/legal/api/licenseagreement
-  20. https://foursquare.com/legal/privacy
-  21. https://foursquare.com/legal/trademark
+  17. https://foursquare.com/legal/terms
+  18. https://foursquare.com/legal/api/licenseagreement
+  19. https://foursquare.com/legal/privacy
+  20. https://foursquare.com/legal/trademark
+  21. https://foursquare.com/download
   22. https://foursquare.com/about
   23. http://blog.foursquare.com/
   24. http://business.foursquare.com/
