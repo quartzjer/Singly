@@ -270,8 +270,8 @@ You must enable JavaScript to use foursquare.com
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1356156039&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Fplatformpolicy&amp;sig=VCMv2czhYN7WGq1bvLtQPsJIh7I%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1356242437&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Fplatformpolicy&amp;sig=U72%2BpkA%2FrIVyDobJ2ujK0pKohvo%3D]
 
 References
 
