@@ -701,8 +701,8 @@ You must enable JavaScript to use foursquare.com
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1356588031&amp;ref=&amp;p=%2Flegal%2
-   Fterms&amp;sig=DugJGKxL50tkDrE6zcY1nfsqnrE%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1356674430&amp;ref=&amp;p=%2Flegal%2
+   Fterms&amp;sig=LqnZA53vsYjrbRDnIaKM2x7S5C8%3D]
 
 References
 
