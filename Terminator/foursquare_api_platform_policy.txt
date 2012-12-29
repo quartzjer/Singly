@@ -270,8 +270,8 @@ You must enable JavaScript to use foursquare.com
 
    foursquare © 2012 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1356674429&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Fplatformpolicy&amp;sig=p5AbOsF3RXXmEUSq%2FnCh9KcUwlI%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1356760828&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Fplatformpolicy&amp;sig=zbOMUtRsNaGdUK4%2BJFeVQBk%2Bo%2FY%3D]
 
 References
 
@@ -291,7 +291,7 @@ References
   13. https://tr.foursquare.com/legal/api/platformpolicy
   14. https://foursquare.com/
   15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Fplatformpolicy&clicked=true
-  16. https://foursquare.com/signup
+  16. https://foursquare.com/signup/
   17. https://foursquare.com/legal/terms
   18. https://foursquare.com/legal/api/licenseagreement
   19. https://foursquare.com/legal/privacy
