@@ -676,7 +676,7 @@ Documentation
             Guidelines
      * [50]Reference
 
-   LinkedIn Corporation © 2012 | [51]User Agreement | [52]Privacy Policy |
+   LinkedIn Corporation © 2013 | [51]User Agreement | [52]Privacy Policy |
    [53]Copyright Policy | [54]API Terms of Use | [55]Plugins Terms of Use
    | [56]Platform Guidelines | [57]LinkedIn Engineering
 
