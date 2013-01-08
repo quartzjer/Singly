@@ -531,14 +531,16 @@ Explore
 
 Products
 
-     * [40]Zip^™
+     * [40]Flex^™
+       Wireless Activity + Sleep Wristband
+     * [41]Zip^™
        Wireless Activity Tracker
-     * [41]One^™
+     * [42]One^™
        Wireless Activity + Sleep Tracker
-     * [42]Aria^™
+     * [43]Aria^™
        Wi-Fi Smart Scale
 
-   [43]Shop Devices
+   [44]Shop Devices
 
 References
 
@@ -582,11 +584,12 @@ References
   37. http://www.fitbit.com/foods/brands
   38. http://www.fitbit.com/foods/categories
   39. http://www.fitbit.com/foods/search
-  40. http://www.fitbit.com/zip
-  41. http://www.fitbit.com/one
-  42. http://www.fitbit.com/product/aria
-  43. http://www.fitbit.com/store
+  40. http://www.fitbit.com/flex
+  41. http://www.fitbit.com/zip
+  42. http://www.fitbit.com/one
+  43. http://www.fitbit.com/product/aria
+  44. http://www.fitbit.com/store
 
    Hidden links:
-  44. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
-  45. http://wiki.fitbit.com/display/API
+  45. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
+  46. http://wiki.fitbit.com/display/API

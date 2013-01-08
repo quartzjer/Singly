@@ -223,8 +223,8 @@ You must enable JavaScript to use foursquare.com
 
    foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1357538413&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Flicenseagreement&amp;sig=ShaZto94%2F3c3h98jyEosEXF9IPs%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1357624812&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Flicenseagreement&amp;sig=K%2B7WT1iqN55s7q%2F3URfA31GkHls%3D]
 
 References
 
