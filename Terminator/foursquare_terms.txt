@@ -683,26 +683,12 @@ You must enable JavaScript to use foursquare.com
      * [35]Privacy (Updated)
      * [36]Terms
      * [37]Store
-     * [38]English
-       Do none of the words on this site make sense to you? Select your
-       favorite language below for greater clarity:
-          + English
-          + Italiano
-          + Deutsch
-          + Español
-          + Français
-          + 日本語
-          + ภาษาไทย
-          + 한국어
-          + Русский
-          + Português
-          + Bahasa Indonesia
-          + Türkçe
+     * English
 
    foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1357711213&amp;ref=&amp;p=%2Flegal%2
-   Fterms&amp;sig=%2BfyPYgnTepm%2Fznnjv5S5dvpNNiE%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1357797608&amp;ref=&amp;p=%2Flegal%2
+   Fterms&amp;sig=aHRxLcyxUQvJ8p2fRjJL7HnVpns%3D]
 
 References
 
@@ -744,8 +730,7 @@ References
   35. https://foursquare.com/legal/privacy
   36. https://foursquare.com/legal/terms
   37. http://store.foursquare.com/
-  38. https://foursquare.com/legal/terms#languagesContainer
 
    Hidden links:
+  38. https://foursquare.com/legal/terms
   39. https://foursquare.com/legal/terms
-  40. https://foursquare.com/legal/terms
