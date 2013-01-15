@@ -5,7 +5,7 @@
    Email or Phone
    ____________________ Log In
    [ ] Keep me logged in
-   [4]Sign UpMake the world more open and connected.
+   [4]Sign UpConnect and share with the people in your life.
 
    This agreement was written in English (US). To the extent any
    translated version of this agreement conflicts with the English
@@ -545,18 +545,18 @@
    session by clicking on the language link in the left corner of most
    pages.  If the Statement is not available in the language you select,
    we will default to the English version.
-   Facebook © 2013 · [39]English (US)
-   [40]Mobile · [41]Find Friends · [42]Badges · [43]People · [44]Pages ·
-   [45]Places · [46]Apps · [47]Games · [48]Music · [49]About · [50]Create
-   an Ad · [51]Create a Page · [52]Developers · [53]Careers · [54]Privacy
-   · [55]Cookies · [56]Terms · [57]Help
+   [39]Mobile [40]Find Friends [41]Badges [42]People [43]Pages [44]Places
+   [45]Apps [46]Games [47]Music
+   [48]About [49]Create an Ad [50]Create a Page [51]Developers [52]Careers
+   [53]Privacy [54]Cookies [55]Terms [56]Help
+   Facebook © 2013 · [57]English (US)
 
 References
 
    1. http://www.facebook.com/legal/terms?_fb_noscript=1
    2. http://www.facebook.com/legal/terms
    3. http://www.facebook.com/
-   4. http://www.facebook.com/r.php?locale=en_US&loxv=v2_NO_RULE
+   4. http://www.facebook.com/r.php?locale=en_US&loxv=v1_WITH_RULE
    5. http://www.facebook.com/principles.php
    6. http://www.facebook.com/policy.php
    7. http://www.facebook.com/privacy/
@@ -591,22 +591,22 @@ References
   36. http://www.facebook.com/legal/copyright.php?howto_report
   37. http://www.facebook.com/terms_pages.php
   38. https://www.facebook.com/communitystandards
-  39. http://www.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms
-  40. http://www.facebook.com/mobile/?ref=pf
-  41. http://www.facebook.com/find-friends?ref=pf
-  42. http://www.facebook.com/badges/?ref=pf
-  43. http://www.facebook.com/directory/people/
-  44. http://www.facebook.com/directory/pages/
-  45. http://www.facebook.com/directory/places/
-  46. http://www.facebook.com/appcenter/?ref=pf
-  47. http://www.facebook.com/appcenter/category/games/?ref=pf
-  48. http://www.facebook.com/appcenter/category/music/?ref=pf
-  49. http://www.facebook.com/facebook
-  50. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
-  51. http://www.facebook.com/pages/create.php?ref_type=sitefooter
-  52. http://developers.facebook.com/?ref=pf
-  53. http://www.facebook.com/careers/?ref=pf
-  54. http://www.facebook.com/privacy/explanation
-  55. http://www.facebook.com/help/cookies
-  56. http://www.facebook.com/policies/?ref=pf
-  57. http://www.facebook.com/help/?ref=pf
+  39. http://www.facebook.com/mobile/?ref=pf
+  40. http://www.facebook.com/find-friends?ref=pf
+  41. http://www.facebook.com/badges/?ref=pf
+  42. http://www.facebook.com/directory/people/
+  43. http://www.facebook.com/directory/pages/
+  44. http://www.facebook.com/directory/places/
+  45. http://www.facebook.com/appcenter/?ref=pf
+  46. http://www.facebook.com/appcenter/category/games/?ref=pf
+  47. http://www.facebook.com/appcenter/category/music/?ref=pf
+  48. http://www.facebook.com/facebook
+  49. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+  50. http://www.facebook.com/pages/create.php?ref_type=sitefooter
+  51. http://developers.facebook.com/?ref=pf
+  52. http://www.facebook.com/careers/?ref=pf
+  53. http://www.facebook.com/privacy/explanation
+  54. http://www.facebook.com/help/cookies
+  55. http://www.facebook.com/policies/?ref=pf
+  56. http://www.facebook.com/help/?ref=pf
+  57. http://www.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms
