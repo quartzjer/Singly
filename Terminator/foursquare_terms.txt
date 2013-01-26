@@ -687,8 +687,8 @@ You must enable JavaScript to use foursquare.com
 
    foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1359093588&amp;ref=&amp;p=%2Flegal%2
-   Fterms&amp;sig=GqmyFBJ1UVlhHckzTtOySixncvY%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1359179980&amp;ref=&amp;p=%2Flegal%2
+   Fterms&amp;sig=wieVWkn4UykuvGvd8rNi%2B2irPbs%3D]
 
 References
 
