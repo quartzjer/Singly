@@ -2,31 +2,22 @@
 
 [2]Policies & Principles
 
-     * [3]Overview
-     * Privacy
-          + Privacy Policy
-          + [4]Advertising
-          + [5]Cookies
-          + [6]Principles
-          + [7]Tools
-          + [8]Blogs
-          + [9]Videos
-          + [10]FAQ
-     * [11]Terms of Service
+    1. [3]Overview
+    2. Privacy Policy
 
-     * Current version
-     * [12]Past versions
-     * [13]Self Regulatory Frameworks
-     * [14]Key terms
+     * Privacy Policy
+     * [4]Self Regulatory Frameworks
+     * [5]Key terms
+     * [6]Archive
 
 Privacy Policy
 
-   Last modified: July 27, 2012 ([15]view archived versions)
+   Last modified: July 27, 2012 ([7]view archived versions)
 
    There are many different ways you can use our services â€“ to search
    for and share information, to communicate with other people or to
    create new content. When you share information with us, for example by
-   creating a [16]Google Account, we can make those services even better
+   creating a [8]Google Account, we can make those services even better
    â€“ to show you more relevant search results and ads, to help you
    connect with people or to make sharing with others quicker and easier.
    As you use our services, we want you to be clear how weâ€™re using
@@ -40,10 +31,10 @@ Privacy Policy
 
    Weâ€™ve tried to keep it as simple as possible, but if youâ€™re not
    familiar with terms like cookies, IP addresses, pixel tags and
-   browsers, then read about these [17]key terms first. Your privacy
+   browsers, then read about these [9]key terms first. Your privacy
    matters to Google so whether you are new to Google or a long-time user,
    please do take the time to get to know our practices â€“ and if you
-   have any questions [18]contact us.
+   have any questions [10]contact us.
 
 Information we collect
 
@@ -55,10 +46,10 @@ Information we collect
    We collect information in two ways:
      * Information you give us. For example, many of our services require
        you to sign up for a Google Account. When you do, weâ€™ll ask for
-       [19]personal information, like your name, email address, telephone
+       [11]personal information, like your name, email address, telephone
        number or credit card. If you want to take full advantage of the
        sharing features we offer, we might also ask you to create a
-       publicly visible [20]Google Profile, which may include your name
+       publicly visible [12]Google Profile, which may include your name
        and photo.
      * Information we get from your use of our services. We may collect
        information about the services that you use and how you use them,
@@ -74,14 +65,14 @@ Information we collect
           + Log information
             When you use our services or view content provided by Google,
             we may automatically collect and store certain information in
-            [21]server logs. This may include:
+            [13]server logs. This may include:
                o details of how you used our service, such as your search
                  queries.
                o telephony log information like your phone number,
                  calling-party number, forwarding numbers, time and date
                  of calls, duration of calls, SMS routing information and
                  types of calls.
-               o [22]Internet protocol address.
+               o [14]Internet protocol address.
                o device event information such as crashes, system
                  activity, hardware settings, browser type, browser
                  language, the date and time of your request and referral
@@ -110,7 +101,7 @@ Information we collect
           + Cookies and anonymous identifiers
             We use various technologies to collect and store information
             when you visit a Google service, and this may include sending
-            one or more [23]cookies or [24]anonymous identifiers to your
+            one or more [15]cookies or [16]anonymous identifiers to your
             device. We also use cookies and anonymous identifiers when you
             interact with services we offer to our partners, such as
             advertising services or Google features that may appear on
@@ -138,7 +129,7 @@ How we use information we collect
    about upcoming changes or improvements.
 
    We use information collected from cookies and other technologies, like
-   [25]pixel tags, to improve your user experience and the overall quality
+   [17]pixel tags, to improve your user experience and the overall quality
    of our services. For example, by saving your language preferences,
    weâ€™ll be able to have our services appear in the language you prefer.
    When showing you tailored ads, we will not associate a cookie or
@@ -163,15 +154,15 @@ Transparency and choice
    People have different privacy concerns. Our goal is to be clear about
    what information we collect, so that you can make meaningful choices
    about how it is used. For example, you can:
-     * [26]Review and control certain types of information tied to your
+     * [18]Review and control certain types of information tied to your
        Google Account by using Google Dashboard.
-     * [27]View and edit your ads preferences, such as which categories
+     * [19]View and edit your ads preferences, such as which categories
        might interest you, using the Ads Preferences Manager. You can also
        opt out of certain Google advertising services here.
-     * [28]Use our editor to see and adjust how your Google Profile
+     * [20]Use our editor to see and adjust how your Google Profile
        appears to particular individuals.
-     * [29]Control who you share information with.
-     * [30]Take information out of many of our services.
+     * [21]Control who you share information with.
+     * [22]Take information out of many of our services.
 
    You may also set your browser to block all cookies, including cookies
    associated with our services, or to indicate when a cookie is being set
@@ -217,10 +208,10 @@ Information we share
      * With your consent
        We will share personal information with companies, organizations or
        individuals outside of Google when we have your consent to do so.
-       We require opt-in consent for the sharing of any [31]sensitive
+       We require opt-in consent for the sharing of any [23]sensitive
        personal information.
      * With domain administrators
-       If your Google Account is managed for you by a [32]domain
+       If your Google Account is managed for you by a [24]domain
        administrator (for example, for Google Apps users) then your domain
        administrator and resellers who provide user support to your
        organization will have access to your Google Account information
@@ -258,7 +249,7 @@ Information we share
             Google, our users or the public as required or permitted by
             law.
 
-   We may share aggregated, [33]non-personally identifiable information
+   We may share aggregated, [25]non-personally identifiable information
    publicly and with our partners â€“ like publishers, advertisers or
    connected sites. For example, we may share information publicly to show
    trends about the general use of our services.
@@ -273,9 +264,9 @@ Information security
    We work hard to protect Google and our users from unauthorized access
    to or unauthorized alteration, disclosure or destruction of information
    we hold. In particular:
-     * We encrypt many of our services [34]using SSL.
-     * We offer you [35]two step verification when you access your Google
-       Account, and a [36]Safe Browsing feature in Google Chrome.
+     * We encrypt many of our services [26]using SSL.
+     * We offer you [27]two step verification when you access your Google
+       Account, and a [28]Safe Browsing feature in Google Chrome.
      * We review our information collection, storage and processing
        practices, including physical security measures, to guard against
        unauthorized access to systems.
@@ -303,7 +294,7 @@ Application
 Enforcement
 
    We regularly review our compliance with our Privacy Policy. We also
-   adhere to several [37]self regulatory frameworks. When we receive
+   adhere to several [29]self regulatory frameworks. When we receive
    formal written complaints, we will contact the person who made the
    complaint to follow up. We work with the appropriate regulatory
    authorities, including local data protection authorities, to resolve
@@ -324,10 +315,29 @@ Specific product practices
 
    The following notices explain specific privacy practices with respect
    to certain Google products and services that you may use:
-     * [38]Chrome and Chrome OS
-     * [39]Books
-     * [40]Wallet
-     * [41]Fiber
+     * [30]Chrome and Chrome OS
+     * [31]Books
+     * [32]Wallet
+     * [33]Fiber
+
+Good to Know
+
+     * Our Good to Know site helps you stay safe and protect your
+       familyâ€™s information online. [34]Visit to learn more
+
+Technologies
+
+     * [35]Technologies and Principles
+     * [36]Advertising
+     * [37]How Google uses cookies
+     * [38]Types of cookies used by Google
+     * [39]Managing cookies in your browser
+
+Legal policies
+
+     * Privacy Policy
+     * [40]Terms of Service
+     * [41]FAQ
 
    [English______________________________________]
      * [42]Google
@@ -339,44 +349,44 @@ References
    1. http://www.google.com/
    2. http://www.google.com/intl/en/policies/
    3. http://www.google.com/intl/en/policies/
-   4. http://www.google.com/intl/en/policies/privacy/ads/
-   5. http://www.google.com/intl/en/policies/privacy/cookies/
-   6. http://www.google.com/intl/en/policies/privacy/principles/
-   7. http://www.google.com/intl/en/policies/privacy/tools/
-   8. http://www.google.com/intl/en/policies/privacy/blogs/
-   9. http://www.google.com/intl/en/policies/privacy/videos/
-  10. http://www.google.com/intl/en/policies/privacy/faq/
-  11. http://www.google.com/intl/en/policies/terms/
-  12. http://www.google.com/intl/en/policies/privacy/archive/
-  13. http://www.google.com/intl/en/policies/privacy/frameworks/
-  14. http://www.google.com/intl/en/policies/privacy/key-terms/
-  15. http://www.google.com/intl/en/policies/privacy/archive/
-  16. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account
-  17. http://www.google.com/intl/en/policies/privacy/key-terms/
-  18. http://www.google.com/support/websearch/bin/answer.py?answer=151265&hl=en
-  19. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info
-  20. http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783
-  21. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs
-  22. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip
-  23. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie
-  24. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier
-  25. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel
-  26. https://www.google.com/dashboard/?hl=en
-  27. https://www.google.com/settings/ads/preferences?hl=en
-  28. http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706
-  29. http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347
-  30. http://www.dataliberation.org/
-  31. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info
-  32. http://support.google.com/a/bin/answer.py?hl=en&answer=178897
-  33. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info
-  34. http://support.google.com/websearch/bin/answer.py?answer=173733&en
-  35. http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284
-  36. http://www.google.com/chrome/intl/en/more/security.html
-  37. http://www.google.com/intl/en/policies/privacy/frameworks/
-  38. http://www.google.com/chrome/intl/en/privacy.html
-  39. http://books.google.com/intl/en/googlebooks/privacy.html
-  40. http://wallet.google.com/files/privacy.html?hl=en
-  41. https://fiber.google.com/legal/privacy.html
+   4. http://www.google.com/intl/en/policies/privacy/frameworks/
+   5. http://www.google.com/intl/en/policies/privacy/key-terms/
+   6. http://www.google.com/intl/en/policies/privacy/archive/
+   7. http://www.google.com/intl/en/policies/privacy/archive/
+   8. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account
+   9. http://www.google.com/intl/en/policies/privacy/key-terms/
+  10. http://www.google.com/support/websearch/bin/answer.py?answer=151265&hl=en
+  11. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info
+  12. http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783
+  13. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs
+  14. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip
+  15. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie
+  16. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier
+  17. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel
+  18. https://www.google.com/dashboard/?hl=en
+  19. https://www.google.com/settings/ads/preferences?hl=en
+  20. http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706
+  21. http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347
+  22. http://www.dataliberation.org/
+  23. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info
+  24. http://support.google.com/a/bin/answer.py?hl=en&answer=178897
+  25. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info
+  26. http://support.google.com/websearch/bin/answer.py?answer=173733&en
+  27. http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284
+  28. http://www.google.com/chrome/intl/en/more/security.html
+  29. http://www.google.com/intl/en/policies/privacy/frameworks/
+  30. http://www.google.com/chrome/intl/en/privacy.html
+  31. http://books.google.com/intl/en/googlebooks/privacy.html
+  32. http://wallet.google.com/files/privacy.html?hl=en
+  33. https://fiber.google.com/legal/privacy.html
+  34. http://www.google.com/goodtoknow/
+  35. http://www.google.com/intl/en/policies/technologies/
+  36. http://www.google.com/intl/en/policies/technologies/ads/
+  37. http://www.google.com/intl/en/policies/technologies/cookies/
+  38. http://www.google.com/intl/en/policies/technologies/types/
+  39. http://www.google.com/intl/en/policies/technologies/managing/
+  40. http://www.google.com/intl/en/policies/terms/
+  41. http://www.google.com/intl/en/policies/faq/
   42. http://www.google.com/
   43. http://www.google.com/intl/en/about/
   44. http://www.google.com/intl/en/policies/

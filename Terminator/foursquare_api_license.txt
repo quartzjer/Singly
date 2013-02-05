@@ -203,14 +203,14 @@ You must enable JavaScript to use foursquare.com
      * [23]Help
      * [24]Jobs
      * [25]Privacy (Updated)
-     * [26]Terms
+     * [26]Terms (Updated)
      * [27]Store
      * English
 
    foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1359957565&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Flicenseagreement&amp;sig=ZARgfuMMkhqE4i2Ee8PU%2BETYLZw%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1360043964&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Flicenseagreement&amp;sig=Yovy%2Bl%2FTq1NhUuuf06hjawOcjS8%3D]
 
 References
 
