@@ -379,7 +379,7 @@ References
   31. http://books.google.com/intl/en/googlebooks/privacy.html
   32. http://wallet.google.com/files/privacy.html?hl=en
   33. https://fiber.google.com/legal/privacy.html
-  34. http://www.google.com/goodtoknow/
+  34. http://www.google.com/intl/en/goodtoknow/
   35. http://www.google.com/intl/en/policies/technologies/
   36. http://www.google.com/intl/en/policies/technologies/ads/
   37. http://www.google.com/intl/en/policies/technologies/cookies/

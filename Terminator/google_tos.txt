@@ -265,7 +265,7 @@ References
    6. http://www.google.com/intl/en/policies/privacy/
    7. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
    8. http://www.google.com/intl/en/contact/
-   9. http://www.google.com/goodtoknow/
+   9. http://www.google.com/intl/en/goodtoknow/
   10. http://www.google.com/intl/en/policies/technologies/
   11. http://www.google.com/intl/en/policies/technologies/ads/
   12. http://www.google.com/intl/en/policies/technologies/cookies/
