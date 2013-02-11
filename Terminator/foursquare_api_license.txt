@@ -209,8 +209,8 @@ You must enable JavaScript to use foursquare.com
 
    foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1360475955&amp;ref=&amp;p=%2Flegal%2
-   Fapi%2Flicenseagreement&amp;sig=H4qrBy%2BYe8gf7uuBl1whT1Pn2Fk%3D]
+   [wtrack?event=pltp&amp;u=-1&amp;ts=1360562354&amp;ref=&amp;p=%2Flegal%2
+   Fapi%2Flicenseagreement&amp;sig=hLTd%2B7cha0xfBw6A%2B3qoGa3LFOc%3D]
 
 References
 
