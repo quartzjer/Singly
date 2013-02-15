@@ -690,8 +690,8 @@ You must enable JavaScript to use foursquare.com
 
    foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;u=-1&amp;ts=1360821547&amp;ref=&amp;p=%2Flegal%2
-   Fterms&amp;sig=MHKWYggWsGGgj2k5etNJsotPEsI%3D]
+   [terms&amp;ref=&amp;ts=1360907946&amp;u=-1&amp;sig=RwBQmRiPw%2B%2B2MxHq
+   fhwvaFTxlfo%3D]
 
 References
 

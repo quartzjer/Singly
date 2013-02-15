@@ -577,7 +577,7 @@ References
   28. http://help.fitbit.com/#product_one
   29. http://help.fitbit.com/#product_ultra
   30. http://help.fitbit.com/#product_aria
-  31. http://www.fitbit.com/product/mobile/iphone
+  31. http://www.fitbit.com/iphone
   32. http://www.fitbit.com/premium/about
   33. http://www.fitbit.com/apps
   34. http://dev.fitbit.com/
