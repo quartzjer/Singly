@@ -26,7 +26,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: January 25, 2012
+   Date of Last Revision: February 20, 2013
 
    Facebook Platform is an extension of Facebook, whose mission is to make
    the world more open and connected.
@@ -378,15 +378,17 @@ VII. Definitions
 
 VIII. Branding and Promotion Policy
 
-   You must follow the guidelines set forth in the [48]Facebook Brand
-   Resource and Permissions Center.
+    1. You must follow the guidelines set forth in the [48]Facebook Brand
+       Resource and Permissions Center.
+    2. Your app's description, display name and icons must adhere to our
+       [49]Advertising Guidelines.
 
-IX. [49]Advertising Guidelines
+IX. [50]Advertising Guidelines
 
-X. [50]Facebook Developer Payments Terms
+X. [51]Facebook Developer Payments Terms
 
    Developers participating in the program for accepting payments are
-   subject to [51]these terms.
+   subject to [52]these terms.
 
 XI. Ads API
 
@@ -418,28 +420,28 @@ Examples and Explanations
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [52]examples and explanations will help you understand how to put
+   these [53]examples and explanations will help you understand how to put
    that into practice.
 
 Additional Languages
 
-   [53]العربية
-   [54]中文(香港)
-   [55]中文(台灣)
-   [56]Deutsch
-   [57]Español
-   [58]Français
-   [59]עברית
-   [60]Italiano
-   [61]日本語
-   [62]한국어
-   [63]Polski
-   [64]Português (Brasil)
-   [65]Türkçe
-   Updated about a month ago
+   [54]العربية
+   [55]中文(香港)
+   [56]中文(台灣)
+   [57]Deutsch
+   [58]Español
+   [59]Français
+   [60]עברית
+   [61]Italiano
+   [62]日本語
+   [63]한국어
+   [64]Polski
+   [65]Português (Brasil)
+   [66]Türkçe
+   Updated 11 hours ago
 
-   Facebook © 2013 · [66]English (US)
-   [67]About[68]Advertising[69]Careers[70]Platform Policies[71]Privacy
+   Facebook © 2013 · [67]English (US)
+   [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy
    Policy
 
 References
@@ -494,30 +496,31 @@ References
   47. http://developers.facebook.com/docs/plugins/
   48. https://www.facebook.com/brandpermissions/logos.php
   49. https://www.facebook.com/ad_guidelines.php
-  50. http://developers.facebook.com/policy/credits
+  50. https://www.facebook.com/ad_guidelines.php
   51. http://developers.facebook.com/policy/credits
-  52. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  53. https://developers.facebook.com/policy/Arabic/
-  54. https://developers.facebook.com/policy/ChineseHK/
-  55. https://developers.facebook.com/policy/ChineseTW/
-  56. https://developers.facebook.com/policy/Deutsch/
-  57. https://developers.facebook.com/policy/Espanol/
-  58. https://developers.facebook.com/policy/Francais/
-  59. https://developers.facebook.com/policy/Hebrew/
-  60. https://developers.facebook.com/policy/Italiano/
-  61. https://developers.facebook.com/policy/Japanese/
-  62. https://developers.facebook.com/policy/Korean/
-  63. https://developers.facebook.com/policy/Polski/
-  64. https://developers.facebook.com/policy/Portugues/
-  65. https://developers.facebook.com/policy/Turkce/
-  66. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  67. http://www.facebook.com/FacebookDevelopers
-  68. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
-  69. http://www.facebook.com/careers
-  70. http://developers.facebook.com/policy
-  71. http://www.facebook.com/policy.php
+  52. http://developers.facebook.com/policy/credits
+  53. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  54. https://developers.facebook.com/policy/Arabic/
+  55. https://developers.facebook.com/policy/ChineseHK/
+  56. https://developers.facebook.com/policy/ChineseTW/
+  57. https://developers.facebook.com/policy/Deutsch/
+  58. https://developers.facebook.com/policy/Espanol/
+  59. https://developers.facebook.com/policy/Francais/
+  60. https://developers.facebook.com/policy/Hebrew/
+  61. https://developers.facebook.com/policy/Italiano/
+  62. https://developers.facebook.com/policy/Japanese/
+  63. https://developers.facebook.com/policy/Korean/
+  64. https://developers.facebook.com/policy/Polski/
+  65. https://developers.facebook.com/policy/Portugues/
+  66. https://developers.facebook.com/policy/Turkce/
+  67. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  68. http://www.facebook.com/FacebookDevelopers
+  69. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  70. http://www.facebook.com/careers
+  71. http://developers.facebook.com/policy
+  72. http://www.facebook.com/policy.php
 
    Hidden links:
-  72. http://developers.facebook.com/policy/
-  73. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  74. http://developers.facebook.com/opensource/
+  73. http://developers.facebook.com/policy/
+  74. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  75. http://developers.facebook.com/opensource/
