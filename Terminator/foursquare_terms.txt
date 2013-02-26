@@ -290,10 +290,28 @@ Rules and Conduct.
    user support requests, or (v) protect the rights, property or safety of
    Foursquare, its users and the public.
 
+Card Services
+
+   Certain features of the Service and/or certain services and products
+   made available to you through the Service may allow you to purchase
+   services or to redeem an offer or special using your credit card
+   (together with “Card Services”). Foursquare uses a third-party payment
+   processor (the “Payment Processor”) to link your credit card account to
+   the Services (your “Card Account”) for use of the Card Services. The
+   processing of payments or credits, as applicable, in connection with
+   the Card Services will be subject to the terms, conditions and privacy
+   policies of the Payment Processor and your credit card issuer in
+   addition to this Agreement. Foursquare is not responsible for any error
+   that occurs during any offer or special redemption process, including
+   any error by the Payment Processor. In connection with your use of the
+   Card Services, Foursquare will obtain certain transaction details,
+   which Foursquare will use solely in accordance with our [24]Privacy
+   Policy.
+
 Feedback and Unsolicited Idea Submission Policy
 
    For information on Foursquare’s Feedback and Unsolicited Idea
-   Submission Policy, please go [24]here.
+   Submission Policy, please go [25]here.
 
 Special Terms for 'Add-to-Foursquare' Link
 
@@ -360,13 +378,13 @@ Special Terms for Pages.
 Special Terms for Verified Venues.
 
    If you are the verified representative of a venue, you also agree to
-   Foursquare's [25]Venue Terms and Conditions.
+   Foursquare's [26]Venue Terms and Conditions.
 
 Special Terms for Developers.
 
    If you are a developer or operator of any application or service that
    uses Foursquare's application programming interface(s) you also agree
-   to Foursquare's [26]Platform Policy and [27]API License Agreement.
+   to Foursquare's [27]Platform Policy and [28]API License Agreement.
 
 Third Party Sites and Services.
 
@@ -458,7 +476,7 @@ Warranty Disclaimer.
 Indemnification.
 
    You shall defend, indemnify, and hold harmless Foursquare, its
-   affiliates and each of its, and its affiliates employees, contractors,
+   affiliates and each of its and its affiliates' employees, contractors,
    directors, suppliers and representatives from all losses, costs,
    actions, claims, damages, expenses (including reasonable legal costs)
    or liabilities, that arise from or relate to your use or misuse of, or
@@ -675,23 +693,23 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [28]Download foursquare for your smart phone and start exploring the
+   [29]Download foursquare for your smart phone and start exploring the
    world around you!
-     * [29]About
-     * [30]Blog
-     * [31]Businesses
-     * [32]Developers
-     * [33]Help
-     * [34]Jobs
-     * [35]Privacy (Updated)
-     * [36]Terms (Updated)
-     * [37]Store
+     * [30]About
+     * [31]Blog
+     * [32]Businesses
+     * [33]Developers
+     * [34]Help
+     * [35]Jobs
+     * [36]Privacy (Updated)
+     * [37]Terms (Updated)
+     * [38]Store
      * English
 
    foursquare © 2013 Lovingly made in NYC & SF
 
-   [terms&amp;ref=&amp;ts=1361771929&amp;u=-1&amp;sig=eEiwNVFfYcMXwHHRl9c1
-   E4G1ZNA%3D]
+   [terms&amp;ref=&amp;ts=1361858327&amp;u=-1&amp;sig=%2Fre%2FS1raK6FCfDGz
+   YYozBQIe2z0%3D]
 
 References
 
@@ -719,21 +737,22 @@ References
   21. https://foursquare.com/legal/privacy
   22. http://support.foursquare.com/entries/386768-foursquare-house-rules
   23. https://foursquare.com/legal/photos
-  24. https://foursquare.com/legal/ideas
-  25. https://foursquare.com/legal/venueterms
-  26. https://foursquare.com/legal/api/platformpolicy
-  27. https://foursquare.com/legal/api/licenseagreement
-  28. https://foursquare.com/download
-  29. https://foursquare.com/about
-  30. http://blog.foursquare.com/
-  31. http://business.foursquare.com/
-  32. http://developer.foursquare.com/
-  33. http://foursquare.com/help
-  34. https://foursquare.com/jobs/
-  35. https://foursquare.com/legal/privacy
-  36. https://foursquare.com/legal/terms
-  37. http://store.foursquare.com/
+  24. https://foursquare.com/legal/privacy
+  25. https://foursquare.com/legal/ideas
+  26. https://foursquare.com/legal/venueterms
+  27. https://foursquare.com/legal/api/platformpolicy
+  28. https://foursquare.com/legal/api/licenseagreement
+  29. https://foursquare.com/download
+  30. https://foursquare.com/about
+  31. http://blog.foursquare.com/
+  32. http://business.foursquare.com/
+  33. http://developer.foursquare.com/
+  34. http://foursquare.com/help
+  35. https://foursquare.com/jobs/
+  36. https://foursquare.com/legal/privacy
+  37. https://foursquare.com/legal/terms
+  38. http://store.foursquare.com/
 
    Hidden links:
-  38. https://foursquare.com/legal/terms
   39. https://foursquare.com/legal/terms
+  40. https://foursquare.com/legal/terms
