@@ -5,7 +5,7 @@
    Email or Phone
    ____________________ Log In
    [ ] Keep me logged in
-   [4]Sign Up
+   [4]Sign UpConnect and share with the people in your life.
 
    This agreement was written in English (US). To the extent any
    translated version of this agreement conflicts with the English
@@ -556,7 +556,7 @@ References
    1. http://www.facebook.com/legal/terms?_fb_noscript=1
    2. http://www.facebook.com/legal/terms
    3. http://www.facebook.com/
-   4. http://www.facebook.com/r.php?locale=en_US&loxv=v3_BUTTON_ONLY
+   4. http://www.facebook.com/r.php?locale=en_US&loxv=v1_WITH_RULE
    5. http://www.facebook.com/principles.php
    6. http://www.facebook.com/policy.php
    7. http://www.facebook.com/privacy/
@@ -602,7 +602,7 @@ References
   47. http://www.facebook.com/appcenter/category/music/?ref=pf
   48. http://www.facebook.com/facebook
   49. http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
-  50. http://www.facebook.com/pages/create.php?ref_type=sitefooter
+  50. http://www.facebook.com/pages/create/?ref_type=sitefooter
   51. http://developers.facebook.com/?ref=pf
   52. http://www.facebook.com/careers/?ref=pf
   53. http://www.facebook.com/privacy/explanation
