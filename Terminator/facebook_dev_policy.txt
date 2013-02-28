@@ -414,6 +414,13 @@ XI. Ads API
        campaigns; to build or augment any user profiles, or to use
        piggybacking or redirects with the 1x1 pixel tags, or for any other
        purpose not expressly authorized by us.
+    4. Pricing transparency: You must disclose to end-advertisers the
+       actual amount that you spent on Facebook advertising based on the
+       auction pricing, including the actual Facebook metrics (e.g. CPC,
+       CPM rate) and the amount you charged as fees. We reserve the right
+       to disclose this information to the end-advertiser upon their
+       request. We may require documentation from you to ensure your
+       compliance with this policy.
 
 Examples and Explanations
 
@@ -438,7 +445,7 @@ Additional Languages
    [64]Polski
    [65]Português (Brasil)
    [66]Türkçe
-   Updated last Wednesday
+   Updated 13 hours ago
 
    Facebook © 2013 · [67]English (US)
    [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy
