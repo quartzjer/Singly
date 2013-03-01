@@ -257,7 +257,7 @@ You must enable JavaScript to use foursquare.com
    foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&amp;t
-   s=1362031123&amp;u=-1&amp;sig=TA05J9Ab15ndzWM3gHrJ4Ex9How%3D]
+   s=1362117523&amp;u=-1&amp;sig=iT8BrD2mTctnd6cuqt4oAU85IvU%3D]
 
 References
 
