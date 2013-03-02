@@ -698,18 +698,19 @@ You must enable JavaScript to use foursquare.com
      * [30]About
      * [31]Blog
      * [32]Businesses
-     * [33]Developers
-     * [34]Help
-     * [35]Jobs
-     * [36]Privacy (Updated)
-     * [37]Terms (Updated)
-     * [38]Store
+     * [33]Cities
+     * [34]Developers
+     * [35]Help
+     * [36]Jobs
+     * [37]Privacy (Updated)
+     * [38]Terms (Updated)
+     * [39]Store
      * English
 
    foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1362117524&am
-   p;u=-1&amp;sig=bKKPMfy00Sl48K0JY5IQfcwWUOE%3D]
+   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1362203922&am
+   p;u=-1&amp;sig=fCqVxAbv1p5SEdxXHugnmx6cJGg%3D]
 
 References
 
@@ -746,13 +747,14 @@ References
   30. https://foursquare.com/about
   31. http://blog.foursquare.com/
   32. http://business.foursquare.com/
-  33. http://developer.foursquare.com/
-  34. http://foursquare.com/help
-  35. https://foursquare.com/jobs/
-  36. https://foursquare.com/legal/privacy
-  37. https://foursquare.com/legal/terms
-  38. http://store.foursquare.com/
+  33. https://foursquare.com/cities
+  34. http://developer.foursquare.com/
+  35. http://foursquare.com/help
+  36. https://foursquare.com/jobs/
+  37. https://foursquare.com/legal/privacy
+  38. https://foursquare.com/legal/terms
+  39. http://store.foursquare.com/
 
    Hidden links:
-  39. https://foursquare.com/legal/terms
   40. https://foursquare.com/legal/terms
+  41. https://foursquare.com/legal/terms
