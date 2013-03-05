@@ -1,6 +1,6 @@
    [1]Skip to Main Content Area
-     * March 3, 2013 [2]This week: API v1 "blackout testing" begins on
-       March 5th, 2013. | Read more →
+     * March 4, 2013 [2]This week: API v1 "blackout testing" begins on
+       March 5th, 2013. @Anywhere will retire permanently. | Read more →
 
    [3]Developers Search_________ Search
      * [4]API Health
