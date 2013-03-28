@@ -251,10 +251,10 @@ You must enable JavaScript to use foursquare.com
      * [31]Store
      * English
 
-   foursquare © 2013 Lovingly made in NYC & SF
+   Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&amp;t
-   s=1364360277&amp;u=-1&amp;sig=rucLZ3rQQ%2FkMMhTznDDJuwYrGAo%3D]
+   s=1364446675&amp;u=-1&amp;sig=MlMsVOgDq%2Bh9uvkNFKKXxD6LbN0%3D]
 
 References
 
