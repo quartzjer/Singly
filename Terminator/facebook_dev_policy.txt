@@ -26,7 +26,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: April 3, 2013
+   Date of Last Revision: April 9, 2013
 
    Facebook Platform is an extension of Facebook, whose mission is to make
    the world more open and connected.
@@ -394,63 +394,114 @@ X. [52]Facebook Developer Payments Terms
 
 XI. Ads API
 
-    1. You must use separate accounts for each client and use our
-       multi-client manager functionality to structure your client
-       accounts.
-    2. You may offer a white-label version of your application to third
-       parties, but may only do so by creating a unique application for
-       each third party (or requiring each third party to create their own
-       application), and then requesting that we grant these applications
-       access to our Ads API. If you create a unique application on behalf
-       of the third party, you must include a required field for your
-       clients to agree to Facebook Terms and Policies.
-    3. You may place 1x1 pixel view tags on certain advertisements with
-       our prior authorization. All data collected or obtained by you or
-       the advertiser, including but not limited to all view tag data that
-       is not otherwise available through the Facebook service, and all
-       data derived therefrom, may only be used by you or the advertiser
-       on an anonymous basis to optimize and measure the performance of
-       that advertiser's Facebook campaign. Neither you nor the advertiser
-       may use data for the following purposes: retargeting whether on or
-       off of the Facebook service; to commingle the data across multiple
-       campaigns; to build or augment any user profiles, or to use
-       piggybacking or redirects with the 1x1 pixel tags, or for any other
-       purpose not expressly authorized by us.
-    4. Pricing transparency: You must disclose to end-advertisers the
-       actual amount that you spent on Facebook advertising based on the
-       auction pricing, including the actual Facebook metrics (e.g. CPC,
-       CPM rate) and the amount you charged as fees. We reserve the right
-       to disclose this information to the end-advertiser upon their
-       request. We may require documentation from you to ensure your
-       compliance with this policy.
+    1. Separate apps: You must use separate apps for your staging,
+       self-service, managed service, and white-labeled apps. If you offer
+       a white-label version of your app, you must only do so by creating
+       a unique app for each end-advertiser (or requiring each
+       end-advertiser to create their own app) and you must include a
+       required field for the third party to agree to Facebook's Platform
+       Policies.
+    2. Separate ad accounts: You must use separate ad accounts for each
+       end-advertiser and use our multi-client manager functionality to
+       structure your end-advertiser accounts. You must never combine
+       multiple end-advertisers within the same ad account, and this
+       includes their Facebook connections (ex: pages and apps).
+    3. Freemium: If you offer a free or trial version of an ads API app,
+       you must allow no more than 50 ad creations per day per customer,
+       require phone or email verification for all new accounts, and
+       prohibit affiliate networks from using your technology.
+    4. Pricing transparency: You must only charge fees for the use of your
+       tools and managed services, and must only do so on a fixed fee (per
+       campaign or period) or variable percentage of ad spend. You must
+       disclose to your clients the actual amount that you spent on
+       Facebook advertising based on the auction pricing, including the
+       actual Facebook metrics (e.g. CPC, CPM rate) and the amount you
+       charged as fees. We reserve the right to disclose this information
+       to your client upon their request. We may require documentation
+       from you to ensure your compliance with this policy.
+    5. Data collection and use:
+       a. You may place 1x1 pixel view tags on certain advertisements with
+       our prior authorization.
+       b. All data collected or obtained by you or the end-advertiser,
+       including but not limited to all view tag data that is not
+       otherwise available through the Facebook service, and all data
+       derived therefrom, may only be used by you or the end-advertiser on
+       an anonymous basis to optimize and measure the performance of that
+       end-advertiser's Facebook campaign. Neither you nor the
+       end-advertiser may use data for the following purposes: retargeting
+       whether on or off of the Facebook service; to commingle the data
+       across multiple campaigns; to build or augment any user profiles,
+       or to use piggybacking or redirects with the 1x1 pixel tags, or for
+       any other purpose not expressly authorized by us.
+       c. You must not permit any person (other than an agent acting on
+       the end-advertiser's behalf) to access the end-advertiser's Ad or
+       Sponsored Story advertising statistics, including but not limited
+       to, fixed CPM rates and any other raw, aggregate, or anonymous
+       statistics derived from this data.
+    6. Separate Reporting: If you use last-click attribution, create
+       reporting tools that separate Facebook reporting from other
+       channels. For example, don't create reporting dashboards that
+       directly compare Facebook Ads metrics to search or display
+       marketing metrics on a last-click basis. If you support other
+       channels, you must either create a separate Facebook tool, include
+       Facebook metrics in a separate Facebook section of your tool, or
+       show multi-touch attribution results side-by-side with last-click
+       attribution results. You may report Facebook mobile ads ROI metrics
+       as they relate to other mobile ads channels.
+    7. Self-service reporting for Homepage ads: You must include a
+       self-service reporting dashboard, through which end-advertisers may
+       access up-to-date reports (raw ad statistics) for all available
+       data points of their Homepage Ad and Sponsored Story campaigns.
+    8. Bidding types: You must implement all bidding types, including
+       Optimized CPM, and you must not default to a specific type (ex: you
+       must not default to CPC and hide oCPM).
+    9. Custom Audiences:
+       a. If you use custom audiences you must comply with the [54]Custom
+       Audience Terms.
+       b. You may create a custom audience on a client's behalf but must
+       only use the client's customer data to do so (ex: you must not
+       collect or provide any additional data to create a custom
+       audience).
+       c. You must not use Facebook User IDs to create custom audiences
+       unless the person associated with the User ID has logged into your
+       client's app and your client has secured any necessary consent from
+       that person (ex: you must not create a custom audience based on
+       users who have engaged with a Facebook Page).
+       d. You must not sell custom audiences, and must not transfer a
+       custom audience to anyone without our permission.
+       e. Your custom audience tool may provide the same functionality and
+       targeting options that Facebook provides, but you must not provide
+       additional data or targeting options.
+   10. Enforcement: You must immediately revoke an end-advertiser's access
+       to your app upon our request.
 
 Examples and Explanations
 
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [54]examples and explanations will help you understand how to put
+   these [55]examples and explanations will help you understand how to put
    that into practice.
 
 Additional Languages
 
-   [55]العربية
-   [56]中文(香港)
-   [57]中文(台灣)
-   [58]Deutsch
-   [59]Español
-   [60]Français
-   [61]עברית
-   [62]Italiano
-   [63]日本語
-   [64]한국어
-   [65]Polski
-   [66]Português (Brasil)
-   [67]Türkçe
-   Updated last Wednesday
+   [56]العربية
+   [57]中文(香港)
+   [58]中文(台灣)
+   [59]Deutsch
+   [60]Español
+   [61]Français
+   [62]עברית
+   [63]Italiano
+   [64]日本語
+   [65]한국어
+   [66]Polski
+   [67]Português (Brasil)
+   [68]Türkçe
+   Updated about an hour ago
 
-   Facebook © 2013 · [68]English (US)
-   [69]About[70]Advertising[71]Careers[72]Platform Policies[73]Privacy
+   Facebook © 2013 · [69]English (US)
+   [70]About[71]Advertising[72]Careers[73]Platform Policies[74]Privacy
    Policy
 
 References
@@ -509,28 +560,29 @@ References
   51. https://www.facebook.com/ad_guidelines.php
   52. http://developers.facebook.com/policy/credits
   53. http://developers.facebook.com/policy/credits
-  54. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  55. https://developers.facebook.com/policy/Arabic/
-  56. https://developers.facebook.com/policy/ChineseHK/
-  57. https://developers.facebook.com/policy/ChineseTW/
-  58. https://developers.facebook.com/policy/Deutsch/
-  59. https://developers.facebook.com/policy/Espanol/
-  60. https://developers.facebook.com/policy/Francais/
-  61. https://developers.facebook.com/policy/Hebrew/
-  62. https://developers.facebook.com/policy/Italiano/
-  63. https://developers.facebook.com/policy/Japanese/
-  64. https://developers.facebook.com/policy/Korean/
-  65. https://developers.facebook.com/policy/Polski/
-  66. https://developers.facebook.com/policy/Portugues/
-  67. https://developers.facebook.com/policy/Turkce/
-  68. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  69. http://www.facebook.com/FacebookDevelopers
-  70. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
-  71. http://www.facebook.com/careers
-  72. http://developers.facebook.com/policy
-  73. http://www.facebook.com/policy.php
+  54. https://www.facebook.com/ads/manage/customaudiences/tos.php
+  55. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  56. https://developers.facebook.com/policy/Arabic/
+  57. https://developers.facebook.com/policy/ChineseHK/
+  58. https://developers.facebook.com/policy/ChineseTW/
+  59. https://developers.facebook.com/policy/Deutsch/
+  60. https://developers.facebook.com/policy/Espanol/
+  61. https://developers.facebook.com/policy/Francais/
+  62. https://developers.facebook.com/policy/Hebrew/
+  63. https://developers.facebook.com/policy/Italiano/
+  64. https://developers.facebook.com/policy/Japanese/
+  65. https://developers.facebook.com/policy/Korean/
+  66. https://developers.facebook.com/policy/Polski/
+  67. https://developers.facebook.com/policy/Portugues/
+  68. https://developers.facebook.com/policy/Turkce/
+  69. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  70. http://www.facebook.com/FacebookDevelopers
+  71. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  72. http://www.facebook.com/careers
+  73. http://developers.facebook.com/policy
+  74. http://www.facebook.com/policy.php
 
    Hidden links:
-  74. http://developers.facebook.com/policy/
-  75. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  76. http://developers.facebook.com/opensource/
+  75. http://developers.facebook.com/policy/
+  76. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  77. http://developers.facebook.com/opensource/
