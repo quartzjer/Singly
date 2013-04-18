@@ -344,6 +344,8 @@ Legal policies
      * [43]About Google
      * [44]Privacy & Terms
 
+   [45]Take our survey
+
 References
 
    1. http://www.google.com/
@@ -365,7 +367,7 @@ References
   17. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel
   18. https://www.google.com/dashboard/?hl=en
   19. https://www.google.com/settings/ads/preferences?hl=en
-  20. http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706
+  20. http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783
   21. http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347
   22. http://www.dataliberation.org/
   23. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info
@@ -390,3 +392,4 @@ References
   42. http://www.google.com/
   43. http://www.google.com/intl/en/about/
   44. http://www.google.com/intl/en/policies/
+  45. http://survey.googleratings.com/wix/p6584169.aspx
