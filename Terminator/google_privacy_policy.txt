@@ -344,8 +344,6 @@ Legal policies
      * [43]About Google
      * [44]Privacy & Terms
 
-   [45]Take our survey
-
 References
 
    1. http://www.google.com/
@@ -392,4 +390,3 @@ References
   42. http://www.google.com/
   43. http://www.google.com/intl/en/about/
   44. http://www.google.com/intl/en/policies/
-  45. http://survey.googleratings.com/wix/p6584169.aspx
