@@ -547,7 +547,7 @@
    we will default to the English version.
    [39]Mobile [40]Find Friends [41]Badges [42]People [43]Pages [44]Places
    [45]Apps [46]Games [47]Music
-   [48]About [49]Create an Ad [50]Create a Page [51]Developers [52]Careers
+   [48]About [49]Create Ad [50]Create Page [51]Developers [52]Careers
    [53]Privacy [54]Cookies [55]Terms [56]Help
    Facebook © 2013 · [57]English (US)
 
