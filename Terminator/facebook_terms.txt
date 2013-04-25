@@ -531,7 +531,7 @@
      * [34]Promotions Guidelines: These guidelines outline the policies
        that apply if you offer contests, sweepstakes, and other types of
        promotions on Facebook.
-     * [35]Brand Permissions Center: These guidelines outline the policies
+     * [35]Facebook Brand Resources: These guidelines outline the policies
        that apply to use of Facebook trademarks, logos and screenshots.
      * [36]How to Report Claims of Intellectual Property Infringement
      * [37]Pages Terms: These guidelines apply to your use of Facebook
@@ -558,12 +558,12 @@ References
    3. http://www.facebook.com/
    4. http://www.facebook.com/r.php?locale=en_US
    5. http://www.facebook.com/principles.php
-   6. http://www.facebook.com/policy.php
-   7. http://www.facebook.com/privacy/
-   8. http://www.facebook.com/editapps.php
+   6. http://www.facebook.com/about/privacy/
+   7. http://www.facebook.com/settings/?tab=privacy
+   8. http://www.facebook.com/settings/?tab=applications
    9. http://www.facebook.com/privacy/
   10. http://www.facebook.com/editapps.php
-  11. http://www.facebook.com/policy.php
+  11. http://www.facebook.com/about/privacy/
   12. http://developers.facebook.com/docs/
   13. http://www.facebook.com/promotions_guidelines.php
   14. http://www.facebook.com/legal/copyright.php?howto_report
@@ -573,7 +573,7 @@ References
   18. http://www.facebook.com/developers/
   19. http://developers.facebook.com/policy/
   20. http://developers.facebook.com/policy/
-  21. https://www.facebook.com/settings?tab=ads
+  21. http://www.facebook.com/settings?tab=ads
   22. http://www.facebook.com/termsofsale.php
   23. http://www.facebook.com/ad_guidelines.php
   24. http://www.facebook.com/terms_pages.php
@@ -581,16 +581,16 @@ References
   26. http://www.facebook.com/fbsitegovernance
   27. http://www.facebook.com/terms/provisions/german/index.php
   28. http://www.facebook.com/
-  29. http://www.facebook.com/policy.php
+  29. http://www.facebook.com/about/privacy/
   30. http://www.facebook.com/termsofsale.php
   31. http://www.facebook.com/platform
   32. http://developers.facebook.com/policy/
   33. http://www.facebook.com/ad_guidelines.php
-  34. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  35. https://www.facebook.com/brandpermissions/
+  34. http://www.facebook.com/page_guidelines.php#promotionsguidelines
+  35. http://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=FAQEYpUUv&s=1
   36. http://www.facebook.com/legal/copyright.php?howto_report
   37. http://www.facebook.com/terms_pages.php
-  38. https://www.facebook.com/communitystandards
+  38. http://www.facebook.com/communitystandards
   39. http://www.facebook.com/mobile/?ref=pf
   40. http://www.facebook.com/find-friends?ref=pf
   41. http://www.facebook.com/badges/?ref=pf
