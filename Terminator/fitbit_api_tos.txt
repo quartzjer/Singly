@@ -586,7 +586,7 @@ References
   38. http://www.fitbit.com/foods/search
   39. http://help.fitbit.com/
   40. http://www.fitbit.com/returns
-  41. http://www.fitbit.com/start
+  41. http://www.fitbit.com/setup
   42. http://www.fitbit.com/devices
   43. http://help.fitbit.com/#product_zip
   44. http://help.fitbit.com/#product_one
