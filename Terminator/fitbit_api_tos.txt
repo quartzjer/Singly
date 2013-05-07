@@ -538,10 +538,11 @@ Help
 
 Device Help
 
-     * [43]Zip Tracker Help
-     * [44]One Tracker Help
-     * [45]Ultra Tracker Help
-     * [46]Aria Scale Help
+     * [43]Flex Tracker Help
+     * [44]Zip Tracker Help
+     * [45]One Tracker Help
+     * [46]Ultra Tracker Help
+     * [47]Aria Scale Help
 
 References
 
@@ -588,11 +589,12 @@ References
   40. http://www.fitbit.com/returns
   41. http://www.fitbit.com/setup
   42. http://www.fitbit.com/devices
-  43. http://help.fitbit.com/#product_zip
-  44. http://help.fitbit.com/#product_one
-  45. http://help.fitbit.com/#product_ultra
-  46. http://help.fitbit.com/#product_aria
+  43. http://help.fitbit.com/#product_flex
+  44. http://help.fitbit.com/#product_zip
+  45. http://help.fitbit.com/#product_one
+  46. http://help.fitbit.com/#product_ultra
+  47. http://help.fitbit.com/#product_aria
 
    Hidden links:
-  47. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
-  48. http://wiki.fitbit.com/display/API
+  48. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
+  49. http://wiki.fitbit.com/display/API
