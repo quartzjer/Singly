@@ -383,16 +383,16 @@ References
   37. http://www.flickr.com/services/developer/
   38. http://twitter.com/flickr
   39. http://facebook.com/flickr
-  40. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  41. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  42. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  43. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  44. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  45. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  46. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  47. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  48. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
-  49. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=400dcd35dc3422bf8fa43526fff4b877
+  40. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  41. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  42. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  43. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  44. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  45. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  46. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  47. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  48. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
+  49. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=9e9cc57820a13cd88989c12bb7f1a169
   50. http://www.flickr.com/help/terms/
   51. http://www.flickr.com/help/privacy-policy/
   52. http://safely.yahoo.com/
