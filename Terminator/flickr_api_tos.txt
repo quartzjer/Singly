@@ -342,8 +342,6 @@ b. Application for a Commercial API Key.
    [53]Copyright/IP Policy
    Copyright © 2013 Yahoo! Inc. All rights reserved.
 
-   [nojs.gif?p=792600122:P050]
-
 References
 
    1. http://www.flickr.com/opensearch.xml
@@ -385,16 +383,16 @@ References
   37. http://www.flickr.com/services/developer/
   38. http://twitter.com/flickr
   39. http://facebook.com/flickr
-  40. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  41. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  42. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  43. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  44. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  45. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  46. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  47. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  48. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
-  49. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=2c12ad44a114cfa0424a8ae24daa2bf5
+  40. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  41. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  42. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  43. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  44. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  45. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  46. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  47. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  48. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
+  49. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=1d28552bd7e892c3d297c15e499ffbbc
   50. http://www.flickr.com/help/terms/
   51. http://www.flickr.com/help/privacy-policy/
   52. http://safely.yahoo.com/
