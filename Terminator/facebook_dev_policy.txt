@@ -95,10 +95,10 @@ I. Features and Functionality
        terms for Facebook features and functionality, if such use could
        confuse users into thinking that the reference is to Facebook
        features or functionality.
-    9. [18]Mobile Web Apps that are running within the Facebook iOS app
-       must not accept payments. In particular, these apps must not
-       reference, use, or otherwise encourage the use of Facebook Payments
-       or other non-iOS approved payment methods.
+    9. Mobile Web Apps that are running within the Facebook iOS app must
+       not accept payments. In particular, these apps must not reference,
+       use, or otherwise encourage the use of Facebook Payments or other
+       non-iOS approved payment methods.
    10. Reciprocity and Replicating core functionality: (a) Reciprocity:
        Facebook Platform enables developers to build personalized, social
        experiences via the Graph API and related APIs. If you use any
@@ -114,35 +114,35 @@ I. Features and Functionality
    12. You must not include data obtained from us in any search engine or
        directory without our written permission.
    13. Special provisions for games:
-       a. Desktop web games off of [19]Facebook.com may only use Facebook
-       Login ([20]Authentication, excluding user connections such as
-       friend list), [21]Social Plugins and publishing (e.g., Feed Dialog,
+       a. Desktop web games off of [18]Facebook.com may only use Facebook
+       Login ([19]Authentication, excluding user connections such as
+       friend list), [20]Social Plugins and publishing (e.g., Feed Dialog,
        Stream Publish, or Open Graph). When authenticating, these games
-       may not request [22]additional permissions other than age, email,
-       and our [23]Publishing Permissions.
-       b. Games on [24]Facebook.com and mobile must not share the same app
-       ID with desktop web games off of [25]Facebook.com. You must not use
-       [26]Canvas apps to promote or link to game sites off of Facebook,
+       may not request [21]additional permissions other than age, email,
+       and our [22]Publishing Permissions.
+       b. Games on [23]Facebook.com and mobile must not share the same app
+       ID with desktop web games off of [24]Facebook.com. You must not use
+       [25]Canvas apps to promote or link to game sites off of Facebook,
        and must not use emails obtained from us to promote or link to
-       desktop web games off of [27]Facebook.com.
-       c. Games on [28]Facebook.com or [29]Mobile Web must use Facebook
+       desktop web games off of [26]Facebook.com.
+       c. Games on [27]Facebook.com or Mobile Web must use Facebook
        Payments as their sole and exclusive payment method for all virtual
        goods and currencies made available to users within the game. All
        other payment options are prohibited within games on
-       [30]Facebook.com or [31]Mobile Web unless they go through Facebook
+       [28]Facebook.com or Mobile Web unless they go through Facebook
        Payments rather than directly through that payment option. By
        “Payment Method” we mean any method that allows a user to complete
-       a transaction in a game that is on [32]Facebook.com or [33]Mobile
-       Web, including, without limitation, by exchanging monetary value
-       for virtual currency or virtual goods, whether directly at the time
-       of purchase or via any previous transaction such as the user's
-       earlier purchase of a prepaid gift card or electronic code. In-game
-       rewards of virtual currency or virtual goods earned by users
-       through game-play activity alone are exempt from this definition.
-       d. Games on [34]Facebook.com or [35]Mobile Web may reward users
-       with virtual currency or virtual goods in exchange for user actions
-       that do not involve third parties, but rewards for user actions
-       that involve third parties must be powered by Facebook Payments by
+       a transaction in a game that is on [29]Facebook.com or Mobile Web,
+       including, without limitation, by exchanging monetary value for
+       virtual currency or virtual goods, whether directly at the time of
+       purchase or via any previous transaction such as the user's earlier
+       purchase of a prepaid gift card or electronic code. In-game rewards
+       of virtual currency or virtual goods earned by users through
+       game-play activity alone are exempt from this definition.
+       d. Games on [30]Facebook.com or Mobile Web may reward users with
+       virtual currency or virtual goods in exchange for user actions that
+       do not involve third parties, but rewards for user actions that
+       involve third parties must be powered by Facebook Payments by
        integrating Facebook Payments offers. For example, you may not
        reward users with virtual currency or virtual goods in exchange for
        any action in which personally identifiable information is shared
@@ -173,7 +173,7 @@ II. Storing and Using Data You Receive From Us
        experience in that app. A user's friends' data can only be used in
        the context of the user's experience on your application.
     5. Subject to certain restrictions, including on use and transfer,
-       users give you their [36]basic account information when they
+       users give you their [31]basic account information when they
        connect with your application. For all other data obtained through
        use of the Facebook API, you must obtain explicit consent from the
        user who provided the data to us before using it for any purpose
@@ -197,7 +197,7 @@ II. Storing and Using Data You Receive From Us
        obligation with you to keep Facebook User IDs confidential.
     8. If you need an anonymous unique identifier to share outside your
        application with third parties such as content partners,
-       advertisers, or ad networks, you must use our [37]mechanism. You
+       advertisers, or ad networks, you must use our [32]mechanism. You
        must never share this anonymous unique identifier with a data
        broker, information broker, or any other service that we may define
        as such under our sole discretion.
@@ -233,10 +233,10 @@ A. General
        user-generated content, and any content hosted, streamed or
        otherwise delivered to users by third parties. You must make it
        clear that this content is not provided by Facebook. You must also
-       comply with the [38]Facebook Community Standards.
+       comply with the [33]Facebook Community Standards.
     2. Demographic restrictions: You are responsible for restricting
        access to your content in accordance with our content policies and
-       all applicable laws and regulations. Although we [39]provide
+       all applicable laws and regulations. Although we [34]provide
        controls to assist with this, please note that we make no
        representations regarding the sufficiency of any controls provided
        to you and that you are ultimately responsible for establishing
@@ -245,13 +245,13 @@ A. General
     3. Advertisements and cross-promotions:
        a. You must not include advertisements, cross-promote other
        applications, or provide web search functionality in content
-       distributed through [40]Facebook social channels.
+       distributed through [35]Facebook social channels.
        b. You can only utilize advertising or similar monetization related
-       products or services from companies that appear on this [41]list of
-       Advertising Providers within [42]Apps on Facebook.com.
+       products or services from companies that appear on this [36]list of
+       Advertising Providers within [37]Apps on Facebook.com.
     4. Promotions: If you run, reference, or facilitate a promotion
        (contest, competition, or sweepstake) on Facebook, you must comply
-       with Facebook’s [43]Promotions Guidelines.
+       with Facebook’s [38]Promotions Guidelines.
     5. Permission from Facebook: You must not promote, or provide content
        referencing, facilitating, or containing online gambling, online
        real money games of skill or online lotteries without our written
@@ -259,7 +259,7 @@ A. General
     6. Quality of content: you are responsible for providing users with a
        quality experience and must not confuse, defraud, mislead, spam or
        surprise users. For example, you must monitor your app's negative
-       feedback in [44]Application Insights to ensure it stays below our
+       feedback in [39]Application Insights to ensure it stays below our
        thresholds, avoid excessive advertisements or bugs, and ensure the
        description of your app is consistent with your app's content.
 
@@ -302,7 +302,7 @@ C. Third Party Content
 IV. Application Integration Points
 
     1. You must not incentivize users to use (or gate content behind the
-       use of) [45]Facebook social channels, or imply that an incentive is
+       use of) [40]Facebook social channels, or imply that an incentive is
        directly tied to the use of our channels.
     2. You must not pre-fill any of the fields associated with the
        following products, unless the user manually generated the content
@@ -311,14 +311,14 @@ IV. Application Integration Points
        parameter for stream.publish), Photos (caption), Videos
        (description), Notes (title and content), Links (comment), and
        Jabber/XMPP.
-    3. If a user grants you a publishing [46]permission, actions you take
+    3. If a user grants you a publishing [41]permission, actions you take
        on the user's behalf must be expected by the user and consistent
        with the user's actions within your app.
     4. Platform integrations, including social plugins:
        a. Your advertisements must not include or be paired with any
        Platform integrations, including social plugins such as the Like
        button, without our written permission.
-       b. You must not sell or purchase placement of our [47]Social
+       b. You must not sell or purchase placement of our [42]Social
        Plugins, and must not facilitate or participate in any like
        exchange program.
        c. You must not incentivize users to Like any Page other than your
@@ -333,7 +333,7 @@ IV. Application Integration Points
     5. Facebook messaging (i.e., email sent to an @facebook.com address)
        is designed for communication between users, and not a channel for
        applications to communicate directly with users.
-    6. [48]Requests: you may not offer a select all option or pre-select
+    6. [43]Requests: you may not offer a select all option or pre-select
        multiple recipients to receive a Request (effective July 10, 2013).
 
 V. Enforcement
@@ -380,17 +380,17 @@ VII. Definitions
 
 VIII. Branding and Promotion Policy
 
-    1. You must follow the guidelines set forth in the [49]Facebook Brand
+    1. You must follow the guidelines set forth in the [44]Facebook Brand
        Resource and Permissions Center.
     2. Your app's description, display name and icons must adhere to our
-       [50]Advertising Guidelines.
+       [45]Advertising Guidelines.
 
-IX. [51]Advertising Guidelines
+IX. [46]Advertising Guidelines
 
-X. [52]Facebook Developer Payments Terms
+X. [47]Facebook Developer Payments Terms
 
    Developers participating in the program for accepting payments are
-   subject to [53]these terms.
+   subject to [48]these terms.
 
 XI. Ads API
 
@@ -456,7 +456,7 @@ XI. Ads API
        Optimized CPM, and you must not default to a specific type (ex: you
        must not default to CPC and hide oCPM).
     9. Custom Audiences:
-       a. If you use custom audiences you must comply with the [54]Custom
+       a. If you use custom audiences you must comply with the [49]Custom
        Audience Terms.
        b. You may create a custom audience on a client's behalf but must
        only use the client's customer data to do so (ex: you must not
@@ -480,28 +480,28 @@ Examples and Explanations
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [55]examples and explanations will help you understand how to put
+   these [50]examples and explanations will help you understand how to put
    that into practice.
 
 Additional Languages
 
-   [56]العربية
-   [57]中文(香港)
-   [58]中文(台灣)
-   [59]Deutsch
-   [60]Español
-   [61]Français
-   [62]עברית
-   [63]Italiano
-   [64]日本語
-   [65]한국어
-   [66]Polski
-   [67]Português (Brasil)
-   [68]Türkçe
-   Updated about a month ago
+   [51]العربية
+   [52]中文(香港)
+   [53]中文(台灣)
+   [54]Deutsch
+   [55]Español
+   [56]Français
+   [57]עברית
+   [58]Italiano
+   [59]日本語
+   [60]한국어
+   [61]Polski
+   [62]Português (Brasil)
+   [63]Türkçe
+   Updated 9 hours ago
 
-   Facebook © 2013 · [69]English (US)
-   [70]About[71]Advertising[72]Careers[73]Platform Policies[74]Privacy
+   Facebook © 2013 · [64]English (US)
+   [65]About[66]Advertising[67]Careers[68]Platform Policies[69]Privacy
    Policy
 
 References
@@ -524,65 +524,60 @@ References
   15. http://developers.facebook.com/policy/#policies
   16. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
   17. https://www.facebook.com/help/contact/?id=206103619499608
-  18. http://developers.facebook.com/docs/mobile/web/build/
-  19. http://developers.facebook.com/docs/guides/canvas/
-  20. http://developers.facebook.com/docs/authentication/
-  21. http://developers.facebook.com/docs/plugins/
-  22. http://developers.facebook.com/docs/authentication/permissions/
-  23. http://developers.facebook.com/docs/publishing/
+  18. http://developers.facebook.com/docs/guides/canvas/
+  19. http://developers.facebook.com/docs/authentication/
+  20. http://developers.facebook.com/docs/plugins/
+  21. http://developers.facebook.com/docs/authentication/permissions/
+  22. http://developers.facebook.com/docs/publishing/
+  23. http://developers.facebook.com/docs/guides/canvas/
   24. http://developers.facebook.com/docs/guides/canvas/
-  25. http://developers.facebook.com/docs/guides/canvas/
-  26. http://developers.facebook.com/docs/guides/canvas/#canvas/
+  25. http://developers.facebook.com/docs/guides/canvas/#canvas/
+  26. http://developers.facebook.com/docs/guides/canvas/
   27. http://developers.facebook.com/docs/guides/canvas/
   28. http://developers.facebook.com/docs/guides/canvas/
-  29. http://developers.facebook.com/docs/mobile/web/build/
+  29. http://developers.facebook.com/docs/guides/canvas/
   30. http://developers.facebook.com/docs/guides/canvas/
-  31. http://developers.facebook.com/docs/mobile/web/build/
-  32. http://developers.facebook.com/docs/guides/canvas/
-  33. http://developers.facebook.com/docs/mobile/web/build/
-  34. http://developers.facebook.com/docs/guides/canvas/
-  35. http://developers.facebook.com/docs/mobile/web/build/
-  36. http://developers.facebook.com/policy/#definitions
-  37. http://developers.facebook.com/docs/reference/api/user/
-  38. https://www.facebook.com/communitystandards
-  39. http://developers.facebook.com/docs/reference/api/application/#restrictions
+  31. http://developers.facebook.com/policy/#definitions
+  32. http://developers.facebook.com/docs/reference/api/user/
+  33. https://www.facebook.com/communitystandards
+  34. http://developers.facebook.com/docs/reference/api/application/#restrictions
+  35. http://developers.facebook.com/policy/#Facebook_social_channels
+  36. http://developers.facebook.com/adproviders/
+  37. http://developers.facebook.com/docs/guides/canvas/
+  38. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  39. https://www.facebook.com/insights
   40. http://developers.facebook.com/policy/#Facebook_social_channels
-  41. http://developers.facebook.com/adproviders/
-  42. http://developers.facebook.com/docs/guides/canvas/
-  43. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  44. https://www.facebook.com/insights
-  45. http://developers.facebook.com/policy/#Facebook_social_channels
-  46. http://developers.facebook.com/docs/authentication/permissions/
-  47. http://developers.facebook.com/docs/plugins/
-  48. https://developers.facebook.com/docs/concepts/requests/
-  49. https://www.facebook.com/brandpermissions/logos.php
-  50. https://www.facebook.com/ad_guidelines.php
-  51. https://www.facebook.com/ad_guidelines.php
-  52. http://developers.facebook.com/policy/credits
-  53. http://developers.facebook.com/policy/credits
-  54. https://www.facebook.com/ads/manage/customaudiences/tos.php
-  55. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  56. https://developers.facebook.com/policy/Arabic/
-  57. https://developers.facebook.com/policy/ChineseHK/
-  58. https://developers.facebook.com/policy/ChineseTW/
-  59. https://developers.facebook.com/policy/Deutsch/
-  60. https://developers.facebook.com/policy/Espanol/
-  61. https://developers.facebook.com/policy/Francais/
-  62. https://developers.facebook.com/policy/Hebrew/
-  63. https://developers.facebook.com/policy/Italiano/
-  64. https://developers.facebook.com/policy/Japanese/
-  65. https://developers.facebook.com/policy/Korean/
-  66. https://developers.facebook.com/policy/Polski/
-  67. https://developers.facebook.com/policy/Portugues/
-  68. https://developers.facebook.com/policy/Turkce/
-  69. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  70. http://www.facebook.com/FacebookDevelopers
-  71. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
-  72. http://www.facebook.com/careers
-  73. http://developers.facebook.com/policy
-  74. http://www.facebook.com/policy.php
+  41. http://developers.facebook.com/docs/authentication/permissions/
+  42. http://developers.facebook.com/docs/plugins/
+  43. https://developers.facebook.com/docs/concepts/requests/
+  44. https://www.facebook.com/brandpermissions/logos.php
+  45. https://www.facebook.com/ad_guidelines.php
+  46. https://www.facebook.com/ad_guidelines.php
+  47. http://developers.facebook.com/policy/credits
+  48. http://developers.facebook.com/policy/credits
+  49. https://www.facebook.com/ads/manage/customaudiences/tos.php
+  50. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  51. https://developers.facebook.com/policy/Arabic/
+  52. https://developers.facebook.com/policy/ChineseHK/
+  53. https://developers.facebook.com/policy/ChineseTW/
+  54. https://developers.facebook.com/policy/Deutsch/
+  55. https://developers.facebook.com/policy/Espanol/
+  56. https://developers.facebook.com/policy/Francais/
+  57. https://developers.facebook.com/policy/Hebrew/
+  58. https://developers.facebook.com/policy/Italiano/
+  59. https://developers.facebook.com/policy/Japanese/
+  60. https://developers.facebook.com/policy/Korean/
+  61. https://developers.facebook.com/policy/Polski/
+  62. https://developers.facebook.com/policy/Portugues/
+  63. https://developers.facebook.com/policy/Turkce/
+  64. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  65. http://www.facebook.com/FacebookDevelopers
+  66. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  67. http://www.facebook.com/careers
+  68. http://developers.facebook.com/policy
+  69. http://www.facebook.com/policy.php
 
    Hidden links:
-  75. http://developers.facebook.com/policy/
-  76. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  77. http://developers.facebook.com/opensource/
+  70. http://developers.facebook.com/policy/
+  71. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  72. http://developers.facebook.com/opensource/
