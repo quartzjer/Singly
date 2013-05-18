@@ -2,6 +2,8 @@
    [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
    [11]alternate [12]alternate
 
+   |
+
    [13]foursquare ____________________
      * [14]Log in
      * [15]Sign up
@@ -211,7 +213,7 @@ You must enable JavaScript to use foursquare.com
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=&amp
-   ;ts=1368766593&amp;u=-1&amp;sig=hzyBUcvF0uADzqUjSHl344MzJts%3D]
+   ;ts=1368852991&amp;u=-1&amp;sig=VdyuLlQ0MHvjjQOrApkoCxH2KnQ%3D]
 
 References
 
