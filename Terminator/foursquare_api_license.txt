@@ -213,7 +213,7 @@ You must enable JavaScript to use foursquare.com
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=&amp
-   ;ts=1369112186&amp;u=-1&amp;sig=Rt7y0MLcxB0yAj9fW%2Fr7Xr0akFE%3D]
+   ;ts=1369198584&amp;u=-1&amp;sig=ZQKbivllHgyED2QKp56v7G%2FMw%2B0%3D]
 
 References
 
