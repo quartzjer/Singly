@@ -1,6 +1,6 @@
    [1]Skip to Main Content Area
-     * May 17, 2013 [2]API v1 blackout testing continues on Wed, May 22nd
-       at 20:00 UTC. | Read more →
+     * May 22, 2013 [2]API v1 blackout testing continues today: Wed, May
+       22nd at 20:00 UTC. | Read more →
 
    [3]Developers
      * [4]API Health
