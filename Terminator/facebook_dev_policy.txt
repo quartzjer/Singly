@@ -487,19 +487,31 @@ Examples and Explanations
 Additional Languages
 
    [51]العربية
+
    [52]中文(香港)
+
    [53]中文(台灣)
+
    [54]Deutsch
+
    [55]Español
+
    [56]Français
+
    [57]עברית
+
    [58]Italiano
+
    [59]日本語
+
    [60]한국어
+
    [61]Polski
+
    [62]Português (Brasil)
+
    [63]Türkçe
-   Updated on Wednesday
+   Updated 7 hours ago
 
    Facebook © 2013 · [64]English (US)
    [65]About[66]Advertising[67]Careers[68]Platform Policies[69]Privacy
@@ -558,19 +570,19 @@ References
   48. http://developers.facebook.com/policy/credits
   49. https://www.facebook.com/ads/manage/customaudiences/tos.php
   50. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  51. https://developers.facebook.com/policy/Arabic/
-  52. https://developers.facebook.com/policy/ChineseHK/
-  53. https://developers.facebook.com/policy/ChineseTW/
-  54. https://developers.facebook.com/policy/Deutsch/
-  55. https://developers.facebook.com/policy/Espanol/
-  56. https://developers.facebook.com/policy/Francais/
-  57. https://developers.facebook.com/policy/Hebrew/
-  58. https://developers.facebook.com/policy/Italiano/
-  59. https://developers.facebook.com/policy/Japanese/
-  60. https://developers.facebook.com/policy/Korean/
-  61. https://developers.facebook.com/policy/Polski/
-  62. https://developers.facebook.com/policy/Portugues/
-  63. https://developers.facebook.com/policy/Turkce/
+  51. http://developers.facebook.com/policy/Arabic/
+  52. http://developers.facebook.com/policy/ChineseHK/
+  53. http://developers.facebook.com/policy/ChineseTW/
+  54. http://developers.facebook.com/policy/Deutsch/
+  55. http://developers.facebook.com/policy/Espanol/
+  56. http://developers.facebook.com/policy/Francais/
+  57. http://developers.facebook.com/policy/Hebrew/
+  58. http://developers.facebook.com/policy/Italiano/
+  59. http://developers.facebook.com/policy/Japanese/
+  60. http://developers.facebook.com/policy/Korean/
+  61. http://developers.facebook.com/policy/Polski/
+  62. http://developers.facebook.com/policy/Portugues/
+  63. http://developers.facebook.com/policy/Turkce/
   64. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
   65. http://www.facebook.com/FacebookDevelopers
   66. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto

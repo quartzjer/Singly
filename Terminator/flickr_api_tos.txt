@@ -16,53 +16,329 @@
    ____________________ Search
      * [14]Sign In
 
-   [15]by Toyokazu
+Flickr APIs Terms of Use
 
-Bad, bad panda!
-Come on. We want photos.
+   Thank you for using the Flickr application programming interfaces (the
+   "Flickr APIs"). By using the Flickr APIs, you agree to the terms below.
+   If you disagree with any of these terms, Flickr does not grant you a
+   license to use the Flickr APIs. We reserve the right to update and
+   change these terms from time to time without notice. You can always
+   find the most recent version of these terms here
+   [15]http://www.flickr.com/services/api/tos/.
 
-   We’re aware of the problem and are fixing it.
-   Thanks for your patience.
+   Your license to the Flickr APIs under these terms continues until it is
+   terminated by either party. You may terminate the license by
+   discontinuing use of all or any of the Flickr APIs. Flickr may
+   terminate the license at any time for any reason. Your rights to use
+   the Flickr APIs terminate automatically if (i) you violate any of these
+   terms, (ii) Flickr publicly posts a written notice of termination on
+   Flickr.com, (iii) Flickr sends a written notice of termination to you,
+   or (iv) Flickr disables access to the Flickr APIs to you.
+
+1. Licensed Uses and Restrictions.
+
+   The Flickr APIs are owned by Flickr and its parent company Yahoo! Inc.
+   (hereinafter "Flickr") and are licensed to you on a worldwide (except
+   as limited below), non-exclusive, non-sublicenseable basis on the terms
+   and conditions set forth herein. These terms define legal use of the
+   Flickr APIs, all updates, revisions, substitutions, and any copies of
+   the Flickr APIs made by or for you. Flickr user photos are owned by the
+   users (the photographers) and not by Flickr. All rights not expressly
+   granted to you are reserved by Flickr.
+
+a. You shall:
+
+    i. Comply with the Flickr Community Guidelines at
+       [16]www.flickr.com/guidelines.gne, the Flickr Terms of Use at
+       [17]http://www.flickr.com/terms.gne, and the Yahoo! Terms of
+       Service at [18]http://docs.yahoo.com/info/terms/.
+   ii. Comply with any requirements or restrictions imposed on usage of
+       the photos by their respective owners. Remember, Flickr doesn't own
+       the images - Flickr users do. Although the Flickr APIs can be used
+       to provide you with access to Flickr user photos, neither Flickr's
+       provision of the Flickr APIs to you nor your use of the Flickr APIs
+       override the photo owners' requirements and restrictions, which may
+       include "all rights reserved" notices (attached to each photo by
+       default when uploaded to Flickr), Creative Commons licenses or
+       other terms and conditions that may be agreed upon between you and
+       the owners. In ALL cases, you are solely responsible for making use
+       of Flickr photos in compliance with the photo owners' requirements
+       or restrictions. If you use Flickr photos for a commercial purpose,
+       the photos must be marked with a Creative Commons license that
+       allows for such use, unless otherwise agreed upon between you and
+       the owner. You can read more about this here:
+       [19]www.creativecommons.org or [20]www.flickr.com/creativecommons.
+   iii. Comply with any other terms and conditions a user has attached to
+       his or her photo. For example, if a user marks a photo as "private"
+       after using your service, your application must reflect those
+       changes as soon as reasonably possible. If your application has any
+       cached copies of photos that have become "private," you must remove
+       as soon as reasonably possible.
+   iv. Remove from your application within 24 hours any Flickr user's
+       photos or other information that the owner of the photo asks you to
+       remove.
+    v. If you use the Authentication APIs, insert a standard header that
+       we will provide into pages you build that access the Flickr API.
+       It's important to us that users have an easy way to return to
+       Flickr if they wish, and have some reference point (the logo) to
+       show them that they're still connected to Flickrland.
+       [21]http://www.flickr.com/services/partners/.
+   vi. Disclose in your application through a privacy policy or otherwise
+       displayed in the footer of each page, how you collect, use, store,
+       and disclose data collected from visitors, including, where
+       applicable, that third parties (including advertisers) may serve
+       content and/or advertisements and collect information directly from
+       visitors and may place or recognize cookies on visitors' browsers.
+
+b. You shall not:
+
+    i. Use Flickr APIs for any application that replicates or attempts to
+       replace the essential user experience of Flickr.com.
+   ii. Attempt to cloak or conceal your identity or your application's
+       identity when requesting authorization to use Flickr APIs.
+   iii. Display more than 30 Flickr user photos per page in your
+       application or use an unreasonable amount of bandwidth.
+   iv. Cache or store any Flickr user photos other than for reasonable
+       periods in order to provide the service you are providing to Flickr
+       users.
+    v. Use Flickr APIs for any application that constitutes, promotes or
+       is used in connection with spyware, adware, other malicious
+       programs or code.
+   vi. Use Flickr APIs in any manner or for any purpose that violates any
+       law or regulation, any right of any person, including but not
+       limited to intellectual property rights, rights of privacy, or
+       rights of personality.
+   vii. Use Flickr as a generic image hosting service for banner
+       advertisements, graphics, etc.
+   viii. Use Flickr APIs in a manner that adversely impacts the stability
+       of Flickr.com servers or adversely impacts the behavior of other
+       applications using the Flickr APIs.
+   ix. Sell, lease, or sublicense Flickr APIs or access thereto or derive
+       revenues from the use or provision of Flickr APIs, whether for
+       direct commercial or monetary gain or otherwise, except as set
+       forth below.
+
+2. Commercial Use
+
+a. Rules and Restrictions.
+
+   If the primary purpose of your application is to derive revenue, it is
+   considered a commercial application. Flickr reserves the right to make
+   these evaluations at the time that you apply for the license. Flickr
+   may also monitor your site or application over time to ensure continued
+   compliance with the appropriate type of API key.
+
+   If you're in doubt about whether your application is commercial, here
+   are a few common examples of commercial use that may provide you some
+   guidance:
+    i. Users are charged a fee for your product or service which includes
+       some sort of integration using the Flickr APIs.
+   ii. You sell services to Flickr users and use the APIs to bring users'
+       Flickr content into your service.
+   iii. Your site is a "destination" site that uses Flickr photos to drive
+       traffic and generate ad revenue.
+
+b. Application for a Commercial API Key.
+
+   If you want to apply for a commercial API key, go to the following form
+   to see what information you need to provide:
+   http://flickr.com/services/api/keys/apply/. You can't be too specific
+   about your intended use of the Flickr Commercial API! Lack of
+   specificity or supporting information could delay your application
+   indefinitely (or even cause us to think too much and forget to answer!)
+   When in doubt, it's always better to include more detail about your
+   application. Please note that in some cases we may grant your request
+   for a commercial API key subject to your payment of fees, such as to
+   help cover infrastructure costs.
+
+3. Attribution.
+
+    a. You shall not use "flickr" or a pink "r" without a preceding "e" in
+       the hostname of your application, i.e. flickr.mydomain.com
+    b. You shall place the following notice prominently on your
+       application: "This product uses the Flickr API but is not endorsed
+       or certified by Flickr."
+    c. You may not use the Flickr logo without specific written permission
+       from Flickr.
+    d. Any use of the Flickr logo in your application shall be less
+       prominent than the logo or mark that primarily describes the
+       application and your use of the Flickr logo shall not imply any
+       endorsement by Flickr.
+
+4. Ownership and Relationship of Parties.
+
+   The Flickr APIs may be protected by copyrights, trademarks, service
+   marks, international treaties, and/or other proprietary rights and laws
+   of the U.S. and other countries. Flickr's rights apply to the Flickr
+   APIs and all output and executables of the Flickr APIs, excluding any
+   software components developed by you which do not themselves
+   incorporate the Flickr APIs or any output or executables of the Flickr
+   APIs. You agree to abide by all applicable proprietary rights laws and
+   other laws, as well as any additional copyright notices or restrictions
+   contained in these terms. Flickr owns all rights, title, and interest
+   in and to the Flickr APIs. These terms grant you no right, title, or
+   interest in any intellectual property owned or licensed by Flickr,
+   including (but not limited to) the Flickr APIs and Flickr trademarks.
+
+5. Support.
+
+   Flickr may elect to provide you with support or modifications for the
+   Flickr APIs (collectively, "Support"), in its sole discretion, and may
+   terminate such Support at any time without notice to you. Flickr may
+   change, suspend, or discontinue any aspect of the Flickr APIs at any
+   time, including the availability of any Flickr APIs. Flickr may also
+   impose limits on certain features and services or restrict your access
+   to parts or all of the Flickr APIs or the Flickr Web site without
+   notice or liability.
+
+6. Fees and Payments.
+
+   Flickr is committed to free and open access to our APIs for commercial
+   and non-commercial purposes. However, providing the APIs does have real
+   costs for Flickr. For uses of Flickr APIs over a certain rate or for
+   certain types of commercial applications, Flickr reserves the right to
+   charge fees for future use of or access to the Flickr APIs.
+
+7. Disclaimer of Any Warranty.
+
+   SOME OF THE FLICKR APIS MAY BE EXPERIMENTAL AND NOT TESTED IN ANY
+   MANNER. FLICKR DOES NOT REPRESENT OR WARRANT THAT ANY FLICKR APIS ARE
+   FREE OF INACCURACIES, ERRORS, BUGS, OR INTERRUPTIONS, OR ARE RELIABLE,
+   ACCURATE, COMPLETE, OR OTHERWISE VALID.
+
+   THE FLICKR APIS ARE PROVIDED "AS IS" WITH NO WARRANTY, EXPRESS OR
+   IMPLIED, OF ANY KIND AND FLICKR EXPRESSLY DISCLAIMS ANY AND ALL
+   WARRANTIES AND CONDITIONS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED
+   WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   AVAILABLILTIY, SECURITY, TITLE AND/OR NON-INFRINGEMENT.
+
+   YOUR USE OF FLICKR APIS IS AT YOUR OWN DISCRETION AND RISK, AND YOU
+   WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS FROM THE USE OF
+   ANY FLICKR APIS INCLUDING, BUT NOT LIMITED TO, ANY DAMAGE TO YOUR
+   COMPUTER SYSTEM OR LOSS OF DATA.
+
+8. Limitation of Liability.
+
+   FLICKR SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO YOU FOR ANY
+   INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES
+   ARISING OUT OF OR IN CONNECTION WITH USE OF THE FLICKR APIS, WHETHER
+   BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING
+   NEGLIGENCE, PRODUCT LIABILITY OR OTHERWISE), OR ANY OTHER PECUNIARY
+   LOSS, WHETHER OR NOT FLICKR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGES. UNDER NO CIRCUMSTANCES SHALL FLICKR BE LIABLE TO YOU FOR ANY
+   AMOUNT.
+
+9. Exclusions and Limitations.
+
+   SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR
+   THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR
+   CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF
+   SECTIONS 7 AND 8 MAY NOT APPLY TO YOU.
+
+10. Release and Waiver.
+
+   To the maximum extent permitted by applicable law, you hereby release
+   and waive all claims against Flickr, and its subsidiaries, affiliates,
+   officers, agents, licensors, co-branders or other partners, and
+   employees from any and all liability for claims, damages (actual and/or
+   consequential), costs and expenses (including litigation costs and
+   attorneys' fees) of every kind and nature, arising from or in any way
+   related to your use of Flickr APIs. If you are a California resident,
+   you waive your rights under California Civil Code § 1542, which states,
+   "A general release does not extend to claims which the creditor does
+   not know or suspect to exist in his favor at the time of executing the
+   release, which if known by him must have materially affected his
+   settlement with the debtor." You understand that any fact relating to
+   any matter covered by this release may be found to be other than now
+   believed to be true and you accept and assume the risk of such possible
+   differences in fact. In addition, you expressly waive and relinquish
+   any and all rights and benefits which you may have under any other
+   state or federal statute or common law principle of similar effect, to
+   the fullest extent permitted by law.
+
+11. Hold Harmless and Indemnity.
+
+   To the maximum extent permitted by applicable law, you agree to hold
+   harmless and indemnify Flickr and its subsidiaries, affiliates,
+   officers, agents, licensors, co-branders or other partners, and
+   employees from and against any third party claim arising from or in any
+   way related to your use of Flickr APIs, including any liability or
+   expense arising from all claims, losses, damages (actual and/or
+   consequential), suits, judgments, litigation costs and attorneys' fees,
+   of every kind and nature. Flickr shall use good faith efforts to
+   provide you with written notice of such claim, suit or action.
+
+12. General Terms.
+
+    1. Relationship of the Parties. Notwithstanding any provision hereof,
+       for all purposes of the Terms of Use, you and Flickr shall be and
+       act independently and not as partner, joint venturer, agent,
+       employee or employer of the other. You shall not have any authority
+       to assume or create any obligation for or on behalf of Flickr,
+       express or implied, and you shall not attempt to bind Flickr to any
+       contract.
+    2. Invalidity of Specific Terms. If any provision of the Terms of Use
+       is found by a court of competent jurisdiction to be invalid, the
+       parties nevertheless agree that the court should endeavor to give
+       effect to the parties' intentions as reflected in the provision and
+       the other provisions of such documents remain in full force and
+       effect.
+    3. Location of Lawsuit and Choice of Law. The Terms of Use and the
+       relationship between you and Flickr shall be governed by the laws
+       of the State of California without regard to its conflict of law
+       provisions. You and Flickr agree to submit to the personal
+       jurisdiction of the courts located within the county of Santa
+       Clara, California.
+    4. No Waiver of Rights by Flickr. Flickr's failure to exercise or
+       enforce any right or provision of the Terms of Use shall not
+       constitute a waiver of such right or provision.
+    5. Miscellaneous. The section headings and subheadings contained in
+       this agreement are included for convenience only, and shall not
+       limit or otherwise affect the terms of the Terms of Use. Any
+       construction or interpretation to be made of the Terms of Use shall
+       not be construed against the drafter. The Terms of Use constitute
+       the entire agreement between Flickr and you with respect to the
+       subject matter hereof.
 
    About Flickr
-          [16]Who we are
-          [17]Take the tour
-          [18]Flickr blog
-          [19]Jobs
+          [22]Who we are
+          [23]Take the tour
+          [24]Flickr blog
+          [25]Jobs
 
    Community
-          [20]Community Guidelines
-          [21]Report abuse
+          [26]Community Guidelines
+          [27]Report abuse
 
    Help
-          [22]Need help? Start here!
-          [23]Help forum
-          [24]FAQs
-          [25]About Our Ads
+          [28]Need help? Start here!
+          [29]Help forum
+          [30]FAQs
+          [31]About Our Ads
 
    Apps and the API
-          [26]Flickr for mobile
-          [27]App Garden
-          [28]API documentation
-          [29]Developer blog
-          [30]Developer Guide
+          [32]Flickr for mobile
+          [33]App Garden
+          [34]API documentation
+          [35]Developer blog
+          [36]Developer Guide
 
-          [31]Follow us
-          [32]Like us
+          [37]Follow us
+          [38]Like us
 
-     * [33]繁體中文
-     * [34]Deutsch
-     * [35]English
-     * [36]Español
-     * [37]Français
-     * [38]한글
-     * [39]Italiano
-     * [40]Português
-     * [41]Tiếng Việt
-     * [42]Bahasa Indonesia
+     * [39]繁體中文
+     * [40]Deutsch
+     * [41]English
+     * [42]Español
+     * [43]Français
+     * [44]한글
+     * [45]Italiano
+     * [46]Português
+     * [47]Tiếng Việt
+     * [48]Bahasa Indonesia
 
-   [43]Terms of Use | [44]Your privacy | [45]Yahoo! Safely |
-   [46]Copyright/IP Policy
+   [49]Terms of Use | [50]Your privacy | [51]Yahoo! Safely |
+   [52]Copyright/IP Policy
    Copyright © 2013 Yahoo! Inc. All rights reserved.
 
 References
@@ -81,35 +357,41 @@ References
   12. http://blog.flickr.net/
   13. http://www.flickr.com/upload
   14. http://www.flickr.com/signin/
-  15. http://www.flickr.com/photos/toyokazu/8644384737/
-  16. http://www.flickr.com/about/
-  17. http://www.flickr.com/tour/
-  18. http://blog.flickr.net/
-  19. http://www.flickr.com/jobs/
-  20. http://www.flickr.com/help/guidelines/
-  21. http://www.flickr.com/abuse/
-  22. http://www.flickr.com/help/
-  23. http://www.flickr.com/help/forum/
-  24. http://www.flickr.com/help/faq/
-  25. http://info.yahoo.com/relevantads
-  26. http://www.flickr.com/mobile
-  27. http://www.flickr.com/services/
-  28. http://www.flickr.com/services/api/
-  29. http://code.flickr.com/
-  30. http://www.flickr.com/services/developer/
-  31. http://twitter.com/flickr
-  32. http://facebook.com/flickr
-  33. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  34. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  35. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  36. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  37. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  38. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  39. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  40. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  41. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  42. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
-  43. http://www.flickr.com/help/terms/
-  44. http://www.flickr.com/help/privacy-policy/
-  45. http://safely.yahoo.com/
-  46. http://info.yahoo.com/legal/us/yahoo/copyright/en-us/
+  15. http://www.flickr.com/services/api/tos/
+  16. http://www.flickr.com/guidelines.gne
+  17. http://www.flickr.com/terms.gne
+  18. http://docs.yahoo.com/info/terms/
+  19. http://www.creativecommons.org/
+  20. http://www.flickr.com/creativecommons
+  21. http://www.flickr.com/services/partners/
+  22. http://www.flickr.com/about/
+  23. http://www.flickr.com/tour/
+  24. http://blog.flickr.net/
+  25. http://www.flickr.com/jobs/
+  26. http://www.flickr.com/help/guidelines/
+  27. http://www.flickr.com/abuse/
+  28. http://www.flickr.com/help/
+  29. http://www.flickr.com/help/forum/
+  30. http://www.flickr.com/help/faq/
+  31. http://info.yahoo.com/relevantads
+  32. http://www.flickr.com/mobile
+  33. http://www.flickr.com/services/
+  34. http://www.flickr.com/services/api/
+  35. http://code.flickr.com/
+  36. http://www.flickr.com/services/developer/
+  37. http://twitter.com/flickr
+  38. http://facebook.com/flickr
+  39. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  40. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  41. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  42. http://www.flickr.com/change_language.gne?lang=es-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  43. http://www.flickr.com/change_language.gne?lang=fr-fr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  44. http://www.flickr.com/change_language.gne?lang=ko-kr&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  45. http://www.flickr.com/change_language.gne?lang=it-it&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  46. http://www.flickr.com/change_language.gne?lang=pt-br&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  47. http://www.flickr.com/change_language.gne?lang=vn-vn&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  48. http://www.flickr.com/change_language.gne?lang=id-id&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
+  49. http://www.flickr.com/help/terms/
+  50. http://www.flickr.com/help/privacy-policy/
+  51. http://safely.yahoo.com/
+  52. http://info.yahoo.com/legal/us/yahoo/copyright/en-us/
