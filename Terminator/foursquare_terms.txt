@@ -2,8 +2,6 @@
    [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
    [11]alternate [12]alternate
 
-   |
-
    [13]foursquare ____________________
      * [14]Log in
      * [15]Sign up
@@ -711,12 +709,11 @@ You must enable JavaScript to use foursquare.com
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1369716973&am
-   p;u=-1&amp;sig=J0pES876oGAgANx4esNTq%2B9JiFM%3D]
+   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1369803373&am
+   p;u=-1&amp;sig=kiYehMMSQxmCKCM%2BIfOKEvkhtrU%3D]
 
 References
 
-   Visible links
    1. https://ss0.4sqi.net/opensearch-f622d7e0319b8abfdcdd9a63812f71e6.xml
    2. https://it.foursquare.com/legal/terms
    3. https://de.foursquare.com/legal/terms
@@ -755,7 +752,3 @@ References
   36. https://foursquare.com/legal/privacy
   37. https://foursquare.com/legal/terms
   38. http://store.foursquare.com/
-
-   Hidden links:
-  39. https://foursquare.com/legal/terms
-  40. https://foursquare.com/legal/terms
