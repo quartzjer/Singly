@@ -341,8 +341,6 @@ b. Application for a Commercial API Key.
    [52]Copyright/IP Policy
    Copyright © 2013 Yahoo! Inc. All rights reserved.
 
-   [nojs.gif?p=792600122:P050]
-
 References
 
    1. http://www.flickr.com/opensearch.xml
