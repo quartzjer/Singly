@@ -1,27 +1,30 @@
    [1]Skip to Main Content Area
-   [2]Developers
-     * [3]API Health
-          + [4]API Status
-          + [5]API Issues
-     * [6]Blog
-     * [7]Discussions
-     * [8]Documentation
-          + [9]Overview
-          + [10]REST API v1.1
-          + [11]Streaming API
-          + [12]Twitter for Websites
-          + [13]Field Guide
-          + [14]Recently updated
-     * [15]Sign in
+     * June 11, 2013 [2]Having trouble with your app? API v1 is retired
+       and no longer functional. | Read more →
+
+   [3]Developers
+     * [4]API Health
+          + [5]API Status
+          + [6]API Issues
+     * [7]Blog
+     * [8]Discussions
+     * [9]Documentation
+          + [10]Overview
+          + [11]REST API v1.1
+          + [12]Streaming API
+          + [13]Twitter for Websites
+          + [14]Field Guide
+          + [15]Recently updated
+     * [16]Sign in
 
    Search_________ Search
-   [16]Home → [17]Terms of Service
-   [18]Tweet
+   [17]Home → [18]Terms of Service
+   [19]Tweet
 
 Developer Display Requirements
 
-     * [19]View
-     * [20]What links here
+     * [20]View
+     * [21]What links here
 
 Introduction
 
@@ -69,7 +72,7 @@ Individual Tweet
          1. Tweet text must be displayed on a line below the author’s name
             and @username, and may not be altered or modified in any way
             except as outlined in these requirements.
-         2. [21]Tweet Entities within the Tweet text must be properly
+         2. [22]Tweet Entities within the Tweet text must be properly
             linked to their appropriate home on Twitter. For example:
               1. User_mentions must link to the mentioned user’s profile.
               2. Hashtags must link to a twitter.com search with the
@@ -80,7 +83,7 @@ Individual Tweet
     3. Tweet Actions
          1. Reply, Retweet, and Favorite action icons must always be
             visible for the user to interact with the Tweet. These actions
-            must be implemented using [22]Web Intents or with the
+            must be implemented using [23]Web Intents or with the
             authenticated Twitter API.
          2. No other social or 3rd party actions similar to Follow, Reply,
             Retweet and Favorite may be attached to a Tweet.
@@ -93,7 +96,7 @@ Individual Tweet
     6. Branding
          1. It must always be clear to the viewing user that they are
             looking at a Tweet, and that the content is from Twitter.
-         2. [23]The Twitter logo or [24]Follow button for the Tweet author
+         2. [24]The Twitter logo or [25]Follow button for the Tweet author
             must always be displayed.
          3. The Twitter logo must link to Twitter.
        For linking Tweet authors (1d), Tweet entities (2b), Tweet
@@ -151,7 +154,7 @@ Individual Tweet
               1. It must always be clear to the viewing user that they are
                  looking at a Twitter timeline, and that the content is
                  from Twitter.
-              2. [25]The Twitter logo must always be displayed directly
+              2. [26]The Twitter logo must always be displayed directly
                  adjacent to the timeline (e.g., top of the timeline).
             All timelines must allow users to view details of an
             Individual Tweet with the requirements above. However, if
@@ -169,8 +172,8 @@ Linking to Twitter
             Tweet action, Tweet permalink or the Twitter logo, you must
             use one of the methods below when linking:
               1. Link directly to the correct twitter.com URL e.g.,
-                 [26]https://twitter.com/jack/statuses/20
-              2. Use [27]Web Intents
+                 [27]https://twitter.com/jack/statuses/20
+              2. Use [28]Web Intents
             However, for linking an avatar, name, and @username, hashtag,
             you may also choose to link to an internal representation
             within your application. However, this internal representation
@@ -180,50 +183,51 @@ Linking to Twitter
             technical limitations of their platform should make a best
             effort to satisfy as many rules as possible. Exceptions will
             be made on a case by case basis by email approval. Please
-            contact [28]trademarks@twitter.com if you feel that an
+            contact [29]trademarks@twitter.com if you feel that an
             exception is necessary.
-            [29]Follow @twitterapi
-               o [30]API Terms
-               o [31]API Status
-               o [32]Blog
-               o [33]Discussions
-               o [34]Documentation
-               o [35]A Drupal community site supported by Acquia
+            [30]Follow @twitterapi
+               o [31]API Terms
+               o [32]API Status
+               o [33]Blog
+               o [34]Discussions
+               o [35]Documentation
+               o [36]A Drupal community site supported by Acquia
 
 References
 
    1. https://dev.twitter.com/terms/display-requirements#content-main
-   2. https://dev.twitter.com/
-   3. https://dev.twitter.com/status
+   2. https://dev.twitter.com/blog/api-v1-is-retired
+   3. https://dev.twitter.com/
    4. https://dev.twitter.com/status
-   5. https://dev.twitter.com/issues
-   6. https://dev.twitter.com/blog
-   7. https://dev.twitter.com/discussions
-   8. https://dev.twitter.com/docs
+   5. https://dev.twitter.com/status
+   6. https://dev.twitter.com/issues
+   7. https://dev.twitter.com/blog
+   8. https://dev.twitter.com/discussions
    9. https://dev.twitter.com/docs
-  10. https://dev.twitter.com/docs/api/1.1
-  11. https://dev.twitter.com/docs/streaming-apis
-  12. https://dev.twitter.com/docs/twitter-for-websites
-  13. https://dev.twitter.com/docs/platform-objects
-  14. https://dev.twitter.com/docs/recent
-  15. https://dev.twitter.com/user/login?destination=node%2F142
-  16. https://dev.twitter.com/
-  17. https://dev.twitter.com/terms/api-terms
-  18. http://twitter.com/share
-  19. https://dev.twitter.com/terms/display-requirements
-  20. https://dev.twitter.com/node/142/backlinks
-  21. https://dev.twitter.com/docs/tweet-entities
-  22. https://dev.twitter.com/docs/intents
-  23. https://twitter.com/about/logos
-  24. https://dev.twitter.com/docs/follow-button
-  25. https://twitter.com/about/logos
-  26. https://twitter.com/jack/statuses/20
-  27. https://dev.twitter.com/docs/intents
-  28. mailto:trademarks@twitter.com
-  29. http://twitter.com/twitterapi
-  30. https://dev.twitter.com/terms/api-terms
-  31. https://dev.twitter.com/status
-  32. https://dev.twitter.com/blog
-  33. https://dev.twitter.com/discussions
-  34. https://dev.twitter.com/docs
-  35. http://www.acquia.com/
+  10. https://dev.twitter.com/docs
+  11. https://dev.twitter.com/docs/api/1.1
+  12. https://dev.twitter.com/docs/streaming-apis
+  13. https://dev.twitter.com/docs/twitter-for-websites
+  14. https://dev.twitter.com/docs/platform-objects
+  15. https://dev.twitter.com/docs/recent
+  16. https://dev.twitter.com/user/login?destination=node%2F142
+  17. https://dev.twitter.com/
+  18. https://dev.twitter.com/terms/api-terms
+  19. http://twitter.com/share
+  20. https://dev.twitter.com/terms/display-requirements
+  21. https://dev.twitter.com/node/142/backlinks
+  22. https://dev.twitter.com/docs/tweet-entities
+  23. https://dev.twitter.com/docs/intents
+  24. https://twitter.com/about/logos
+  25. https://dev.twitter.com/docs/follow-button
+  26. https://twitter.com/about/logos
+  27. https://twitter.com/jack/statuses/20
+  28. https://dev.twitter.com/docs/intents
+  29. mailto:trademarks@twitter.com
+  30. http://twitter.com/twitterapi
+  31. https://dev.twitter.com/terms/api-terms
+  32. https://dev.twitter.com/status
+  33. https://dev.twitter.com/blog
+  34. https://dev.twitter.com/discussions
+  35. https://dev.twitter.com/docs
+  36. http://www.acquia.com/
