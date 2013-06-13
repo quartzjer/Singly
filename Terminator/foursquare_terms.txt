@@ -2,6 +2,10 @@
    [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
    [11]alternate [12]alternate
 
+   [13]foursquare ____________________
+     * [14]Log in
+     * [15]Sign up
+
    Last Updated: January 29, 2013
 
 FOURSQUARE LABS, INC. TERMS OF USE
@@ -9,7 +13,7 @@ FOURSQUARE LABS, INC. TERMS OF USE
    PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SERVICES
    OFFERED BY FOURSQUARE LABS, INC. ("FOURSQUARE"), A DELAWARE
    CORPORATION. THESE TERMS OF USE SET FORTH THE LEGALLY BINDING TERMS AND
-   CONDITIONS FOR YOUR USE OF THE WEBSITE AT [13]HTTPS://FOURSQUARE.COM
+   CONDITIONS FOR YOUR USE OF THE WEBSITE AT [16]HTTPS://FOURSQUARE.COM
    (THE "SITE") AND THE SERVICES, FEATURES, CONTENT, APPLICATIONS OR
    WIDGETS OFFERED BY FOURSQUARE (COLLECTIVELY WITH THE SITE, THE
    "SERVICE").
@@ -19,8 +23,8 @@ Acceptance of Terms.
    By registering for and/or using the Service in any manner, including
    but not limited to visiting or browsing the Site, you agree to all of
    the terms and conditions contained herein ("Terms of Use"), which also
-   incorporate Foursquare's [14]Privacy Policy, Foursquare's
-   [15]Intellectual Property Policy, Foursquare's [16]Photo Guidelines,
+   incorporate Foursquare's [17]Privacy Policy, Foursquare's
+   [18]Intellectual Property Policy, Foursquare's [19]Photo Guidelines,
    Foursquare's Venue Terms and Conditions, Foursquare's API License
    Agreement and all other operating rules, policies and procedures that
    may be published from time to time on the Site by Foursquare, each of
@@ -229,10 +233,10 @@ Rules and Conduct.
        representative of Foursquare;
      * includes anyone's identification documents or sensitive financial
        information; or
-     * breaches the [17]Privacy Policy, the [18]House Rules and/or any of
+     * breaches the [20]Privacy Policy, the [21]House Rules and/or any of
        the other policies and rules incorporated herein.
 
-   If the User Submission includes a photograph, Foursquare's [19]Photo
+   If the User Submission includes a photograph, Foursquare's [22]Photo
    Guidelines shall apply. Foursquare has a zero-tolerance policy against
    child pornography, and will terminate and report to the appropriate
    authorities any user who publishes or distributes child pornography.
@@ -301,13 +305,13 @@ Card Services
    that occurs during any offer or special redemption process, including
    any error by the Payment Processor. In connection with your use of the
    Card Services, Foursquare will obtain certain transaction details,
-   which Foursquare will use solely in accordance with our [20]Privacy
+   which Foursquare will use solely in accordance with our [23]Privacy
    Policy.
 
 Feedback and Unsolicited Idea Submission Policy
 
    For information on Foursquare’s Feedback and Unsolicited Idea
-   Submission Policy, please go [21]here.
+   Submission Policy, please go [24]here.
 
 Special Terms for 'Add-to-Foursquare' Link
 
@@ -374,13 +378,13 @@ Special Terms for Pages.
 Special Terms for Verified Venues.
 
    If you are the verified representative of a venue, you also agree to
-   Foursquare's [22]Venue Terms and Conditions.
+   Foursquare's [25]Venue Terms and Conditions.
 
 Special Terms for Developers.
 
    If you are a developer or operator of any application or service that
    uses Foursquare's application programming interface(s) you also agree
-   to Foursquare's [23]Platform Policy and [24]API License Agreement.
+   to Foursquare's [26]Platform Policy and [27]API License Agreement.
 
 Third Party Sites and Services.
 
@@ -689,24 +693,24 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [25]Download foursquare for your smart phone and start exploring the
+   [28]Download foursquare for your smart phone and start exploring the
    world around you!
-     * [26]About
-     * [27]Blog
-     * [28]Businesses
-     * [29]Cities
-     * [30]Developers
-     * [31]Help
-     * [32]Jobs
-     * [33]Privacy (Updated)
-     * [34]Terms (Updated)
-     * [35]Store
+     * [29]About
+     * [30]Blog
+     * [31]Businesses
+     * [32]Cities
+     * [33]Developers
+     * [34]Help
+     * [35]Jobs
+     * [36]Privacy (Updated)
+     * [37]Terms
+     * [38]Store
      * English
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1371012948&am
-   p;u=-1&amp;sig=FU9YtNkrn2MFA9nJxqIfZKhxg3U%3D]
+   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1371099346&am
+   p;u=-1&amp;sig=coyZq6T9qzRP%2BFgljc09rBcE3aA%3D]
 
 References
 
@@ -723,25 +727,28 @@ References
   11. https://id.foursquare.com/legal/terms
   12. https://tr.foursquare.com/legal/terms
   13. https://foursquare.com/
-  14. https://foursquare.com/legal/privacy
-  15. https://foursquare.com/legal/ip
-  16. https://foursquare.com/legal/photos
+  14. https://foursquare.com/login?continue=%2Flegal%2Fterms&clicked=true
+  15. https://foursquare.com/signup/
+  16. https://foursquare.com/
   17. https://foursquare.com/legal/privacy
-  18. http://support.foursquare.com/entries/386768-foursquare-house-rules
+  18. https://foursquare.com/legal/ip
   19. https://foursquare.com/legal/photos
   20. https://foursquare.com/legal/privacy
-  21. https://foursquare.com/legal/ideas
-  22. https://foursquare.com/legal/venueterms
-  23. https://foursquare.com/legal/api/platformpolicy
-  24. https://foursquare.com/legal/api/licenseagreement
-  25. https://foursquare.com/download
-  26. https://foursquare.com/about
-  27. http://blog.foursquare.com/
-  28. http://business.foursquare.com/
-  29. https://foursquare.com/cities
-  30. http://developer.foursquare.com/
-  31. http://foursquare.com/help
-  32. https://foursquare.com/jobs/
-  33. https://foursquare.com/legal/privacy
-  34. https://foursquare.com/legal/terms
-  35. http://store.foursquare.com/
+  21. http://support.foursquare.com/entries/386768-foursquare-house-rules
+  22. https://foursquare.com/legal/photos
+  23. https://foursquare.com/legal/privacy
+  24. https://foursquare.com/legal/ideas
+  25. https://foursquare.com/legal/venueterms
+  26. https://foursquare.com/legal/api/platformpolicy
+  27. https://foursquare.com/legal/api/licenseagreement
+  28. https://foursquare.com/download
+  29. https://foursquare.com/about
+  30. http://blog.foursquare.com/
+  31. http://business.foursquare.com/
+  32. https://foursquare.com/cities
+  33. http://developer.foursquare.com/
+  34. http://foursquare.com/help
+  35. https://foursquare.com/jobs/
+  36. https://foursquare.com/legal/privacy
+  37. https://foursquare.com/legal/terms
+  38. http://store.foursquare.com/

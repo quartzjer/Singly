@@ -2,6 +2,10 @@
    [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
    [11]alternate [12]alternate
 
+   [13]foursquare ____________________
+     * [14]Log in
+     * [15]Sign up
+
    Updated: 04/21/11
 
 FOURSQUARE LABS, INC. API LICENSE AGREEMENT
@@ -14,7 +18,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    1. GRANT OF LICENSE - Subject to your ("Licensee") full compliance with
    all of the terms and conditions of this API Agreement ("Agreement") and
-   the [13]Foursquare Platform Policy, Foursquare Labs, Inc.
+   the [16]Foursquare Platform Policy, Foursquare Labs, Inc.
    ("Foursquare") grants Licensee a non-exclusive, revocable,
    nonsublicensable, nontransferable license to download and use the
    Foursquare application program interface and other materials provided
@@ -190,24 +194,24 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [14]Download foursquare for your smart phone and start exploring the
+   [17]Download foursquare for your smart phone and start exploring the
    world around you!
-     * [15]About
-     * [16]Blog
-     * [17]Businesses
-     * [18]Cities
-     * [19]Developers
-     * [20]Help
-     * [21]Jobs
-     * [22]Privacy (Updated)
-     * [23]Terms (Updated)
-     * [24]Store
+     * [18]About
+     * [19]Blog
+     * [20]Businesses
+     * [21]Cities
+     * [22]Developers
+     * [23]Help
+     * [24]Jobs
+     * [25]Privacy (Updated)
+     * [26]Terms
+     * [27]Store
      * English
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=&amp
-   ;ts=1371012949&amp;u=-1&amp;sig=ZHRjG8coeB9i1FLBpH2dZ5XDDcA%3D]
+   ;ts=1371099347&amp;u=-1&amp;sig=nC090w0F06FQ38sEoj4LHoo06FQ%3D]
 
 References
 
@@ -223,15 +227,18 @@ References
   10. https://pt.foursquare.com/legal/api/licenseagreement
   11. https://id.foursquare.com/legal/api/licenseagreement
   12. https://tr.foursquare.com/legal/api/licenseagreement
-  13. https://foursquare.com/legal/api/platformpolicy
-  14. https://foursquare.com/download
-  15. https://foursquare.com/about
-  16. http://blog.foursquare.com/
-  17. http://business.foursquare.com/
-  18. https://foursquare.com/cities
-  19. http://developer.foursquare.com/
-  20. http://foursquare.com/help
-  21. https://foursquare.com/jobs/
-  22. https://foursquare.com/legal/privacy
-  23. https://foursquare.com/legal/terms
-  24. http://store.foursquare.com/
+  13. https://foursquare.com/
+  14. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Flicenseagreement&clicked=true
+  15. https://foursquare.com/signup/
+  16. https://foursquare.com/legal/api/platformpolicy
+  17. https://foursquare.com/download
+  18. https://foursquare.com/about
+  19. http://blog.foursquare.com/
+  20. http://business.foursquare.com/
+  21. https://foursquare.com/cities
+  22. http://developer.foursquare.com/
+  23. http://foursquare.com/help
+  24. https://foursquare.com/jobs/
+  25. https://foursquare.com/legal/privacy
+  26. https://foursquare.com/legal/terms
+  27. http://store.foursquare.com/
