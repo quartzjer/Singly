@@ -430,10 +430,11 @@ XI. Ads API
        an anonymous basis to optimize and measure the performance of that
        end-advertiser's Facebook campaign. Neither you nor the
        end-advertiser may use data for the following purposes: retargeting
-       whether on or off of the Facebook service; to commingle the data
-       across multiple campaigns; to build or augment any user profiles,
-       or to use piggybacking or redirects with the 1x1 pixel tags, or for
-       any other purpose not expressly authorized by us.
+       whether on or off of the Facebook service; to commingle data across
+       an advertiser's campaigns from multiple platforms; to build or
+       augment any user profiles, or to use piggybacking or redirects with
+       the 1x1 pixel tags, or for any other purpose not expressly
+       authorized by us.
        c. You must not permit any person (other than an agent acting on
        the end-advertiser's behalf) to access the end-advertiser's Ad or
        Sponsored Story advertising statistics, including but not limited
@@ -511,7 +512,7 @@ Additional Languages
    [62]Português (Brasil)
 
    [63]Türkçe
-   Updated about 3 weeks ago
+   Updated 12 hours ago
 
    Facebook © 2013 · [64]English (US)
    [65]About[66]Advertising[67]Careers[68]Platform Policies[69]Privacy
