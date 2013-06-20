@@ -1,30 +1,27 @@
    [1]Skip to Main Content Area
-     * June 11, 2013 [2]Having trouble with your app? API v1 is retired
-       and no longer functional. | Read more →
-
-   [3]Developers
-     * [4]API Health
-          + [5]API Status
-          + [6]API Issues
-     * [7]Blog
-     * [8]Discussions
-     * [9]Documentation
-          + [10]Overview
-          + [11]REST API v1.1
-          + [12]Streaming API
-          + [13]Twitter for Websites
-          + [14]Field Guide
-          + [15]Recently updated
-     * [16]Sign in
+   [2]Developers
+     * [3]API Health
+          + [4]API Status
+          + [5]API Issues
+     * [6]Blog
+     * [7]Discussions
+     * [8]Documentation
+          + [9]Overview
+          + [10]REST API v1.1
+          + [11]Streaming API
+          + [12]Twitter for Websites
+          + [13]Field Guide
+          + [14]Recently updated
+     * [15]Sign in
 
    Search_________ Search
-   [17]Home
-   [18]Tweet
+   [16]Home
+   [17]Tweet
 
 Developer Rules of the Road
 
-     * [19]View
-     * [20]What links here
+     * [18]View
+     * [19]What links here
 
    Last Update: September 5, 2012.
 
@@ -49,7 +46,7 @@ Rules of the Road
    make a change or give you an exception.
 
    If your application will eventually need more than 1 million user
-   tokens, or you expect your [21]embedded Tweets and [22]embedded
+   tokens, or you expect your [20]embedded Tweets and [21]embedded
    timelines to exceed 10 million daily impressions, you will need to talk
    to us directly about your access to the Twitter API as you may be
    subject to additional terms. Furthermore, applications that attempt to
@@ -62,13 +59,13 @@ I. Twitter Content
    1. All use of the Twitter API and content, documentation, code, and
    related materials made available to you on or through Twitter ("Twitter
    Content") is subject to and must comply with these Rules. As a
-   reminder, you and your Service are subject to the [23]Twitter Terms of
+   reminder, you and your Service are subject to the [22]Twitter Terms of
    Service.
 
    2. You may use the Twitter API and Twitter Content in connection with
    the products or services you provide (your "Service") to search,
    display, analyze, retrieve, view, and submit information to or on
-   Twitter. You may use the [24]Twitter name or logos and other brand
+   Twitter. You may use the [23]Twitter name or logos and other brand
    elements that Twitter makes available in order to identify the source
    of Twitter Content ("Twitter Marks") subject to these Rules.
 
@@ -117,12 +114,12 @@ I. Twitter Content
    5. While Twitter discourages development in this area, some Services or
    applications attempt to replicate Twitter's core user experience,
    typically by accessing the home timeline, account settings, or direct
-   messages API endpoints or [25]User Streams product. The following
+   messages API endpoints or [24]User Streams product. The following
    additional rules apply to Services or applications that fall within
    this category.
 
    You must:
-    1. use the Twitter API [26]as provided by Twitter for functionalities
+    1. use the Twitter API [25]as provided by Twitter for functionalities
        in your Service that are substantially similar to a feature of the
        Twitter service and present this to your users as the default
        option. Some examples include media storage and sharing
@@ -156,7 +153,7 @@ II. Principles
 1. Don't surprise users
 
     1. You must maintain the integrity of Twitter Content (such as Tweets
-       and timelines of Tweets) by adhering to the [27]Display
+       and timelines of Tweets) by adhering to the [26]Display
        Requirements.
     2. Get users' permission before:
           + sending Tweets or other messages on their behalf. A user
@@ -171,12 +168,12 @@ II. Principles
             be published.
           + republishing Twitter Content accessed through means other than
             via the Twitter API or other tools that may be provided to you
-            by Twitter, or in a manner inconsistent with the [28]Display
+            by Twitter, or in a manner inconsistent with the [27]Display
             Requirements.
     3. Your Service should not:
           + use business names and/or logos in a manner that can mislead,
             confuse, or deceive users. For more information on use of
-            Twitter Marks, see our trademark rules [29]here
+            Twitter Marks, see our trademark rules [28]here
           + confuse or mislead users about the source or purpose of your
             application.
           + use as its Application Website URL: an unrelated URL, a site
@@ -199,10 +196,10 @@ II. Principles
 
 2. Don't create or distribute spam
 
-    1. Spam can take many forms. Please abide by the spam rules [30]here.
+    1. Spam can take many forms. Please abide by the spam rules [29]here.
     2. If your application performs automatic actions (including tweeting
        or other content updates), make sure you comply with the Automation
-       Rules found [31]here.
+       Rules found [30]here.
     3. Do not mass-register applications. This includes:
           + creating tokens/applications for the purpose of preventing
             others from using or selling those names, or other commercial
@@ -224,13 +221,13 @@ II. Principles
        must disclose that third parties may be placing and reading cookies
        on the systems of your users in the course of providing content to
        them. Your privacy policy should also provide information about
-       user options for cookie management and the [32]Do Not Track setting
+       user options for cookie management and the [31]Do Not Track setting
        in supporting web browsers.
     2. Clearly disclose when you are adding location information to a
        user's Tweets, whether as a geotag or annotations data. Be clear
        about whether you are adding a place or specific coordinates. If
        your application allows users to Tweet with their location be sure
-       that it complies with the best practices found [33]here.
+       that it complies with the best practices found [32]here.
     3. You should not solicit another developer's consumer keys or
        consumer secrets especially if they will be stored or used for
        actions outside of that developer's control. Keys and secrets that
@@ -246,12 +243,12 @@ II. Principles
 4. Be a good partner to Twitter
 
     1. If you display Tweets in an offline context, do so according to the
-       guidelines found [34]here.
+       guidelines found [33]here.
     2. Respect the features and functionality embedded with or included in
        Twitter Content or the Twitter API. Do not attempt to interfere
        with, intercept, disrupt, filter, or disable any features of the
        Twitter API or Twitter service, including the content of
-       [35]embedded Tweets and [36]embedded timelines.
+       [34]embedded Tweets and [35]embedded timelines.
     3. You should only surface activity that is organically displayed on
        Twitter.
           + For example, your Service should execute the unfavorite and
@@ -259,9 +256,9 @@ II. Principles
             Content, not by publicly displaying to other end users that
             the Tweet was unfavorited or deleted.
     4. If your application causes or induces user accounts to violate the
-       [37]Twitter Rules (for example, by retweeting spam updates,
+       [36]Twitter Rules (for example, by retweeting spam updates,
        repeatedly posting duplicate links, etc.), it may be suspended or
-       terminated. We've provided some guidance in our [38]Abuse
+       terminated. We've provided some guidance in our [37]Abuse
        Prevention and Security help page.
     5. Respect the intellectual property rights of others.
     6. Do not use the Twitter Verified Account badge, Verified Account
@@ -349,7 +346,7 @@ IV. Commercial Use
           + creating an advertisement that implies the sponsorship or
             endorsement on behalf of the user; or
           + using content in a manner that is inconsistent with the
-            [39]Display Requirements and would require the user’s
+            [38]Display Requirements and would require the user’s
             permission under applicable law, including without limitation
             uses of Twitter Content that features the name, likeness, or
             identifying persona of a person.
@@ -424,7 +421,7 @@ V. Other Legal Terms
 4. Updates.
 
    Twitter may update or modify the Twitter API, Rules, and other terms
-   and conditions, including the [40]Display Requirements, from time to
+   and conditions, including the [39]Display Requirements, from time to
    time at its sole discretion by posting the changes on this site or by
    otherwise notifying you (such notice may be via email). You acknowledge
    that these updates and modifications may adversely affect how your
@@ -519,64 +516,63 @@ V. Other Legal Terms
    the maximum extent permissible and the remaining provisions of this
    agreement will remain in full force and effect.
 
-   View the [41]API Terms of Service: Archive or [42]the most recent
+   View the [40]API Terms of Service: Archive or [41]the most recent
    changes.
-   [43]Follow @twitterapi
-     * [44]API Terms
-     * [45]API Status
-     * [46]Blog
-     * [47]Discussions
-     * [48]Documentation
-     * [49]A Drupal community site supported by Acquia
+   [42]Follow @twitterapi
+     * [43]API Terms
+     * [44]API Status
+     * [45]Blog
+     * [46]Discussions
+     * [47]Documentation
+     * [48]A Drupal community site supported by Acquia
 
 References
 
    1. https://dev.twitter.com/terms/api-terms#content-main
-   2. https://dev.twitter.com/blog/api-v1-is-retired
-   3. https://dev.twitter.com/
+   2. https://dev.twitter.com/
+   3. https://dev.twitter.com/status
    4. https://dev.twitter.com/status
-   5. https://dev.twitter.com/status
-   6. https://dev.twitter.com/issues
-   7. https://dev.twitter.com/blog
-   8. https://dev.twitter.com/discussions
+   5. https://dev.twitter.com/issues
+   6. https://dev.twitter.com/blog
+   7. https://dev.twitter.com/discussions
+   8. https://dev.twitter.com/docs
    9. https://dev.twitter.com/docs
-  10. https://dev.twitter.com/docs
-  11. https://dev.twitter.com/docs/api/1.1
-  12. https://dev.twitter.com/docs/streaming-apis
-  13. https://dev.twitter.com/docs/twitter-for-websites
-  14. https://dev.twitter.com/docs/platform-objects
-  15. https://dev.twitter.com/docs/recent
-  16. https://dev.twitter.com/user/login?destination=node%2F110
-  17. https://dev.twitter.com/
-  18. http://twitter.com/share
-  19. https://dev.twitter.com/terms/api-terms
-  20. https://dev.twitter.com/node/110/backlinks
-  21. https://dev.twitter.com/docs/embedded-tweets
-  22. https://dev.twitter.com/docs/embedded-timelines
-  23. http://twitter.com/tos
-  24. https://twitter.com/logo
-  25. https://dev.twitter.com/docs/streaming-apis/streams/user
-  26. https://dev.twitter.com/docs/api/1.1
+  10. https://dev.twitter.com/docs/api/1.1
+  11. https://dev.twitter.com/docs/streaming-apis
+  12. https://dev.twitter.com/docs/twitter-for-websites
+  13. https://dev.twitter.com/docs/platform-objects
+  14. https://dev.twitter.com/docs/recent
+  15. https://dev.twitter.com/user/login?destination=node%2F110
+  16. https://dev.twitter.com/
+  17. http://twitter.com/share
+  18. https://dev.twitter.com/terms/api-terms
+  19. https://dev.twitter.com/node/110/backlinks
+  20. https://dev.twitter.com/docs/embedded-tweets
+  21. https://dev.twitter.com/docs/embedded-timelines
+  22. http://twitter.com/tos
+  23. https://twitter.com/logo
+  24. https://dev.twitter.com/docs/streaming-apis/streams/user
+  25. https://dev.twitter.com/docs/api/1.1
+  26. https://dev.twitter.com/terms/display-requirements
   27. https://dev.twitter.com/terms/display-requirements
-  28. https://dev.twitter.com/terms/display-requirements
-  29. http://support.twitter.com/articles/77641
-  30. http://support.twitter.com/articles/18311#spam
-  31. http://support.twitter.com/articles/76915
-  32. https://support.twitter.com/articles/20169453
-  33. https://dev.twitter.com/pages/geo_dev_guidelines
-  34. http://support.twitter.com/articles/114233
-  35. https://dev.twitter.com/docs/embedded-tweets
-  36. https://dev.twitter.com/docs/embedded-timelines
-  37. http://support.twitter.com/articles/18311
-  38. http://support.twitter.com/articles/79901
+  28. http://support.twitter.com/articles/77641
+  29. http://support.twitter.com/articles/18311#spam
+  30. http://support.twitter.com/articles/76915
+  31. https://support.twitter.com/articles/20169453
+  32. https://dev.twitter.com/pages/geo_dev_guidelines
+  33. http://support.twitter.com/articles/114233
+  34. https://dev.twitter.com/docs/embedded-tweets
+  35. https://dev.twitter.com/docs/embedded-timelines
+  36. http://support.twitter.com/articles/18311
+  37. http://support.twitter.com/articles/79901
+  38. https://dev.twitter.com/terms/display-requirements
   39. https://dev.twitter.com/terms/display-requirements
-  40. https://dev.twitter.com/terms/display-requirements
-  41. https://dev.twitter.com/terms/api-terms/archive
-  42. https://dev.twitter.com/terms/api-terms/diff
-  43. http://twitter.com/twitterapi
-  44. https://dev.twitter.com/terms/api-terms
-  45. https://dev.twitter.com/status
-  46. https://dev.twitter.com/blog
-  47. https://dev.twitter.com/discussions
-  48. https://dev.twitter.com/docs
-  49. http://www.acquia.com/
+  40. https://dev.twitter.com/terms/api-terms/archive
+  41. https://dev.twitter.com/terms/api-terms/diff
+  42. http://twitter.com/twitterapi
+  43. https://dev.twitter.com/terms/api-terms
+  44. https://dev.twitter.com/status
+  45. https://dev.twitter.com/blog
+  46. https://dev.twitter.com/discussions
+  47. https://dev.twitter.com/docs
+  48. http://www.acquia.com/

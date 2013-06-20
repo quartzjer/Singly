@@ -704,13 +704,12 @@ You must enable JavaScript to use foursquare.com
      * [35]Jobs
      * [36]Privacy (Updated)
      * [37]Terms
-     * [38]Store
      * English
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1371617735&am
-   p;u=-1&amp;sig=oU8sOKKZhWxNCNVpOsD%2Fqhted4s%3D]
+   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1371704135&am
+   p;u=-1&amp;sig=EQewfEoT8hRefeaGqkAFZJKcus0%3D]
 
 References
 
@@ -751,4 +750,3 @@ References
   35. https://foursquare.com/jobs/
   36. https://foursquare.com/legal/privacy
   37. https://foursquare.com/legal/terms
-  38. http://store.foursquare.com/
