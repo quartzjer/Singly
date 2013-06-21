@@ -210,7 +210,7 @@ You must enable JavaScript to use foursquare.com
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=&amp
-   ;ts=1371704135&amp;u=-1&amp;sig=bOFTOENuG4KIoaV9ZaSSXpyAKpM%3D]
+   ;ts=1371790533&amp;u=-1&amp;sig=Pfq9Zgrorc8iyQyeqIUG077i0i8%3D]
 
 References
 

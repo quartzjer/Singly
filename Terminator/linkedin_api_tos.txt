@@ -1,0 +1,739 @@
+   #[1]next [2]up [3]prev
+
+   [4]Skip to main content
+
+     * [5]Sign In
+
+[6]LinkedIn Developers
+
+     * [7]Home
+     * [8]Why Develop With Us
+     * [9]Case Studies
+     * [10]Documentation
+          + [11]Getting Started
+          + [12]REST APIs
+          + [13]JavaScript APIs
+          + [14]Plugins
+          + [15]Policies
+     * [16]Support
+          + [17]API Keys
+          + [18]Code Libraries
+          + [19]Testing Tools
+          + [20]Forums
+          +
+          + [21]Plugins
+          + [22]JavaScript
+          + [23]REST
+     * [24]Blog
+
+Search form
+
+   Search this site _______________
+
+   Search
+
+LinkedIn APIs Terms of Use
+
+   Oct 22, 2009 — LIDeveloperAdmin
+    1. Introduction
+         1. Welcome to the LinkedIn Developer Program
+            We’re excited that you’ve chosen to develop on the LinkedIn
+            platform. At LinkedIn, we believe in putting our members
+            first. We created our Developer Program to enable developers
+            to create fantastic applications for our members. Together, we
+            are building the professional web.
+            Our members include professionals and aspiring professionals.
+            Participating in our Developer program requires that you act
+            professionally as well:
+               o To your users
+               o To their fellow LinkedIn members
+               o To LinkedIn
+            These Terms will evolve, so please check back regularly.
+         2. Who This Program Is For
+            We actively encourage you to create new types of applications
+            that could never exist without the LinkedIn platform.
+            Please incorporate our APIs into your products to enable
+            LinkedIn members to:
+               o Bring their professional identities with them as they
+                 move across the web
+               o Increase their productivity by enriching their
+                 experiences with professional information
+               o Build their professional brand by publishing, discussing,
+                 and sharing content
+               o Gain insights into how they can be more successful
+                 through content curation and discovery
+               o Network, online and offline, with fellow professionals
+               o Discover and connect with like minded professionals who
+                 can help them in their careers
+            The use of our plugins is subject to the terms of our Plugins
+            Terms of Use. If you use both APIs and LinkedIn plugins in
+            your Application, you must comply with these Terms and the
+            Plugins Terms of Use.
+         3. Who Our Partner Programs Are For
+            We designed our Partner Programs to give specific categories
+            of applications access to our Platform. Approved partners in
+            these programs often get enhanced use of our APIs and premium
+            support.
+            Learn more about all of our Partner Programs, including the
+            application process, at
+            [25]https://developer.linkedin.com/partner-programs.
+            If your application falls into one or more of the following
+            categories, you are required to be part of one of our Partner
+            Programs and have a signed agreement with LinkedIn that allows
+            you to use our APIs in your application:
+               o Applications used for hiring, marketing, or sales. For
+                 example, employee hiring, company marketing or
+                 monitoring, lead generation, relationship management,
+                 systematic matching of people with their LinkedIn
+                 profile, or anything with a similar feature or purpose.
+                 Developers interested in these categories often apply to
+                 one of the following Partner Programs: Social Media
+                 Management, Ads, ATS, Job Postings, CRM, or our Certified
+                 Developer Program.
+               o Applications that currently have or expect to have more
+                 than 250,000 lifetime members using our APIs, make more
+                 than 500,000 daily API calls, make more than 500,000
+                 lifetime people search API calls, or serve greater than 1
+                 million daily plugin impressions.
+               o Applications that store or export any data from LinkedIn
+                 other than the Profile Data as explicitly allowed in
+                 Section III.B. This includes data for anyone other than
+                 the member, such as a member’s connections, people found
+                 via search, and information about companies and job
+                 postings.
+            If you believe that you are a good fit for one of these
+            programs or are interested in building an application that
+            requires access or permission under our Partner Programs,
+            please contact us.
+    2. Joining our Program
+         1. Developer Accounts and Access Credentials
+              1. Developer Account.
+                 To use the API, you must first sign up for a Developer
+                 Account using your real LinkedIn account. Both the
+                 Developer Account and your LinkedIn account must contain
+                 accurate and up-to-date information at all times,
+                 including your current title, company, and e-mail
+                 address.
+              2. Access Credentials.
+                 Once you have a Developer Account you may obtain Access
+                 Credentials for your Application. The Access Credentials
+                 enable us to associate your API activity with your
+                 Application and the members using it. All activities that
+                 occur using your Access Credentials are your
+                 responsibility. Keep them secret. Do not sell, transfer,
+                 or sublicense them. Do not attempt to circumvent the
+                 Access Credentials. You must not require your users to
+                 obtain their own Access Credentials to use your
+                 Application.
+              3. Test Accounts.
+                 For testing purposes only, you may create up to five
+                 LinkedIn accounts. Accounts must be created manually and
+                 not via any automated means, including scripts. These
+                 test accounts must not interact with non-test accounts
+                 (e.g. they must not be used to post messages in Groups),
+                 or be used to circumvent user limits. These accounts must
+                 have profiles that clearly identify them as test
+                 accounts, not have any profile positions at real
+                 companies besides your own, and be listed as Developers
+                 on your Developer Account.
+         2. API License
+            Subject to these Terms, we grant you a limited, non-exclusive,
+            non-assignable, non-transferable license under LinkedIn’s
+            intellectual property rights during the term of this agreement
+            to use the APIs to develop, test, and support your
+            Application, and to let your customers use your integration of
+            the APIs within your Application.
+    3. Act Professionally
+         1. Display and Use Content Properly
+              1. Data Views.
+                 Each user must grant your application access to their
+                 LinkedIn network, and each user may only see data from
+                 his or her own LinkedIn network. Data from one user’s
+                 LinkedIn account or network must not be exposed to
+                 another user. People’s views of their networks are
+                 private to them, based on the connections they have. For
+                 example, you must not gather information about a LinkedIn
+                 member in one user’s network and show that information to
+                 other users.
+              2. Excluded Uses.
+                 The use scenarios below are not permitted under these
+                 Terms. You must never do any of the following:
+                   1. Use LinkedIn Content in any advertisements or for
+                      purposes of targeting advertisements, in your
+                      Application or elsewhere.
+                   2. Use the Content for any of the following: generating
+                      messages, promotions, offers, or mass messages; or
+                      for any other purpose other than, and solely to the
+                      extent necessary for, allowing end users to use the
+                      Content in your Application.
+                   3. Use the APIs in any Application that contains or
+                      displays adult content, promotes gambling, involves
+                      the sale of tobacco or alcohol to persons under 21
+                      years of age, or otherwise violates any law or
+                      regulation.
+                   4. Sell, lease, share, transfer, or sublicense any
+                      Content or access to any Content, directly or
+                      indirectly, to any third party, including any
+                      recruiter, data broker, salesperson, or
+                      advertising-related entity.
+                   5. Offer API search results as aggregated search.
+                   6. Commingle Content from the APIs with any LinkedIn
+                      data obtained directly or indirectly from another
+                      source, including data scraped from our Website or
+                      data provided by a third party. For example, you
+                      cannot supplement the Profile Data you have received
+                      via the API with other LinkedIn information obtained
+                      from scraping our Website, whether that scraping was
+                      done by you or a third party.
+                   7. Display Content, including search results, gathered
+                      using the Access Credentials of another person. Each
+                      person must authenticate individually.
+                   8. Distribute or allow access to the stand-alone APIs,
+                      or provide an application program interface that
+                      provides access to LinkedIn Content. Anyone who
+                      wants access to our APIs and Content must join our
+                      Developer Program.
+         2. Store Content Only As Allowed
+            This Section III(B) replaces the old Section 3.4 that may be
+            referred to in some of our other agreements. The terms of this
+            Section III(B) apply everywhere that Section 3.4 of the API
+            Terms of Use is referenced.
+              1. No Copying.
+                 Except as expressly permitted in these Terms, you must
+                 not copy or store any Content. This restriction includes
+                 any derived, hashed, or transformed data, or any method
+                 where you capture information expressed by the Content,
+                 even if you don’t store the Content itself.
+              2. Tokens.
+                 You may store the alphanumeric user IDs (Member Tokens)
+                 that we provide to you for identifying users or any
+                 individual member’s authentication token (OAuth Token)
+                 that we provide to you when a LinkedIn user authenticates
+                 your Application to his LinkedIn account.
+              3. Cache for Performance.
+                 To improve the member experience, you may cache LinkedIn
+                 Content, but you must not do so for more than 24 hours
+                 from your original request. This limited permission to
+                 cache is for performance reasons only. You do not have
+                 any rights to the LinkedIn Content beyond this limited
+                 use.
+              4. Member Profile Data.
+                 If you obtain a member’s consent to store that member’s
+                 profile, you may perform a one-time capture of the
+                 Profile Data for that member and store that Profile Data.
+                 The process for obtaining member consent must meet the
+                 specifications provided by LinkedIn and explicitly inform
+                 the member which parts of his or her profile you are
+                 storing. Each future request for revised Profile Data
+                 must be accompanied by another request for consent from
+                 that member and consent from that member. You must use
+                 stored Profile Data solely for the benefit of the
+                 LinkedIn user that granted you permission to access it.
+                 You must not monetize it, directly or indirectly. For
+                 example, you may not sell access to an aggregated
+                 collection of profiles or the most relevant people for a
+                 position.
+         3. Delete Content When Asked
+              1. Delete at User Request
+                 You must delete all data collected with the user’s
+                 consent, including the Member Token and the OAuth Token,
+                 upon request by the user, when the user uninstalls your
+                 Application, or when the user closes his or her account
+                 with you. The restrictions of this Section III(C)(1) do
+                 not apply to data that users provide directly to you and
+                 that is separately entered or uploaded to you by the user
+                 of your Application.
+              2. Delete for Breach.
+                 You must immediately delete all data if we terminate your
+                 use of the APIs for breach of these Terms, except when
+                 doing so would cause you to violate any law or obligation
+                 imposed by a governmental authority.
+         4. Don’t Harm or Trick Members
+            Your Application must include your own user agreement and
+            privacy policy. Your user agreement and privacy policy must be
+            prominently identified or located where users download or
+            access your Application. You must promptly notify us of any
+            breaches of your user agreement or privacy policy that impact
+            or may impact our members. Your privacy policy must be at
+            least as stringent and user-friendly as LinkedIn’s.
+            Before obtaining information from your users of the
+            Application, you must obtain their informed consent by
+            informing them what information you collect and how it will be
+            used and/or shared.
+            Your Application must not:
+               o Implement features or business practices that harm the
+                 professional reputation, relationships, or professional
+                 ecosystem of LinkedIn members.
+               o Impersonate a LinkedIn user or misrepresent any user or
+                 other third party when requesting or publishing
+                 information.
+               o Obfuscate or hide any LinkedIn buttons, sign-in
+                 functionality, consent, or authorization flows from your
+                 users. In order to access member specific Content through
+                 the APIs, your users must sign-in with their LinkedIn
+                 credentials and grant your Application access to their
+                 Content.
+               o Proxy, request or collect LinkedIn user names or
+                 passwords. You are never allowed to collect or use a
+                 LinkedIn member’s username or password in any fashion for
+                 any reason. We want our members to have safe and
+                 consistent experiences across all applications.
+         5. Be a Good Citizen to our Platform
+            You share LinkedIn and our APIs with your fellow members and
+            developers. Write your Application as you’d want others to
+            write theirs.
+               o Only ask for the minimum data fields your application
+                 needs to work properly.
+               o Don’t try to exceed or circumvent your limitations on
+                 calls and use. This includes creating multiple
+                 applications for identical, or largely similar, usage
+                 (e.g. having one application per customer). If we believe
+                 that you have exceeded or circumvented our limitations,
+                 or if you have tried to, we may temporarily suspend or
+                 permanently block your access to the APIs, disable your
+                 developer account, or both.
+               o Don’t download, scrape, post, or transmit, in any form or
+                 by any means, any part of our Website or Content.
+               o Don’t copy, reformat, reverse-engineer, or otherwise
+                 modify the APIs, Access Credentials, our Website or any
+                 Content.
+               o Don’t interfere with or disrupt LinkedIn services or
+                 servers or networks connected to LinkedIn services, or
+                 disobey any requirements, procedures, policies or
+                 regulations of networks connected to LinkedIn services.
+         6. Treat Our Brand With Respect
+              1. Brand Features License.
+                 Subject to these Terms, including the Branding
+                 Guidelines, we grant you a limited, non-exclusive,
+                 non-assignable, non-sublicenseable, and non-transferable
+                 license during the Term to display our Brand Features to
+                 promote or advertise your integration of the APIs in your
+                 Application.
+              2. Restrictions.
+                 You must not:
+                   1. Display our Brand Features in any way that is
+                      misleading, defamatory, infringing, libelous,
+                      disparaging, obscene, or otherwise objectionable to
+                      LinkedIn in its sole discretion, or in a way that
+                      suggests we have created, sponsored, or endorsed
+                      your Application or its content;
+                   2. Remove any legal, copyright, trademark, watermark or
+                      other proprietary rights notices contained in or on
+                      materials you receive or access pursuant to these
+                      Terms, including the APIs, the materials posted at
+                      the Developer Site, and our Website; or
+                   3. Use the APIs or Brand Features for any illegal,
+                      unauthorized or otherwise improper purposes, or in
+                      any manner that would violate these Terms (or any
+                      document incorporated into the Terms), or breach any
+                      laws or regulations, or violate any rights of third
+                      parties, or expose LinkedIn or its members to legal
+                      liability in your use of the APIs.
+              3. Publicity by You.
+                 Subject to our Branding Guidelines, You may promote your
+                 Application, including talking to traditional and online
+                 media and your users about your Application, so long as
+                 you do so truthfully and without implying that your
+                 Application is created or endorsed by LinkedIn (or
+                 otherwise embellishing your relationship with LinkedIn).
+                 However, you may not issue any formal press release via
+                 traditional or online media referring to LinkedIn without
+                 LinkedIn’s prior consent, unless expressly allowed in the
+                 Branding Guidelines.
+              4. Publicity by Us.
+                 We may publicly refer to you, orally or in writing, as a
+                 licensee of the LinkedIn APIs. We may also publish your
+                 name and logo (with or without a link to your
+                 Application) on our Website, in press releases, and in
+                 promotional materials without your prior consent.
+         7. Follow The Law and These Terms
+            You must comply with all applicable laws, including, the
+            Digital Millennium Copyright Act and applicable export laws,
+            and these Terms, which may be amended from time to time with
+            or without advance notice, in order to use the LinkedIn APIs.
+            You and your Application must also comply with the following,
+            which are hereby incorporated by reference:
+              1. [26]The LinkedIn User Agreement
+              2. [27]The LinkedIn Privacy Policy
+              3. [28]The Platform Guidelines, which are located at the
+                 Developer Site and
+              4. [29]The Branding Guidelines
+            In the event of any conflict between the content in this
+            document and the above documents, this document controls your
+            use of the APIs. If you disagree with any of the provisions in
+            these Terms, do not click that you agree to them, and do not
+            access or use the APIs.
+            The most current version of these Terms can be reviewed on the
+            Developer Site. By using the LinkedIn APIs after changes are
+            made to the Terms, you agree to be bound by the most current
+            version. If you disagree with the Terms, or changes to the
+            Terms, you must discontinue your use of the APIs.
+            If we have entered into a separate, written API License
+            Agreement with you, the terms of that agreement will govern
+            your use of those APIs.
+    4. Safety and Abuse
+         1. Security Measures
+            Your network, operating system and the software of your web
+            servers, databases, and computer systems (collectively,
+            “Systems”) must be properly configured to securely operate
+            your Application. You must not architect or select Systems in
+            a manner to avoid the foregoing obligation. You must promptly
+            report any security deficiencies in or intrusions to your
+            Systems that you discover to LinkedIn in writing via email to
+            support@linkedin.com or subsequent contact information posted
+            in the Developer Site. You will work with LinkedIn to
+            immediately correct any security deficiency, and will
+            disconnect immediately any intrusions or intruder. In the
+            event of any security deficiency or intrusion involving the
+            Application, you will make no public statements (i.e. press,
+            blogs, bulletin boards, etc.) without prior written and
+            express permission from LinkedIn in each instance.
+         2. Monitoring
+            You agree to assist LinkedIn in verifying your compliance with
+            these Terms by providing information about your Application to
+            us, which may also include access to your Application and
+            other materials related to your use of the APIs. If you do not
+            demonstrate full compliance with this Agreement, we may
+            restrict or terminate your access to the APIs.
+    5. Other Legal Terms
+         1. Rights we reserve.
+              1. Support and Modifications.
+                 We may provide you with support or modifications for the
+                 APIs in our sole discretion. We may stop providing
+                 support or modifications to you at any time without
+                 notice or liability to you. We may release subsequent
+                 versions of the APIs and require that you use those
+                 subsequent versions. Your continued use of the APIs
+                 following a subsequent release will be deemed your
+                 acceptance of modifications.
+              2. Fees.
+                 The APIs are currently provided for free, but LinkedIn
+                 reserves the right to charge for the APIs in the future.
+                 If we do charge a fee for use of the APIs or any
+                 developer tools and features, you do not have any
+                 obligation to continue to use LinkedIn’s developer
+                 resources.
+              3. LinkedIn Independent Development.
+                 You understand and acknowledge that LinkedIn may be
+                 independently creating applications, content, and other
+                 products or services that may be similar to or
+                 competitive with your Application. Nothing in these Terms
+                 will be construed as restricting or preventing LinkedIn
+                 from creating and fully exploiting any applications,
+                 content, and other items, without any obligation to you.
+              4. Developer Exception to our Privacy Policy.
+                 LinkedIn may reveal personal information about developers
+                 for attribution purposes, handling inquiries from users
+                 or potential users, and other purposes LinkedIn
+                 reasonably deems necessary under these Terms. You
+                 understand and agree that LinkedIn may access, preserve,
+                 and disclose your personal information and your developer
+                 account details if required to do so by law or in a good
+                 faith belief that such access, preservation, or
+                 disclosure is reasonably necessary to comply with legal
+                 process or to protect the rights, property, or safety of
+                 LinkedIn, its affiliates or partners, its users, or the
+                 general public.
+         2. Proprietary Rights.
+              1. LinkedIn Property.
+                 As between you and us, we own all rights, title, and
+                 interest, including all intellectual property rights, in
+                 and to, the (a) APIs, and all elements, components, and
+                 executables of the APIs; (b) the Content available from
+                 the APIs; (c) our Website; and (d) our Brand Features
+                 (clauses (a)-(d) collectively, the “LinkedIn Materials”).
+                 Except for the express licenses granted in these Terms,
+                 LinkedIn does not grant you any right, title, or interest
+                 in the LinkedIn Materials. You agree to take such
+                 actions, including executing affidavits or other
+                 documents, as LinkedIn may reasonably request to effect,
+                 perfect, or confirm LinkedIn’s rights to the LinkedIn
+                 Materials.
+              2. Feedback.
+                 You have no obligation to give us any suggestions,
+                 comments or other feedback (“Feedback”) relating to the
+                 LinkedIn Materials. However, we may use and include any
+                 Feedback that you voluntarily provide to improve the
+                 LinkedIn Materials and/or any other of our products,
+                 services, or technologies. Accordingly, if you give
+                 Feedback, you agree that we may freely use, reproduce,
+                 license, and distribute such Feedback. You also agree not
+                 to provide Feedback that you know is subject to any
+                 intellectual property claim by a third party or any
+                 license terms that would require products or services
+                 derived from that Feedback to be licensed to or from, or
+                 shared with, any third party.
+              3. Application.
+                 You represent and warrant to LinkedIn that, excluding
+                 LinkedIn Materials, you have the right to use, reproduce,
+                 transmit, copy, publicly display, publicly perform, and
+                 distribute your Application, and that use by LinkedIn and
+                 its users of your Application will not violate the rights
+                 of any third party (e.g., copyright, patent, trademark,
+                 or other proprietary right of any person or entity), or
+                 any applicable regulation or law, including the laws of
+                 any country in which your Application is made available.
+                 Except to the extent your Application contains LinkedIn
+                 Materials, LinkedIn claims no ownership or control over
+                 your Application. During the term of these Terms you
+                 hereby grant to us a paid-up, royalty-free,
+                 non-exclusive, worldwide, irrevocable right and license,
+                 under all of your intellectual property rights, to: (a)
+                 use, perform, and display your Application and its
+                 content for purposes of marketing, demonstrating, and
+                 making your Application available to users; (b) link to
+                 and direct users to your Application; and (c) sublicense
+                 the foregoing rights to our affiliates. Following the
+                 termination of these Terms and upon written request from
+                 you, LinkedIn will make commercially reasonable efforts,
+                 as determined in its sole discretion, to remove all
+                 references and links to your Application from the
+                 LinkedIn Website and service. LinkedIn has no other
+                 obligation to delete copies of, references to, or links
+                 to your Application.
+         3. Term and Termination.
+              1. Term.
+                 The term of this agreement will commence on the date upon
+                 which you agree to these Terms and will continue until:
+                 you discontinue using our APIs, you close your Developer
+                 Account, or we terminate your access to the APIs, this
+                 agreement, or both.
+              2. Suspension; Termination.
+                 We may suspend or terminate your use of all or any of the
+                 APIs at any time if we believe you have violated these
+                 Terms or, if we believe the availability of the APIs in
+                 your Application is not in our or our members’ best
+                 interests. We may discontinue the availability of some or
+                 all of the APIs at any time for any reason. We may also
+                 impose limits on certain features and services or
+                 restrict your access to some or all of the APIs or our
+                 Website. All of our rights in these Terms may be
+                 exercised without prior notice or liability to you.
+              3. Effect of Termination
+                 Upon termination of the agreement between you and us
+                 under these Terms:
+                   1. all rights and licenses granted to you will
+                      terminate immediately;
+                   2. you will promptly destroy LinkedIn Confidential
+                      Information in your possession or control;
+                   3. neither party is liable to the other party just
+                      because the agreement has been terminated; and
+                   4. unless we agree otherwise in writing or as stated in
+                      these Terms, you must permanently delete all Content
+                      or other data which you stored pursuant to your use
+                      of the APIs. LinkedIn may request that you certify
+                      in writing your compliance with this section.
+              4. Survival.
+                 Sections III(A)(2), III(B), III(C), III(D), III(E),
+                 III(F)(2), and the following sub-sections in Section V
+                 will survive any termination of this agreement: A.3, A.4,
+                 B, C.4, D, E, F, G, H, I, and J.
+         4. WARRANTY DISCLAIMER.
+            While LinkedIn strives to have its APIs available
+            continuously, we cannot guarantee any up-time for any LinkedIn
+            developer resource, including the APIs.
+            THE LINKEDIN MATERIALS ARE PROVIDED “AS IS” WITH NO WARRANTY,
+            EXPRESS OR IMPLIED, OF ANY KIND AND WE EXPRESSLY DISCLAIM ANY
+            AND ALL WARRANTIES AND CONDITIONS, INCLUDING ANY IMPLIED
+            WARRANTY OR CONDITION OF MERCHANTABILITY, FITNESS FOR A
+            PARTICULAR PURPOSE, AVAILABILITY, SECURITY, TITLE, AND
+            NON-INFRINGEMENT. SOME OF THE LINKEDIN MATERIALS ARE
+            EXPERIMENTAL AND HAVE NOT BEEN TESTED IN ANY MANNER. WE DO NOT
+            REPRESENT, WARRANT OR MAKE ANY CONDITION THAT THE LINKEDIN
+            MATERIALS ARE FREE OF INACCURACIES, ERRORS, BUGS, OR
+            INTERRUPTIONS, OR ARE RELIABLE, ACCURATE, COMPLETE, OR
+            OTHERWISE VALID. YOUR USE OF THE LINKEDIN MATERIALS IS AT YOUR
+            OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE
+            FOR ANY DAMAGE THAT RESULTS FROM USE OF THE LINKEDIN MATERIALS
+            INCLUDING FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF
+            DATA. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN,
+            OBTAINED BY YOU FROM US OR THROUGH OR FROM OUR WEBSITE OR OUR
+            SERVICES WILL CREATE ANY WARRANTY OR CONDITION NOT EXPRESSLY
+            STATED IN THESE TERMS.
+         5. LIMITATION OF LIABILITY
+            YOU AGREE TO THE FOLLOWING LIMITATION OF LIABILITY TO THE
+            EXTENT PERMITTED BY APPLICABLE LAW: YOU EXPRESSLY UNDERSTAND
+            AND AGREE THAT LINKEDIN WILL NOT BE LIABLE TO YOU FOR ANY
+            DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+            EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS,
+            GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES (EVEN IF
+            LINKEDIN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES),
+            RESULTING FROM: (1) THE USE OR THE INABILITY TO USE THE
+            LINKEDIN MATERIALS; (2) THE COST OF PROCUREMENT OF SUBSTITUTE
+            GOODS AND SERVICES; (3) UNAUTHORIZED ACCESS TO OR ALTERATION
+            OF YOUR TRANSMISSIONS OR DATA; (4) STATEMENTS OR CONDUCT OF
+            ANY THIRD PARTY ON OR IN THE LINKEDIN MATERIALS OR ANY
+            LINKEDIN SERVICES; OR (5) ANY OTHER MATTER RELATING TO THE
+            LINKEDIN MATERIALS OR ANY LINKEDIN SERVICES. UNDER NO
+            CIRCUMSTANCES WILL LINKEDIN’S AGGREGATE, CUMULATIVE LIABILITY
+            TO YOU ARISING OUT OF OR IN CONNECTION WITH THESE TERMS, UNDER
+            ANY THEORY OF LIABILITY, EXCEED U.S. ONE HUNDRED DOLLARS (U.S.
+            $100).
+         6. INDEMNIFICATION
+            You agree to hold harmless and indemnify LinkedIn, and its
+            affiliates, and their respective directors, officers, agents,
+            employees, advertisers, and partners, from and against any
+            third party claim arising from or in any way related to your
+            use of any LinkedIn Materials, violation of these Terms, or
+            any other actions connected with your use of the APIs,
+            including any liability or expense arising from all claims,
+            losses, damages (actual and consequential), suits, judgments,
+            litigation costs and reasonable attorneys’ fees, of every kind
+            and nature.
+         7. GOVERNING LAW
+            These Terms will be governed by and construed in accordance
+            with the laws of the State of California as such laws apply to
+            contracts between California residents performed entirely
+            within California. Any action or proceeding arising out of or
+            relating to these Terms or your use of the APIs must be
+            brought in a federal court in the Northern District of
+            California or in state court in Santa Clara County, California
+            and each party irrevocably submits to the jurisdiction and
+            venue of any such court. In the event of litigation between
+            the parties arising out of or related to these Terms or your
+            use of the APIs, the prevailing party will be entitled to
+            recover its attorneys’ fees and costs incurred.
+         8. REMEDIES
+            You acknowledge that your breach of these Terms may cause
+            irreparable harm to LinkedIn, the extent of which would be
+            difficult to ascertain. Accordingly, you agree that, in
+            addition to any other remedies to which LinkedIn may be
+            legally entitled, LinkedIn will have the right to seek
+            immediate injunctive relief in the event of a breach of these
+            Terms by you or any of your officers, employees, consultants,
+            or other agents.
+         9. MISCELLANEOUS
+            The failure of LinkedIn to exercise or enforce any right or
+            provision of these Terms will not constitute a waiver of such
+            right or provision. If any provision of these Terms is found
+            by a court of competent jurisdiction to be invalid, the
+            parties agree that the court should endeavor to give effect to
+            the parties’ intentions as reflected in the provision, and the
+            other provisions of these Terms remain in full force and
+            effect. These Terms constitute the entire agreement between
+            LinkedIn and you with respect to the subject matter in this
+            document, and they supersede any and all prior proposals (oral
+            and written), understandings, representations and other
+            communications between you and us. Nothing in these Terms will
+            be construed as creating a partnership or joint venture of any
+            kind between the parties and neither party will have the
+            authority or power to bind the other party or to contract in
+            the name of or create a liability against the other party in
+            any way or for any purpose. You may not assign these Terms, in
+            whole or in part, without LinkedIn’s prior written consent.
+            Any assignment in violation of this section is null and void.
+            The section headings in these Terms are for convenience only
+            and have no legal or contractual effect.
+        10. DEFINITIONS
+            “Access Credentials” means the necessary security keys,
+            secrets, tokens, passwords, and other credentials to access
+            the APIs.
+            “APIs” means programmatic web APIs and associated tools and
+            documentation that LinkedIn provides.
+            “Application” means a software application, website, or
+            product you create or a service you offer.
+            “Brand Features” means any trade names, trademarks, service
+            marks, logos and domain names that LinkedIn makes available to
+            you.
+            “Content” means Profile Data and any other data or content
+            from the Website or accessed via the APIs.
+            “Developer Account” means an individual account created on the
+            Developer Site.
+            “Developer Site” means the LinkedIn Developer Network site at
+            developer.linkedin.com.
+            “Profile Data” means the name, photo, headline, contact
+            information, experience, education, summary, and location of a
+            LinkedIn member. Profile Data excludes connections, network
+            updates, jobs, groups, and companies.
+            “Terms” means the terms and conditions of this document,
+            including any documents incorporated by reference.
+            “Website” means LinkedIn’s website at www.linkedin.com and any
+            other website owned or operated by LinkedIn.
+
+   [30]‹ Branding Guidelines [31]LinkedIn Platform Guidelines ›
+
+Documentation
+
+     * [32]Authentication
+     * [33]Core Concepts
+     * [34]People
+     * [35]Groups
+     * [36]Companies
+     * [37]Jobs
+     * [38]Job Posting
+     * [39]Share and Social Stream
+     * [40]Communications
+     * [41]Ads
+     * [42]Libraries and Tools
+     * [43]LinkedIn Policies
+          + [44]Branding Guidelines
+          + [45]LinkedIn APIs Terms of Use
+          + [46]LinkedIn Platform Guidelines
+          + [47]Terms and Conditions for Download and Use of LinkedIn
+            Marks by LinkedIn Members
+          + [48]LinkedIn Certified Developer Program Terms and Promotions
+            Guidelines
+     * [49]Reference
+
+   LinkedIn Corporation © 2013 | [50]User Agreement | [51]Privacy Policy |
+   [52]Copyright Policy | [53]API Terms of Use | [54]Plugins Terms of Use
+   | [55]Platform Guidelines | [56]LinkedIn Engineering
+
+References
+
+   1. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+   2. http://developer.linkedin.com/linkedin-policies
+   3. http://developer.linkedin.com/documents/branding-guidelines
+   4. http://developer.linkedin.com/documents/linkedin-apis-terms-use#main-content
+   5. http://developer.linkedin.com/user/login
+   6. http://developer.linkedin.com/
+   7. http://developer.linkedin.com/
+   8. http://developer.linkedin.com/whydevelop
+   9. http://developer.linkedin.com/showcase/wordpress
+  10. http://developer.linkedin.com/apis
+  11. http://developer.linkedin.com/documents/authentication
+  12. http://developer.linkedin.com/rest
+  13. http://developer.linkedin.com/javascript
+  14. http://developer.linkedin.com/plugins
+  15. http://developer.linkedin.com/linkedin-policies
+  16. http://developer.linkedin.com/forums/rest
+  17. https://www.linkedin.com/secure/developer
+  18. http://developer.linkedin.com/documents/libraries-and-tools
+  19. http://developer.linkedin.com/documents/libraries-and-tools
+  20. http://developer.linkedin.com/forum
+  21. http://developer.linkedin.com/forums/plugins
+  22. http://developer.linkedin.com/forums/javascript
+  23. http://developer.linkedin.com/forums/rest
+  24. http://developer.linkedin.com/blog
+  25. https://developer.linkedin.com/partner-programs
+  26. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
+  27. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
+  28. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  29. https://developer.linkedin.com/documents/branding-guidelines
+  30. http://developer.linkedin.com/documents/branding-guidelines
+  31. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  32. http://developer.linkedin.com/documents/authentication
+  33. http://developer.linkedin.com/core-concepts
+  34. http://developer.linkedin.com/documents/people
+  35. http://developer.linkedin.com/documents/groups
+  36. http://developer.linkedin.com/documents/companies
+  37. http://developer.linkedin.com/documents/jobs
+  38. http://developer.linkedin.com/documents/job-posting
+  39. http://developer.linkedin.com/documents/share-and-social-stream
+  40. http://developer.linkedin.com/documents/communications
+  41. http://developer.linkedin.com/ads
+  42. http://developer.linkedin.com/documents/libraries-and-tools
+  43. http://developer.linkedin.com/linkedin-policies
+  44. http://developer.linkedin.com/documents/branding-guidelines
+  45. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  46. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  47. http://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
+  48. http://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
+  49. http://developer.linkedin.com/reference
+  50. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
+  51. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
+  52. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
+  53. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  54. http://developer.linkedin.com/linkedin-plugins-license-agreement
+  55. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  56. http://engineering.linkedin.com/
