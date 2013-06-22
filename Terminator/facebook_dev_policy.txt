@@ -428,15 +428,18 @@ XI. Ads API
        you must allow no more than 50 ad creations per day per customer,
        require phone or email verification for all new accounts, and
        prohibit affiliate networks from using your technology.
-    4. Pricing transparency: You must only charge fees for the use of your
-       tools and managed services, and must only do so on a fixed fee (per
-       campaign or period) or variable percentage of ad spend. You must
-       disclose to your clients the actual amount that you spent on
-       Facebook advertising based on the auction pricing, including the
-       actual Facebook metrics (e.g. CPC, CPM rate) and the amount you
-       charged as fees. We reserve the right to disclose this information
-       to your client upon their request. We may require documentation
-       from you to ensure your compliance with this policy.
+    4. Pricing transparency:
+       a. You must only charge fees for the use of your tools and managed
+       services, and must only do so on a fixed fee (per campaign or
+       period) or variable percentage of ad spend. You must disclose to
+       your clients the actual amount that you spent on Facebook
+       advertising based on the auction pricing, including the actual
+       Facebook metrics (e.g. CPC, CPM rate) and the amount you charged as
+       fees. We reserve the right to disclose this information to your
+       client upon their request. We may require documentation from you to
+       ensure your compliance with this policy.
+       b. You must not sell ads on a fixed CPM or CPC basis when using the
+       Facebook advertising auction without our prior permission.
     5. Data collection and use:
        a. You may place 1x1 pixel view tags on certain advertisements with
        our prior authorization.
@@ -529,7 +532,7 @@ Additional Languages
    [63]Português (Brasil)
 
    [64]Türkçe
-   Updated 4 hours ago
+   Updated 8 hours ago
 
    Facebook © 2013 · [65]English (US)
    [66]About[67]Advertising[68]Careers[69]Platform Policies[70]Privacy
