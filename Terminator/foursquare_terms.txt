@@ -708,8 +708,8 @@ You must enable JavaScript to use foursquare.com
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1371876930&am
-   p;u=-1&amp;sig=d67ra83QE4cV4H2C%2BVtoCF262eI%3D]
+   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1371963328&am
+   p;u=-1&amp;sig=68DK648JQ0WXtpBw7RpUTrDiwNc%3D]
 
 References
 
