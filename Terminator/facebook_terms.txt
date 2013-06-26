@@ -8,6 +8,8 @@
                         [4]Forgot your password?
    [5]Sign Up
 
+Statement of Rights and Responsibilities
+
    This agreement was written in English (US). To the extent any
    translated version of this agreement conflicts with the English
    version, the English version controls.  Please note that Section 17
@@ -589,7 +591,7 @@ References
   33. http://developers.facebook.com/policy/
   34. https://www.facebook.com/ad_guidelines.php
   35. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  36. http://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=RAQG3V8nG&s=1
+  36. http://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=QAQFzvsCl&s=1
   37. https://www.facebook.com/legal/copyright.php?howto_report
   38. https://www.facebook.com/terms_pages.php
   39. https://www.facebook.com/communitystandards
