@@ -351,8 +351,8 @@ IV. Application Integration Points
        is designed for communication between users, and not a channel for
        applications to communicate directly with users.
     6. [44]Requests: you may not offer a select all option or pre-select
-       multiple recipients to receive a Request (effective October 2,
-       2013).
+       multiple recipients to receive a Request (effective January 8,
+       2014).
 
 V. Enforcement
 
@@ -532,7 +532,7 @@ Additional Languages
    [63]Português (Brasil)
 
    [64]Türkçe
-   Updated on Friday
+   Updated 5 hours ago
 
    Facebook © 2013 · [65]English (US)
    [66]About[67]Advertising[68]Careers[69]Platform Policies[70]Privacy
