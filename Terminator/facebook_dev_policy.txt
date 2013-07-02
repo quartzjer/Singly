@@ -230,8 +230,10 @@ II. Data Collection and Use
        information that you independently collect from a user or a user's
        content without that user's consent.
        b. You must provide an opt-out to users where required.
-       c. You must not knowingly share information with us about children
-       under the age of 13.
+       c. You must not knowingly share information with us that you have
+       collected from children under the age of 13 unless you obtain
+       verifiable parental consent that covers Facebook's collection, use
+       and disclosure in compliance with applicable law.
        d. Web sites or services directed to children under 13: If you use
        Social Plugins or our JavaScript SDK for Facebook on sites and
        services that are directed to children under 13, you are
@@ -541,7 +543,7 @@ Additional Languages
    [64]Português (Brasil)
 
    [65]Türkçe
-   Updated on Friday
+   Updated 3 hours ago
 
    Facebook © 2013 · [66]English (US)
    [67]About[68]Advertising[69]Careers[70]Platform Policies[71]Privacy

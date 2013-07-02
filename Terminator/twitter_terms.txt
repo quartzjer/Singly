@@ -23,7 +23,7 @@ Developer Rules of the Road
      * [18]View
      * [19]What links here
 
-   Last Update: September 5, 2012.
+   Last Update: July 1, 2013.
 
 Rules of the Road
 
@@ -239,16 +239,23 @@ II. Principles
     5. Do not store Twitter passwords.
     6. Do not store non-public Twitter Content except at the explicit
        direction of a Twitter end user.
+    7. As a reminder, Twitter's services are not directed to persons under
+       13. If you operate a commercial website or online service that is
+       targeted to children, you must opt out of tailoring Twitter in any
+       [33]Twitter for Websites button, embedded Tweet, or embedded
+       timeline on your website or service. You must set the opt-out
+       parameter to be true, for example, as provided in the Tweet button
+       documentation [34]here.
 
 4. Be a good partner to Twitter
 
     1. If you display Tweets in an offline context, do so according to the
-       guidelines found [33]here.
+       guidelines found [35]here.
     2. Respect the features and functionality embedded with or included in
        Twitter Content or the Twitter API. Do not attempt to interfere
        with, intercept, disrupt, filter, or disable any features of the
        Twitter API or Twitter service, including the content of
-       [34]embedded Tweets and [35]embedded timelines.
+       [36]embedded Tweets and [37]embedded timelines.
     3. You should only surface activity that is organically displayed on
        Twitter.
           + For example, your Service should execute the unfavorite and
@@ -256,9 +263,9 @@ II. Principles
             Content, not by publicly displaying to other end users that
             the Tweet was unfavorited or deleted.
     4. If your application causes or induces user accounts to violate the
-       [36]Twitter Rules (for example, by retweeting spam updates,
+       [38]Twitter Rules (for example, by retweeting spam updates,
        repeatedly posting duplicate links, etc.), it may be suspended or
-       terminated. We've provided some guidance in our [37]Abuse
+       terminated. We've provided some guidance in our [39]Abuse
        Prevention and Security help page.
     5. Respect the intellectual property rights of others.
     6. Do not use the Twitter Verified Account badge, Verified Account
@@ -346,7 +353,7 @@ IV. Commercial Use
           + creating an advertisement that implies the sponsorship or
             endorsement on behalf of the user; or
           + using content in a manner that is inconsistent with the
-            [38]Display Requirements and would require the user’s
+            [40]Display Requirements and would require the user’s
             permission under applicable law, including without limitation
             uses of Twitter Content that features the name, likeness, or
             identifying persona of a person.
@@ -421,7 +428,7 @@ V. Other Legal Terms
 4. Updates.
 
    Twitter may update or modify the Twitter API, Rules, and other terms
-   and conditions, including the [39]Display Requirements, from time to
+   and conditions, including the [41]Display Requirements, from time to
    time at its sole discretion by posting the changes on this site or by
    otherwise notifying you (such notice may be via email). You acknowledge
    that these updates and modifications may adversely affect how your
@@ -516,15 +523,15 @@ V. Other Legal Terms
    the maximum extent permissible and the remaining provisions of this
    agreement will remain in full force and effect.
 
-   View the [40]API Terms of Service: Archive or [41]the most recent
+   View the [42]API Terms of Service: Archive or [43]the most recent
    changes.
-   [42]Follow @twitterapi
-     * [43]API Terms
-     * [44]API Status
-     * [45]Blog
-     * [46]Discussions
-     * [47]Documentation
-     * [48]A Drupal community site supported by Acquia
+   [44]Follow @twitterapi
+     * [45]API Terms
+     * [46]API Status
+     * [47]Blog
+     * [48]Discussions
+     * [49]Documentation
+     * [50]A Drupal community site supported by Acquia
 
 References
 
@@ -560,19 +567,21 @@ References
   30. http://support.twitter.com/articles/76915
   31. https://support.twitter.com/articles/20169453
   32. https://dev.twitter.com/pages/geo_dev_guidelines
-  33. http://support.twitter.com/articles/114233
-  34. https://dev.twitter.com/docs/embedded-tweets
-  35. https://dev.twitter.com/docs/embedded-timelines
-  36. http://support.twitter.com/articles/18311
-  37. http://support.twitter.com/articles/79901
-  38. https://dev.twitter.com/terms/display-requirements
-  39. https://dev.twitter.com/terms/display-requirements
-  40. https://dev.twitter.com/terms/api-terms/archive
-  41. https://dev.twitter.com/terms/api-terms/diff
-  42. http://twitter.com/twitterapi
-  43. https://dev.twitter.com/terms/api-terms
-  44. https://dev.twitter.com/status
-  45. https://dev.twitter.com/blog
-  46. https://dev.twitter.com/discussions
-  47. https://dev.twitter.com/docs
-  48. http://www.acquia.com/
+  33. https://dev.twitter.com/docs/twitter-for-websites
+  34. https://dev.twitter.com/docs/tweet-button#optout
+  35. http://support.twitter.com/articles/114233
+  36. https://dev.twitter.com/docs/embedded-tweets
+  37. https://dev.twitter.com/docs/embedded-timelines
+  38. http://support.twitter.com/articles/18311
+  39. http://support.twitter.com/articles/79901
+  40. https://dev.twitter.com/terms/display-requirements
+  41. https://dev.twitter.com/terms/display-requirements
+  42. https://dev.twitter.com/terms/api-terms/archive
+  43. https://dev.twitter.com/terms/api-terms/diff
+  44. http://twitter.com/twitterapi
+  45. https://dev.twitter.com/terms/api-terms
+  46. https://dev.twitter.com/status
+  47. https://dev.twitter.com/blog
+  48. https://dev.twitter.com/discussions
+  49. https://dev.twitter.com/docs
+  50. http://www.acquia.com/
