@@ -211,7 +211,7 @@ You must enable JavaScript to use foursquare.com
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=&amp
-   ;ts=1372827312&amp;u=-1&amp;sig=I87l%2B972ftHp5t5bEpFZ9%2FloVjI%3D]
+   ;ts=1372913712&amp;u=-1&amp;sig=i0OxbFtK05dTDQwnq%2FeyBHvaR9g%3D]
 
 References
 
