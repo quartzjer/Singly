@@ -2,9 +2,12 @@
    [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
    [11]alternate [12]alternate
 
-   [13]foursquare ____________________
-     * [14]Log in
-     * [15]Sign up
+   [13]Foursquare
+   ____________________
+   Monticello, IA______
+   (Submit) Search
+     * [14]Log In
+     * [15]Sign Up
 
    Last Updated: January 29, 2013
 
@@ -709,8 +712,8 @@ You must enable JavaScript to use foursquare.com
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1373259305&am
-   p;u=-1&amp;sig=JLH2ssWrmnuWTOui88T2UBOgGyo%3D]
+   [wtrack?event=pltp&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=1373345703&am
+   p;u=-1&amp;sig=oguZ0kFy3Fujf0QxxVS7hWtOLok%3D]
 
 References
 
