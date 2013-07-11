@@ -362,6 +362,8 @@ b. Application for a Commercial API Key.
    [72]Copyright/IP Policy
    Copyright © 2013 Yahoo! Inc. All rights reserved.
 
+   [nojs.gif?p=792600122:P050]
+
 References
 
    1. http://www.flickr.com/opensearch.xml
@@ -375,7 +377,7 @@ References
    9. http://groups.yahoo.com/
   10. http://answers.yahoo.com/
   11. http://www.flickr.com/
-  12. http://everything.yahoo.com/
+  12. javascript:void(0);
   13. http://omg.yahoo.com/
   14. http://shine.yahoo.com/
   15. http://movies.yahoo.com/
