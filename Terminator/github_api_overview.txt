@@ -2,9 +2,8 @@
 
    There isn't a GitHub Page here.
 
-   Are you trying to publish one? We'll send you an email when your page
-   has been built. It may take up to ten minutes until your page is
-   available.
+   Are you trying to publish one? It may take up to ten minutes until your
+   page is available.
 
    [1]Read the full documentation to learn how to set up GitHub Pages
    for your repository, organization, or user account.
@@ -13,7 +12,7 @@
 References
 
    Visible links
-   1. http://pages.github.com/
+   1. https://help.github.com/categories/20/articles
    2. https://github.com/contact
    3. https://status.github.com/
    4. https://twitter.com/githubstatus
