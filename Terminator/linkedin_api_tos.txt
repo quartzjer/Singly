@@ -35,6 +35,8 @@ Search form
 LinkedIn APIs Terms of Use
 
    Oct 22, 2009 — LIDeveloperAdmin
+
+   Last Revised Date: August 5, 2013
     1. Introduction
          1. Welcome to the LinkedIn Developer Program
             We’re excited that you’ve chosen to develop on the LinkedIn
@@ -89,7 +91,11 @@ LinkedIn APIs Terms of Use
                  Developers interested in these categories often apply to
                  one of the following Partner Programs: Social Media
                  Management, Ads, ATS, Job Postings, CRM, or our Certified
-                 Developer Program.
+                 Developer Program. Regardless whether your application is
+                 used for hiring, marketing, or sales, you may use the
+                 Company Share API to publish content to a company page
+                 subject to these Terms. Your use of any other APIs are
+                 still subject to the requirements in this Section I.C.
                o Applications that currently have or expect to have more
                  than 250,000 lifetime members using our APIs, make more
                  than 500,000 daily API calls, make more than 500,000
@@ -233,6 +239,37 @@ LinkedIn APIs Terms of Use
                  example, you may not sell access to an aggregated
                  collection of profiles or the most relevant people for a
                  position.
+              5. Company Profile and Analytics Data.
+                 If you use the Company Share API, you may store the
+                 Company Profile and Analytics Data for your own company,
+                 your employer’s company if your employer has authorized
+                 you to manage its company page, or for a client. If you
+                 store the Company Profile and Analytics Data for a client
+                 all of the following terms and conditions apply:
+                   1. For so long as your client is receiving LinkedIn
+                      Content through the integration of LinkedIn APIs in
+                      your Application, you may store the Company Profile
+                      and Analytics Data for that client. If that client
+                      ceases receiving Content through the integration of
+                      the Company Share API in your Application, you must
+                      permanently delete the applicable client’s Company
+                      Profile and Analytics Data no later than 10 days
+                      following that cessation date. Upon termination of
+                      these Terms for any reason, you must permanently
+                      delete all Company Profile and Analytics Data for
+                      all clients.
+                   2. You must notify your clients that you store the data
+                      described in subsection 5(a) above. You must use
+                      commercially reasonable security measures to protect
+                      the confidentiality of all stored data, which
+                      measures are at least as secure as those you use to
+                      protect your own confidential information. The
+                      stored data must not be transferred or provided to
+                      any third parties. You must not commingle the
+                      Company Profile and Analytics Data with any of your
+                      data or with data belonging to any third party.
+                      LinkedIn may require that you certify that you have
+                      deleted stored data.
          3. Delete Content When Asked
               1. Delete at User Request
                  You must delete all data collected with the user’s
@@ -242,7 +279,9 @@ LinkedIn APIs Terms of Use
                  with you. The restrictions of this Section III(C)(1) do
                  not apply to data that users provide directly to you and
                  that is separately entered or uploaded to you by the user
-                 of your Application.
+                 of your Application. You must delete all Company Profile
+                 and Analytics Data collected with your client's consent
+                 within 10 days of receiving a request from your client.
               2. Delete for Breach.
                  You must immediately delete all data if we terminate your
                  use of the APIs for breach of these Terms, except when
@@ -635,6 +674,13 @@ LinkedIn APIs Terms of Use
             “Brand Features” means any trade names, trademarks, service
             marks, logos and domain names that LinkedIn makes available to
             you.
+            “Company Profile and Analytics Data” means company page status
+            updates, analytics on company page status updates, company
+            follower analytics data, and text content of comments on
+            company status updates received via the Company Share API for
+            that client. Company Profile and Analytics Data excludes any
+            personal information tied to users who posted comments on any
+            company page.
             “Content” means Profile Data and any other data or content
             from the Website or accessed via the APIs.
             “Developer Account” means an individual account created on the
