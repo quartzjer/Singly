@@ -3,9 +3,9 @@
 
    [3]Facebook logo
    Email or Phone       Password
-   ____________________ ____________________    Log In
+   ____________________ ____________________ Log In
    [ ] Keep me logged in
-                        [4]Forgot your password?
+                        [4]Can't log in?
    [5]Sign Up
 
 Statement of Rights and Responsibilities
@@ -559,7 +559,7 @@ References
    1. https://www.facebook.com/legal/terms?_fb_noscript=1
    2. https://www.facebook.com/legal/terms
    3. https://www.facebook.com/
-   4. https://www.facebook.com/recover/initiate
+   4. https://www.facebook.com/recover/reason
    5. https://www.facebook.com/r.php?locale=en_US
    6. https://www.facebook.com/principles.php
    7. https://www.facebook.com/about/privacy/
@@ -591,7 +591,7 @@ References
   33. http://developers.facebook.com/policy/
   34. https://www.facebook.com/ad_guidelines.php
   35. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  36. http://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=bAQHSTocy&s=1
+  36. http://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=VAQGHqlzi&s=1
   37. https://www.facebook.com/legal/copyright.php?howto_report
   38. https://www.facebook.com/terms_pages.php
   39. https://www.facebook.com/communitystandards
