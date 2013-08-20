@@ -543,10 +543,12 @@ Additional Languages
    [64]Português (Brasil)
 
    [65]Türkçe
-   Updated on Thursday
 
-   Facebook © 2013 · [66]English (US)
-   [67]About[68]Advertising[69]Careers[70]Platform Policies[71]Privacy
+   [66]Tiếng Việt
+   Updated 9 hours ago
+
+   Facebook © 2013 · [67]English (US)
+   [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy
    Policy
 
 References
@@ -617,14 +619,15 @@ References
   63. http://developers.facebook.com/policy/Polski/
   64. http://developers.facebook.com/policy/Portugues/
   65. http://developers.facebook.com/policy/Turkce/
-  66. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  67. http://www.facebook.com/FacebookDevelopers
-  68. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
-  69. http://www.facebook.com/careers
-  70. http://developers.facebook.com/policy
-  71. http://www.facebook.com/policy.php
+  66. http://developers.facebook.com/policy/Vietnamese/
+  67. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  68. http://www.facebook.com/FacebookDevelopers
+  69. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  70. http://www.facebook.com/careers
+  71. http://developers.facebook.com/policy
+  72. http://www.facebook.com/policy.php
 
    Hidden links:
-  72. http://developers.facebook.com/policy/
-  73. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  74. http://developers.facebook.com/opensource/
+  73. http://developers.facebook.com/policy/
+  74. http://developers.facebook.com/docs/guides/policy/supplemental_materials
+  75. http://developers.facebook.com/opensource/
