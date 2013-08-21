@@ -26,7 +26,7 @@ Facebook Platform Policies
 
 Introduction
 
-   Date of Last Revision: June 28, 2013
+   Date of Last Revision: August 20, 2013
 
    Facebook Platform is an extension of Facebook, whose mission is to make
    the world more open and connected.
@@ -243,14 +243,17 @@ II. Data Collection and Use
        the United States, you must comply with the U.S. Children’s Online
        Privacy Protection Act. You must also adhere to our [33]usage
        notes.
-       e. We will use information we receive from you in accordance with
-       our [34]Data Use Policy, including to provide you with insights
-       about the effectiveness of your ads and the use of your app. We can
-       analyze your app, content, and data for any purpose, including
-       commercial (such as for targeting the delivery of ads on and off
-       Facebook and indexing content for search). You can limit your
-       sharing of information with us by updating the Insights section
-       within the Advanced tab in the App Dashboard.
+       e. We can analyze your app, content, and data (including data about
+       users' use of your app) for any purpose, including commercial (such
+       as for targeting the delivery of ads on and off Facebook and
+       indexing content for search) or to provide you with insights about
+       the effectiveness of your ads or the use of your app.
+       f. We can monitor your use of, or collect usage data related to,
+       SDKs (including unique identifiers, associated IP addresses,
+       version numbers, and which tools or services are being used and how
+       they are being used).
+       g. We will use information we receive from you in accordance with
+       our [34]Data Use Policy.
 
 III. Content
 
@@ -387,41 +390,21 @@ VI. Changes
    as we deem necessary. Your continued use of Platform constitutes
    acceptance of those changes.
 
-VII. Definitions
-
-    1. By "Application" we mean canvas page application, Platform
-       integration, or any other technical integration we have assigned an
-       application identification number.
-    2. By "Facebook social channel" we mean Application Info Section, Page
-       Tab, Feed, Requests (including invites), inbox attachments, Chat,
-       Cover, Bookmarks, or any other feature of a user profile or
-       Facebook communication channel in which or through which an
-       application can provide, display, or deliver content directed at,
-       on behalf of, or by permission of a user.
-    3. By “basic account information” we mean: name, email, gender,
-       birthday, current city, and profile picture URL.
-    4. By "Facebook Platform Terms and Policies" we mean the Statement of
-       Rights and Responsibilities and the Platform Policies.
-    5. By "User data you receive from Facebook" we mean any data or
-       content (including any images, text, or other information or
-       materials) you receive from us, that was provided by users to us,
-       or was associated by us with a particular user.
-
-VIII. Branding and Promotion Policy
+VII. Branding and Promotion Policy
 
     1. You must follow the guidelines set forth in the [46]Facebook Brand
        Resource and Permissions Center.
     2. Your app's description, display name and icons must adhere to our
        [47]Advertising Guidelines.
 
-IX. [48]Advertising Guidelines
+VIII. [48]Advertising Guidelines
 
-X. [49]Facebook Developer Payments Terms
+IX. [49]Facebook Developer Payments Terms
 
    Developers participating in the program for accepting payments are
    subject to [50]these terms.
 
-XI. Ads API
+X. Ads API
 
     1. Separate apps: You must use separate apps for your staging,
        self-service, managed service, and white-labeled apps. If you offer
@@ -508,6 +491,50 @@ XI. Ads API
    10. Enforcement: You must immediately revoke an end-advertiser's access
        to your app upon our request.
 
+XI. License
+
+    1. We give you a license to use the code, APIs, data, and tools you
+       receive from us for use with the Facebook Platform. Don't sell,
+       transfer, or sublicense our code, APIs, or tools to anyone without
+       our prior written permission. If they need a license, they should
+       get it from us.
+    2. Facebook SDKs:
+       a. Facebook and its licensors reserve all right, title and
+       interest, including all intellectual property and other proprietary
+       rights, in and to all SDKs.
+       b. Subject to your compliance with our Platform Policies, you may
+       use SDKs (or any components thereof) solely to develop and
+       distribute applications for use with the Facebook Platform, and you
+       may also distribute any code libraries or sample source code
+       included in the SDKs for inclusion in such applications. You will
+       not modify, translate, create derivative works of, or reverse
+       engineer any SDK (or any components thereof). Any SDKs you receive
+       from us are provided to you on an "as is" basis, without warranty
+       of any kind.
+
+VII. Definitions
+
+    1. By "Application" we mean canvas page application, Platform
+       integration, or any other technical integration we have assigned an
+       application identification number.
+    2. By "Facebook social channel" we mean Application Info Section, Page
+       Tab, Feed, Requests (including invites), inbox attachments, Chat,
+       Cover, Bookmarks, or any other feature of a user profile or
+       Facebook communication channel in which or through which an
+       application can provide, display, or deliver content directed at,
+       on behalf of, or by permission of a user.
+    3. By “basic account information” we mean: name, email, gender,
+       birthday, current city, and profile picture URL.
+    4. By "Facebook Platform Terms and Policies" we mean the Statement of
+       Rights and Responsibilities and the Platform Policies.
+    5. By "User data you receive from Facebook" we mean any data or
+       content (including any images, text, or other information or
+       materials) you receive from us, that was provided by users to us,
+       or was associated by us with a particular user.
+    6. By "SDK" we mean any object code library, sample source code, or
+       documentation you receive from us that helps you create
+       applications for use with the Facebook Platform.
+
 Examples and Explanations
 
    We want you to be successful on Facebook Platform, and we believe that
@@ -545,7 +572,7 @@ Additional Languages
    [65]Türkçe
 
    [66]Tiếng Việt
-   Updated 9 hours ago
+   Updated 3 hours ago
 
    Facebook © 2013 · [67]English (US)
    [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy
