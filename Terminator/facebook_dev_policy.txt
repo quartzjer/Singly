@@ -512,7 +512,7 @@ XI. License
        from us are provided to you on an "as is" basis, without warranty
        of any kind.
 
-VII. Definitions
+XII. Definitions
 
     1. By "Application" we mean canvas page application, Platform
        integration, or any other technical integration we have assigned an
@@ -572,7 +572,7 @@ Additional Languages
    [65]Türkçe
 
    [66]Tiếng Việt
-   Updated on Tuesday
+   Updated 9 hours ago
 
    Facebook © 2013 · [67]English (US)
    [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy
