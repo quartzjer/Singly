@@ -580,7 +580,7 @@ References
   40. https://dev.twitter.com/terms/display-requirements
   41. https://dev.twitter.com/terms/display-requirements
   42. https://dev.twitter.com/terms/api-terms/archive
-  43. https://dev.twitter.com/terms/api-terms/diff
+  43. https://dev.twitter.com/terms/api-terms/diff-20130702
   44. http://twitter.com/twitterapi
   45. https://dev.twitter.com/terms/api-terms
   46. https://dev.twitter.com/status

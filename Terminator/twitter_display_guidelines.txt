@@ -92,8 +92,8 @@ Individual Tweet
                  as the query.
               3. Links in Tweet text must be displayed using the
                  display_url field in the URL entities API response, and
-                 link to the original t.co url field.(See our [25]t.co
-                 best practices article for additional details).
+                 link to the original t.co url field. See our [25]t.co
+                 best practices article for additional details.
     3. Tweet Actions
          1. Reply, Retweet, and Favorite action icons must always be
             visible for the user to interact with the Tweet. These actions

@@ -219,7 +219,7 @@ II. Data Collection and Use
        delete data you receive from the Facebook API if you violate our
        terms.
    13. You will not include data you receive from us concerning a user in
-       any advertising creative, even if a user consents to such use.
+       any advertising creative, without explicit consent from that user.
    14. You must not give your secret key and access tokens to another
        party, unless that party is an agent acting on your behalf as an
        operator of your application. You are responsible for all
@@ -572,7 +572,7 @@ Additional Languages
    [65]Türkçe
 
    [66]Tiếng Việt
-   Updated on Friday
+   Updated 8 hours ago
 
    Facebook © 2013 · [67]English (US)
    [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy
