@@ -712,8 +712,8 @@ You must enable JavaScript to use foursquare.com
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=137852960
-   4&amp;u=-1&amp;sig=0gGzz4miQ3vvd90dqYkgKlqxDpA%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=137861600
+   4&amp;u=-1&amp;sig=maOu8T%2FdSLtAjmzr67iytev%2BfxM%3D]
 
 References
 
