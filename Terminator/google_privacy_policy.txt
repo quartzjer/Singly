@@ -378,7 +378,7 @@ References
   26. http://support.google.com/a/bin/answer.py?hl=en&answer=178897
   27. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info
   28. http://support.google.com/websearch/bin/answer.py?answer=173733&en
-  29. http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284
+  29. http://www.google.com/intl/en/landing/2step/
   30. http://www.google.com/chrome/intl/en/more/security.html
   31. http://www.google.com/intl/en/policies/privacy/frameworks/
   32. http://www.google.com/chrome/intl/en/privacy.html
