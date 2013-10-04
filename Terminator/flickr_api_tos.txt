@@ -361,9 +361,7 @@ b. Application for a Commercial API Key.
      * [70]Tiếng Việt
      * [71]Bahasa Indonesia
 
-   [72]Terms of Use | [73]Your privacy | [74]Yahoo! Safely |
-   [75]Copyright/IP Policy
-   Copyright © 2013 Yahoo! Inc. All rights reserved.
+   [72]Terms | [73]Privacy | [74]Yahoo Safely
 
 References
 
@@ -441,4 +439,3 @@ References
   72. http://www.flickr.com/help/terms/
   73. http://www.flickr.com/help/privacy-policy/
   74. http://safely.yahoo.com/
-  75. http://info.yahoo.com/legal/us/yahoo/copyright/en-us/
