@@ -719,10 +719,11 @@ Documentation
           + [47]LinkedIn Certified Developer Program Terms and Promotions
             Guidelines
      * [48]Reference
+     * [49]Integrating your OS X Mavericks Application with LinkedIn
 
-   LinkedIn Corporation © 2013 | [49]User Agreement | [50]Privacy Policy |
-   [51]Copyright Policy | [52]API Terms of Use | [53]Plugins Terms of Use
-   | [54]Platform Guidelines | [55]LinkedIn Engineering
+   LinkedIn Corporation © 2013 | [50]User Agreement | [51]Privacy Policy |
+   [52]Copyright Policy | [53]API Terms of Use | [54]Plugins Terms of Use
+   | [55]Platform Guidelines | [56]LinkedIn Engineering
 
 References
 
@@ -774,10 +775,11 @@ References
   46. http://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
   47. http://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
   48. http://developer.linkedin.com/reference
-  49. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
-  50. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
-  51. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
-  52. http://developer.linkedin.com/documents/linkedin-apis-terms-use
-  53. http://developer.linkedin.com/linkedin-plugins-license-agreement
-  54. http://developer.linkedin.com/documents/linkedin-platform-guidelines
-  55. http://engineering.linkedin.com/
+  49. http://developer.linkedin.com/documents/integrating-your-os-x-mavericks-application-linkedin
+  50. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
+  51. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
+  52. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
+  53. http://developer.linkedin.com/documents/linkedin-apis-terms-use
+  54. http://developer.linkedin.com/linkedin-plugins-license-agreement
+  55. http://developer.linkedin.com/documents/linkedin-platform-guidelines
+  56. http://engineering.linkedin.com/
