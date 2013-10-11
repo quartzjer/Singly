@@ -566,34 +566,34 @@ References
    8. https://www.facebook.com/settings/?tab=privacy
    9. https://www.facebook.com/settings/?tab=applications
   10. https://www.facebook.com/privacy/
-  11. https://www.facebook.com/editapps.php
+  11. https://www.facebook.com/settings/?tab=applications
   12. https://www.facebook.com/about/privacy/
   13. http://developers.facebook.com/docs/
-  14. https://www.facebook.com/promotions_guidelines.php
+  14. https://www.facebook.com/page_guidelines.php#promotionsguidelines
   15. https://www.facebook.com/legal/copyright.php?howto_report
-  16. https://www.facebook.com/termsofsale.php
+  16. https://www.facebook.com/payments_terms
   17. http://developers.facebook.com/policy/
   18. https://www.facebook.com/ad_guidelines.php
   19. http://www.facebook.com/developers/
   20. http://developers.facebook.com/policy/
   21. http://developers.facebook.com/policy/
   22. https://www.facebook.com/settings?tab=ads
-  23. https://www.facebook.com/termsofsale.php
+  23. https://www.facebook.com/payments_terms
   24. https://www.facebook.com/ad_guidelines.php
-  25. https://www.facebook.com/terms_pages.php
+  25. https://www.facebook.com/page_guidelines.php
   26. https://www.facebook.com/fbsitegovernance
   27. https://www.facebook.com/fbsitegovernance
   28. https://www.facebook.com/terms/provisions/german/index.php
   29. http://www.facebook.com/
   30. https://www.facebook.com/about/privacy/
-  31. https://www.facebook.com/termsofsale.php
+  31. https://www.facebook.com/payments_terms
   32. https://www.facebook.com/platform
   33. http://developers.facebook.com/policy/
   34. https://www.facebook.com/ad_guidelines.php
   35. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=EAQHgLZS9&s=1
+  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=1AQHpetgD&s=1
   37. https://www.facebook.com/legal/copyright.php?howto_report
-  38. https://www.facebook.com/terms_pages.php
+  38. https://www.facebook.com/page_guidelines.php
   39. https://www.facebook.com/communitystandards
   40. https://www.facebook.com/mobile/?ref=pf
   41. https://www.facebook.com/find-friends?ref=pf
