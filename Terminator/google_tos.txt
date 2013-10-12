@@ -8,11 +8,15 @@
     2. Terms of Service
 
      * Terms of Service
-     * [5]Archive
+     * [5]Updates
 
 Google Terms of Service
 
-   Last modified: March 1, 2012
+   This Terms of Service will be replaced by our [6]new Google Terms of
+   Service effective November 11, 2013. Please see our [7]summary of
+   changes for additional details.
+
+   Last modified: March 1, 2012 ([8]view archived versions)
 
 Welcome to Google!
 
@@ -70,11 +74,11 @@ Your Google Account
    your administrator may be able to access or disable your account.
 
    If you learn of any unauthorized use of your password or account,
-   [6]follow these instructions.
+   [9]follow these instructions.
 
 Privacy and Copyright Protection
 
-   Googleâ€™s [7]privacy policies explain how we treat your personal data
+   Googleâ€™s [10]privacy policies explain how we treat your personal data
    and protect your privacy when you use our Services. By using our
    Services, you agree that Google can use such data in accordance with
    our privacy policies.
@@ -87,7 +91,7 @@ Privacy and Copyright Protection
    intellectual property online. If you think somebody is violating your
    copyrights and want to notify us, you can find information about
    submitting notices and Googleâ€™s policy about responding to notices
-   [8]in our Help Center.
+   [11]in our Help Center.
 
 Your Content in our Services
 
@@ -231,33 +235,33 @@ About these Terms
    and Google consent to personal jurisdiction in those courts.
 
    For information about how to contact Google, please visit our
-   [9]contact page.
+   [12]contact page.
 
 Good to Know
 
      * Our Good to Know site helps you stay safe and protect your
-       familyâ€™s information online. [10]Visit to learn more
+       familyâ€™s information online. [13]Visit to learn more
 
 Our legal policies
 
-     * [11]Privacy Policy
+     * [14]Privacy Policy
      * Terms of Service
-     * [12]FAQ
+     * [15]FAQ
 
 Some technical details
 
-     * [13]Technologies and Principles
-     * [14]Advertising
-     * [15]How Google uses cookies
-     * [16]How Google uses pattern recognition
-     * [17]Types of location data used by Google
-     * [18]How Google Wallet uses credit card numbers
-     * [19]How Google Voice works
+     * [16]Technologies and Principles
+     * [17]Advertising
+     * [18]How Google uses cookies
+     * [19]How Google uses pattern recognition
+     * [20]Types of location data used by Google
+     * [21]How Google Wallet uses credit card numbers
+     * [22]How Google Voice works
 
    Change language: [English____________________________________________]
-     * [20]Google
-     * [21]About Google
-     * [22]Privacy & Terms
+     * [23]Google
+     * [24]About Google
+     * [25]Privacy & Terms
 
 References
 
@@ -266,20 +270,23 @@ References
    3. http://www.google.com/intl/en/policies/terms/#content
    4. http://www.google.com/intl/en/policies/
    5. http://www.google.com/intl/en/policies/terms/archive/
-   6. http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
-   7. http://www.google.com/intl/en/policies/privacy/
-   8. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
-   9. http://www.google.com/intl/en/contact/
-  10. http://www.google.com/intl/en/goodtoknow/
-  11. http://www.google.com/intl/en/policies/privacy/
-  12. http://www.google.com/intl/en/policies/faq/
-  13. http://www.google.com/intl/en/policies/technologies/
-  14. http://www.google.com/intl/en/policies/technologies/ads/
-  15. http://www.google.com/intl/en/policies/technologies/cookies/
-  16. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
-  17. http://www.google.com/intl/en/policies/technologies/location-data/
-  18. http://www.google.com/intl/en/policies/technologies/wallet/
-  19. http://www.google.com/intl/en/policies/technologies/voice/
-  20. http://www.google.com/
-  21. http://www.google.com/intl/en/about/
-  22. http://www.google.com/intl/en/policies/
+   6. http://www.google.com/intl/en/policies/terms/update/
+   7. http://www.google.com/intl/en/policies/terms/changes/
+   8. http://www.google.com/intl/en/policies/terms/archive/
+   9. http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
+  10. http://www.google.com/intl/en/policies/privacy/
+  11. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
+  12. http://www.google.com/intl/en/contact/
+  13. http://www.google.com/intl/en/goodtoknow/
+  14. http://www.google.com/intl/en/policies/privacy/
+  15. http://www.google.com/intl/en/policies/faq/
+  16. http://www.google.com/intl/en/policies/technologies/
+  17. http://www.google.com/intl/en/policies/technologies/ads/
+  18. http://www.google.com/intl/en/policies/technologies/cookies/
+  19. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
+  20. http://www.google.com/intl/en/policies/technologies/location-data/
+  21. http://www.google.com/intl/en/policies/technologies/wallet/
+  22. http://www.google.com/intl/en/policies/technologies/voice/
+  23. http://www.google.com/
+  24. http://www.google.com/intl/en/about/
+  25. http://www.google.com/intl/en/policies/
