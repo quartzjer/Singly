@@ -79,8 +79,7 @@ I. Features and Functionality
        please [17]contact us as you may be subject to additional terms:
        (>5M MAU) or (>100M API calls per day) or (>50M impressions per
        day).
-    6. Your website must offer an explicit "Log Out" option that also logs
-       the user out of Facebook.
+    6. Your app or website must offer an explicit "Log Out" option.
     7. Special provision for apps on Pages: When a user visits your Page,
        if they have not given explicit permission by authorizing your
        Facebook app or directly providing information to your Page, you
@@ -572,7 +571,7 @@ Additional Languages
    [65]Türkçe
 
    [66]Tiếng Việt
-   Updated about 2 months ago
+   Updated 6 hours ago
 
    Facebook © 2013 · [67]English (US)
    [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy
