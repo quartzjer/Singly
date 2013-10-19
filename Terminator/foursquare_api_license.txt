@@ -1,13 +1,13 @@
    #[1]foursquare [2]alternate [3]alternate [4]alternate [5]alternate
    [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate
+   [11]alternate [12]alternate [13]alternate
 
-   [13]Foursquare
+   [14]Foursquare
    ____________________
    Monticello, IA______
    (Submit) Search
-     * [14]Log In
-     * [15]Sign Up
+     * [15]Log In
+     * [16]Sign Up
 
    Updated: 04/21/11
 
@@ -21,7 +21,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
    1. GRANT OF LICENSE - Subject to your ("Licensee") full compliance with
    all of the terms and conditions of this API Agreement ("Agreement") and
-   the [16]Foursquare Platform Policy, Foursquare Labs, Inc.
+   the [17]Foursquare Platform Policy, Foursquare Labs, Inc.
    ("Foursquare") grants Licensee a non-exclusive, revocable,
    nonsublicensable, nontransferable license to download and use the
    Foursquare application program interface and other materials provided
@@ -197,51 +197,76 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [17]Download foursquare for your smart phone and start exploring the
+   [18]Download foursquare for your smart phone and start exploring the
    world around you!
-     * [18]About
-     * [19]Blog
-     * [20]Businesses
-     * [21]Cities
-     * [22]Developers
-     * [23]Help
-     * [24]Jobs
-     * [25]Cookies
-     * [26]Privacy (Updated)
-     * [27]Terms
+     * [19]About
+     * [20]Blog
+     * [21]Businesses
+     * [22]Cities
+     * [23]Developers
+     * [24]Help
+     * [25]Jobs
+     * [26]Cookies
+     * [27]Privacy (Updated)
+     * [28]Terms
      * English
+          + [29]English
+          + [30]Italiano
+          + [31]Deutsch
+          + [32]Español
+          + [33]Français
+          + [34]日本語
+          + [35]ภาษาไทย
+          + [36]한국어
+          + [37]Русский
+          + [38]Português
+          + [39]Bahasa Indonesia
+          + [40]Türkçe
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1382071936&amp;u=-1&amp;sig=M9Aqn5uidq4q4%2FmeCms3LZk7V8o%3D]
+   &amp;ts=1382158334&amp;u=-1&amp;sig=OX0kNM7agiZg%2BScx9xQxj41mTgw%3D]
 
 References
 
    1. https://ss0.4sqi.net/opensearch-f622d7e0319b8abfdcdd9a63812f71e6.xml
-   2. https://it.foursquare.com/legal/api/licenseagreement
-   3. https://de.foursquare.com/legal/api/licenseagreement
-   4. https://es.foursquare.com/legal/api/licenseagreement
-   5. https://fr.foursquare.com/legal/api/licenseagreement
-   6. https://ja.foursquare.com/legal/api/licenseagreement
-   7. https://th.foursquare.com/legal/api/licenseagreement
-   8. https://ko.foursquare.com/legal/api/licenseagreement
-   9. https://ru.foursquare.com/legal/api/licenseagreement
-  10. https://pt.foursquare.com/legal/api/licenseagreement
-  11. https://id.foursquare.com/legal/api/licenseagreement
-  12. https://tr.foursquare.com/legal/api/licenseagreement
-  13. https://foursquare.com/
-  14. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Flicenseagreement&clicked=true
-  15. https://foursquare.com/signup/
-  16. https://foursquare.com/legal/api/platformpolicy
-  17. https://foursquare.com/download
-  18. https://foursquare.com/about
-  19. http://blog.foursquare.com/
-  20. http://business.foursquare.com/
-  21. https://foursquare.com/cities
-  22. http://developer.foursquare.com/
-  23. http://foursquare.com/help
-  24. https://foursquare.com/jobs/
-  25. https://foursquare.com/legal/cookiepolicy
-  26. https://foursquare.com/legal/privacy
-  27. https://foursquare.com/legal/terms
+   2. https://foursquare.com/legal/api/licenseagreement
+   3. https://it.foursquare.com/legal/api/licenseagreement
+   4. https://de.foursquare.com/legal/api/licenseagreement
+   5. https://es.foursquare.com/legal/api/licenseagreement
+   6. https://fr.foursquare.com/legal/api/licenseagreement
+   7. https://ja.foursquare.com/legal/api/licenseagreement
+   8. https://th.foursquare.com/legal/api/licenseagreement
+   9. https://ko.foursquare.com/legal/api/licenseagreement
+  10. https://ru.foursquare.com/legal/api/licenseagreement
+  11. https://pt.foursquare.com/legal/api/licenseagreement
+  12. https://id.foursquare.com/legal/api/licenseagreement
+  13. https://tr.foursquare.com/legal/api/licenseagreement
+  14. https://foursquare.com/
+  15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Flicenseagreement&clicked=true
+  16. https://foursquare.com/signup/
+  17. https://foursquare.com/legal/api/platformpolicy
+  18. https://foursquare.com/download
+  19. https://foursquare.com/about
+  20. http://blog.foursquare.com/
+  21. http://business.foursquare.com/
+  22. https://foursquare.com/cities
+  23. http://developer.foursquare.com/
+  24. http://foursquare.com/help
+  25. https://foursquare.com/jobs/
+  26. https://foursquare.com/legal/cookiepolicy
+  27. https://foursquare.com/legal/privacy
+  28. https://foursquare.com/legal/terms
+  29. https://foursquare.com/legal/api/licenseagreement
+  30. https://it.foursquare.com/legal/api/licenseagreement
+  31. https://de.foursquare.com/legal/api/licenseagreement
+  32. https://es.foursquare.com/legal/api/licenseagreement
+  33. https://fr.foursquare.com/legal/api/licenseagreement
+  34. https://ja.foursquare.com/legal/api/licenseagreement
+  35. https://th.foursquare.com/legal/api/licenseagreement
+  36. https://ko.foursquare.com/legal/api/licenseagreement
+  37. https://ru.foursquare.com/legal/api/licenseagreement
+  38. https://pt.foursquare.com/legal/api/licenseagreement
+  39. https://id.foursquare.com/legal/api/licenseagreement
+  40. https://tr.foursquare.com/legal/api/licenseagreement

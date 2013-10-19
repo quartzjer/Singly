@@ -1,13 +1,13 @@
    #[1]foursquare [2]alternate [3]alternate [4]alternate [5]alternate
    [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
-   [11]alternate [12]alternate
+   [11]alternate [12]alternate [13]alternate
 
-   [13]Foursquare
+   [14]Foursquare
    ____________________
    Monticello, IA______
    (Submit) Search
-     * [14]Log In
-     * [15]Sign Up
+     * [15]Log In
+     * [16]Sign Up
 
    Last updated: 3/15/13
 
@@ -15,7 +15,7 @@ Foursquare API Platform Policy
 
    Users of the Foursquare Labs, Inc. ("Foursquare") application
    programming interface ("API") are required to comply with Foursquare's
-   [16]Terms of Use, [17]API License Agreement and the terms and
+   [17]Terms of Use, [18]API License Agreement and the terms and
    conditions of this Policy.
 
 I. General
@@ -103,7 +103,7 @@ III. Access/Use
           + Your application and/or website may not falsify the location
             of a user when communicating with Foursquare.
      * If you use any Foursquare location information, you must comply
-       with our location database platform [18]usage rules.
+       with our location database platform [19]usage rules.
      * Any information you submit, upload, post, create, or add to the
        Foursquare service through your use of the API (including, without
        limitation, the use by users of your application and/or website)
@@ -207,7 +207,7 @@ VI. Privacy Policy
                  received and how you use and disclose it;
                o you share user data with Foursquare, for use by
                  Foursquare for its own purposes; and
-               o the user may read the [19]Foursquare privacy policy
+               o the user may read the [20]Foursquare privacy policy
           + You must clearly and conspicuously present your privacy policy
             to each user at the point of application and/or download,
             installation, authorization or first-run, and you must also
@@ -231,7 +231,7 @@ VII. Trademarks
        "All of the Foursquare^® logos (including all badges) and
        trademarks displayed on this [application/service] are the property
        of Foursquare Labs, Inc.
-     * You must read and comply with the [20]Foursquare Trademark and
+     * You must read and comply with the [21]Foursquare Trademark and
        Brand Feature Guidelines.
 
 You must enable JavaScript to use foursquare.com
@@ -240,55 +240,80 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [21]Download foursquare for your smart phone and start exploring the
+   [22]Download foursquare for your smart phone and start exploring the
    world around you!
-     * [22]About
-     * [23]Blog
-     * [24]Businesses
-     * [25]Cities
-     * [26]Developers
-     * [27]Help
-     * [28]Jobs
-     * [29]Cookies
-     * [30]Privacy (Updated)
-     * [31]Terms
+     * [23]About
+     * [24]Blog
+     * [25]Businesses
+     * [26]Cities
+     * [27]Developers
+     * [28]Help
+     * [29]Jobs
+     * [30]Cookies
+     * [31]Privacy (Updated)
+     * [32]Terms
      * English
+          + [33]English
+          + [34]Italiano
+          + [35]Deutsch
+          + [36]Español
+          + [37]Français
+          + [38]日本語
+          + [39]ภาษาไทย
+          + [40]한국어
+          + [41]Русский
+          + [42]Português
+          + [43]Bahasa Indonesia
+          + [44]Türkçe
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1382071935&amp;u=-1&amp;sig=binB5xQHp61CYla18VxKSVBAUJs%3D]
+   mp;ts=1382158332&amp;u=-1&amp;sig=YSkvJaNJT%2B7hMQj7PQmNl4xgXeM%3D]
 
 References
 
    1. https://ss0.4sqi.net/opensearch-f622d7e0319b8abfdcdd9a63812f71e6.xml
-   2. https://it.foursquare.com/legal/api/platformpolicy
-   3. https://de.foursquare.com/legal/api/platformpolicy
-   4. https://es.foursquare.com/legal/api/platformpolicy
-   5. https://fr.foursquare.com/legal/api/platformpolicy
-   6. https://ja.foursquare.com/legal/api/platformpolicy
-   7. https://th.foursquare.com/legal/api/platformpolicy
-   8. https://ko.foursquare.com/legal/api/platformpolicy
-   9. https://ru.foursquare.com/legal/api/platformpolicy
-  10. https://pt.foursquare.com/legal/api/platformpolicy
-  11. https://id.foursquare.com/legal/api/platformpolicy
-  12. https://tr.foursquare.com/legal/api/platformpolicy
-  13. https://foursquare.com/
-  14. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Fplatformpolicy&clicked=true
-  15. https://foursquare.com/signup/
-  16. https://foursquare.com/legal/terms
-  17. https://foursquare.com/legal/api/licenseagreement
-  18. https://developer.foursquare.com/overview/venues
-  19. https://foursquare.com/legal/privacy
-  20. https://foursquare.com/legal/trademark
-  21. https://foursquare.com/download
-  22. https://foursquare.com/about
-  23. http://blog.foursquare.com/
-  24. http://business.foursquare.com/
-  25. https://foursquare.com/cities
-  26. http://developer.foursquare.com/
-  27. http://foursquare.com/help
-  28. https://foursquare.com/jobs/
-  29. https://foursquare.com/legal/cookiepolicy
-  30. https://foursquare.com/legal/privacy
-  31. https://foursquare.com/legal/terms
+   2. https://foursquare.com/legal/api/platformpolicy
+   3. https://it.foursquare.com/legal/api/platformpolicy
+   4. https://de.foursquare.com/legal/api/platformpolicy
+   5. https://es.foursquare.com/legal/api/platformpolicy
+   6. https://fr.foursquare.com/legal/api/platformpolicy
+   7. https://ja.foursquare.com/legal/api/platformpolicy
+   8. https://th.foursquare.com/legal/api/platformpolicy
+   9. https://ko.foursquare.com/legal/api/platformpolicy
+  10. https://ru.foursquare.com/legal/api/platformpolicy
+  11. https://pt.foursquare.com/legal/api/platformpolicy
+  12. https://id.foursquare.com/legal/api/platformpolicy
+  13. https://tr.foursquare.com/legal/api/platformpolicy
+  14. https://foursquare.com/
+  15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Fplatformpolicy&clicked=true
+  16. https://foursquare.com/signup/
+  17. https://foursquare.com/legal/terms
+  18. https://foursquare.com/legal/api/licenseagreement
+  19. https://developer.foursquare.com/overview/venues
+  20. https://foursquare.com/legal/privacy
+  21. https://foursquare.com/legal/trademark
+  22. https://foursquare.com/download
+  23. https://foursquare.com/about
+  24. http://blog.foursquare.com/
+  25. http://business.foursquare.com/
+  26. https://foursquare.com/cities
+  27. http://developer.foursquare.com/
+  28. http://foursquare.com/help
+  29. https://foursquare.com/jobs/
+  30. https://foursquare.com/legal/cookiepolicy
+  31. https://foursquare.com/legal/privacy
+  32. https://foursquare.com/legal/terms
+  33. https://foursquare.com/legal/api/platformpolicy
+  34. https://it.foursquare.com/legal/api/platformpolicy
+  35. https://de.foursquare.com/legal/api/platformpolicy
+  36. https://es.foursquare.com/legal/api/platformpolicy
+  37. https://fr.foursquare.com/legal/api/platformpolicy
+  38. https://ja.foursquare.com/legal/api/platformpolicy
+  39. https://th.foursquare.com/legal/api/platformpolicy
+  40. https://ko.foursquare.com/legal/api/platformpolicy
+  41. https://ru.foursquare.com/legal/api/platformpolicy
+  42. https://pt.foursquare.com/legal/api/platformpolicy
+  43. https://id.foursquare.com/legal/api/platformpolicy
+  44. https://tr.foursquare.com/legal/api/platformpolicy
