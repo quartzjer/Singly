@@ -360,7 +360,7 @@ References
    8. http://www.google.com/intl/en/policies/privacy/archive/
    9. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account
   10. http://www.google.com/intl/en/policies/privacy/key-terms/
-  11. http://support.google.com/bin/static.py?hl=en&ts=1291807&page=ts.cs
+  11. http://support.google.com/policies/troubleshooter/2990837?hl=en&rd=2
   12. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info
   13. http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783
   14. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id
