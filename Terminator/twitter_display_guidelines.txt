@@ -192,7 +192,7 @@ Linking to Twitter
               1. Link directly to the correct twitter.com URL e.g.,
                  [32]https://twitter.com/jack/statuses/20
               2. Use [33]Web Intents
-            However, for linking an avatar, name, and @username, hashtag,
+            However, for linking an avatar, name, @username, and hashtag,
             you may also choose to link to an internal representation
             within your application. However, this internal representation
             must have a link back to the core experience on twitter.com or
