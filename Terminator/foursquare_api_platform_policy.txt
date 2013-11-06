@@ -269,7 +269,7 @@ You must enable JavaScript to use foursquare.com
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1383630704&amp;u=-1&amp;sig=RNWe27GIfl0EmT46HJ0LqneIByw%3D]
+   mp;ts=1383717102&amp;u=-1&amp;sig=Ce6TC%2BcYBt11oDgr8HL%2B2U06AU0%3D]
 
 References
 

@@ -1,5 +1,5 @@
    REFRESH(0 sec):
-   [1]http://developers.facebook.com/policy/?_fb_noscript=1
+   [1]https://developers.facebook.com/policy/?_fb_noscript=1
    #[2]alternate
 
    [3]Facebook Developers
@@ -580,80 +580,80 @@ Additional Languages
 References
 
    Visible links
-   1. http://developers.facebook.com/policy/?_fb_noscript=1
-   2. http://developers.facebook.com/policy/
-   3. http://developers.facebook.com/
-   4. http://developers.facebook.com/docs/
-   5. http://developers.facebook.com/tools/
-   6. http://developers.facebook.com/support/
-   7. http://developers.facebook.com/blog/
+   1. https://developers.facebook.com/policy/?_fb_noscript=1
+   2. https://developers.facebook.com/policy/
+   3. https://developers.facebook.com/
+   4. https://developers.facebook.com/docs/
+   5. https://developers.facebook.com/tools/
+   6. https://developers.facebook.com/support/
+   7. https://developers.facebook.com/blog/
    8. https://developers.facebook.com/apps
-   9. https://www.facebook.com/login.php?next=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  10. http://developers.facebook.com/policy/credits
-  11. http://developers.facebook.com/policy/contact
-  12. http://developers.facebook.com/policy/#otherlanguages
+   9. https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
+  10. https://developers.facebook.com/policy/credits
+  11. https://developers.facebook.com/policy/contact
+  12. https://developers.facebook.com/policy/#otherlanguages
   13. https://www.facebook.com/terms.php
-  14. http://developers.facebook.com/policy/#principles
-  15. http://developers.facebook.com/policy/#policies
+  14. https://developers.facebook.com/policy/#principles
+  15. https://developers.facebook.com/policy/#policies
   16. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
   17. https://www.facebook.com/help/contact/?id=206103619499608
-  18. http://developers.facebook.com/docs/guides/canvas/
-  19. http://developers.facebook.com/docs/authentication/
-  20. http://developers.facebook.com/docs/plugins/
-  21. http://developers.facebook.com/docs/authentication/permissions/
-  22. http://developers.facebook.com/docs/publishing/
-  23. http://developers.facebook.com/docs/guides/canvas/
-  24. http://developers.facebook.com/docs/guides/canvas/
-  25. http://developers.facebook.com/docs/guides/canvas/#canvas/
-  26. http://developers.facebook.com/docs/guides/canvas/
-  27. http://developers.facebook.com/docs/guides/canvas/
-  28. http://developers.facebook.com/docs/guides/canvas/
-  29. http://developers.facebook.com/docs/guides/canvas/
-  30. http://developers.facebook.com/docs/guides/canvas/
-  31. http://developers.facebook.com/policy/#definitions
-  32. http://developers.facebook.com/docs/reference/api/user/
+  18. https://developers.facebook.com/docs/guides/canvas/
+  19. https://developers.facebook.com/docs/authentication/
+  20. https://developers.facebook.com/docs/plugins/
+  21. https://developers.facebook.com/docs/authentication/permissions/
+  22. https://developers.facebook.com/docs/publishing/
+  23. https://developers.facebook.com/docs/guides/canvas/
+  24. https://developers.facebook.com/docs/guides/canvas/
+  25. https://developers.facebook.com/docs/guides/canvas/#canvas/
+  26. https://developers.facebook.com/docs/guides/canvas/
+  27. https://developers.facebook.com/docs/guides/canvas/
+  28. https://developers.facebook.com/docs/guides/canvas/
+  29. https://developers.facebook.com/docs/guides/canvas/
+  30. https://developers.facebook.com/docs/guides/canvas/
+  31. https://developers.facebook.com/policy/#definitions
+  32. https://developers.facebook.com/docs/reference/api/user/
   33. https://developers.facebook.com/docs/plugins/restrictions/
   34. https://www.facebook.com/about/privacy/
   35. https://www.facebook.com/communitystandards
-  36. http://developers.facebook.com/docs/reference/api/application/#restrictions
-  37. http://developers.facebook.com/policy/#Facebook_social_channels
-  38. http://developers.facebook.com/adproviders/
-  39. http://developers.facebook.com/docs/guides/canvas/
+  36. https://developers.facebook.com/docs/reference/api/application/#restrictions
+  37. https://developers.facebook.com/policy/#Facebook_social_channels
+  38. https://developers.facebook.com/adproviders/
+  39. https://developers.facebook.com/docs/guides/canvas/
   40. https://www.facebook.com/page_guidelines.php#promotionsguidelines
   41. https://www.facebook.com/insights
-  42. http://developers.facebook.com/policy/#Facebook_social_channels
-  43. http://developers.facebook.com/docs/authentication/permissions/
-  44. http://developers.facebook.com/docs/plugins/
+  42. https://developers.facebook.com/policy/#Facebook_social_channels
+  43. https://developers.facebook.com/docs/authentication/permissions/
+  44. https://developers.facebook.com/docs/plugins/
   45. https://developers.facebook.com/docs/concepts/requests/
   46. https://www.facebook.com/brandpermissions/logos.php
   47. https://www.facebook.com/ad_guidelines.php
   48. https://www.facebook.com/ad_guidelines.php
-  49. http://developers.facebook.com/policy/credits
-  50. http://developers.facebook.com/policy/credits
+  49. https://developers.facebook.com/policy/credits
+  50. https://developers.facebook.com/policy/credits
   51. https://www.facebook.com/ads/manage/customaudiences/tos.php
-  52. http://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  53. http://developers.facebook.com/policy/Arabic/
-  54. http://developers.facebook.com/policy/ChineseHK/
-  55. http://developers.facebook.com/policy/ChineseTW/
-  56. http://developers.facebook.com/policy/Deutsch/
-  57. http://developers.facebook.com/policy/Espanol/
-  58. http://developers.facebook.com/policy/Francais/
-  59. http://developers.facebook.com/policy/Hebrew/
-  60. http://developers.facebook.com/policy/Italiano/
-  61. http://developers.facebook.com/policy/Japanese/
-  62. http://developers.facebook.com/policy/Korean/
-  63. http://developers.facebook.com/policy/Polski/
-  64. http://developers.facebook.com/policy/Portugues/
-  65. http://developers.facebook.com/policy/Turkce/
-  66. http://developers.facebook.com/policy/Vietnamese/
-  67. http://developers.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fdevelopers.facebook.com%2Fpolicy%2F
-  68. http://www.facebook.com/FacebookDevelopers
-  69. http://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
-  70. http://www.facebook.com/careers
-  71. http://developers.facebook.com/policy
-  72. http://www.facebook.com/policy.php
+  52. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  53. https://developers.facebook.com/policy/Arabic/
+  54. https://developers.facebook.com/policy/ChineseHK/
+  55. https://developers.facebook.com/policy/ChineseTW/
+  56. https://developers.facebook.com/policy/Deutsch/
+  57. https://developers.facebook.com/policy/Espanol/
+  58. https://developers.facebook.com/policy/Francais/
+  59. https://developers.facebook.com/policy/Hebrew/
+  60. https://developers.facebook.com/policy/Italiano/
+  61. https://developers.facebook.com/policy/Japanese/
+  62. https://developers.facebook.com/policy/Korean/
+  63. https://developers.facebook.com/policy/Polski/
+  64. https://developers.facebook.com/policy/Portugues/
+  65. https://developers.facebook.com/policy/Turkce/
+  66. https://developers.facebook.com/policy/Vietnamese/
+  67. https://developers.facebook.com/policy/
+  68. https://www.facebook.com/FacebookDevelopers
+  69. https://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  70. https://www.facebook.com/careers
+  71. https://developers.facebook.com/policy
+  72. https://www.facebook.com/policy.php
 
    Hidden links:
-  73. http://developers.facebook.com/policy/
-  74. http://developers.facebook.com/docs/guides/policy/supplemental_materials
-  75. http://developers.facebook.com/opensource/
+  73. https://developers.facebook.com/policy/
+  74. https://developers.facebook.com/docs/guides/policy/supplemental_materials
+  75. https://developers.facebook.com/opensource/
