@@ -226,7 +226,7 @@ You must enable JavaScript to use foursquare.com
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1384149095&amp;u=-1&amp;sig=FsQiL2wsVaum91gETZ58swnSFKU%3D]
+   &amp;ts=1384235495&amp;u=-1&amp;sig=0S2K2VfAaKeVnfjDfNka8eE7iVQ%3D]
 
 References
 
