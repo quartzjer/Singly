@@ -363,9 +363,6 @@ IV. Application Integration Points
     5. Facebook messaging (i.e., email sent to an @facebook.com address)
        is designed for communication between users, and not a channel for
        applications to communicate directly with users.
-    6. [45]Requests: you may not offer a select all option or pre-select
-       multiple recipients to receive a Request (effective January 8,
-       2014).
 
 V. Enforcement
 
@@ -391,17 +388,17 @@ VI. Changes
 
 VII. Branding and Promotion Policy
 
-    1. You must follow the guidelines set forth in the [46]Facebook Brand
+    1. You must follow the guidelines set forth in the [45]Facebook Brand
        Resource and Permissions Center.
     2. Your app's description, display name and icons must adhere to our
-       [47]Advertising Guidelines.
+       [46]Advertising Guidelines.
 
-VIII. [48]Advertising Guidelines
+VIII. [47]Advertising Guidelines
 
-IX. [49]Facebook Developer Payments Terms
+IX. [48]Facebook Developer Payments Terms
 
    Developers participating in the program for accepting payments are
-   subject to [50]these terms.
+   subject to [49]these terms.
 
 X. Ads API
 
@@ -471,7 +468,7 @@ X. Ads API
        Optimized CPM, and you must not default to a specific type (ex: you
        must not default to CPC and hide oCPM).
     9. Custom Audiences:
-       a. If you use custom audiences you must comply with the [51]Custom
+       a. If you use custom audiences you must comply with the [50]Custom
        Audience Terms.
        b. You may create a custom audience on a client's behalf but must
        only use the client's customer data to do so (ex: you must not
@@ -539,42 +536,42 @@ Examples and Explanations
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [52]examples and explanations will help you understand how to put
+   these [51]examples and explanations will help you understand how to put
    that into practice.
 
 Additional Languages
 
-   [53]العربية
+   [52]العربية
 
-   [54]中文(香港)
+   [53]中文(香港)
 
-   [55]中文(台灣)
+   [54]中文(台灣)
 
-   [56]Deutsch
+   [55]Deutsch
 
-   [57]Español
+   [56]Español
 
-   [58]Français
+   [57]Français
 
-   [59]עברית
+   [58]עברית
 
-   [60]Italiano
+   [59]Italiano
 
-   [61]日本語
+   [60]日本語
 
-   [62]한국어
+   [61]한국어
 
-   [63]Polski
+   [62]Polski
 
-   [64]Português (Brasil)
+   [63]Português (Brasil)
 
-   [65]Türkçe
+   [64]Türkçe
 
-   [66]Tiếng Việt
-   Updated last Wednesday
+   [65]Tiếng Việt
+   Updated 6 hours ago
 
-   Facebook © 2013 · [67]English (US)
-   [68]About[69]Advertising[70]Careers[71]Platform Policies[72]Privacy
+   Facebook © 2013 · [66]English (US)
+   [67]About[68]Advertising[69]Careers[70]Platform Policies[71]Privacy
    Policy
 
 References
@@ -624,36 +621,35 @@ References
   42. https://developers.facebook.com/policy/#Facebook_social_channels
   43. https://developers.facebook.com/docs/authentication/permissions/
   44. https://developers.facebook.com/docs/plugins/
-  45. https://developers.facebook.com/docs/concepts/requests/
-  46. https://www.facebook.com/brandpermissions/logos.php
+  45. https://www.facebook.com/brandpermissions/logos.php
+  46. https://www.facebook.com/ad_guidelines.php
   47. https://www.facebook.com/ad_guidelines.php
-  48. https://www.facebook.com/ad_guidelines.php
+  48. https://developers.facebook.com/policy/payments_terms/
   49. https://developers.facebook.com/policy/payments_terms/
-  50. https://developers.facebook.com/policy/payments_terms/
-  51. https://www.facebook.com/ads/manage/customaudiences/tos.php
-  52. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  53. https://developers.facebook.com/policy/Arabic/
-  54. https://developers.facebook.com/policy/ChineseHK/
-  55. https://developers.facebook.com/policy/ChineseTW/
-  56. https://developers.facebook.com/policy/Deutsch/
-  57. https://developers.facebook.com/policy/Espanol/
-  58. https://developers.facebook.com/policy/Francais/
-  59. https://developers.facebook.com/policy/Hebrew/
-  60. https://developers.facebook.com/policy/Italiano/
-  61. https://developers.facebook.com/policy/Japanese/
-  62. https://developers.facebook.com/policy/Korean/
-  63. https://developers.facebook.com/policy/Polski/
-  64. https://developers.facebook.com/policy/Portugues/
-  65. https://developers.facebook.com/policy/Turkce/
-  66. https://developers.facebook.com/policy/Vietnamese/
-  67. https://developers.facebook.com/policy/
-  68. https://www.facebook.com/FacebookDevelopers
-  69. https://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
-  70. https://www.facebook.com/careers
-  71. https://developers.facebook.com/policy
-  72. https://www.facebook.com/policy.php
+  50. https://www.facebook.com/ads/manage/customaudiences/tos.php
+  51. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  52. https://developers.facebook.com/policy/Arabic/
+  53. https://developers.facebook.com/policy/ChineseHK/
+  54. https://developers.facebook.com/policy/ChineseTW/
+  55. https://developers.facebook.com/policy/Deutsch/
+  56. https://developers.facebook.com/policy/Espanol/
+  57. https://developers.facebook.com/policy/Francais/
+  58. https://developers.facebook.com/policy/Hebrew/
+  59. https://developers.facebook.com/policy/Italiano/
+  60. https://developers.facebook.com/policy/Japanese/
+  61. https://developers.facebook.com/policy/Korean/
+  62. https://developers.facebook.com/policy/Polski/
+  63. https://developers.facebook.com/policy/Portugues/
+  64. https://developers.facebook.com/policy/Turkce/
+  65. https://developers.facebook.com/policy/Vietnamese/
+  66. https://developers.facebook.com/policy/
+  67. https://www.facebook.com/FacebookDevelopers
+  68. https://www.facebook.com/campaign/landing.php?placement=pf_dev&campaign_id=402047449186&extra_1=auto
+  69. https://www.facebook.com/careers
+  70. https://developers.facebook.com/policy
+  71. https://www.facebook.com/policy.php
 
    Hidden links:
-  73. https://developers.facebook.com/policy/
-  74. https://developers.facebook.com/docs/guides/policy/supplemental_materials
-  75. https://developers.facebook.com/opensource/
+  72. https://developers.facebook.com/policy/
+  73. https://developers.facebook.com/docs/guides/policy/supplemental_materials
+  74. https://developers.facebook.com/opensource/
