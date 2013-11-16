@@ -16,7 +16,7 @@ Statement of Rights and Responsibilities
    contains certain changes to the general terms for users outside the
    United States.
 
-   Date of Last Revision: December 11, 2012.
+   Date of Last Revision: November 15, 2013.
    Statement of Rights and Responsibilities
    This Statement of Rights and Responsibilities ("Statement," "Terms," or
    "SRR") derives from the [6]Facebook Principles, and is our terms of
@@ -171,7 +171,7 @@ Statement of Rights and Responsibilities
     6. Mobile and Other Devices
          1. We currently provide our mobile services for free, but please
             be aware that your carrier's normal rates and fees, such as
-            text messaging fees, will still apply.
+            text messaging and data charges, will still apply.
          2. In the event you change or deactivate your mobile telephone
             number, you will update your account information on Facebook
             within 48 hours to ensure that your messages are not sent to
@@ -283,15 +283,18 @@ Statement of Rights and Responsibilities
 
    10. About Advertisements and Other Commercial Content Served or
        Enhanced by Facebook
-       Our goal is to deliver ads and commercial content that are valuable
-       to our users and advertisers. In order to help us do that, you
-       agree to the following:
-         1. You can use your [22]privacy settings to limit how your name
-            and profile picture may be associated with commercial,
+       Our goal is to deliver advertising and other commercial or
+       sponsored content that is valuable to our users and advertisers. In
+       order to help us do that, you agree to the following:
+         1. You give us permission to use your name, profile picture,
+            content, and information in connection with commercial,
             sponsored, or related content (such as a brand you like)
-            served or enhanced by us. You give us permission to use your
-            name and profile picture in connection with that content,
-            subject to the limits you place.
+            served or enhanced by us. This means, for example, that you
+            permit a business or other entity to pay us to display your
+            name and/or profile picture with your content or information,
+            without any compensation to you. If you have selected a
+            specific audience for your content or information, we will
+            respect your choice when we use it.
          2. We do not give your content or information to advertisers
             without your consent.
          3. You understand that we may not always identify paid services
@@ -313,9 +316,9 @@ Statement of Rights and Responsibilities
             effectiveness of your advertising campaign, we may broaden the
             targeting criteria you specify.
          3. You will pay for your Orders in accordance with our
-            [23]Payments Terms. The amount you owe will be calculated
+            [22]Payments Terms. The amount you owe will be calculated
             based on our tracking mechanisms.
-         4. Your ads will comply with our [24]Advertising Guidelines.
+         4. Your ads will comply with our [23]Advertising Guidelines.
          5. We will determine the size, placement, and positioning of your
             ads.
          6. We do not guarantee the activity that your ads will receive,
@@ -348,25 +351,25 @@ Statement of Rights and Responsibilities
 
    12. Special Provisions Applicable to Pages
        If you create or administer a Page on Facebook, or run a promotion
-       or an offer from your Page, you agree to our [25]Pages Terms.
+       or an offer from your Page, you agree to our [24]Pages Terms.
 
    13. Special Provisions Applicable to Software
-         1. If you download our software, such as a stand-alone software
-            product or a browser plugin, you agree that from time to time,
-            the software may download upgrades, updates and additional
-            features from us in order to improve, enhance and further
-            develop the software.
-         2. You will not modify, create derivative works of, decompile or
+         1. If you download or use our software, such as a stand-alone
+            software product, an app, or a browser plugin, you agree that
+            from time to time, the software may download and install
+            upgrades, updates and additional features from us in order to
+            improve, enhance, and further develop the software.
+         2. You will not modify, create derivative works of, decompile, or
             otherwise attempt to extract source code from us, unless you
-            are expressly permitted to do so under an open source license
+            are expressly permitted to do so under an open source license,
             or we give you express written permission.
    14. Amendments
          1. Unless we make a change for legal or administrative reasons,
             or to correct an inaccurate statement, we will provide you
             with seven (7) days notice (for example, by posting the change
-            on the [26]Facebook Site Governance Page) and an opportunity
+            on the [25]Facebook Site Governance Page) and an opportunity
             to comment on changes to this Statement.  You can also visit
-            our [27]Facebook Site Governance Page and "like" the Page to
+            our [26]Facebook Site Governance Page and "like" the Page to
             get updates about changes to this Statement.
          2. If we make changes to policies referenced in or incorporated
             by this Statement, we may provide notice on the Site
@@ -388,13 +391,13 @@ Statement of Rights and Responsibilities
    16. Disputes
          1. You will resolve any claim, cause of action or dispute (claim)
             you have with us arising out of or relating to this Statement
-            or Facebook exclusively in a state or federal court located in
-            Santa Clara County. The laws of the State of California will
-            govern this Statement, as well as any claim that might arise
-            between you and us, without regard to conflict of law
-            provisions. You agree to submit to the personal jurisdiction
-            of the courts located in Santa Clara County, California for
-            the purpose of litigating all such claims.
+            or Facebook exclusively in the U.S. District Court for the
+            Northern District of California or a state court located in
+            San Mateo County, and you agree to submit to the personal
+            jurisdiction of such courts for the purpose of litigating all
+            such claims. The laws of the State of California will govern
+            this Statement, as well as any claim that might arise between
+            you and us, without regard to conflict of law provisions.
          2. If anyone brings a claim against us related to your actions,
             content or information on Facebook, you will indemnify and
             hold us harmless from and against all damages, losses, and
@@ -449,13 +452,16 @@ Statement of Rights and Responsibilities
             States, or are on the U.S. Treasury Department's list of
             Specially Designated Nationals you will not engage in
             commercial activities on Facebook (such as advertising or
-            payments) or operate a Platform application or website.
+            payments) or operate a Platform application or website. You
+            will not use Facebook if you are prohibited from receiving
+            products, services, or software originating from the United
+            States.
          3. Certain specific terms that apply only for German users are
-            available [28]here.
+            available [27]here.
    18. Definitions
          1. By "Facebook" we mean the features and services we make
             available, including through (a) our website at
-            [29]www.facebook.com and any other Facebook branded or
+            [28]www.facebook.com and any other Facebook branded or
             co-branded websites (including sub-domains, international
             versions, widgets, and mobile versions); (b) our Platform; (c)
             social plugins such as the Like button, the Share button and
@@ -478,7 +484,7 @@ Statement of Rights and Responsibilities
             through Platform.
          6. By "post" we mean post on Facebook or otherwise make available
             by using Facebook.
-         7. By "use" we mean use, copy, publicly perform or display,
+         7. By "use" we mean use, run, copy, publicly perform or display,
             distribute, modify, translate, and create derivative works of.
          8. By "active registered user" we mean a user who has logged into
             Facebook at least once in the previous 30 days.
@@ -520,26 +526,26 @@ Statement of Rights and Responsibilities
 
    You may also want to review the following documents, which provide
    additional information about your use of Facebook:
-     * [30]Data Use Policy: The Data Use Policy contains information to
+     * [29]Data Use Policy: The Data Use Policy contains information to
        help you understand how we collect and use information.
-     * [31]Payment Terms: These additional terms apply to all payments
+     * [30]Payment Terms: These additional terms apply to all payments
        made on or through Facebook.
-     * [32]Platform Page: This page helps you better understand what
+     * [31]Platform Page: This page helps you better understand what
        happens when you add a third-party application or use Facebook
        Connect, including how they may access and use your data.
-     * [33]Facebook Platform Policies: These guidelines outline the
+     * [32]Facebook Platform Policies: These guidelines outline the
        policies that apply to applications, including Connect sites.
-     * [34]Advertising Guidelines: These guidelines outline the policies
+     * [33]Advertising Guidelines: These guidelines outline the policies
        that apply to advertisements placed on Facebook.
-     * [35]Promotions Guidelines: These guidelines outline the policies
+     * [34]Promotions Guidelines: These guidelines outline the policies
        that apply if you offer contests, sweepstakes, and other types of
        promotions on Facebook.
-     * [36]Facebook Brand Resources: These guidelines outline the policies
+     * [35]Facebook Brand Resources: These guidelines outline the policies
        that apply to use of Facebook trademarks, logos and screenshots.
-     * [37]How to Report Claims of Intellectual Property Infringement
-     * [38]Pages Terms: These guidelines apply to your use of Facebook
+     * [36]How to Report Claims of Intellectual Property Infringement
+     * [37]Pages Terms: These guidelines apply to your use of Facebook
        Pages.
-     * [39]Community Standards: These guidelines outline our expectations
+     * [38]Community Standards: These guidelines outline our expectations
        regarding the content you post to Facebook and your activity on
        Facebook.
 
@@ -548,11 +554,11 @@ Statement of Rights and Responsibilities
    session by clicking on the language link in the left corner of most
    pages.  If the Statement is not available in the language you select,
    we will default to the English version.
-   [40]Mobile [41]Find Friends [42]Badges [43]People [44]Pages [45]Places
-   [46]Apps [47]Games [48]Music
-   [49]About [50]Create Ad [51]Create Page [52]Developers [53]Careers
-   [54]Privacy [55]Cookies [56]Terms [57]Help
-   Facebook © 2013 · [58]English (US)
+   [39]Mobile [40]Find Friends [41]Badges [42]People [43]Pages [44]Places
+   [45]Apps [46]Games [47]Music
+   [48]About [49]Create Ad [50]Create Page [51]Developers [52]Careers
+   [53]Privacy [54]Cookies [55]Terms [56]Help
+   Facebook © 2013 · [57]English (US)
 
 References
 
@@ -577,40 +583,39 @@ References
   19. http://www.facebook.com/developers/
   20. http://developers.facebook.com/policy/
   21. http://developers.facebook.com/policy/
-  22. https://www.facebook.com/settings?tab=ads
-  23. https://www.facebook.com/payments_terms
-  24. https://www.facebook.com/ad_guidelines.php
-  25. https://www.facebook.com/page_guidelines.php
+  22. https://www.facebook.com/payments_terms
+  23. https://www.facebook.com/ad_guidelines.php
+  24. https://www.facebook.com/page_guidelines.php
+  25. https://www.facebook.com/fbsitegovernance
   26. https://www.facebook.com/fbsitegovernance
-  27. https://www.facebook.com/fbsitegovernance
-  28. https://www.facebook.com/terms/provisions/german/index.php
-  29. http://www.facebook.com/
-  30. https://www.facebook.com/about/privacy/
-  31. https://www.facebook.com/payments_terms
-  32. https://www.facebook.com/platform
-  33. http://developers.facebook.com/policy/
-  34. https://www.facebook.com/ad_guidelines.php
-  35. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=pAQE-ZIye&s=1
-  37. https://www.facebook.com/legal/copyright.php?howto_report
-  38. https://www.facebook.com/page_guidelines.php
-  39. https://www.facebook.com/communitystandards
-  40. https://www.facebook.com/mobile/?ref=pf
-  41. https://www.facebook.com/find-friends?ref=pf
-  42. https://www.facebook.com/badges/?ref=pf
-  43. https://www.facebook.com/directory/people/
-  44. https://www.facebook.com/directory/pages/
-  45. https://www.facebook.com/directory/places/
-  46. https://www.facebook.com/appcenter/?ref=pf
-  47. https://www.facebook.com/appcenter/category/games/?ref=pf
-  48. https://www.facebook.com/appcenter/category/music/?ref=pf
-  49. https://www.facebook.com/facebook
-  50. https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
-  51. https://www.facebook.com/pages/create/?ref_type=sitefooter
-  52. https://developers.facebook.com/?ref=pf
-  53. https://www.facebook.com/careers/?ref=pf
-  54. https://www.facebook.com/privacy/explanation
-  55. https://www.facebook.com/help/cookies/?ref=sitefooter
-  56. https://www.facebook.com/policies/?ref=pf
-  57. https://www.facebook.com/help/?ref=pf
-  58. https://www.facebook.com/legal/terms
+  27. https://www.facebook.com/terms/provisions/german/index.php
+  28. http://www.facebook.com/
+  29. https://www.facebook.com/about/privacy/
+  30. https://www.facebook.com/payments_terms
+  31. https://www.facebook.com/platform
+  32. http://developers.facebook.com/policy/
+  33. https://www.facebook.com/ad_guidelines.php
+  34. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  35. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=WAQFnbJxQ&s=1
+  36. https://www.facebook.com/legal/copyright.php?howto_report
+  37. https://www.facebook.com/page_guidelines.php
+  38. https://www.facebook.com/communitystandards
+  39. https://www.facebook.com/mobile/?ref=pf
+  40. https://www.facebook.com/find-friends?ref=pf
+  41. https://www.facebook.com/badges/?ref=pf
+  42. https://www.facebook.com/directory/people/
+  43. https://www.facebook.com/directory/pages/
+  44. https://www.facebook.com/directory/places/
+  45. https://www.facebook.com/appcenter/?ref=pf
+  46. https://www.facebook.com/appcenter/category/games/?ref=pf
+  47. https://www.facebook.com/appcenter/category/music/?ref=pf
+  48. https://www.facebook.com/facebook
+  49. https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+  50. https://www.facebook.com/pages/create/?ref_type=sitefooter
+  51. https://developers.facebook.com/?ref=pf
+  52. https://www.facebook.com/careers/?ref=pf
+  53. https://www.facebook.com/privacy/explanation
+  54. https://www.facebook.com/help/cookies/?ref=sitefooter
+  55. https://www.facebook.com/policies/?ref=pf
+  56. https://www.facebook.com/help/?ref=pf
+  57. https://www.facebook.com/legal/terms
