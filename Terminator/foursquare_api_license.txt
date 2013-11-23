@@ -206,7 +206,7 @@ You must enable JavaScript to use foursquare.com
      * [23]Developers
      * [24]Help
      * [25]Jobs
-     * [26]Cookies
+     * [26]Cookies (Updated)
      * [27]Privacy (Updated)
      * [28]Terms
      * English
@@ -226,7 +226,7 @@ You must enable JavaScript to use foursquare.com
    Foursquare © 2013 Lovingly made in NYC & SF
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1385099476&amp;u=-1&amp;sig=rtd8vrh2mQ3lA3EoBWBjfAPueDc%3D]
+   &amp;ts=1385185876&amp;u=-1&amp;sig=Od%2BAAld%2BFq4I5ATwRU4KCktNCXY%3D]
 
 References
 

@@ -568,7 +568,7 @@ Additional Languages
    [64]Türkçe
 
    [65]Tiếng Việt
-   Updated about a week ago
+   Updated 10 hours ago
 
    Facebook © 2013 · [66]English (US)
    [67]About[68]Advertising[69]Careers[70]Platform Policies[71]Privacy
@@ -589,7 +589,7 @@ References
   10. https://developers.facebook.com/policy/payments_terms/
   11. https://developers.facebook.com/policy/contact
   12. https://developers.facebook.com/policy/#otherlanguages
-  13. https://www.facebook.com/terms.php
+  13. https://www.facebook.com/legal/terms
   14. https://developers.facebook.com/policy/#principles
   15. https://developers.facebook.com/policy/#policies
   16. https://developers.facebook.com/docs/guides/policy/examples_and_explanations

@@ -1,7 +1,6 @@
    BodyMedia
    ____________________ Search
      * [1]Sign In
-     * [2]Register
 
    BODYMEDIA, INC. ("BodyMedia") API TERMS OF USE ("Terms of Use")
 
@@ -9,8 +8,8 @@
    application programming interface made available by BodyMedia ("API"),
    and the data transmitted from BodyMedia through the API ("Content").
    These Terms of Use also incorporate by reference the terms and
-   conditions of BodyMedia's [3]Display, Branding and Attribution
-   Policy, [4]Data Use Policy, and the [5]BodyMedia Website Terms and
+   conditions of BodyMedia's [2]Display, Branding and Attribution
+   Policy, [3]Data Use Policy, and the [4]BodyMedia Website Terms and
    Conditions, (and any amendments thereto) (collectively, "API
    Agreement"):
 
@@ -59,7 +58,7 @@
    License Keys and to disable and/or modify any License Key being
    utilized in violation of these Terms of Use.
 
-   3. License. Subject to the terms set forth in the [6]Display, Branding
+   3. License. Subject to the terms set forth in the [5]Display, Branding
    and Attribution Policy and elsewhere in the API Agreement, BodyMedia
    hereby grants you a non-exclusive, revocable, non-sub-licensable,
    non-transferable license to (i) access and use the API to post data
@@ -238,36 +237,33 @@
 
    14. Survival. Sections 2, 4, 5, 6, 7, 8, 9, 12,13 and 14 will survive
    any expiration or termination of this API Agreement for any reason.
-     * [7]About
-     * [8]Documentation
-     * [9]Gallery
-     * [10]Forums
+     * [6]About
+     * [7]Documentation
+     * [8]Forums
 
-   [11]Learn more about BodyMedia [12]Display Branding and Attribution
-   Policy [13]Data Use Policy [14]API Terms of Use
+   [9]Learn more about BodyMedia [10]Display Branding and Attribution
+   Policy [11]Data Use Policy [12]API Terms of Use
 
    © 2013 BodyMedia, Inc.
 
    Follow us:
-   [15]Twitter [16]Facebook
+   [13]Twitter [14]Facebook
 
    Quantcast
 
 References
 
    1. https://developer.bodymedia.com/login/login?r=https%3A%2F%2Fdeveloper.bodymedia.com%2Fapps%2Ftos&h=182b7bee7b8da375c267c750d818aff6
-   2. https://developer.bodymedia.com/member/register
-   3. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
-   4. https://developer.bodymedia.com/Data_Use_Policy
-   5. http://www.bodymedia.com/Support-Help/Policies/Terms-and-Conditions
-   6. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
-   7. https://developer.bodymedia.com/page
-   8. https://developer.bodymedia.com/docs
-   9. https://developer.bodymedia.com/BodyMediaGallery
-  10. https://developer.bodymedia.com/forum
-  11. http://www.bodymedia.com/
-  12. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
-  13. https://developer.bodymedia.com/Data_Use_Policy
-  14. https://developer.bodymedia.com/API_Terms_of_Use
-  15. http://twitter.com/#!/bodymediaAPI
-  16. http://www.facebook.com/BodyMediaFIT
+   2. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
+   3. https://developer.bodymedia.com/Data_Use_Policy
+   4. http://www.bodymedia.com/Support-Help/Policies/Terms-and-Conditions
+   5. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
+   6. https://developer.bodymedia.com/page
+   7. https://developer.bodymedia.com/docs
+   8. https://developer.bodymedia.com/forum
+   9. http://www.bodymedia.com/
+  10. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
+  11. https://developer.bodymedia.com/Data_Use_Policy
+  12. https://developer.bodymedia.com/API_Terms_of_Use
+  13. http://twitter.com/#!/bodymediaAPI
+  14. http://www.facebook.com/BodyMediaFIT

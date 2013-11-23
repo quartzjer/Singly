@@ -705,7 +705,7 @@ You must enable JavaScript to use foursquare.com
      * [36]Developers
      * [37]Help
      * [38]Jobs
-     * [39]Cookies
+     * [39]Cookies (Updated)
      * [40]Privacy (Updated)
      * [41]Terms
      * English
@@ -724,8 +724,8 @@ You must enable JavaScript to use foursquare.com
 
    Foursquare © 2013 Lovingly made in NYC & SF
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=138509947
-   5&amp;u=-1&amp;sig=FYC2ppxqiQrmZrkQSQCg4%2Bh2iZE%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=138518587
+   5&amp;u=-1&amp;sig=xppt8a7zigfn3PsG3oCiN5VEq1w%3D]
 
 References
 
