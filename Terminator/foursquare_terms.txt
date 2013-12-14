@@ -689,6 +689,31 @@ Contact.
    Floor, New York, NY 10012.
 
    Effective Date: January 29, 2013
+     * [31]About
+     * [32]Blog
+     * [33]Businesses
+     * [34]Cities
+     * [35]Developers
+     * [36]Help
+     * [37]Jobs
+     * [38]Cookies (Updated)
+     * [39]Privacy (Updated)
+     * [40]Terms
+     * English
+          + [41]English
+          + [42]Italiano
+          + [43]Deutsch
+          + [44]Español
+          + [45]Français
+          + [46]日本語
+          + [47]ภาษาไทย
+          + [48]한국어
+          + [49]Русский
+          + [50]Português
+          + [51]Bahasa Indonesia
+          + [52]Türkçe
+
+   Foursquare © 2013 Lovingly made in NYC & SF
 
 You must enable JavaScript to use foursquare.com
 
@@ -696,40 +721,53 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [31]Download foursquare for your smart phone and start exploring the
+   [53]Download Foursquare for your smart phone and start exploring the
    world around you!
-     * [32]About
-     * [33]Blog
-     * [34]Businesses
-     * [35]Cities
-     * [36]Developers
-     * [37]Help
-     * [38]Jobs
-     * [39]Cookies (Updated)
-     * [40]Privacy (Updated)
-     * [41]Terms
-     * English
-          + [42]English
-          + [43]Italiano
-          + [44]Deutsch
-          + [45]Español
-          + [46]Français
-          + [47]日本語
-          + [48]ภาษาไทย
-          + [49]한국어
-          + [50]Русский
-          + [51]Português
-          + [52]Bahasa Indonesia
-          + [53]Türkçe
+     * Cities:
+     * [54]Atlanta
+     * [55]Austin
+     * [56]Boston
+     * [57]Chicago
+     * [58]Dallas
+     * [59]Denver
+     * [60]Houston
+     * [61]Las Vegas
+     * [62]Los Angeles
+     * [63]New York
+     * [64]Philadelphia
+     * [65]Portland
+     * [66]San Diego
+     * [67]San Francisco
+     * [68]Seattle
+     * [69]Washington, D.C.
 
-   Foursquare © 2013 Lovingly made in NYC & SF
+     * Countries:
+     * [70]Belgium
+     * [71]Brazil
+     * [72]Canada
+     * [73]Chile
+     * [74]Finland
+     * [75]France
+     * [76]Germany
+     * [77]Great Britain
+     * [78]Hungary
+     * [79]Indonesia
+     * [80]Japan
+     * [81]Mexico
+     * [82]Netherlands
+     * [83]Philippines
+     * [84]Russia
+     * [85]Singapore
+     * [86]Spain
+     * [87]Thailand
+     * [88]Turkey
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=138691384
-   0&amp;u=-1&amp;sig=NVfv0LaMk2SM6KTk%2BSFidhp3xXo%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=138700023
+   7&amp;u=-1&amp;sig=A1NzHlPymwHxJI0SXSn%2Fmi4E%2Boo%3D]
 
 References
 
-   1. https://ss0.4sqi.net/opensearch-f622d7e0319b8abfdcdd9a63812f71e6.xml
+   1. https://foursquare.com/opensearch.xml
    2. https://foursquare.com/legal/terms
    3. https://it.foursquare.com/legal/terms
    4. https://de.foursquare.com/legal/terms
@@ -759,26 +797,61 @@ References
   28. https://foursquare.com/legal/venueterms
   29. https://foursquare.com/legal/api/platformpolicy
   30. https://foursquare.com/legal/api/licenseagreement
-  31. https://foursquare.com/download
-  32. https://foursquare.com/about
-  33. http://blog.foursquare.com/
-  34. http://business.foursquare.com/
-  35. https://foursquare.com/cities
-  36. http://developer.foursquare.com/
-  37. http://foursquare.com/help
-  38. https://foursquare.com/jobs/
-  39. https://foursquare.com/legal/cookiepolicy
-  40. https://foursquare.com/legal/privacy
+  31. https://foursquare.com/about
+  32. http://blog.foursquare.com/
+  33. http://business.foursquare.com/
+  34. https://foursquare.com/cities
+  35. http://developer.foursquare.com/
+  36. http://foursquare.com/help
+  37. https://foursquare.com/jobs/
+  38. https://foursquare.com/legal/cookiepolicy
+  39. https://foursquare.com/legal/privacy
+  40. https://foursquare.com/legal/terms
   41. https://foursquare.com/legal/terms
-  42. https://foursquare.com/legal/terms
-  43. https://it.foursquare.com/legal/terms
-  44. https://de.foursquare.com/legal/terms
-  45. https://es.foursquare.com/legal/terms
-  46. https://fr.foursquare.com/legal/terms
-  47. https://ja.foursquare.com/legal/terms
-  48. https://th.foursquare.com/legal/terms
-  49. https://ko.foursquare.com/legal/terms
-  50. https://ru.foursquare.com/legal/terms
-  51. https://pt.foursquare.com/legal/terms
-  52. https://id.foursquare.com/legal/terms
-  53. https://tr.foursquare.com/legal/terms
+  42. https://it.foursquare.com/legal/terms
+  43. https://de.foursquare.com/legal/terms
+  44. https://es.foursquare.com/legal/terms
+  45. https://fr.foursquare.com/legal/terms
+  46. https://ja.foursquare.com/legal/terms
+  47. https://th.foursquare.com/legal/terms
+  48. https://ko.foursquare.com/legal/terms
+  49. https://ru.foursquare.com/legal/terms
+  50. https://pt.foursquare.com/legal/terms
+  51. https://id.foursquare.com/legal/terms
+  52. https://tr.foursquare.com/legal/terms
+  53. https://foursquare.com/download
+  54. https://foursquare.com/cities/atlanta-georgia
+  55. https://foursquare.com/cities/austin-texas
+  56. https://foursquare.com/cities/boston-massachusetts
+  57. https://foursquare.com/cities/chicago-illinois
+  58. https://foursquare.com/cities/dallas-texas
+  59. https://foursquare.com/cities/denver-colorado
+  60. https://foursquare.com/cities/houston-texas
+  61. https://foursquare.com/cities/las-vegas-nevada
+  62. https://foursquare.com/cities/los-angeles-california
+  63. https://foursquare.com/cities/new-york-city-new-york
+  64. https://foursquare.com/cities/philadelphia-pennsylvania
+  65. https://foursquare.com/cities/portland-oregon
+  66. https://foursquare.com/cities/san-diego-california
+  67. https://foursquare.com/cities/san-francisco-california
+  68. https://foursquare.com/cities/seattle-washington
+  69. https://foursquare.com/cities/washington-dc
+  70. https://foursquare.com/cities/brussels-belgium
+  71. https://foursquare.com/cities/sao-paulo
+  72. https://foursquare.com/cities/toronto
+  73. https://foursquare.com/cities/santiago
+  74. https://foursquare.com/cities/helsinki-finland
+  75. https://foursquare.com/cities/paris
+  76. https://foursquare.com/cities/berlin
+  77. https://foursquare.com/cities/london
+  78. https://foursquare.com/cities/budapest-hungary
+  79. https://foursquare.com/cities/jakarta
+  80. https://foursquare.com/cities/tokyo
+  81. https://foursquare.com/cities/mexico-city
+  82. https://foursquare.com/cities/amsterdam-netherlands
+  83. https://foursquare.com/cities/manila
+  84. https://foursquare.com/cities/moscow
+  85. https://foursquare.com/cities/singapore
+  86. https://foursquare.com/cities/barcelona-spain
+  87. https://foursquare.com/cities/bangkok
+  88. https://foursquare.com/cities/istanbul
