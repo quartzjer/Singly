@@ -378,7 +378,7 @@ References
   11. http://screen.yahoo.com/
   12. http://www.flickr.com/
   13. http://mobile.yahoo.com/
-  14. javascript:void(0);
+  14. http://www.flickr.com/services/api/tos
   15. http://omg.yahoo.com/
   16. http://shine.yahoo.com/
   17. http://movies.yahoo.com/
