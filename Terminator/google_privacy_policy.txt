@@ -14,7 +14,7 @@
 
 Privacy Policy
 
-   Last modified: June 24, 2013 ([8]view archived versions)
+   Last modified: December 20, 2013 ([8]view archived versions)
 
    There are many different ways you can use our services â€“ to search
    for and share information, to communicate with other people or to
@@ -36,7 +36,7 @@ Privacy Policy
    browsers, then read about these [10]key terms first. Your privacy
    matters to Google so whether you are new to Google or a long-time user,
    please do take the time to get to know our practices â€“ and if you
-   have any questions [11]contact us.
+   have any questions [11]consult this page.
 
 Information we collect
 
@@ -158,9 +158,10 @@ Transparency and choice
    about how it is used. For example, you can:
      * [20]Review and control certain types of information tied to your
        Google Account by using Google Dashboard.
-     * [21]View and edit your ads preferences, such as which categories
-       might interest you, using Ads Settings. You can also opt out of
-       certain Google advertising services here.
+     * [21]View and edit your preferences about the ads shown to you on
+       Google and across the web, such as which categories might interest
+       you, using Ads Settings. You can also opt out of certain Google
+       advertising services here.
      * [22]Use our editor to see and adjust how your Google Profile
        appears to particular individuals.
      * [23]Control who you share information with.
@@ -192,7 +193,7 @@ Accessing and updating your personal information
    disproportionate technical effort (for example, developing a new system
    or fundamentally changing an existing practice), risk the privacy of
    others, or would be extremely impractical (for instance, requests
-   concerning information residing on backup tapes).
+   concerning information residing on backup systems).
 
    Where we can provide information access and correction, we will do so
    for free, except where it would require a disproportionate effort. We
@@ -206,7 +207,7 @@ Information we share
 
    We do not share personal information with companies, organizations and
    individuals outside of Google unless one of the following circumstances
-   apply:
+   applies:
      * With your consent
        We will share personal information with companies, organizations or
        individuals outside of Google when we have your consent to do so.
