@@ -713,7 +713,7 @@ Contact.
           + [51]Bahasa Indonesia
           + [52]Türkçe
 
-   Foursquare © 2013 Lovingly made in NYC & SF
+   Foursquare © 2014 Lovingly made in NYC & SF
 
 You must enable JavaScript to use foursquare.com
 
@@ -762,8 +762,8 @@ You must enable JavaScript to use foursquare.com
      * [87]Thailand
      * [88]Turkey
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=138864180
-   3&amp;u=-1&amp;sig=H6jlSUKzLYpuStgd7gsq4vTt3%2F4%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=138872820
+   3&amp;u=-1&amp;sig=0WKQNlFdlJbSBWj8X7HtXiB3T1I%3D]
 
 References
 

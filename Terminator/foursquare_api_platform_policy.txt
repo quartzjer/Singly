@@ -258,7 +258,7 @@ VII. Trademarks
           + [42]Bahasa Indonesia
           + [43]Türkçe
 
-   Foursquare © 2013 Lovingly made in NYC & SF
+   Foursquare © 2014 Lovingly made in NYC & SF
 
 You must enable JavaScript to use foursquare.com
 
@@ -308,7 +308,7 @@ You must enable JavaScript to use foursquare.com
      * [79]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1388641803&amp;u=-1&amp;sig=XmJQQbh5o0%2FboqiKMPTeK0WDomI%3D]
+   mp;ts=1388728203&amp;u=-1&amp;sig=A6C1bIMAsqFmrbJ9DkBsPrPjPL8%3D]
 
 References
 
