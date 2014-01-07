@@ -13,7 +13,7 @@
      * [12]Flickr
      * [13]Mobile
      * [14]More
-          + [15]omg!
+          + [15]Celebrity
           + [16]Shine
           + [17]Movies
           + [18]Music
@@ -379,7 +379,7 @@ References
   12. http://www.flickr.com/
   13. http://mobile.yahoo.com/
   14. http://www.flickr.com/services/api/tos
-  15. http://omg.yahoo.com/
+  15. http://celebrity.yahoo.com/
   16. http://shine.yahoo.com/
   17. http://movies.yahoo.com/
   18. http://music.yahoo.com/
