@@ -518,7 +518,7 @@ Services
 
      * [29]Mobile Apps
      * [30]Premium Reports
-     * [31]App Gallery & Partners
+     * [31]App Gallery and Partners
      * [32]Developer APIs
 
 Explore
@@ -534,8 +534,8 @@ Explore
 Help
 
      * [40]Fitbit Online Help
-     * [41]Returns & Warranty
-     * [42]Setup & Downloads
+     * [41]Returns and Warranty
+     * [42]Setup and Downloads
      * [43]Supported Syncing Devices
 
 Device Help
