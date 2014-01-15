@@ -1,6 +1,6 @@
    [1]Skip to Main Content Area
-     * January 13, 2014 [2]api.twitter.com will require SSL/TLS for all
-       connections beginning January 14th, 2014. | Read more →
+     * January 14, 2014 [2]api.twitter.com now requires SSL/TLS for all
+       connections as of today, January 14th, 2014. | Read more →
 
    [3]Developers
      * [4]API Health
