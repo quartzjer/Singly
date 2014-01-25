@@ -9,7 +9,7 @@
      * [15]Log In
      * [16]Sign Up
 
-   Updated: 04/21/11
+   Updated: 01/23/14
 
 FOURSQUARE LABS, INC. API LICENSE AGREEMENT
 
@@ -27,7 +27,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    Foursquare application program interface and other materials provided
    by Foursquare (collectively, "API") to develop, reproduce, display and
    distribute applications, websites and/or services (collectively
-   “Applications”) that interoperate with Foursquare’s foursquare^®
+   "Applications") that interoperate with Foursquare's Foursquare^®
    service, Foursquare.com or any other web property owned by Foursquare
    (collectively "Foursquare Service"). Licensee may not install or use
    the API for any other purpose without Foursquare's prior written
@@ -82,7 +82,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    developer.foursquare.com. You shall be responsible for reviewing and
    becoming familiar with any such modification. Such modifications are
    effective upon first posting or notification and use of the Foursquare
-   API by Licensee following any such notification constitutes Licensee’s
+   API by Licensee following any such notification constitutes Licensee's
    acceptance of the terms and conditions of this Agreement as modified.
 
    5. WARRANTY DISCLAIMER - THE API IS PROVIDED "AS IS" WITHOUT WARRANTY
@@ -133,7 +133,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    the API and all Foursquare User Data, and shall so certify to
    Foursquare that such actions have occurred. Foursquare shall have the
    right to inspect and audit Licensee's facilities to confirm the
-   foregoing. Sections 7 through 14 and all accrued rights to payment
+   foregoing. Sections 7 through 12 and all accrued rights to payment
    shall survive termination of this Agreement.
 
    10. GOVERNMENT USE - If Licensee is part of an agency, department, or
@@ -157,7 +157,7 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    represents and warrants that Licensee is not located in, under the
    control of, or a national or resident of any restricted country.
 
-   12. MISCELLANEOUS – Unless the parties have entered into a written
+   12. MISCELLANEOUS - Unless the parties have entered into a written
    amendment to this agreement that is signed by both parties regarding
    the Foursquare API, this Agreement and the Foursquare Platform Policy
    constitute the entire agreement between Licensee and Foursquare
@@ -264,7 +264,7 @@ You must enable JavaScript to use foursquare.com
      * [75]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1390542570&amp;u=-1&amp;sig=7rqlA5S708OXcWsfXX749L3Kj%2BY%3D]
+   &amp;ts=1390628964&amp;u=-1&amp;sig=BRhVICpZITzuXFl8QpvcT7pnDCE%3D]
 
 References
 
