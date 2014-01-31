@@ -550,7 +550,7 @@ References
    9. https://dev.twitter.com/docs
   10. https://dev.twitter.com/docs/cards
   11. https://dev.twitter.com/docs/api/1.1
-  12. https://dev.twitter.com/docs/streaming-apis
+  12. https://dev.twitter.com/docs/api/streaming
   13. https://dev.twitter.com/docs/twitter-for-websites
   14. https://dev.twitter.com/docs/platform-objects
   15. https://dev.twitter.com/docs/recent
