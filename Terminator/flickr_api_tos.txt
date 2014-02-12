@@ -412,22 +412,22 @@ References
   44. http://www.flickr.com/creativecommons
   45. http://www.flickr.com/services/partners/
   46. http://www.flickr.com/about/
-  47. http://blog.flickr.net/
+  47. https://blog.flickr.net/
   48. http://www.flickr.com/jobs/
   49. http://www.flickr.com/help/guidelines/
   50. http://www.flickr.com/abuse/
-  51. http://help.yahoo.com/kb/index?page=product&y=PROD_FLICKR&locale=en_US
+  51. https://help.yahoo.com/kb/index?page=product&y=PROD_FLICKR&locale=en_US
   52. http://www.flickr.com/help/forum/
-  53. http://yahoo.uservoice.com/forums/211185-us-flickr
+  53. https://yahoo.uservoice.com/forums/211185-us-flickr
   54. http://www.flickr.com/help/faq/
   55. http://info.yahoo.com/relevantads
   56. http://www.flickr.com/mobile
   57. http://www.flickr.com/services/
   58. http://www.flickr.com/services/api/
-  59. http://code.flickr.com/
+  59. https://code.flickr.net/
   60. http://www.flickr.com/services/developer/
-  61. http://twitter.com/flickr
-  62. http://facebook.com/flickr
+  61. https://twitter.com/flickr
+  62. https://facebook.com/flickr
   63. http://www.flickr.com/change_language.gne?lang=zh-hk&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
   64. http://www.flickr.com/change_language.gne?lang=de-de&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
   65. http://www.flickr.com/change_language.gne?lang=en-us&magic_cookie=6e02aedc40be9b4dc3da2f7c41ab9929
