@@ -308,7 +308,7 @@ You must enable JavaScript to use foursquare.com
      * [79]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1392356931&amp;u=-1&amp;sig=pTOmw7RAkb46EkK0lFPGsZp6IaU%3D]
+   mp;ts=1392443326&amp;u=-1&amp;sig=NLGj4D2gc71D0NiiRs5Slk73SdU%3D]
 
 References
 
