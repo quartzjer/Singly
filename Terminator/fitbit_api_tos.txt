@@ -501,14 +501,14 @@ Fitbit Marks
 
 Products
 
-     * [23]Force^™
+     * [23]Flex^™
        Wireless Activity + Sleep Wristband
-     * [24]Flex^™
-       Wireless Activity + Sleep Wristband
-     * [25]Zip^™
+     * [24]Zip^™
        Wireless Activity Tracker
-     * [26]One^™
+     * [25]One^™
        Wireless Activity + Sleep Tracker
+     * [26]Force^™
+       Wireless Activity + Sleep Wristband
      * [27]Aria^™
        Wi-Fi Smart Scale
 
@@ -572,10 +572,10 @@ References
   20. http://www.fitbit.com/jobs
   21. http://www.fitbit.com/privacy
   22. http://www.fitbit.com/terms
-  23. http://www.fitbit.com/force
-  24. http://www.fitbit.com/flex
-  25. http://www.fitbit.com/zip
-  26. http://www.fitbit.com/one
+  23. http://www.fitbit.com/flex
+  24. http://www.fitbit.com/zip
+  25. http://www.fitbit.com/one
+  26. http://www.fitbit.com/force
   27. http://www.fitbit.com/aria
   28. http://www.fitbit.com/store
   29. http://www.fitbit.com/iphone
