@@ -267,13 +267,13 @@ A. General
     3. Advertisements and cross-promotions:
        a. You must not include advertisements, cross-promote other
        applications, or provide web search functionality in content
-       distributed through [38]Facebook social channels.
+       distributed through Facebook social channels.
        b. You can only utilize advertising or similar monetization related
-       products or services from companies that appear on this [39]list of
-       Advertising Providers within [40]Apps on Facebook.com.
+       products or services from companies that appear on this [38]list of
+       Advertising Providers within [39]Apps on Facebook.com.
     4. Promotions: If you run, reference, or facilitate a promotion
        (contest, competition, or sweepstake) on Facebook, you must comply
-       with Facebook’s [41]Promotions Guidelines.
+       with Facebook’s [40]Promotions Guidelines.
     5. Permission from Facebook: You must not promote, or provide content
        referencing, facilitating, or containing online gambling, online
        real money games of skill or online lotteries without our written
@@ -281,7 +281,7 @@ A. General
     6. Quality of content: you are responsible for providing users with a
        quality experience and must not confuse, defraud, mislead, spam or
        surprise users. For example, you must monitor your app's negative
-       feedback in [42]Application Insights to ensure it stays below our
+       feedback in [41]Application Insights to ensure it stays below our
        thresholds, avoid excessive advertisements or bugs, and ensure the
        description of your app is consistent with your app's content.
 
@@ -324,7 +324,7 @@ C. Third Party Content
 IV. Application Integration Points
 
     1. You must not incentivize users to use (or gate content behind the
-       use of) [43]Facebook social channels, or imply that an incentive is
+       use of) Facebook social channels, or imply that an incentive is
        directly tied to the use of our channels.
     2. You must not pre-fill any of the fields associated with the
        following products, unless the user manually generated the content
@@ -333,14 +333,14 @@ IV. Application Integration Points
        parameter for stream.publish), Photos (caption), Videos
        (description), Notes (title and content), Links (comment), and
        Jabber/XMPP.
-    3. If a user grants you a publishing [44]permission, actions you take
+    3. If a user grants you a publishing [42]permission, actions you take
        on the user's behalf must be expected by the user and consistent
        with the user's actions within your app.
     4. Platform integrations, including social plugins:
        a. Your advertisements must not include or be paired with any
        Platform integrations, including social plugins such as the Like
        button, without our written permission.
-       b. You must not sell or purchase placement of our [45]Social
+       b. You must not sell or purchase placement of our [43]Social
        Plugins, and must not facilitate or participate in any like
        exchange program.
        c. You must not incentivize users to Like any Page other than your
@@ -380,17 +380,17 @@ VI. Changes
 
 VII. Branding and Promotion Policy
 
-    1. You must follow the guidelines set forth in the [46]Facebook Brand
+    1. You must follow the guidelines set forth in the [44]Facebook Brand
        Resource and Permissions Center.
     2. Your app's description, display name and icons must adhere to our
-       [47]Advertising Guidelines.
+       [45]Advertising Guidelines.
 
-VIII. [48]Advertising Guidelines
+VIII. [46]Advertising Guidelines
 
-IX. [49]Facebook Developer Payments Terms
+IX. [47]Facebook Developer Payments Terms
 
    Developers participating in the program for accepting payments are
-   subject to [50]these terms.
+   subject to [48]these terms.
 
 X. Ads API
 
@@ -460,7 +460,7 @@ X. Ads API
        Optimized CPM, and you must not default to a specific type (ex: you
        must not default to CPC and hide oCPM).
     9. Custom Audiences:
-       a. If you use custom audiences you must comply with the [51]Custom
+       a. If you use custom audiences you must comply with the [49]Custom
        Audience Terms.
        b. You may create a custom audience on a client's behalf but must
        only use the client's customer data to do so (ex: you must not
@@ -528,38 +528,38 @@ Examples and Explanations
    We want you to be successful on Facebook Platform, and we believe that
    the best way to do so is to provide a great user experience. Our
    Platform Policies will help you do this by explaining what’s required;
-   these [52]examples and explanations will help you understand how to put
+   these [50]examples and explanations will help you understand how to put
    that into practice.
 
 Additional Languages
 
-   [53]العربية
+   [51]العربية
 
-   [54]中文(香港)
+   [52]中文(香港)
 
-   [55]中文(台灣)
+   [53]中文(台灣)
 
-   [56]Deutsch
+   [54]Deutsch
 
-   [57]Español
+   [55]Español
 
-   [58]Français
+   [56]Français
 
-   [59]עברית
+   [57]עברית
 
-   [60]Italiano
+   [58]Italiano
 
-   [61]日本語
+   [59]日本語
 
-   [62]한국어
+   [60]한국어
 
-   [63]Polski
+   [61]Polski
 
-   [64]Português (Brasil)
+   [62]Português (Brasil)
 
-   [65]Türkçe
+   [63]Türkçe
 
-   [66]Tiếng Việt
+   [64]Tiếng Việt
 
 References
 
@@ -600,32 +600,30 @@ References
   35. https://www.facebook.com/about/privacy/
   36. https://www.facebook.com/communitystandards
   37. https://developers.facebook.com/docs/reference/api/application/#restrictions
-  38. https://developers.facebook.com/policy/#Facebook_social_channels
-  39. https://developers.facebook.com/adproviders/
-  40. https://developers.facebook.com/docs/guides/canvas/
-  41. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  42. https://www.facebook.com/insights
-  43. https://developers.facebook.com/policy/#Facebook_social_channels
-  44. https://developers.facebook.com/docs/authentication/permissions/
-  45. https://developers.facebook.com/docs/plugins/
-  46. https://www.facebook.com/brandpermissions/logos.php
-  47. https://www.facebook.com/ad_guidelines.php
-  48. https://www.facebook.com/ad_guidelines.php
-  49. https://developers.facebook.com/policy/credits
-  50. https://developers.facebook.com/policy/credits
-  51. https://www.facebook.com/ads/manage/customaudiences/tos.php
-  52. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  53. https://developers.facebook.com/policy/Arabic/
-  54. https://developers.facebook.com/policy/ChineseHK/
-  55. https://developers.facebook.com/policy/ChineseTW/
-  56. https://developers.facebook.com/policy/Deutsch/
-  57. https://developers.facebook.com/policy/Espanol/
-  58. https://developers.facebook.com/policy/Francais/
-  59. https://developers.facebook.com/policy/Hebrew/
-  60. https://developers.facebook.com/policy/Italiano/
-  61. https://developers.facebook.com/policy/Japanese/
-  62. https://developers.facebook.com/policy/Korean/
-  63. https://developers.facebook.com/policy/Polski/
-  64. https://developers.facebook.com/policy/Portugues/
-  65. https://developers.facebook.com/policy/Turkce/
-  66. https://developers.facebook.com/policy/Vietnamese/
+  38. https://developers.facebook.com/adproviders/
+  39. https://developers.facebook.com/docs/guides/canvas/
+  40. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  41. https://www.facebook.com/insights
+  42. https://developers.facebook.com/docs/authentication/permissions/
+  43. https://developers.facebook.com/docs/plugins/
+  44. https://www.facebook.com/brandpermissions/logos.php
+  45. https://www.facebook.com/ad_guidelines.php
+  46. https://www.facebook.com/ad_guidelines.php
+  47. https://developers.facebook.com/policy/credits
+  48. https://developers.facebook.com/policy/credits
+  49. https://www.facebook.com/ads/manage/customaudiences/tos.php
+  50. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
+  51. https://developers.facebook.com/policy/Arabic/
+  52. https://developers.facebook.com/policy/ChineseHK/
+  53. https://developers.facebook.com/policy/ChineseTW/
+  54. https://developers.facebook.com/policy/Deutsch/
+  55. https://developers.facebook.com/policy/Espanol/
+  56. https://developers.facebook.com/policy/Francais/
+  57. https://developers.facebook.com/policy/Hebrew/
+  58. https://developers.facebook.com/policy/Italiano/
+  59. https://developers.facebook.com/policy/Japanese/
+  60. https://developers.facebook.com/policy/Korean/
+  61. https://developers.facebook.com/policy/Polski/
+  62. https://developers.facebook.com/policy/Portugues/
+  63. https://developers.facebook.com/policy/Turkce/
+  64. https://developers.facebook.com/policy/Vietnamese/
