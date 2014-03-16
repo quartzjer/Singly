@@ -312,7 +312,7 @@ You must enable JavaScript to use foursquare.com
      * [79]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1394858876&amp;u=-1&amp;sig=izjlAp%2F3D4atGWgZyskkBPTjwkU%3D]
+   mp;ts=1394945275&amp;u=-1&amp;sig=TgPgQ%2FcTD6XT%2BYfMId7teLTlxF0%3D]
 
 References
 
