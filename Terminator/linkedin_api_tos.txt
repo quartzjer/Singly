@@ -1,4 +1,4 @@
-   #[1]next [2]up [3]prev
+   #[1]up [2]prev [3]next
 
    [4]Skip to main content
 
@@ -727,9 +727,9 @@ Documentation
 
 References
 
-   1. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-   2. https://developer.linkedin.com/linkedin-policies
-   3. https://developer.linkedin.com/documents/branding-guidelines
+   1. https://developer.linkedin.com/linkedin-policies
+   2. https://developer.linkedin.com/documents/branding-guidelines
+   3. https://developer.linkedin.com/documents/linkedin-platform-guidelines
    4. https://developer.linkedin.com/documents/linkedin-apis-terms-use#main-content
    5. https://developer.linkedin.com/user/login
    6. https://developer.linkedin.com/
