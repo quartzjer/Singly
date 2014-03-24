@@ -762,8 +762,8 @@ You must enable JavaScript to use foursquare.com
      * [87]Thailand
      * [88]Turkey
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=139555006
-   4&amp;u=-1&amp;sig=JNyYyDyd1X8LNuRrI8S09ho8iu8%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=139563648
+   1&amp;u=-1&amp;sig=vW9RrcLV8TR%2BjlcTFeZRD%2B%2FuOrc%3D]
 
 References
 
