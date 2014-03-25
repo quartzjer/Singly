@@ -368,7 +368,7 @@ References
 
    1. http://www.flickr.com/opensearch.xml
    2. http://www.yahoo.com/
-   3. http://mail.yahoo.com/
+   3. https://mail.yahoo.com/?.intl=us&.lang=en-US&.src=ym
    4. http://news.yahoo.com/
    5. http://sports.yahoo.com/
    6. http://finance.yahoo.com/
