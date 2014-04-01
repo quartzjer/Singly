@@ -1,20 +1,24 @@
 [1]Google
 
-[2]Policies & Principles
+[2]Privacy & Terms
 
    [3]Skip to content
 
-    1. [4]Overview
-    2. Terms of Service
+     * [4]Overview
+     * [5]Privacy Policy
+     * [6]Terms of Service
+     * [7]Technologies and Principles
+     * [8]FAQ
 
      * Terms of Service
-     * [5]Updates
+     * [9]Updates
 
 Google Terms of Service
 
-   Last modified: November 11, 2013 ([6]view archived versions)
-
 Welcome to Google!
+
+   The below terms are effective April 14, 2014. To view previous versions
+   click [10]here.
 
    Thanks for using our products and services (â€œServicesâ€�). The
    Services are provided by Google Inc. (â€œGoogleâ€�), located at 1600
@@ -77,11 +81,11 @@ Your Google Account
    are responsible for the activity that happens on or through your Google
    Account. Try not to reuse your Google Account password on third-party
    applications. If you learn of any unauthorized use of your password or
-   Google Account, [7]follow these instructions.
+   Google Account, [11]follow these instructions.
 
 Privacy and Copyright Protection
 
-   Googleâ€™s [8]privacy policies explain how we treat your personal data
+   Googleâ€™s [12]privacy policies explain how we treat your personal data
    and protect your privacy when you use our Services. By using our
    Services, you agree that Google can use such data in accordance with
    our privacy policies.
@@ -94,21 +98,22 @@ Privacy and Copyright Protection
    intellectual property online. If you think somebody is violating your
    copyrights and want to notify us, you can find information about
    submitting notices and Googleâ€™s policy about responding to notices
-   [9]in our Help Center.
+   [13]in our Help Center.
 
 Your Content in our Services
 
-   Some of our Services allow you to submit content. You retain ownership
-   of any intellectual property rights that you hold in that content. In
-   short, what belongs to you stays yours.
+   Some of our Services allow you to upload, submit, store, send or
+   receive content. You retain ownership of any intellectual property
+   rights that you hold in that content. In short, what belongs to you
+   stays yours.
 
-   When you upload or otherwise submit content to our Services, you give
-   Google (and those we work with) a worldwide license to use, host,
-   store, reproduce, modify, create derivative works (such as those
-   resulting from translations, adaptations or other changes we make so
-   that your content works better with our Services), communicate,
-   publish, publicly perform, publicly display and distribute such
-   content. The rights you grant in this license are for the limited
+   When you upload, submit, store, send or receive content to or through
+   our Services, you give Google (and those we work with) a worldwide
+   license to use, host, store, reproduce, modify, create derivative works
+   (such as those resulting from translations, adaptations or other
+   changes we make so that your content works better with our Services),
+   communicate, publish, publicly perform, publicly display and distribute
+   such content. The rights you grant in this license are for the limited
    purpose of operating, promoting, and improving our Services, and to
    develop new ones. This license continues even if you stop using our
    Services (for example, for a business listing you have added to Google
@@ -118,6 +123,12 @@ Your Content in our Services
    content submitted in those Services. Make sure you have the necessary
    rights to grant us this license for any content that you submit to our
    Services.
+
+   Our automated systems analyze your content (including emails) to
+   provide you personally relevant product features, such as customized
+   search results, tailored advertising, and spam and malware detection.
+   This analysis occurs as the content is sent, received, and when it is
+   stored.
 
    If you have a Google Account, we may display your Profile name, Profile
    photo, and actions you take on Google or on third-party applications
@@ -247,33 +258,34 @@ About these Terms
    and Google consent to personal jurisdiction in those courts.
 
    For information about how to contact Google, please visit our
-   [10]contact page.
+   [14]contact page.
 
-Good to Know
+Google Safety Center
 
-     * Our Good to Know site helps you stay safe and protect your
-       familyâ€™s information online. [11]Visit to learn more
+     * Keeping the web safe for everyone is a shared responsibility.
+       [15]Learn what you can do to protect yourself and your family
+       online.
 
 Our legal policies
 
-     * [12]Privacy Policy
+     * [16]Privacy Policy
      * Terms of Service
-     * [13]FAQ
+     * [17]FAQ
 
 Some technical details
 
-     * [14]Technologies and Principles
-     * [15]Advertising
-     * [16]How Google uses cookies
-     * [17]How Google uses pattern recognition
-     * [18]Types of location data used by Google
-     * [19]How Google Wallet uses credit card numbers
-     * [20]How Google Voice works
+     * [18]Technologies and Principles
+     * [19]Advertising
+     * [20]How Google uses cookies
+     * [21]How Google uses pattern recognition
+     * [22]Types of location data used by Google
+     * [23]How Google Wallet uses credit card numbers
+     * [24]How Google Voice works
 
    Change language: [English____________________________________________]
-     * [21]Google
-     * [22]About Google
-     * [23]Privacy & Terms
+     * [25]Google
+     * [26]About Google
+     * [27]Privacy & Terms
 
 References
 
@@ -281,22 +293,26 @@ References
    2. http://www.google.com/intl/en/policies/
    3. http://www.google.com/intl/en/policies/terms/#content
    4. http://www.google.com/intl/en/policies/
-   5. http://www.google.com/intl/en/policies/terms/archive/
-   6. http://www.google.com/intl/en/policies/terms/archive/
-   7. http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
-   8. http://www.google.com/intl/en/policies/privacy/
-   9. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
-  10. http://www.google.com/intl/en/contact/
-  11. http://www.google.com/intl/en/goodtoknow/
+   5. http://www.google.com/intl/en/policies/privacy/index.html
+   6. http://www.google.com/intl/en/policies/terms/index.html
+   7. http://www.google.com/intl/en/policies/technologies/index.html
+   8. http://www.google.com/intl/en/policies/faq/index.html
+   9. http://www.google.com/intl/en/policies/terms/archive/
+  10. http://www.google.com/intl/en/policies/terms/archive/
+  11. http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
   12. http://www.google.com/intl/en/policies/privacy/
-  13. http://www.google.com/intl/en/policies/faq/
-  14. http://www.google.com/intl/en/policies/technologies/
-  15. http://www.google.com/intl/en/policies/technologies/ads/
-  16. http://www.google.com/intl/en/policies/technologies/cookies/
-  17. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
-  18. http://www.google.com/intl/en/policies/technologies/location-data/
-  19. http://www.google.com/intl/en/policies/technologies/wallet/
-  20. http://www.google.com/intl/en/policies/technologies/voice/
-  21. http://www.google.com/
-  22. http://www.google.com/intl/en/about/
-  23. http://www.google.com/intl/en/policies/
+  13. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
+  14. http://www.google.com/intl/en/contact/
+  15. http://www.google.com/safetycenter/families/start/
+  16. http://www.google.com/intl/en/policies/privacy/
+  17. http://www.google.com/intl/en/policies/faq/
+  18. http://www.google.com/intl/en/policies/technologies/
+  19. http://www.google.com/intl/en/policies/technologies/ads/
+  20. http://www.google.com/intl/en/policies/technologies/cookies/
+  21. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
+  22. http://www.google.com/intl/en/policies/technologies/location-data/
+  23. http://www.google.com/intl/en/policies/technologies/wallet/
+  24. http://www.google.com/intl/en/policies/technologies/voice/
+  25. http://www.google.com/
+  26. http://www.google.com/intl/en/about/
+  27. http://www.google.com/intl/en/policies/
