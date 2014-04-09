@@ -377,7 +377,7 @@ References
   10. http://answers.yahoo.com/
   11. http://screen.yahoo.com/
   12. http://www.flickr.com/
-  13. http://mobile.yahoo.com/
+  13. https://mobile.yahoo.com/
   14. https://www.flickr.com/services/api/tos
   15. http://celebrity.yahoo.com/
   16. http://shine.yahoo.com/
