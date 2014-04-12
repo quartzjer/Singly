@@ -366,29 +366,29 @@ b. Application for a Commercial API Key.
 References
 
    1. https://www.flickr.com/opensearch.xml
-   2. http://www.yahoo.com/
+   2. https://www.yahoo.com/
    3. https://mail.yahoo.com/?.intl=us&.lang=en-US&.src=ym
    4. http://news.yahoo.com/
    5. http://sports.yahoo.com/
    6. http://finance.yahoo.com/
-   7. http://weather.yahoo.com/
-   8. http://games.yahoo.com/
+   7. https://weather.yahoo.com/
+   8. https://games.yahoo.com/
    9. http://groups.yahoo.com/
   10. http://answers.yahoo.com/
-  11. http://screen.yahoo.com/
-  12. http://www.flickr.com/
+  11. https://screen.yahoo.com/
+  12. https://www.flickr.com/
   13. https://mobile.yahoo.com/
   14. https://www.flickr.com/services/api/tos
-  15. http://celebrity.yahoo.com/
-  16. http://shine.yahoo.com/
-  17. http://movies.yahoo.com/
-  18. http://music.yahoo.com/
-  19. http://tv.yahoo.com/
+  15. https://celebrity.yahoo.com/
+  16. https://shine.yahoo.com/
+  17. https://movies.yahoo.com/
+  18. https://music.yahoo.com/
+  19. https://tv.yahoo.com/
   20. http://health.yahoo.com/
   21. http://shopping.yahoo.com/
-  22. http://travel.yahoo.com/
-  23. http://autos.yahoo.com/
-  24. http://homes.yahoo.com/
+  22. https://travel.yahoo.com/
+  23. https://autos.yahoo.com/
+  24. https://homes.yahoo.com/
   25. https://www.flickr.com/
   26. https://www.flickr.com/signup
   27. https://www.flickr.com/explore
