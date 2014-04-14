@@ -594,7 +594,7 @@ References
   31. http://developers.facebook.com/policy/
   32. http://www.facebook.com/ad_guidelines.php
   33. http://www.facebook.com/page_guidelines.php#promotionsguidelines
-  34. http://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=iAQF0_N24&s=1
+  34. http://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=eAQFgSnt9&s=1
   35. https://www.facebook.com/legal/copyright.php?howto_report
   36. https://www.facebook.com/page_guidelines.php
   37. http://www.facebook.com/communitystandards
