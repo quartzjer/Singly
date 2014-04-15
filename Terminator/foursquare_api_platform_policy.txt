@@ -9,29 +9,25 @@
      * [15]Log In
      * [16]Sign Up
 
-   Last updated: 2/26/14
+   Last updated: 4/11/14
 
-Foursquare API Platform Policy
+Foursquare API Platform and Data Use Policy
 
    Users of the Foursquare Labs, Inc. ("Foursquare") application
-   programming interface ("API") are required to comply with Foursquare's
-   [17]Terms of Use, [18]API License Agreement and the terms and
+   programming interface ("API") and Foursquare Data (as defined below)
+   are required to comply with Foursquare's [17]Developer Policies,
+   [18]Acceptable Use Policy, [19]API License Agreement and the terms and
    conditions of this Policy.
 
 I. General
 
-     * Your use of the API, including the collection, use, maintenance and
-       disclosure of user data shall comply with all applicable laws,
-       rules and regulations and the terms of this Policy, and any
-       advertising, marketing, privacy, or other self-regulatory code(s)
-       applicable to your industry.
+     * Your use of the API and Foursquare Data, including the collection,
+       use, maintenance and disclosure of user data shall comply with all
+       applicable laws, rules and regulations and the terms of this
+       Policy, and any advertising, marketing, privacy, or other
+       self-regulatory code(s) applicable to your industry.
      * You must not take any action that constitutes unauthorized or
        unsolicited advertising, junk or bulk e-mail.
-     * Each of your applications and websites that use the API
-       ("applications and/or websites") must prominently include the
-       following statement: "This [application/service] uses the
-       Foursquare^® application programming interface but is not endorsed
-       or certified by Foursquare Labs, Inc."
 
 II. Authorization
 
@@ -41,7 +37,9 @@ II. Authorization
        the Foursquare service through your application and/or website
        ("Foursquare Data") and your authentication key from unauthorized
        use, disclosure or access.
-     * You must not give your authentication key to another party.
+     * You must not give your authentication key to another party and you
+       take responsibility for any and all use of the API using your
+       authentication key.
      * Foursquare may revoke your authentication credentials at any time,
        for any reason or no reason, with or without notice, and without
        liability to you or any other person.
@@ -72,8 +70,8 @@ III. Access/Use
        be temporarily or permanently blocked, with or without notice, and
        without Foursquare liability to you or any other person.
      * If your application and/or website requires or permits the transfer
-       of user information outside of the user’s home country (including
-       transfers to Foursquare’s servers, which are in the U.S.), you must
+       of user information outside of the user's home country (including
+       transfers to Foursquare's servers, which are in the U.S.), you must
        ensure that such transfer complies with applicable laws.
      * If your application and/or website collects, obtains or accesses
        any information about Foursquare service users or submits any user
@@ -102,22 +100,23 @@ III. Access/Use
             use or retention of friend information is permitted.
           + Your application and/or website may not falsify the location
             of a user when communicating with Foursquare.
+          + You may not publicly display any personal information of a
+            user (e.g., name or profile photos) in any advertisement or
+            promotions without Foursquare's prior written consent.
+     * If you receive any de-identified Foursquare Data, you will not use
+       the Foursquare Data in combination with any other content,
+       documentation, code, data and related materials made available
+       through any other Foursquare product, service or application
+       programming interface, or any product, service or application of
+       any third party, to deanonymize, or attempt to deanonymize by any
+       manner or means, any Foursquare Data or to otherwise identify any
+       individual.
      * If you use any Foursquare location information, you must comply
-       with our location database platform [19]usage rules.
+       with our location database platform[20]usage rules.
      * If your application is using the Foursquare API to build an
        integration that is similar to the essential user experience of
        Foursquare by providing services around local discovery, search, or
        recommendations, you may be subject to additional terms.
-     * Any information you submit, upload, post, create, or add to the
-       Foursquare service through your use of the API (including, without
-       limitation, the use by users of your application and/or website)
-       shall be deemed a User Submission (as defined in the Terms of Use).
-     * Foursquare shall have the right to use, reproduce, transfer,
-       sublicense and otherwise exploit perpetually any place, venue,
-       latitude and longitude, or other location information that you
-       submit, upload, post, create or add to the Foursquare service
-       through your use of the API (including, without limitation, the use
-       by users of your application and/or website).
      * If you use any "Explore" Foursquare Data you will not co-mingle any
        ranking and/or signal information obtained from such Foursquare
        Data with your own or third party ranking and/or signal
@@ -127,10 +126,6 @@ III. Access/Use
        at its sole discretion. If we do charge a fee for using the API or
        any feature thereof, you do not have any obligation to continue to
        use the API or the applicable feature.
-     * You are required to display all attribution information and any
-       proprietary notices associated with the Foursquare Data that you
-       collect, obtain or access through the API, including without
-       limitation data from third party data providers.
 
 IV. Retention
 
@@ -169,19 +164,19 @@ IV. Retention
        elects to charge for access to the API or its places database, and
        you elect not to continue to use the API and/or Foursquare's places
        database because of such charges and you notify Foursquare in
-       writing of the same (each a “Transition Event”), Foursquare hereby
+       writing of the same (each a "Transition Event"), Foursquare hereby
        allows you to retain the Transition Venue Information (as defined
        below) for a period of one year after the Transition Event
-       (“Transition Period”) while you transition your service and/or
+       ("Transition Period") while you transition your service and/or
        website to a different places database. If at any time during the
        Transition Period you transition to a new places database, the
        license from Foursquare automatically terminates and you must
        delete any such Transition Venue Information within 30 days after
        such transition, provided that you may continue to use any
-       Foursquare venue ids. For the purposes of this Policy, “Transition
-       Venue Information” means the address, phone number, email address,
+       Foursquare venue ids. For the purposes of this Policy, "Transition
+       Venue Information" means the address, phone number, email address,
        lat/lng information, url and twitter handle associated with any
-       venue that is included in Foursquare’s places database that you
+       venue that is included in Foursquare's places database that you
        accessed prior to the Transition Event.
 
 V. No Transfer
@@ -211,15 +206,26 @@ VI. Privacy Policy
                  received and how you use and disclose it;
                o you share user data with Foursquare, for use by
                  Foursquare for its own purposes; and
-               o the user may read the [20]Foursquare privacy policy
+               o the user may read the [21]Foursquare privacy policy
           + You must clearly and conspicuously present your privacy policy
             to each user at the point of application and/or download,
             installation, authorization or first-run, and you must also
             make the policy available from the application user interface
             or from the home page of your website.
+          + Your application and/or website must not collect personally
+            identifiable information of any user unless it first informs
+            the user about the types of information being collected and
+            how that information may be used and then obtains the user's
+            express permission for those uses.
 
-VII. Trademarks
+VII. Attribution/Trademarks
 
+     * In connection with your use of the API and Foursquare Data you must
+       comply with our [22]Attribution and Linking Policy. Additionally,
+       you are required to display all attribution information and any
+       proprietary notices associated with the Foursquare Data that you
+       collect, obtain or access through the API, including without
+       limitation data from third party data providers.
      * Your application and/or website must not:
           + Use business names and/or logos in a manner that can mislead,
             confuse or deceive users (e.g., do not copy the look and feel
@@ -234,33 +240,151 @@ VII. Trademarks
        trademarks, you must prominently include the following statement:
        "All of the Foursquare^® logos (including all badges) and
        trademarks displayed on this [application/service] are the property
-       of Foursquare Labs, Inc.
-     * You must read and comply with the [21]Foursquare Trademark and
+       of Foursquare Labs, Inc."
+     * You must read and comply with the [23]Foursquare Trademark and
        Brand Feature Guidelines.
 
-     * [22]About
-     * [23]Blog
-     * [24]Businesses
-     * [25]Cities
-     * [26]Developers
-     * [27]Help
-     * [28]Jobs
-     * [29]Cookies (Updated)
-     * [30]Privacy (Updated)
-     * [31]Terms
+VIII. Permissions/Feedback
+
+     * By incorporating the API into your website or service, you agree
+       that Foursquare may collect and use information from you and your
+       users as described in our Privacy Policy. You also agree that
+       Foursquare may use automated methods to analyze your website or
+       service where the API and/or Foursquare Materials have been
+       incorporated. Any information you or your users submit, upload,
+       post, create, or add to the Foursquare services through your use of
+       the API (including, without limitation, the use by users of your
+       service and/or website) shall be deemed a User Submission (as
+       defined in the Terms of Use).
+     * Foursquare shall have the right to use, reproduce, transfer,
+       sublicense and otherwise exploit perpetually any place, venue,
+       latitude and longitude, or other location information that you or
+       your users submit, upload, post, create or add to the Foursquare
+       services through your use of the API (including, without
+       limitation, the use by users of your application and/or website).
+     * If you choose to submit comments, ideas or feedback, you agree that
+       Foursquare is free to use them without any restriction or
+       compensation to you. By accepting your submission, Foursquare
+       doesn't waive any rights to use similar or related feedback
+       previously known to Foursquare, or developed by its employees, or
+       obtained from sources other than you.
+
+IX. Additional Terms for "Merchant API" Users
+
+     * You agree to comply with the [24]Foursquare Venue and Event
+       Platform Terms of Use.
+     * When using the Merchant API to create, modify, view or display
+       specials, offers, coupons, deals, etc. (collectively, "Specials")
+       you must 1) expose the foursquare Special type, 2) provide
+       attribution to Foursquare and 3) include a link to the relevant
+       section of the foursquare venue dashboard.
+     * A Special must:
+          + Be a special, offer, coupon, that provides a good, service, or
+            benefit offered to a user for free or for a reduced price.
+          + Not require that a user use another service or website to
+            redeem the Special.
+          + Be tied to at least one "check-in" in order for the Special to
+            be unlocked.
+     * Your application and/or website must expose at least as much
+       functionality with respect to the Foursquare Merchant Data as is
+       made available through the Merchant API. If the Merchant API
+       includes a particular function with respect to the Foursquare
+       Merchant Data, all aspects of that function and all Merchant API
+       calls related to that function must be enabled and exposed. Your
+       application and/or website will need to expose any additional
+       functionality added to the Merchant API within 4 months after you
+       receive notice of any such functionality.
+     * You acknowledge that Foursquare may monitor any Merchant API
+       activity for the purpose of ensuring quality, improving Foursquare
+       products and services and compliance with this Policy. You shall
+       not try to interfere with such monitoring or otherwise obscure from
+       Foursquare your Merchant API activity. Foursquare may use any
+       technical means to overcome such interference.
+     * You agree that Foursquare may inspect your application and/or
+       website to determine your compliance with this Policy. Any such
+       inspection will be during normal business hours. You must allow
+       Foursquare to visit your place of business, or inspect your
+       application and/or website in some other manner agreed between you
+       and Foursquare, within 7 days after notice from Foursquare that
+       Foursquare desires to inspect your applications and/or websites.
+     * If you manage a venue(s) on behalf of your customers:
+          + You will only manage venues of a customer that:
+          + Has entered into a binding agreement with you in which the
+            customer explicitly consents to your management of its
+            venue(s);
+          + Is associated with a Foursquare service user account that is
+            tied to the manager relationship of the applicable verified
+            venue(s) on the Foursquare services;
+          + Is the direct manager of the applicable verified venue(s) on
+            the Foursquare services.
+     * Foursquare will have the right to have a listing of all of your
+       customers and the venues that you manage;
+     * You will not include functionality that requests or collects
+       Foursquare service usernames or passwords of the customer.
+     * You may only access venue data, including "here now" data, for
+       venues you manage, or if you manage venues on behalf of your
+       customers, only for venues that your customers manage.
+     * You may only create, modify, view or display Specials on behalf of
+       venues you manage, or if you manage venues on behalf of your
+       customers, only on behalf of venues that your customers manage.
+       Foursquare reserves the right to (i) remove, suspend, block, edit
+       or modify any Specials in its sole discretion, without notice to
+       you and for any reason (including, but not limited to, upon receipt
+       of claims or allegations from third parties or authorities relating
+       to such Specials or if Foursquare is concerned that you may have
+       violated this policy), or for no reason at all and (ii) to
+       determine how and where to display the Specials in its sole
+       discretion.
+     * You must, at all times, provide to any customer for whose accounts
+       you are accessing through the Merchant API the ability to easily
+       and quickly (no longer than 3 business days after customer notice
+       to you) disassociate their venues from your services and regain
+       exclusive control of their venue accounts.
+
+     You shall not use any automated means (for example scraping or
+   robots) other than the Merchant API to access, query or otherwise
+   collect Foursquare-related information Foursquare or any website owned
+   or operated by Foursquare or a Foursquare partner site that displays
+   Foursquare information.
+
+     You shall not co-mingle any Foursquare Data with any data of a third
+   party, specifically:
+     * Your application and/or website must not show any input fields for
+       collecting or transmitting Foursquare Data in the same tab or
+       screen with the content of third parties or input fields for
+       collecting or transmitting data to third parties.
+     * Your application and/or website may not offer a functionality that
+       copies data from one tab or screen into another tab or screen.
+
+     Notwithstanding anything in Section IV (Retention) above:
+     * In no event may you cache any Foursquare Data for more than 30
+       days.
+     * In no event may you cache any Foursquare Data that includes user
+       data for more than 3 hours.
+
+     * [25]About
+     * [26]Blog
+     * [27]Businesses
+     * [28]Cities
+     * [29]Developers
+     * [30]Help
+     * [31]Jobs
+     * [32]Cookies (Updated)
+     * [33]Privacy (Updated)
+     * [34]Terms
      * English
-          + [32]English
-          + [33]Italiano
-          + [34]Deutsch
-          + [35]Español
-          + [36]Français
-          + [37]日本語
-          + [38]ภาษาไทย
-          + [39]한국어
-          + [40]Русский
-          + [41]Português
-          + [42]Bahasa Indonesia
-          + [43]Türkçe
+          + [35]English
+          + [36]Italiano
+          + [37]Deutsch
+          + [38]Español
+          + [39]Français
+          + [40]日本語
+          + [41]ภาษาไทย
+          + [42]한국어
+          + [43]Русский
+          + [44]Português
+          + [45]Bahasa Indonesia
+          + [46]Türkçe
 
    Foursquare © 2014 Lovingly made in NYC & SF
 
@@ -270,49 +394,50 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [44]Download Foursquare for your smart phone and start exploring the
+   [47]Download Foursquare for your smart phone and start exploring the
    world around you!
+
      * Cities:
-     * [45]Atlanta
-     * [46]Austin
-     * [47]Boston
-     * [48]Chicago
-     * [49]Dallas
-     * [50]Denver
-     * [51]Houston
-     * [52]Las Vegas
-     * [53]Los Angeles
-     * [54]New York
-     * [55]Philadelphia
-     * [56]Portland
-     * [57]San Diego
-     * [58]San Francisco
-     * [59]Seattle
-     * [60]Washington, D.C.
+     * [48]Atlanta
+     * [49]Austin
+     * [50]Boston
+     * [51]Chicago
+     * [52]Dallas
+     * [53]Denver
+     * [54]Houston
+     * [55]Las Vegas
+     * [56]Los Angeles
+     * [57]New York
+     * [58]Philadelphia
+     * [59]Portland
+     * [60]San Diego
+     * [61]San Francisco
+     * [62]Seattle
+     * [63]Washington, D.C.
 
      * Countries:
-     * [61]Belgium
-     * [62]Brazil
-     * [63]Canada
-     * [64]Chile
-     * [65]Finland
-     * [66]France
-     * [67]Germany
-     * [68]Great Britain
-     * [69]Hungary
-     * [70]Indonesia
-     * [71]Japan
-     * [72]Mexico
-     * [73]Netherlands
-     * [74]Philippines
-     * [75]Russia
-     * [76]Singapore
-     * [77]Spain
-     * [78]Thailand
-     * [79]Turkey
+     * [64]Belgium
+     * [65]Brazil
+     * [66]Canada
+     * [67]Chile
+     * [68]Finland
+     * [69]France
+     * [70]Germany
+     * [71]Great Britain
+     * [72]Hungary
+     * [73]Indonesia
+     * [74]Japan
+     * [75]Mexico
+     * [76]Netherlands
+     * [77]Philippines
+     * [78]Russia
+     * [79]Singapore
+     * [80]Spain
+     * [81]Thailand
+     * [82]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1397450825&amp;u=-1&amp;sig=eelvjWvVS9TO4MJquhNkhk1%2FDqU%3D]
+   mp;ts=1397537223&amp;u=-1&amp;sig=AHyBxVS7fxJWo7mOO0m8NyOXPJI%3D]
 
 References
 
@@ -332,66 +457,69 @@ References
   14. https://foursquare.com/
   15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Fplatformpolicy&clicked=true
   16. https://foursquare.com/signup/
-  17. https://foursquare.com/legal/terms
-  18. https://foursquare.com/legal/api/licenseagreement
-  19. https://developer.foursquare.com/overview/venues
-  20. https://foursquare.com/legal/privacy
-  21. https://foursquare.com/legal/trademark
-  22. https://foursquare.com/about
-  23. http://blog.foursquare.com/
-  24. http://business.foursquare.com/
-  25. https://foursquare.com/cities
-  26. http://developer.foursquare.com/
-  27. http://foursquare.com/help
-  28. https://foursquare.com/jobs/
-  29. https://foursquare.com/legal/cookiepolicy
-  30. https://foursquare.com/legal/privacy
-  31. https://foursquare.com/legal/terms
-  32. https://foursquare.com/legal/api/platformpolicy
-  33. https://it.foursquare.com/legal/api/platformpolicy
-  34. https://de.foursquare.com/legal/api/platformpolicy
-  35. https://es.foursquare.com/legal/api/platformpolicy
-  36. https://fr.foursquare.com/legal/api/platformpolicy
-  37. https://ja.foursquare.com/legal/api/platformpolicy
-  38. https://th.foursquare.com/legal/api/platformpolicy
-  39. https://ko.foursquare.com/legal/api/platformpolicy
-  40. https://ru.foursquare.com/legal/api/platformpolicy
-  41. https://pt.foursquare.com/legal/api/platformpolicy
-  42. https://id.foursquare.com/legal/api/platformpolicy
-  43. https://tr.foursquare.com/legal/api/platformpolicy
-  44. https://foursquare.com/download
-  45. https://foursquare.com/cities/atlanta-georgia
-  46. https://foursquare.com/cities/austin-texas
-  47. https://foursquare.com/cities/boston-massachusetts
-  48. https://foursquare.com/cities/chicago-illinois
-  49. https://foursquare.com/cities/dallas-texas
-  50. https://foursquare.com/cities/denver-colorado
-  51. https://foursquare.com/cities/houston-texas
-  52. https://foursquare.com/cities/las-vegas-nevada
-  53. https://foursquare.com/cities/los-angeles-california
-  54. https://foursquare.com/cities/new-york-city-new-york
-  55. https://foursquare.com/cities/philadelphia-pennsylvania
-  56. https://foursquare.com/cities/portland-oregon
-  57. https://foursquare.com/cities/san-diego-california
-  58. https://foursquare.com/cities/san-francisco-california
-  59. https://foursquare.com/cities/seattle-washington
-  60. https://foursquare.com/cities/washington-dc
-  61. https://foursquare.com/cities/brussels-belgium
-  62. https://foursquare.com/cities/sao-paulo
-  63. https://foursquare.com/cities/toronto
-  64. https://foursquare.com/cities/santiago
-  65. https://foursquare.com/cities/helsinki-finland
-  66. https://foursquare.com/cities/paris
-  67. https://foursquare.com/cities/berlin
-  68. https://foursquare.com/cities/london
-  69. https://foursquare.com/cities/budapest-hungary
-  70. https://foursquare.com/cities/jakarta
-  71. https://foursquare.com/cities/tokyo
-  72. https://foursquare.com/cities/mexico-city
-  73. https://foursquare.com/cities/amsterdam-netherlands
-  74. https://foursquare.com/cities/manila
-  75. https://foursquare.com/cities/moscow
-  76. https://foursquare.com/cities/singapore
-  77. https://foursquare.com/cities/barcelona-spain
-  78. https://foursquare.com/cities/bangkok
-  79. https://foursquare.com/cities/istanbul
+  17. https://developer.foursquare.com/overview/community
+  18. https://foursquare.com/legal/use
+  19. https://foursquare.com/legal/api/licenseagreement
+  20. https://developer.foursquare.com/overview/venues
+  21. https://foursquare.com/legal/privacy
+  22. %E2%80%9Chttps://developer.foursquare.com/overview/attribution%E2%80%9D
+  23. https://foursquare.com/legal/trademark
+  24. https://foursquare.com/legal/venueterms
+  25. https://foursquare.com/about
+  26. http://blog.foursquare.com/
+  27. http://business.foursquare.com/
+  28. https://foursquare.com/cities
+  29. http://developer.foursquare.com/
+  30. http://foursquare.com/help
+  31. https://foursquare.com/jobs/
+  32. https://foursquare.com/legal/cookiepolicy
+  33. https://foursquare.com/legal/privacy
+  34. https://foursquare.com/legal/terms
+  35. https://foursquare.com/legal/api/platformpolicy
+  36. https://it.foursquare.com/legal/api/platformpolicy
+  37. https://de.foursquare.com/legal/api/platformpolicy
+  38. https://es.foursquare.com/legal/api/platformpolicy
+  39. https://fr.foursquare.com/legal/api/platformpolicy
+  40. https://ja.foursquare.com/legal/api/platformpolicy
+  41. https://th.foursquare.com/legal/api/platformpolicy
+  42. https://ko.foursquare.com/legal/api/platformpolicy
+  43. https://ru.foursquare.com/legal/api/platformpolicy
+  44. https://pt.foursquare.com/legal/api/platformpolicy
+  45. https://id.foursquare.com/legal/api/platformpolicy
+  46. https://tr.foursquare.com/legal/api/platformpolicy
+  47. https://foursquare.com/download
+  48. https://foursquare.com/cities/atlanta-georgia
+  49. https://foursquare.com/cities/austin-texas
+  50. https://foursquare.com/cities/boston-massachusetts
+  51. https://foursquare.com/cities/chicago-illinois
+  52. https://foursquare.com/cities/dallas-texas
+  53. https://foursquare.com/cities/denver-colorado
+  54. https://foursquare.com/cities/houston-texas
+  55. https://foursquare.com/cities/las-vegas-nevada
+  56. https://foursquare.com/cities/los-angeles-california
+  57. https://foursquare.com/cities/new-york-city-new-york
+  58. https://foursquare.com/cities/philadelphia-pennsylvania
+  59. https://foursquare.com/cities/portland-oregon
+  60. https://foursquare.com/cities/san-diego-california
+  61. https://foursquare.com/cities/san-francisco-california
+  62. https://foursquare.com/cities/seattle-washington
+  63. https://foursquare.com/cities/washington-dc
+  64. https://foursquare.com/cities/brussels-belgium
+  65. https://foursquare.com/cities/sao-paulo
+  66. https://foursquare.com/cities/toronto
+  67. https://foursquare.com/cities/santiago
+  68. https://foursquare.com/cities/helsinki-finland
+  69. https://foursquare.com/cities/paris
+  70. https://foursquare.com/cities/berlin
+  71. https://foursquare.com/cities/london
+  72. https://foursquare.com/cities/budapest-hungary
+  73. https://foursquare.com/cities/jakarta
+  74. https://foursquare.com/cities/tokyo
+  75. https://foursquare.com/cities/mexico-city
+  76. https://foursquare.com/cities/amsterdam-netherlands
+  77. https://foursquare.com/cities/manila
+  78. https://foursquare.com/cities/moscow
+  79. https://foursquare.com/cities/singapore
+  80. https://foursquare.com/cities/barcelona-spain
+  81. https://foursquare.com/cities/bangkok
+  82. https://foursquare.com/cities/istanbul

@@ -9,34 +9,47 @@
      * [15]Log In
      * [16]Sign Up
 
-   Updated: 01/23/14
+   Updated: 04/11/14
 
-FOURSQUARE LABS, INC. API LICENSE AGREEMENT
+FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
 
-   BY INTERACTING IN ANY WAY WITH THE FOURSQUARE API, INCLUDING, BUT NOT
-   LIMITED TO REQUESTING CREDENTIALS OR MAKING API CALLS, YOU OR THE
-   ENTITY OR COMPANY THAT YOU REPRESENT ("YOU") UNCONDITIONALLY CONSENT
-   AND AGREE TO BE BOUND BY AND A PARTY TO THESE TERMS AND CONDITIONS
-   ("AGREEMENT").
+   This API and Data License Agreement ("Agreement”) applies to your
+   access to, and use of, the content, documentation, code, data and
+   related materials made available by Foursquare Labs, Inc.
+   (“Foursquare”) to you (collectively, the “Content”), including through
+   the use of the Foursquare application programming interface (the “API”,
+   together with Content, “Foursquare Materials”). By using any Foursquare
+   Materials you agree to this Agreement.
 
-   1. GRANT OF LICENSE - Subject to your ("Licensee") full compliance with
-   all of the terms and conditions of this API Agreement ("Agreement") and
-   the [17]Foursquare Platform Policy, Foursquare Labs, Inc.
-   ("Foursquare") grants Licensee a non-exclusive, revocable,
+   1. WHO CAN USE FOURSQUARE MATERIALS - When you use the Foursquare
+   Materials, you agree to form a binding contract with Foursquare, and
+   follow this Agreement, the [17]Foursquare Platform Policy and all
+   applicable laws. If you’re using the Foursquare Materials on behalf of
+   a company, organization, or other entity, then you and that entity
+   (collectively “Licensee”), represent and warrant that you’re authorized
+   to grant all permissions and licenses provided in these terms and bind
+   the entity to these terms, and that you agree to these terms on the
+   entity’s behalf. Some of the Foursquare Materials may be code that you
+   incorporate into Licensee’s applications, products and services
+   (“Licensee Service”) that enable functionality. You agree that we may
+   automatically update those Foursquare Materials, and this Agreement
+   will apply to such updates.
+
+   2. GRANT OF LICENSE - Subject to Licensee’s full compliance with all of
+   the terms and conditions of this Agreement and the [18]Platform Policy,
+   Foursquare grants Licensee a non-exclusive, revocable,
    nonsublicensable, nontransferable license to download and use the
-   Foursquare application program interface and other materials provided
-   by Foursquare (collectively, "API") to develop, reproduce, display and
-   distribute applications, websites and/or services (collectively
-   "Applications") that interoperate with Foursquare's Foursquare^®
-   service, Foursquare.com or any other web property owned by Foursquare
-   (collectively "Foursquare Service"). Licensee may not install or use
-   the API for any other purpose without Foursquare's prior written
-   consent. Licensee shall not use the API in connection with or to
-   promote any products, services, or materials that constitute, promote
-   or are used primarily for the purpose of dealing in: spyware, adware,
-   or other malicious programs or code, counterfeit goods, items subject
-   to U.S. embargo, unsolicited mass distribution of email ("spam"),
-   multi-level marketing proposals, hate materials,
+   Foursquare Materials to (i) develop, implement and integrate with the
+   Licensee Service and (ii) use, reproduce, distribute, transmit, display
+   and perform the Foursquare Materials as part of the Licensee Service.
+   Licensee may not install or use the Foursquare Materials for any other
+   purpose without Foursquare's prior written consent. Licensee shall not
+   use the Foursquare Materials in connection with or to promote any
+   products, services, or materials that constitute, promote or are used
+   primarily for the purpose of dealing in: spyware, adware, or other
+   malicious programs or code, counterfeit goods, items subject to U.S.
+   embargo, unsolicited mass distribution of email ("spam"), multi-level
+   marketing proposals, hate materials,
    hacking/surveillance/interception/descrambling equipment, libelous,
    defamatory, obscene, pornographic, abusive or otherwise offensive
    content, prostitution, body parts and bodily fluids, stolen products
@@ -46,83 +59,88 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    such as airline tickets or event tickets, weapons and accessories,
    automatic or autonomous control of vehicles, aircraft or other
    mechanical devices, dispatch or fleet management, or emergency or
-   life-saving purposes. For Applications that provide real-time route
-   guidance, Licensee must have an end user license agreement that
+   life-saving purposes. For Licensee Services that provide real-time
+   route guidance, Licensee must have an end user license agreement that
    includes the following notice: YOUR USE OF THIS APPLICATION IS AT YOUR
    SOLE RISK. LOCATION DATA MAY NOT BE ACCURATE.
 
-   2. PROPRIETARY RIGHTS - As between Foursquare and Licensee, the API,
-   the Foursquare Service, any and all content, documentation, code, data
-   and related materials made available through the API, any and all data
-   and information collected and/or derived from the Foursquare Service
-   (including, without limitation, user data received from the Foursquare
-   Service or submitted to the Foursquare Service), and all intellectual
-   property rights in and to all of the foregoing, are and shall at all
-   times remain the sole and exclusive property of Foursquare and are
-   protected by applicable intellectual property laws and treaties.
+   3. PROPRIETARY RIGHTS - As between Foursquare and Licensee, the
+   Foursquare Materials, including any and all Content made available,
+   collected and/or derived through the API (including, without
+   limitation, user data received from the API or submitted to the API),
+   and all intellectual property rights in and to all of the foregoing,
+   are and shall at all times remain the sole and exclusive property of
+   Foursquare and are protected by applicable intellectual property laws
+   and treaties.
 
-   3. OTHER RESTRICTIONS - Except as expressly and unambiguously
+   4. OTHER RESTRICTIONS - Except as expressly and unambiguously
    authorized under this Agreement, Licensee may not (i) copy, rent,
    lease, sell, transfer, assign, sublicense, disassemble, reverse
    engineer or decompile (except to the limited extent expressly
    authorized by applicable statutory law), modify or alter any part of
-   the API; (ii) otherwise use the API on behalf of any third party; or
-   (iii) design or permit the Application to disable, override or
-   otherwise interfere with any Foursquare-implemented communications to
-   end users, consent panels, user settings, alerts, warnings or the like,
-   including but not limited to those intended to notify the end user that
-   his or her user data or location data is being collected or used, or
-   intended to obtain consent for such collection or use. Foursquare
-   expressly reserves the right to limit the number and/or frequency of
-   API requests in its sole discretion.
+   the Foursquare Materials; (ii) otherwise use the Foursquare Materials
+   on behalf of any third party; or (iii) design or permit the Licensee
+   Service to disable, override or otherwise interfere with any
+   Foursquare-implemented communications to end users, consent panels,
+   user settings, alerts, warnings or the like, including but not limited
+   to those intended to notify the end user that his or her user data or
+   location data is being collected or used, or intended to obtain consent
+   for such collection or use. Foursquare expressly reserves the right to
+   limit the number and/or frequency of API requests in its sole
+   discretion.
 
-   4. MODIFICATIONS TO THIS AGREEMENT. Foursquare reserves the right, in
+   5. MODIFICATIONS TO THIS AGREEMENT. Foursquare reserves the right, in
    its sole discretion to modify this Agreement and/or the Foursquare
    Platform Policy at any time by posting a notice to
    developer.foursquare.com. You shall be responsible for reviewing and
    becoming familiar with any such modification. Such modifications are
    effective upon first posting or notification and use of the Foursquare
-   API by Licensee following any such notification constitutes Licensee's
-   acceptance of the terms and conditions of this Agreement as modified.
+   Materials by Licensee following any such notification constitutes
+   Licensee's acceptance of the terms and conditions of this Agreement as
+   modified.
 
-   5. WARRANTY DISCLAIMER - THE API IS PROVIDED "AS IS" WITHOUT WARRANTY
-   OF ANY KIND. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW,
-   FOURSQUARE AND ITS VENDORS EACH DISCLAIM ALL WARRANTIES, WHETHER
-   EXPRESS, IMPLIED OR STATUTORY, REGARDING THE API, INCLUDING WITHOUT
-   LIMITATION ANY AND ALL IMPLIED WARRANTIES OF MERCHANTABILITY, ACCURACY,
-   RESULTS OF USE, RELIABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
-   INTERFERENCE WITH QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD-PARTY
-   RIGHTS. FURTHER, FOURSQUARE DISCLAIMS ANY WARRANTY THAT LICENSEE'S USE
-   OF THE API WILL BE UNINTERRUPTED OR ERROR FREE.
+   6. WARRANTY DISCLAIMER - THE FOURSQUARE MATERIALS ARE PROVIDED "AS IS"
+   WITHOUT WARRANTY OF ANY KIND. EXCEPT TO THE EXTENT REQUIRED BY
+   APPLICABLE LAW, FOURSQUARE AND ITS VENDORS EACH DISCLAIM ALL
+   WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, REGARDING THE
+   FOURSQUARE MATERIALS, INCLUDING WITHOUT LIMITATION ANY AND ALL IMPLIED
+   WARRANTIES OF MERCHANTABILITY, ACCURACY, RESULTS OF USE, RELIABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, TITLE, INTERFERENCE WITH QUIET
+   ENJOYMENT, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. FURTHER,
+   FOURSQUARE DISCLAIMS ANY WARRANTY THAT LICENSEE'S USE OF THE FOURSQUARE
+   MATERIALS WILL BE UNINTERRUPTED OR ERROR FREE.
 
-   6. SUPPORT AND UPGRADES - This Agreement does not entitle Licensee to
-   any support for the APIs, unless Licensee makes separate arrangements
-   with Foursquare and pays all fees associated with such support. Any
-   such support provided by Foursquare shall be subject to the terms of
-   this Agreement as modified by the associated support Agreement.
+   7. SUPPORT AND UPGRADES - This Agreement does not entitle Licensee to
+   any support for the Foursquare Materials, unless Licensee makes
+   separate arrangements with Foursquare and pays all fees associated with
+   such support. Any such support provided by Foursquare shall be subject
+   to the terms of this Agreement as modified by the associated support
+   agreement.
 
-   7. LIABILITY LIMITATION - REGARDLESS OF WHETHER ANY REMEDY SET FORTH
+   8. LIABILITY LIMITATION - REGARDLESS OF WHETHER ANY REMEDY SET FORTH
    HEREIN FAILS OF ITS ESSENTIAL PURPOSE OR OTHERWISE, AND EXCEPT FOR
    BODILY INJURY, IN NO EVENT WILL FOURSQUARE OR ITS VENDORS, BE LIABLE TO
    LICENSEE OR TO ANY THIRD PARTY UNDER ANY TORT, CONTRACT, NEGLIGENCE,
-   STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY LOST
+   STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR (A) ANY LOST
    PROFITS, LOST OR CORRUPTED DATA, COMPUTER FAILURE OR MALFUNCTION,
    INTERRUPTION OF BUSINESS, OR OTHER SPECIAL, INDIRECT, INCIDENTAL OR
    CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF THE USE OR INABILITY
-   TO USE THE API, EVEN IF FOURSQUARE HAS BEEN ADVISED OF THE POSSIBILITY
-   OF SUCH LOSS OR DAMAGES AND WHETHER OR NOT SUCH LOSS OR DAMAGES ARE
-   FORESEEABLE. ANY CLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT
-   MUST BE BROUGHT WITHIN ONE (1) YEAR AFTER THE OCCURRENCE OF THE EVENT
-   GIVING RISE TO SUCH CLAIM. IN ADDITION, FOURSQUARE DISCLAIMS ALL
-   LIABILITY OF ANY KIND OF FOURSQUARE'S VENDORS.
+   TO USE THE FOURSQUARE MATERIALS OR (B) ANY DAMAGES, IN THE AGGREGATE,
+   IN EXCESS OF FIVE HUNDRED DOLLARS ($500.00), EVEN IF FOURSQUARE HAS
+   BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGES AND WHETHER OR
+   NOT SUCH LOSS OR DAMAGES ARE FORESEEABLE. ANY CLAIM ARISING OUT OF OR
+   RELATING TO THIS AGREEMENT MUST BE BROUGHT WITHIN ONE (1) YEAR AFTER
+   THE OCCURRENCE OF THE EVENT GIVING RISE TO SUCH CLAIM. IN ADDITION,
+   FOURSQUARE DISCLAIMS ALL LIABILITY OF ANY KIND OF FOURSQUARE'S VENDORS.
 
-   8. INDEMNITY - Licensee agrees that Foursquare shall have no liability
-   whatsoever for any use Licensee makes of the API. Licensee shall
-   indemnify and hold harmless Foursquare from any and all claims,
-   damages, liabilities, costs and fees (including reasonable attorneys'
-   fees) arising from Licensee's use of the API.
+   9. INDEMNITY - Licensee agrees that Foursquare shall have no liability
+   whatsoever for any use Licensee makes of the Foursquare Materials.
+   Licensee shall indemnify and hold harmless Foursquare from any and all
+   claims, damages, liabilities, costs and fees (including reasonable
+   attorneys' fees) arising from Licensee's use of the Foursquare
+   Materials.
 
-   9. TERM AND TERMINATION - This Agreement shall continue until
+   10. TERM AND TERMINATION - This Agreement shall continue until
    terminated as set forth in this Section. Either party may terminate
    this Agreement at any time, for any reason, or for no reason including,
    but not limited to, if Licensee violates any provision of this
@@ -130,37 +148,39 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    license granted hereunder. Upon termination of this Agreement for any
    reason, Licensee shall cease using, destroy and remove from all
    computers, hard drives, networks, and other storage media all copies of
-   the API and all Foursquare User Data, and shall so certify to
-   Foursquare that such actions have occurred. Foursquare shall have the
-   right to inspect and audit Licensee's facilities to confirm the
-   foregoing. Sections 7 through 12 and all accrued rights to payment
+   the Foursquare Materials (including all user data), and shall so
+   certify to Foursquare that such actions have occurred. Foursquare shall
+   have the right to inspect and audit Licensee's facilities to confirm
+   the foregoing. Sections 8 through 13 and all accrued rights to payment
    shall survive termination of this Agreement.
 
-   10. GOVERNMENT USE - If Licensee is part of an agency, department, or
+   11. GOVERNMENT USE - If Licensee is part of an agency, department, or
    other entity of the United States Government ("Government"), the use,
    duplication, reproduction, release, modification, disclosure or
-   transfer of the API are restricted in accordance with the Federal
-   Acquisition Regulations as applied to civilian agencies and the Defense
-   Federal Acquisition Regulation Supplement as applied to military
-   agencies. The API are a "commercial item," "commercial computer
-   software" and "commercial computer software documentation." In
-   accordance with such provisions, any use of the API by the Government
-   shall be governed solely by the terms of this Agreement.
+   transfer of the Foursquare Materials are restricted in accordance with
+   the Federal Acquisition Regulations as applied to civilian agencies and
+   the Defense Federal Acquisition Regulation Supplement as applied to
+   military agencies. The Foursquare Materials are a "commercial item,"
+   "commercial computer software" and "commercial computer software
+   documentation." In accordance with such provisions, any use of the
+   Foursquare Materials by the Government shall be governed solely by the
+   terms of this Agreement.
 
-   11. EXPORT CONTROLS - Licensee shall comply with all export laws and
+   12. EXPORT CONTROLS - Licensee shall comply with all export laws and
    restrictions and regulations of the Department of Commerce, the United
    States Department of Treasury Office of Foreign Assets Control
    ("OFAC"), or other United States or foreign agency or authority, and
-   Licensee shall not export, or allow the export or re-export of the API
-   in violation of any such restrictions, laws or regulations. By
-   downloading or using the API, Licensee agrees to the foregoing and
-   represents and warrants that Licensee is not located in, under the
-   control of, or a national or resident of any restricted country.
+   Licensee shall not export, or allow the export or re-export of the
+   Foursquare Materials in violation of any such restrictions, laws or
+   regulations. By downloading or using the Foursquare Materials, Licensee
+   agrees to the foregoing and represents and warrants that Licensee is
+   not located in, under the control of, or a national or resident of any
+   restricted country.
 
-   12. MISCELLANEOUS - Unless the parties have entered into a written
+   13. MISCELLANEOUS - Unless the parties have entered into a written
    amendment to this agreement that is signed by both parties regarding
-   the Foursquare API, this Agreement and the Foursquare Platform Policy
-   constitute the entire agreement between Licensee and Foursquare
+   the Foursquare Materials, this Agreement and the Foursquare Platform
+   Policy constitute the entire agreement between Licensee and Foursquare
    pertaining to the subject matter hereof, and supersedes any and all
    written or oral agreements with respect to such subject matter. This
    Agreement, and any disputes arising from or relating to the
@@ -190,29 +210,29 @@ FOURSQUARE LABS, INC. API LICENSE AGREEMENT
    and any action or conduct in violation of the foregoing shall be void
    and without effect. Foursquare expressly reserves the right to assign
    this Agreement and to delegate any of its obligations hereunder.
-     * [18]About
-     * [19]Blog
-     * [20]Businesses
-     * [21]Cities
-     * [22]Developers
-     * [23]Help
-     * [24]Jobs
-     * [25]Cookies (Updated)
-     * [26]Privacy (Updated)
-     * [27]Terms
+     * [19]About
+     * [20]Blog
+     * [21]Businesses
+     * [22]Cities
+     * [23]Developers
+     * [24]Help
+     * [25]Jobs
+     * [26]Cookies (Updated)
+     * [27]Privacy (Updated)
+     * [28]Terms
      * English
-          + [28]English
-          + [29]Italiano
-          + [30]Deutsch
-          + [31]Español
-          + [32]Français
-          + [33]日本語
-          + [34]ภาษาไทย
-          + [35]한국어
-          + [36]Русский
-          + [37]Português
-          + [38]Bahasa Indonesia
-          + [39]Türkçe
+          + [29]English
+          + [30]Italiano
+          + [31]Deutsch
+          + [32]Español
+          + [33]Français
+          + [34]日本語
+          + [35]ภาษาไทย
+          + [36]한국어
+          + [37]Русский
+          + [38]Português
+          + [39]Bahasa Indonesia
+          + [40]Türkçe
 
    Foursquare © 2014 Lovingly made in NYC & SF
 
@@ -222,49 +242,49 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [40]Download Foursquare for your smart phone and start exploring the
+   [41]Download Foursquare for your smart phone and start exploring the
    world around you!
      * Cities:
-     * [41]Atlanta
-     * [42]Austin
-     * [43]Boston
-     * [44]Chicago
-     * [45]Dallas
-     * [46]Denver
-     * [47]Houston
-     * [48]Las Vegas
-     * [49]Los Angeles
-     * [50]New York
-     * [51]Philadelphia
-     * [52]Portland
-     * [53]San Diego
-     * [54]San Francisco
-     * [55]Seattle
-     * [56]Washington, D.C.
+     * [42]Atlanta
+     * [43]Austin
+     * [44]Boston
+     * [45]Chicago
+     * [46]Dallas
+     * [47]Denver
+     * [48]Houston
+     * [49]Las Vegas
+     * [50]Los Angeles
+     * [51]New York
+     * [52]Philadelphia
+     * [53]Portland
+     * [54]San Diego
+     * [55]San Francisco
+     * [56]Seattle
+     * [57]Washington, D.C.
 
      * Countries:
-     * [57]Belgium
-     * [58]Brazil
-     * [59]Canada
-     * [60]Chile
-     * [61]Finland
-     * [62]France
-     * [63]Germany
-     * [64]Great Britain
-     * [65]Hungary
-     * [66]Indonesia
-     * [67]Japan
-     * [68]Mexico
-     * [69]Netherlands
-     * [70]Philippines
-     * [71]Russia
-     * [72]Singapore
-     * [73]Spain
-     * [74]Thailand
-     * [75]Turkey
+     * [58]Belgium
+     * [59]Brazil
+     * [60]Canada
+     * [61]Chile
+     * [62]Finland
+     * [63]France
+     * [64]Germany
+     * [65]Great Britain
+     * [66]Hungary
+     * [67]Indonesia
+     * [68]Japan
+     * [69]Mexico
+     * [70]Netherlands
+     * [71]Philippines
+     * [72]Russia
+     * [73]Singapore
+     * [74]Spain
+     * [75]Thailand
+     * [76]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1397450826&amp;u=-1&amp;sig=K8YavdMwn2aFjQBhcYdkWM07Mnc%3D]
+   &amp;ts=1397537224&amp;u=-1&amp;sig=dwUpD%2BHPKPYNrHBmfShENrxnK%2FE%3D]
 
 References
 
@@ -285,61 +305,62 @@ References
   15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Flicenseagreement&clicked=true
   16. https://foursquare.com/signup/
   17. https://foursquare.com/legal/api/platformpolicy
-  18. https://foursquare.com/about
-  19. http://blog.foursquare.com/
-  20. http://business.foursquare.com/
-  21. https://foursquare.com/cities
-  22. http://developer.foursquare.com/
-  23. http://foursquare.com/help
-  24. https://foursquare.com/jobs/
-  25. https://foursquare.com/legal/cookiepolicy
-  26. https://foursquare.com/legal/privacy
-  27. https://foursquare.com/legal/terms
-  28. https://foursquare.com/legal/api/licenseagreement
-  29. https://it.foursquare.com/legal/api/licenseagreement
-  30. https://de.foursquare.com/legal/api/licenseagreement
-  31. https://es.foursquare.com/legal/api/licenseagreement
-  32. https://fr.foursquare.com/legal/api/licenseagreement
-  33. https://ja.foursquare.com/legal/api/licenseagreement
-  34. https://th.foursquare.com/legal/api/licenseagreement
-  35. https://ko.foursquare.com/legal/api/licenseagreement
-  36. https://ru.foursquare.com/legal/api/licenseagreement
-  37. https://pt.foursquare.com/legal/api/licenseagreement
-  38. https://id.foursquare.com/legal/api/licenseagreement
-  39. https://tr.foursquare.com/legal/api/licenseagreement
-  40. https://foursquare.com/download
-  41. https://foursquare.com/cities/atlanta-georgia
-  42. https://foursquare.com/cities/austin-texas
-  43. https://foursquare.com/cities/boston-massachusetts
-  44. https://foursquare.com/cities/chicago-illinois
-  45. https://foursquare.com/cities/dallas-texas
-  46. https://foursquare.com/cities/denver-colorado
-  47. https://foursquare.com/cities/houston-texas
-  48. https://foursquare.com/cities/las-vegas-nevada
-  49. https://foursquare.com/cities/los-angeles-california
-  50. https://foursquare.com/cities/new-york-city-new-york
-  51. https://foursquare.com/cities/philadelphia-pennsylvania
-  52. https://foursquare.com/cities/portland-oregon
-  53. https://foursquare.com/cities/san-diego-california
-  54. https://foursquare.com/cities/san-francisco-california
-  55. https://foursquare.com/cities/seattle-washington
-  56. https://foursquare.com/cities/washington-dc
-  57. https://foursquare.com/cities/brussels-belgium
-  58. https://foursquare.com/cities/sao-paulo
-  59. https://foursquare.com/cities/toronto
-  60. https://foursquare.com/cities/santiago
-  61. https://foursquare.com/cities/helsinki-finland
-  62. https://foursquare.com/cities/paris
-  63. https://foursquare.com/cities/berlin
-  64. https://foursquare.com/cities/london
-  65. https://foursquare.com/cities/budapest-hungary
-  66. https://foursquare.com/cities/jakarta
-  67. https://foursquare.com/cities/tokyo
-  68. https://foursquare.com/cities/mexico-city
-  69. https://foursquare.com/cities/amsterdam-netherlands
-  70. https://foursquare.com/cities/manila
-  71. https://foursquare.com/cities/moscow
-  72. https://foursquare.com/cities/singapore
-  73. https://foursquare.com/cities/barcelona-spain
-  74. https://foursquare.com/cities/bangkok
-  75. https://foursquare.com/cities/istanbul
+  18. https://foursquare.com/legal/api/platformpolicy
+  19. https://foursquare.com/about
+  20. http://blog.foursquare.com/
+  21. http://business.foursquare.com/
+  22. https://foursquare.com/cities
+  23. http://developer.foursquare.com/
+  24. http://foursquare.com/help
+  25. https://foursquare.com/jobs/
+  26. https://foursquare.com/legal/cookiepolicy
+  27. https://foursquare.com/legal/privacy
+  28. https://foursquare.com/legal/terms
+  29. https://foursquare.com/legal/api/licenseagreement
+  30. https://it.foursquare.com/legal/api/licenseagreement
+  31. https://de.foursquare.com/legal/api/licenseagreement
+  32. https://es.foursquare.com/legal/api/licenseagreement
+  33. https://fr.foursquare.com/legal/api/licenseagreement
+  34. https://ja.foursquare.com/legal/api/licenseagreement
+  35. https://th.foursquare.com/legal/api/licenseagreement
+  36. https://ko.foursquare.com/legal/api/licenseagreement
+  37. https://ru.foursquare.com/legal/api/licenseagreement
+  38. https://pt.foursquare.com/legal/api/licenseagreement
+  39. https://id.foursquare.com/legal/api/licenseagreement
+  40. https://tr.foursquare.com/legal/api/licenseagreement
+  41. https://foursquare.com/download
+  42. https://foursquare.com/cities/atlanta-georgia
+  43. https://foursquare.com/cities/austin-texas
+  44. https://foursquare.com/cities/boston-massachusetts
+  45. https://foursquare.com/cities/chicago-illinois
+  46. https://foursquare.com/cities/dallas-texas
+  47. https://foursquare.com/cities/denver-colorado
+  48. https://foursquare.com/cities/houston-texas
+  49. https://foursquare.com/cities/las-vegas-nevada
+  50. https://foursquare.com/cities/los-angeles-california
+  51. https://foursquare.com/cities/new-york-city-new-york
+  52. https://foursquare.com/cities/philadelphia-pennsylvania
+  53. https://foursquare.com/cities/portland-oregon
+  54. https://foursquare.com/cities/san-diego-california
+  55. https://foursquare.com/cities/san-francisco-california
+  56. https://foursquare.com/cities/seattle-washington
+  57. https://foursquare.com/cities/washington-dc
+  58. https://foursquare.com/cities/brussels-belgium
+  59. https://foursquare.com/cities/sao-paulo
+  60. https://foursquare.com/cities/toronto
+  61. https://foursquare.com/cities/santiago
+  62. https://foursquare.com/cities/helsinki-finland
+  63. https://foursquare.com/cities/paris
+  64. https://foursquare.com/cities/berlin
+  65. https://foursquare.com/cities/london
+  66. https://foursquare.com/cities/budapest-hungary
+  67. https://foursquare.com/cities/jakarta
+  68. https://foursquare.com/cities/tokyo
+  69. https://foursquare.com/cities/mexico-city
+  70. https://foursquare.com/cities/amsterdam-netherlands
+  71. https://foursquare.com/cities/manila
+  72. https://foursquare.com/cities/moscow
+  73. https://foursquare.com/cities/singapore
+  74. https://foursquare.com/cities/barcelona-spain
+  75. https://foursquare.com/cities/bangkok
+  76. https://foursquare.com/cities/istanbul
