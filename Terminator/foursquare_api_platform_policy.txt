@@ -112,7 +112,7 @@ III. Access/Use
        manner or means, any Foursquare Data or to otherwise identify any
        individual.
      * If you use any Foursquare location information, you must comply
-       with our location database platform[20]usage rules.
+       with our location database platform [20]usage rules.
      * If your application is using the Foursquare API to build an
        integration that is similar to the essential user experience of
        Foursquare by providing services around local discovery, search, or
@@ -437,7 +437,7 @@ You must enable JavaScript to use foursquare.com
      * [82]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1397796418&amp;u=-1&amp;sig=LTQdtYEHe67dKPfhKd9MvGHi%2FaI%3D]
+   mp;ts=1397882820&amp;u=-1&amp;sig=dc98DeVjiunyZnaxyNP8x3poVv8%3D]
 
 References
 
