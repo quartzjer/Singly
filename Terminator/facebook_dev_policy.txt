@@ -3,625 +3,637 @@
 
 Platform Policy
 
-   If you use Social Plugins, Facebook SDKs, or operate a Platform app or
-   website, you must follow our [2]Statement of Rights and
-   Responsibilities and these additional rules unless you have our written
-   permission to do otherwise.
+   [2]1. Build a quality product
+   [3]2. Give people control
+   [4]3. Protect data
+   [5]4. Encourage proper use
+   [6]5. Follow the law
+   [7]6. Things you should know
 
-   [3]Introduction
-   [4]I. Features and Functionality
-   [5]II. Data Collection and Use
-   [6]III. Content
-   [7]IV. Application Integration Points
-   [8]V. Enforcement
-   [9]VI. Changes
-   [10]VII. Branding and Promotion
-   [11]VIII. Advertising Guidelines
-   [12]IX. Payments Terms
-   [13]X. Ads API
-   [14]XI. License
-   [15]XII. Definitions
+   If you use these features, follow these additional policies:
 
-Introduction
+   [8]7. Login
+   [9]8. Ads
+   [10]9. Games
+   [11]10. Payments
+   [12]11. App Center
+   [13]12. Open Graph
+   [14]13. Social Plugins
+   [15]14. Ads API
+   [16]15. Definitions
 
-   Date of Last Revision: August 20, 2013
+1. Build a quality product
 
-   Facebook Platform is an extension of Facebook, whose mission is to make
-   the world more open and connected.
+    1. Build an app that is stable and easily navigable.
+       [17][851547_537948159656190_540847388_n.png]
+    2. Ensure that your app’s content (including ads and user-generated
+       content) meets our [18]Community Standards.
+    3. Follow our [19]Advertising Guidelines for your app name, icons, and
+       description.
+    4. Keep your app’s description and categorization up-to-date.
+       [20][851547_537948159656190_540847388_n.png]
+    5. Don’t confuse, deceive, defraud, mislead, spam or surprise anyone.
+       [21][851547_537948159656190_540847388_n.png]
+    6. Keep your app’s negative feedback below our thresholds.
+       [22][851547_537948159656190_540847388_n.png]
+    7. Follow any instructions we include in our [23]technical
+       documentation.
 
-   This agreement was written in English (US). To the extent any
-   translated version of this agreement conflicts with the English
-   version, the English version controls.
+2. Give people control
 
-   [16]Additional Languages
-     __________________________________________________________________
+    1. Obtain consent from people before publishing content on their
+       behalf. [24][851547_537948159656190_540847388_n.png]
+    2. Use publishing permissions to help people share on Facebook, not to
+       send people messages from your app.
+       [25][851547_537948159656190_540847388_n.png]
+    3. Ensure that all content in the user message parameter is entered by
+       the user. Don’t pre-fill. This includes posts, messages, comments,
+       and captions. [26][851547_537948159656190_540847388_n.png]
+    4. Provide a publicly available and easily accessible privacy policy
+       that explains what data you are collecting and how you will use
+       that data.
+    5. Include your privacy policy URL in the App Dashboard.
+       [27][851547_537948159656190_540847388_n.png]
+    6. Link to your privacy policy in any app marketplace that allows you
+       to. [28][851547_537948159656190_540847388_n.png]
+    7. Comply with your privacy policy.
+    8. Delete all of a person’s data you have received from us (including
+       friend data) if that person asks you to, unless you are required to
+       keep it by law, regulation, or separate agreement with us. You may
+       keep aggregated data only if no information identifying a specific
+       person could be inferred or created from it.
+    9. Obtain consent from people before using their data in any ad.
+   10. Obtain consent from people before you give us information that you
+       independently collected from them.
+   11. If you are tracking a person's activity, provide an opt-out from
+       that tracking.
+   12. Provide meaningful customer support for your app, and make it easy
+       for people to contact you.
+   13. If people come to your app from the Facebook app on iOS, give them
+       an option to go back to the Facebook app by using the Back to
+       Facebook banner provided in our SDK.
+   14. If people come to your app from the Facebook app on Android, don’t
+       prevent them from going back to Facebook when they press the system
+       back button.
 
-Principles
+3. Protect data
 
-   Create a great user experience
-     * Build social and engaging applications
-     * Give users choice and control
-     * Help users share expressive and relevant content
+    1. Protect the information you receive from us against unauthorized
+       access or use.
+    2. Only show data obtained from a user access token on the devices
+       associated with that token.
+    3. Only use friend data (including friends list) in the person’s
+       experience in your app.
+    4. If you cache data you receive from us, use it to improve your app’s
+       user experience and keep it up to date.
+       [29][851547_537948159656190_540847388_n.png]
+    5. Don’t proxy, request or collect Facebook usernames or passwords.
+    6. Keep private your secret key and access tokens. You can share them
+       with an agent acting to operate your app if they sign a
+       confidentiality agreement.
+    7. If you use any partner services, make them sign a contract to
+       protect any information you obtained from us, limit their use of
+       that information, and keep it confidential.
+    8. Keep Facebook user IDs within your control. Contract with any
+       providers who help you build or run your app to ensure that they
+       keep the user IDs secure and confidential and comply with our
+       policies. If you need an anonymous unique identifier to share with
+       third parties, use our mechanism.
+    9. Don't sell, license, or purchase any data obtained from us or our
+       services.
+   10. Don't transfer any data that you receive from us (including
+       anonymous, aggregate, or derived data) to any ad network, data
+       broker or other advertising or monetization-related service.
+   11. Don't put Facebook data in a search engine or directory, or include
+       web search functionality on Facebook.
+   12. If you are acquired by or merge with a third party, you can
+       continue to use our data only within your app.
+   13. If you stop using Platform, promptly delete all user data you have
+       received from us (absent explicit consent from people). You can
+       keep basic account information if you have presented your privacy
+       policy within your app.
+   14. If you use friend data from Facebook to establish social
+       connections in your app, only do so if each person in that
+       connection has granted you access to that information.
 
-   Be trustworthy
-     * Respect privacy
-     * Don't mislead, confuse, defraud, or surprise users
-     * Don't spam - encourage authentic communications
+4. Encourage proper use
 
-I. Features and Functionality
+    1. Add something unique to the community. Don’t replicate core
+       functionality that Facebook already provides.
+    2. Respect the way Facebook looks and functions. Don't offer
+       experiences that change it.
+       [30][851547_537948159656190_540847388_n.png]
+    3. If you’re building an app with a personalized or social experience,
+       enable people to easily share on Facebook content they've created.
+    4. Respect the limits we've placed on Facebook functionality.
+       [31][851547_537948159656190_540847388_n.png]
+    5. Only incentivize a person to log into your app, like your app’s
+       Page, enter a promotion on your app’s Page, or check-in at a place.
+       Don’t incentivize other actions.
+       [32][851547_537948159656190_540847388_n.png]
+    6. Encourage people to accurately tag and share content.
+       [33][851547_537948159656190_540847388_n.png]
+    7. If your service integrates a person’s data into a physical product,
+       only create a physical product for that person’s personal and
+       non-commercial use. [34][851547_537948159656190_540847388_n.png]
+    8. Don’t build an app whose primary purpose is to redirect people off
+       of Facebook. [35][851547_537948159656190_540847388_n.png]
+    9. If you want to use our logos or brand, follow the guidelines in the
+       [36]Facebook Brand Resource and Permissions Center. Ad networks and
+       data brokers must get our written permission before using our
+       Platform, logos, or trademarks.
+       [37][851547_537948159656190_540847388_n.png]
+   10. Don't sell, transfer or sublicense our code, APIs, or tools to
+       anyone.
+   11. Only use our SDKs to develop and distribute apps for use with the
+       Facebook Platform. You may also distribute any code libraries or
+       sample source code included in the SDKs for inclusion in such apps.
+   12. Don’t modify, translate, create derivative works of, or reverse
+       engineer any SDK or its components.
+   13. Be honest about your relationship with Facebook when talking to the
+       press or users. Comply with our Developer PR Guidelines and get
+       approval from us before issuing any formal press release or blog
+       post mentioning Facebook.
+   14. If you use the Like button on iOS or Android, don’t collect or use
+       any information from it.
 
-    1. You must not violate any law or the rights of any individual or
-       entity, and must not expose Facebook or Facebook users to harm or
-       legal liability as determined by us in our sole discretion. In
-       particular you will (if applicable): comply with the Video Privacy
-       Protection Act (VPPA), and obtain any opt-in consent necessary from
-       users so that user data subject to the VPPA may be shared on
-       Facebook. You represent that any disclosure to us will not be
-       incidental to the ordinary course of your business.
-    2. You must not include functionality that proxies, requests or
-       collects Facebook usernames or passwords.
-    3. You must not circumvent (or claim to circumvent) our intended
-       limitations on core Facebook features and functionality.
-    4. If you offer a service for a user that integrates user data into a
-       physical product (such as a scrapbook or calendar), you must only
-       create a physical product for that user's personal and
-       non-commercial use.
-    5. If you exceed, or plan to exceed, any of the following thresholds
-       please [17]contact us as you may be subject to additional terms:
-       (>5M MAU) or (>100M API calls per day) or (>50M impressions per
-       day).
-    6. Your app or website must offer an explicit "Log Out" option.
-    7. Special provision for apps on Pages: When a user visits your Page,
-       if they have not given explicit permission by authorizing your
-       Facebook app or directly providing information to your Page, you
-       may only use information obtained from us and the user's
-       interaction with your Page in connection with that Page. For
-       example, although you may use aggregate analytics for your
-       individual Page, you must not combine information from any other
-       sources to customize the user's experience on your Page and may not
-       use any information about the user's interaction with your Page in
-       any other context (such as analytics or customization across other
-       Pages or websites).
-    8. You must not use or make derivative use of Facebook icons, or use
-       terms for Facebook features and functionality, if such use could
-       confuse users into thinking that the reference is to Facebook
-       features or functionality.
-    9. Mobile Web Apps that are running within the Facebook iOS app must
-       not accept payments. In particular, these apps must not reference,
-       use, or otherwise encourage the use of Facebook Payments or other
-       non-iOS approved payment methods.
-   10. Reciprocity and Replicating core functionality: (a) Reciprocity:
-       Facebook Platform enables developers to build personalized, social
-       experiences via the Graph API and related APIs. If you use any
-       Facebook APIs to build personalized or social experiences, you must
-       also enable people to easily share their experiences back with
-       people on Facebook. (b) Replicating core functionality: You may not
-       use Facebook Platform to promote, or to export user data to, a
-       product or service that replicates a core Facebook product or
-       service without our permission.
-   11. The primary purpose of your Canvas or Page Tab app on Facebook must
-       not be to simply redirect users out of the Facebook experience and
-       onto an external site.
-   12. You must not include data obtained from us in any search engine or
-       directory without our written permission.
-   13. Special provisions for games:
-       a. Desktop web games off of [18]Facebook.com may only use Facebook
-       Login ([19]Authentication, excluding user connections such as
-       friend list), [20]Social Plugins and publishing (e.g., Feed Dialog,
-       Stream Publish, or Open Graph). When authenticating, these games
-       may not request [21]additional permissions other than age, email,
-       and our [22]Publishing Permissions.
-       b. Games on [23]Facebook.com and mobile must not share the same app
-       ID with desktop web games off of [24]Facebook.com. You must not use
-       [25]Canvas apps to promote or link to game sites off of Facebook,
-       and must not use emails obtained from us to promote or link to
-       desktop web games off of [26]Facebook.com.
-       c. Games on [27]Facebook.com or Mobile Web must use Facebook
-       Payments as their sole and exclusive payment method for all virtual
-       goods and currencies made available to users within the game. All
-       other payment options are prohibited within games on
-       [28]Facebook.com or Mobile Web unless they go through Facebook
-       Payments rather than directly through that payment option. By
-       “Payment Method” we mean any method that allows a user to complete
-       a transaction in a game that is on [29]Facebook.com or Mobile Web,
-       including, without limitation, by exchanging monetary value for
-       virtual currency or virtual goods, whether directly at the time of
-       purchase or via any previous transaction such as the user's earlier
-       purchase of a prepaid gift card or electronic code. In-game rewards
-       of virtual currency or virtual goods earned by users through
-       game-play activity alone are exempt from this definition.
-       d. Games on [30]Facebook.com or Mobile Web may reward users with
-       virtual currency or virtual goods in exchange for user actions that
-       do not involve third parties, but rewards for user actions that
-       involve third parties must be powered by Facebook Payments by
-       integrating Facebook Payments offers. For example, you may not
-       reward users with virtual currency or virtual goods in exchange for
-       any action in which personally identifiable information is shared
-       with a third party, you may not reward users with virtual currency
-       or virtual goods in exchange for third party downloads, such as
-       toolbars or ringtones, and you may not reward users with virtual
-       currency for engaging in passive actions offered by third parties,
-       such as watching a video, playing a mini-game, or taking an
-       anonymous poll.
+5. Follow the law
 
-II. Data Collection and Use
-
-    1. You will only request the data you need to operate your
-       application.
-    2. You may cache data you receive through use of the Facebook API in
-       order to improve your application’s user experience, but you should
-       try to keep the data up to date. This permission does not give you
-       any rights to such data.
-    3. You will have a privacy policy that tells users what user data you
-       are going to use and how you will use, display, share, or transfer
-       that data. In addition, you will include your privacy policy URL in
-       the App Dashboard, and must also include a link to your app's
-       privacy policy in any app marketplace that provides you with the
-       functionality to do so.
-    4. Until you display a conspicuous link to your privacy policy in your
-       app, any data accessed by your app (including basic account
-       information) may only be used in the context of the user's
-       experience in that app. A user's friends' data can only be used in
-       the context of the user's experience on your application.
-    5. Subject to certain restrictions, including on use and transfer,
-       users give you their [31]basic account information when they
-       connect with your application. For all other data obtained through
-       use of the Facebook API, you must obtain explicit consent from the
-       user who provided the data to us before using it for any purpose
-       other than displaying it back to the user on your application.
-    6. You will not directly or indirectly transfer any data you receive
-       from us, including user data or Facebook User IDs, to (or use such
-       data in connection with) any ad network, ad exchange, data broker,
-       or other advertising or monetization related toolset, even if a
-       user consents to such transfer or use. By indirectly we mean you
-       cannot, for example, transfer data to a third party who then
-       transfers the data to an ad network. By any data we mean all data
-       obtained through use of the Facebook Platform (API, Social Plugins,
-       etc.), including aggregate, anonymous or derivative data.
-    7. You will not use Facebook User IDs for any purpose outside your
-       application (e.g., your infrastructure, code, or services necessary
-       to build and run your application). Facebook User IDs may be used
-       with external services that you use to build and run your
-       application, such as a web infrastructure service or a distributed
-       computing platform, but only if those services are necessary to
-       running your application and the service has a contractual
-       obligation with you to keep Facebook User IDs confidential.
-    8. If you need an anonymous unique identifier to share outside your
-       application with third parties such as content partners,
-       advertisers, or ad networks, you must use our [32]mechanism. You
-       must never share this anonymous unique identifier with a data
-       broker, information broker, or any other service that we may define
-       as such under our sole discretion.
-    9. You will not sell or purchase any data obtained from us by anyone.
-       If you are acquired by or merge with a third party, you can
-       continue to use user data within your application, but you cannot
-       transfer data outside your application.
-   10. If you stop using Platform or we disable your application, you must
-       delete all information about a user you have received from us
-       unless: (a) it is basic account information; or (b) you have
-       received explicit consent from the user to retain their data.
-   11. You cannot use a user’s friend list outside of your application,
-       even if a user consents to such use, but you can use connections
-       between users who have both connected to your application.
-   12. You will delete all data you receive from us concerning a user if
-       the user asks you to do so, and will provide an easily accessible
-       mechanism for users to make such a request. We may require you to
-       delete data you receive from the Facebook API if you violate our
-       terms.
-   13. You will not include data you receive from us concerning a user in
-       any advertising creative, without explicit consent from that user.
-   14. You must not give your secret key and access tokens to another
-       party, unless that party is an agent acting on your behalf as an
-       operator of your application. You are responsible for all
-       activities that occur under your account identifiers.
-   15. Sharing information with Facebook:
-       a. You must not use, display, share, or transfer a user's data in a
-       manner inconsistent with your privacy policy, and must not give us
-       information that you independently collect from a user or a user's
-       content without that user's consent.
-       b. You must provide an opt-out to users where required.
-       c. You must not knowingly share information with us that you have
-       collected from children under the age of 13 unless you obtain
-       verifiable parental consent that covers Facebook's collection, use
-       and disclosure in compliance with applicable law.
-       d. Web sites or services directed to children under 13: If you use
+    1. You are responsible for restricting access to your content in
+       accordance with all applicable laws and regulations, including
+       geo-filtering or age-gating access where required.
+    2. Don’t provide or promote content that infringes upon the rights of
+       any third party.
+    3. Ensure that you own or secure all rights necessary to display,
+       distribute and deliver all content in your app.
+    4. Satisfy all licensing, reporting and payout obligations to third
+       parties in connection with your app.
+    5. If your app contains content submitted or provided by third
+       parties:
+       a. In the United States, you must take all steps required to fall
+       within the applicable safe harbors of the Digital Millennium
+       Copyright Act including designating an agent to receive notices of
+       claimed infringement, instituting a repeat infringer termination
+       policy and implementing a notice and takedown process.
+       b. In other countries, you must comply with local copyright laws
+       and implement an appropriate notice and takedown process for when
+       you receive a notice of claimed infringement.
+    6. Don’t knowingly share information with us that you have collected
+       from children under the age of 13.
+    7. Web sites or services directed to children under 13: If you use
        Social Plugins or our JavaScript SDK for Facebook on sites and
        services that are directed to children under 13, you are
        responsible for complying with all applicable laws. For example, if
        your web site or service is directed to children in the United
        States, or knowingly collects personal information from children in
        the United States, you must comply with the U.S. Children’s Online
-       Privacy Protection Act. You must also adhere to our [33]usage
-       notes.
-       e. We can analyze your app, content, and data (including data about
-       users' use of your app) for any purpose, including commercial (such
-       as for targeting the delivery of ads on and off Facebook and
-       indexing content for search) or to provide you with insights about
-       the effectiveness of your ads or the use of your app.
-       f. We can monitor your use of, or collect usage data related to,
-       SDKs (including unique identifiers, associated IP addresses,
-       version numbers, and which tools or services are being used and how
-       they are being used).
-       g. We will use information we receive from you in accordance with
-       our [34]Data Use Policy.
+       Privacy Protection Act. You must also adhere to our usage notes.
+    8. Comply with all applicable laws and regulations in the jurisdiction
+       where your app is available. Do not expose Facebook or people who
+       use Facebook to harm or legal liability as determined by us in our
+       sole discretion.
+    9. If applicable, comply with the Video Privacy Protection Act (VPPA)
+       and obtain any opt-in consent necessary to share data on Facebook.
+   10. You agree to indemnify and hold us harmless from and against all
+       damages, losses, and expenses of any kind (including reasonable
+       legal fees and costs) related to any claim against us related to
+       your service, actions, content or information.
 
-III. Content
+6. Things you should know
 
-A. General
+    1. We can analyze your app, content, and data for any purpose,
+       including commercial. [38][851547_537948159656190_540847388_n.png]
+    2. We can monitor or collect data related to your use of SDKs.
+    3. We will use information we receive from you or in connection with
+       your Platform integration in accordance with our [39]Data Use
+       Policy.
+    4. You give us all rights necessary to enable your app to work with
+       Facebook, including the right to incorporate information you
+       provide to us into other parts of Facebook, and the right to
+       attribute the source of information using your name or logos.
+    5. We may share your contact info with people who want to contact you.
+    6. We may use your name, logos, content, and information, including
+       screenshots and video captures of your app, to demonstrate or
+       feature your use of Facebook, worldwide and royalty-free.
+    7. You give us the right to link to or frame your app, and place
+       content, including ads, around your app. If you use our social
+       plugins, feed dialog or share button, you also give us permission
+       to use and allow others to use such links and content on Facebook.
+    8. We can audit your app to ensure it is safe and does not violate our
+       Terms. If requested, you must provide us with proof that your app
+       complies with our terms.
+       [40][851547_537948159656190_540847388_n.png]
+    9. We can create apps or products that offer features and services
+       similar to your app.
+   10. We don’t guarantee that Platform will always be free.
+   11. If you exceed 5M MAU, 100M API calls per day, or 50M impressions
+       per day, you may be subject to additional terms.
+   12. Facebook and its licensors reserve all right, title and interest,
+       including all intellectual property and other proprietary rights,
+       in and to all SDKs.
+   13. Any SDKs you receive from us are provided to you on an "as is"
+       basis, without warranty of any kind.
+   14. We can issue a press release describing our relationship with you.
+   15. We may enforce against your app or web site if we conclude that
+       your app violates our terms or is negatively impacting the
+       Platform. We may or may not notify you in advance.
+   16. Enforcement is both automated and manual, and can include disabling
+       your app, restricting you and your app’s access to platform
+       functionality, requiring that you delete data, terminating our
+       agreements with you or any other action that we deem appropriate.
+   17. We communicate with developers through Developer Alerts and email
+       from the facebook.com or facebookmail.com domain. Ensure that the
+       email address associated with your Facebook account and the email
+       address registered to the app are current and that you don’t filter
+       out these messages.
+   18. We may change these terms at any time without prior notice. Please
+       check them regularly. Your continued use of Platform constitutes
+       acceptance of those changes.
+   19. If you use Social Plugins, Facebook SDKs, or operate a Platform app
+       or website, you must follow our [41]Statement of Rights and
+       Responsibilities and these additional rules unless you have our
+       written permission to do otherwise.
 
-    1. Responsibility for content: You are responsible for all content of
-       and within your application, including advertisements,
-       user-generated content, and any content hosted, streamed or
-       otherwise delivered to users by third parties. You must make it
-       clear that this content is not provided by Facebook. You must also
-       comply with the [35]Facebook Community Standards.
-    2. Demographic restrictions: You are responsible for restricting
-       access to your content in accordance with our content policies and
-       all applicable laws and regulations. Although we [36]provide
-       controls to assist with this, please note that we make no
-       representations regarding the sufficiency of any controls provided
-       to you and that you are ultimately responsible for establishing
-       legally compliant restrictions for each country where your app is
-       visible.
-    3. Advertisements and cross-promotions:
-       a. You must not include advertisements, cross-promote other
-       applications, or provide web search functionality in content
-       distributed through Facebook social channels.
-       b. You can only utilize advertising or similar monetization related
-       products or services from companies that appear on this [37]list of
-       Advertising Providers within [38]Apps on Facebook.com.
-    4. Promotions: If you run, reference, or facilitate a promotion
-       (contest, competition, or sweepstake) on Facebook, you must comply
-       with Facebook’s [39]Promotions Guidelines.
-    5. Permission from Facebook: You must not promote, or provide content
-       referencing, facilitating, or containing online gambling, online
-       real money games of skill or online lotteries without our written
-       permission.
-    6. Quality of content: you are responsible for providing users with a
-       quality experience and must not confuse, defraud, mislead, spam or
-       surprise users. For example, you must monitor your app's negative
-       feedback in [40]Application Insights to ensure it stays below our
-       thresholds, avoid excessive advertisements or bugs, and ensure the
-       description of your app is consistent with your app's content.
+7. Login
 
-B. Content Rights
+    1. Verify that you have integrated Login correctly. Your app shouldn't
+       crash or hang during the testing process.
+    2. Native iOS and Android apps that implement Facebook Login must use
+       our official SDKs for login.
+       [42][851547_537948159656190_540847388_n.png]
+    3. Use a clearly branded "Login with Facebook" button and follow the
+       [43]Facebook Brand Guidelines.
+       [44][851547_537948159656190_540847388_n.png]
+    4. Request only the data and publishing permissions your app needs.
+       [45][851547_537948159656190_540847388_n.png]
+    5. If a person declines a permission, you can prompt them again after
+       they indicate an intent to grant you the permission.
+       [46][851547_537948159656190_540847388_n.png]
+    6. Provide a "Log Out" option that functions properly and is easy to
+       find. [47][851547_537948159656190_540847388_n.png]
 
-    1. You agree that you will not promote or provide content that
-       references, facilitates, contains or uses content that infringes
-       upon the rights of any third party, including intellectual property
-       rights, privacy, publicity, moral or other personal or proprietary
-       rights, or that is deceptive or fraudulent.
-    2. You must ensure that you own or have secured all rights necessary
-       to copy, display, distribute, deliver, render and publicly perform
-       all content of or within your application to Facebook users in all
-       countries where you make the content available.
-    3. You are responsible for all licensing, reporting and payout
-       obligations to third parties required in connection with content of
-       or within your application.
-    4. You must use commercially reasonable geo-filtering technology to
-       block access to your application's content in countries where you
-       are unauthorized to deliver such content, or where delivery of such
-       content would otherwise infringe the rights of a third party.
-    5. Although we have no obligation to do so, in our sole discretion we
-       may request, and you are required to provide us, proof that your
-       application and any content of or within your application is
-       properly licensed.
+8. Ads
 
-C. Third Party Content
+    1. If you have ads in your app on Facebook, comply with our
+       [48]Advertising Guidelines.
+    2. Avoid excessive ads. Don’t let ads distract from your app’s
+       functionality. [49][851547_537948159656190_540847388_n.png]
+    3. Don’t include ads in Page Tab apps.
+    4. If you use a third party ad provider to include ads in your app on
+       Facebook, only use a provider from [50]this list.
+    5. Don’t include third-party ads (including for other apps) in posts,
+       notifications, or requests.
+    6. Don’t include or pair Platform Integrations with non-Facebook ads.
+       [51][851547_537948159656190_540847388_n.png]
+    7. If you run a promotion, contest, competition, or sweepstake on
+       Facebook, comply with our [52]Promotions Policies.
 
-   If your application contains content submitted or provided by third
-   parties, you must comply with the following rules:
-    1. In the United States you must take all steps required to fall
-       within the applicable safe harbors of the Digital Millennium
-       Copyright Act including designating an agent to receive notices of
-       claimed infringement, instituting a repeat infringer termination
-       policy and implementing a "notice and takedown" process. In other
-       countries, you must comply with local copyright laws and implement
-       an appropriate "notice and takedown" process upon receiving a
-       notice of claimed infringement.
+9. Games
 
-IV. Application Integration Points
+    1. Games on Facebook.com:
+       a. Don’t share the same app ID with a desktop web game off of
+       Facebook.com
+       b. Don’t use your Facebook.com game or email addresses you’ve
+       obtained from us to promote or link to a desktop web game off of
+       Facebook. [53][851547_537948159656190_540847388_n.png]
+       c. Use Facebook Payments as your only payment method for all
+       in-game purchases.
+       d. Use Facebook Payments offers if you reward people for actions
+       involving third parties.
+       [54][851547_537948159656190_540847388_n.png]
+    2. Desktop web games off Facebook.com:
+       a. Only use Facebook Login, social plugins, and publishing
+       channels. Don’t use connections such as friends lists.
+       [55][851547_537948159656190_540847388_n.png]
+       b. During authentication, only request age, email, and publishing
+       permissions.
+    3. Games on mobile
+       a. Don’t share the same app ID with a desktop web game off of
+       Facebook.com
+       b. Don’t use your mobile game or email addresses you’ve obtained
+       from us to promote or link to a web game off of Facebook.
+    4. If you want to promote online gambling, online real money games of
+       skill, or online lotteries, first get our written permission.
+    5. If your game includes mandatory or optional in-app charges, explain
+       this in your app’s description.
 
-    1. You must not incentivize users to use (or gate content behind the
-       use of) Facebook social channels, or imply that an incentive is
-       directly tied to the use of our channels.
-    2. You must not pre-fill any of the fields associated with the
-       following products, unless the user manually generated the content
-       earlier in the workflow: Stream stories (user_message parameter for
-       Facebook.streamPublish and FB.Connect.streamPublish, and message
-       parameter for stream.publish), Photos (caption), Videos
-       (description), Notes (title and content), Links (comment), and
-       Jabber/XMPP.
-    3. If a user grants you a publishing [41]permission, actions you take
-       on the user's behalf must be expected by the user and consistent
-       with the user's actions within your app.
-    4. Platform integrations, including social plugins:
-       a. Your advertisements must not include or be paired with any
-       Platform integrations, including social plugins such as the Like
-       button, without our written permission.
-       b. You must not sell or purchase placement of our [42]Social
-       Plugins, and must not facilitate or participate in any like
-       exchange program.
-       c. You must not incentivize users to Like any Page other than your
-       own site or application, and any incentive you provide must be
-       available to new and existing users who Like your Page.
-       d. You must not obscure or cover elements of our social plugins,
-       such as the Like button or Like box plugin.
-       e. Ad networks, ad exchanges, and data brokers must not use
-       Facebook’s Platform, logos, and trademarks (including, but not
-       limited to, Platform APIs, social plugins, the Share button, and
-       the F logo).
-    5. Facebook messaging (i.e., email sent to an @facebook.com address)
-       is designed for communication between users, and not a channel for
-       applications to communicate directly with users.
+10. Payments
 
-V. Enforcement
+    1. If you use Facebook Payments, comply with the [56]Facebook
+       Developer Payments Terms.
+    2. Don’t use Facebook Payments to solicit, collect or transfer funds
+       for charitable causes without our prior permission.
+    3. If you’re using iOS to run your app, use an iOS approved payment
+       method.
+    4. If you accept payments on Facebook, only do so in your app.
+       [57][851547_537948159656190_540847388_n.png]
 
-   We can take enforcement action against you and any or all of your
-   applications if we determine in our sole judgment that you or your
-   application violates Facebook Platform Terms and Policies. Enforcement
-   action is both automated and manual, and can include disabling your
-   application, restricting you and your application's access to Platform
-   functionality, terminating our agreements with you, or any other action
-   as we in our sole discretion deem appropriate.
+11. App Center
 
-   Communication with developers takes place via an email sent from the
-   facebook.com or facebookmail.com domain to the contact email address
-   registered to the application. To stay in touch, please ensure that
-   your email address is current and that you do not filter out any such
-   messages.
+    1. Apps eligible for the Facebook App Center must use Facebook Login
+       or have a Facebook Canvas or Page Tab app.
+    2. App Detail and Description:
+       a. Ensure the app’s name and information are grammatically correct.
+       [58][851547_537948159656190_540847388_n.png]
+       b. Don't include URLs or use the Facebook brand.
+       [59][851547_537948159656190_540847388_n.png]
+       c. Don’t include keyword lists, excessive punctuation, or
+       non-standard symbols. [60][851547_537948159656190_540847388_n.png]
+    3. All Images:
+       a. Use high quality, relevant images that reflect the app
+       experience.
+       b. Comply with our [61]Facebook Brand Guidelines and [62]Community
+       Standards. [63][851547_537948159656190_540847388_n.png]
+       c. Don't use pixelated, stretched, or distorted images.
+       d. Keep any text concise. Don't obstruct the images.
+       [64][851547_537948159656190_540847388_n.png]
+       e. Don’t include third-party logos, website URLs, promotional ads
+       or 'Play' buttons. [65][851547_537948159656190_540847388_n.png]
+    4. Icons:
+       a. Keep icons simple and free of visual clutter.
+       [66][851547_537948159656190_540847388_n.png]
+       b. Use a transparent or colored background. If your icon requires a
+       white background, use a colored border.
+       [67][851547_537948159656190_540847388_n.png]
+       c. Icons on a white background should be in a colored frame.
+       [68][851547_537948159656190_540847388_n.png]
+       d. Icons that have rounded corners should use a colored or
+       transparent background.
+       [69][851547_537948159656190_540847388_n.png]
+       e. If your logo has a drop shadow, place it on a colored
+       background. [70][851547_537948159656190_540847388_n.png]
+    5. Cover Images:
+       a. Don’t significantly obscure the cover image with the icon.
+       [71][851547_537948159656190_540847388_n.png]
+    6. Banners:
+       a. Display the app’s name.
+       [72][851547_537948159656190_540847388_n.png]
+       b. Don’t include white space, rounded edges, or borders.
+       [73][851547_537948159656190_540847388_n.png]
+    7. Videos:
+       a. Display the app's name.
+       [74][851547_537948159656190_540847388_n.png]
+       b. Clearly represent the purpose of the app and show accurate,
+       relevant in-app experiences.
+       c. Keep your video high-quality and high-resolution. It should not
+       be distorted or pixelated.
+       [75][851547_537948159656190_540847388_n.png]
+       d. Your video and its video cover image should be clear and
+       recognizable. Don't include ads, excessive text, or URLs.
+       [76][851547_537948159656190_540847388_n.png]
+       e. Comply with our [77]Facebook Brand Guidelines and [78]Community
+       Standards. [79][851547_537948159656190_540847388_n.png]
 
-VI. Changes
+12. Open Graph
 
-   We can change these Platform Policies at any time without prior notice
-   as we deem necessary. Your continued use of Platform constitutes
-   acceptance of those changes.
+    1. Open Graph Custom Actions:
+       a. Don’t recreate actions that are already supported.
+       b. Write the action and object in a clear and simple way.
+       [80][851547_537948159656190_540847388_n.png]
+       c. Make sure the story is grammatically correct.
+       [81][851547_537948159656190_540847388_n.png]
+       d. Use English.
+       e. Don’t indicate a person’s consumption, browsing, discovering, or
+       viewing of content.[82] [851547_537948159656190_540847388_n.png]
+       f. Don’t indicate a person has installed, visited, or connected to
+       your app. [83][851547_537948159656190_540847388_n.png]
+    2. Read and Watch Actions:
+       a. Publish actions only after a person has been on a page for more
+       than 10 seconds.
+       b. Allow people to remove stories published to Facebook on the same
+       page where the content is hosted.
+       [84][851547_537948159656190_540847388_n.png]
+    3. Eligibility for Additional Properties:
+       a. Use action tagging only when the tagged person participated in
+       the action. [85][851547_537948159656190_540847388_n.png]
+       b. Use place tagging only when a person is at the referenced
+       location. [86][851547_537948159656190_540847388_n.png]
+       c. Use mention tagging only to mention people in the user message
+       field. [87][851547_537948159656190_540847388_n.png]
+       d. Sharing controls should be in-line whenever a person is asked to
+       explicitly share something.
+       [88][851547_537948159656190_540847388_n.png]
 
-VII. Branding and Promotion Policy
+13. Social Plugins
 
-    1. You must follow the guidelines set forth in the [43]Facebook Brand
-       Resource and Permissions Center.
-    2. Your app's description, display name and icons must adhere to our
-       [44]Advertising Guidelines.
+    1. Don’t include or pair Platform Integrations with non-Facebook
+       advertisements. [89][851547_537948159656190_540847388_n.png]
+    2. Don’t sell or purchase placement of social plugins or sharer.php.
+    3. Don’t participate in any “like” or “share” exchange programs.
+    4. Don’t obscure or cover elements of social plugins.
 
-VIII. [45]Advertising Guidelines
+14. Ads API
 
-IX. [46]Facebook Developer Payments Terms
-
-   Developers participating in the program for accepting payments are
-   subject to [47]these terms.
-
-X. Ads API
-
-    1. Separate apps: You must use separate apps for your staging,
-       self-service, managed service, and white-labeled apps. If you offer
-       a white-label version of your app, you must only do so by creating
-       a unique app for each end-advertiser (or requiring each
-       end-advertiser to create their own app) and you must include a
-       required field for the third party to agree to Facebook's Platform
-       Policies.
-    2. Separate ad accounts: You must use separate ad accounts for each
-       end-advertiser and use our multi-client manager functionality to
-       structure your end-advertiser accounts. You must never combine
-       multiple end-advertisers within the same ad account, and this
-       includes their connections on Facebook (ex: pages and apps).
-    3. Freemium: If you offer a free or trial version of an ads API app,
-       you must allow no more than 50 ad creations per day per customer,
-       require phone or email verification for all new accounts, and
-       prohibit affiliate networks from using your technology.
-    4. Pricing transparency:
-       a. You must only charge fees for the use of your tools and managed
-       services, and must only do so on a fixed fee (per campaign or
-       period) or variable percentage of ad spend. You must disclose to
-       your clients the actual amount that you spent on Facebook
-       advertising based on the auction pricing, including the actual
-       Facebook metrics (e.g. CPC, CPM rate) and the amount you charged as
-       fees. We reserve the right to disclose this information to your
-       client upon their request. We may require documentation from you to
-       ensure your compliance with this policy.
-       b. You must not sell ads on a fixed CPM or CPC basis when using the
-       Facebook advertising auction without our prior permission.
-    5. Data collection and use:
-       a. You may place 1x1 pixel view tags on certain advertisements with
-       our prior authorization.
-       b. All data collected or obtained by you or the end-advertiser,
-       including but not limited to all view tag data that is not
-       otherwise available through the Facebook service, and all data
-       derived therefrom, may only be used by you or the end-advertiser on
-       an anonymous basis to optimize and measure the performance of that
-       end-advertiser's Facebook campaign. Neither you nor the
-       end-advertiser may use data for the following purposes: retargeting
-       whether on or off of the Facebook service; to commingle data across
-       an advertiser's campaigns from multiple platforms; to build or
-       augment any user profiles, or to use piggybacking or redirects with
-       the 1x1 pixel tags, or for any other purpose not expressly
-       authorized by us.
-       c. You must not permit any person (other than an agent acting on
-       the end-advertiser's behalf) to access the end-advertiser's Ad or
-       Sponsored Story advertising statistics, including but not limited
-       to, fixed CPM rates and any other raw, aggregate, or anonymous
-       statistics derived from this data.
-    6. Separate Reporting: If you use last-click attribution, create
-       reporting tools that separate Facebook reporting from other
-       channels. For example, don't create reporting dashboards that
-       directly compare Facebook Ads metrics to search or display
-       marketing metrics on a last-click basis. If you support other
-       channels, you must either create a separate Facebook tool, include
-       Facebook metrics in a separate Facebook section of your tool, or
-       show multi-touch attribution results side-by-side with last-click
-       attribution results. You may report Facebook mobile ads ROI metrics
-       as they relate to other mobile ads channels.
-    7. Self-service reporting for Homepage ads: You must include a
-       self-service reporting dashboard, through which end-advertisers may
-       access up-to-date reports (raw ad statistics) for all available
-       data points of their Homepage Ad and Sponsored Story campaigns.
-    8. Bidding types: You must implement all bidding types, including
-       Optimized CPM, and you must not default to a specific type (ex: you
-       must not default to CPC and hide oCPM).
+    1. Use separate app IDs for your staging, self-service, managed
+       service, and each client white-labeled apps. Don’t comingle these
+       services.
+    2. Use our multi-client manager to structure your end advertiser
+       accounts.
+    3. Don’t combine multiple end-advertisers or their Facebook
+       connections (i.e. Pages) in the same ad account.
+    4. Free or trial versions of an ads API app:
+       a. Don’t allow more than 50 ad creations a day per customer.
+       b. Require phone or email verification on new accounts.
+       c. Don’t allow affiliate networks to use your technology.
+    5. Pricing transparency:
+       a. Only charge fees for the use of your tools and managed services
+       with a fixed fee or variable percentage of ad spend.
+       b. Proactively disclose to end advertisers the amount that you
+       spent on Facebook advertising, using Facebook metrics (e.g., CPC,
+       CPM rate), separate from your fees.
+       c. Disclose the amount you charged as fees on Facebook advertising.
+       d. We may disclose fees or the amount you spent on Facebook
+       advertising to your clients if they request it.
+       e. We may require documentation from you to ensure your compliance
+       with these terms.
+       f. Don’t sell ads on a fixed CPM or CPC basis when using the
+       Facebook advertising auction.
+    6. Data Collection and Use:
+       a. If you have our prior written permission, you can place 1x1
+       pixel view tags on advertisements.
+       b. Data collected by you or you or the end-advertiser may only used
+       by you or the end-advertiser.
+       c. Ensure that any data that is collected is anonymous.
+       d. Only use data from an end-advertiser’s campaign to optimize or
+       measure the performance of that end-advertiser’s Facebook campaign.
+       e. Don’t use data to retarget on or off of Facebook.
+       f. Don’t mix data obtained from us with advertising campaigns on
+       different platforms.
+       g. Don’t use data to build or augment any user profiles.
+       h. Don’t use piggybacking or redirects.
+       i. Don’t let people other than those acting on an end-advertiser’s
+       behalf access Facebook ad statistics.
+    7. Separate Reporting:
+       a. If you use last-click attribution, create reporting tools that
+       separate Facebook reporting from other channels.
+       b. If you support other channels, do one of the following:
+       i. Create a separate Facebook tool.
+       ii. Include Facebook metrics in a separate Facebook section of your
+       tool.
+       iii. Show multi-touch attribution results side-by-side with
+       last-click attribution results.
+       c. You can report Facebook mobile ads ROI metrics if they relate to
+       other mobile ad channels.
+    8. Implement all bidding types including Optimized CPM.
     9. Custom Audiences:
-       a. If you use custom audiences you must comply with the [48]Custom
-       Audience Terms.
-       b. You may create a custom audience on a client's behalf but must
-       only use the client's customer data to do so (ex: you must not
-       collect or provide any additional data to create a custom
-       audience).
-       c. You must not use Facebook User IDs to create custom audiences
-       unless the person associated with the User ID has logged into your
-       client's app and your client has secured any necessary consent from
-       that person (ex: you must not create a custom audience based on
-       users who have engaged with a Facebook Page).
-       d. You must not sell custom audiences, and must not transfer a
-       custom audience to anyone without our permission.
-       e. Your custom audience tool may provide the same functionality and
-       targeting options that Facebook provides, but you must not provide
-       additional data or targeting options.
-   10. Enforcement: You must immediately revoke an end-advertiser's access
-       to your app upon our request.
+       a. If you use custom audiences, comply with the [90]Custom Audience
+       Terms.
+       b. Only use a client’s data when creating custom audiences ontheir
+       behalf.
+       c. Only use a Facebook User ID to create custom audiences when the
+       person whose User ID is being used has logged into the client’s app
+       and has given the necessary consent.
+       d. Don’t sell or transfer custom audiences.
+       e. Don’t provide data or targeting options that differ from those
+       offered by Facebook on your custom audience tool
+   10. Revoke an end-advertiser’s access to your app if we request it.
 
-XI. License
+15. Definitions
 
-    1. We give you a license to use the code, APIs, data, and tools you
-       receive from us for use with the Facebook Platform. Don't sell,
-       transfer, or sublicense our code, APIs, or tools to anyone without
-       our prior written permission. If they need a license, they should
-       get it from us.
-    2. Facebook SDKs:
-       a. Facebook and its licensors reserve all right, title and
-       interest, including all intellectual property and other proprietary
-       rights, in and to all SDKs.
-       b. Subject to your compliance with our Platform Policies, you may
-       use SDKs (or any components thereof) solely to develop and
-       distribute applications for use with the Facebook Platform, and you
-       may also distribute any code libraries or sample source code
-       included in the SDKs for inclusion in such applications. You will
-       not modify, translate, create derivative works of, or reverse
-       engineer any SDK (or any components thereof). Any SDKs you receive
-       from us are provided to you on an "as is" basis, without warranty
-       of any kind.
-
-XII. Definitions
-
-    1. By "Application" we mean canvas page application, Platform
-       integration, or any other technical integration we have assigned an
-       application identification number.
-    2. By "Facebook social channel" we mean Application Info Section, Page
-       Tab, Feed, Requests (including invites), inbox attachments, Chat,
-       Cover, Bookmarks, or any other feature of a user profile or
-       Facebook communication channel in which or through which an
-       application can provide, display, or deliver content directed at,
-       on behalf of, or by permission of a user.
-    3. By “basic account information” we mean: name, email, gender,
-       birthday, current city, and profile picture URL.
-    4. By "Facebook Platform Terms and Policies" we mean the Statement of
-       Rights and Responsibilities and the Platform Policies.
-    5. By "User data you receive from Facebook" we mean any data or
-       content (including any images, text, or other information or
-       materials) you receive from us, that was provided by users to us,
-       or was associated by us with a particular user.
-    6. By "SDK" we mean any object code library, sample source code, or
-       documentation you receive from us that helps you create
-       applications for use with the Facebook Platform.
-
-Examples and Explanations
-
-   We want you to be successful on Facebook Platform, and we believe that
-   the best way to do so is to provide a great user experience. Our
-   Platform Policies will help you do this by explaining what’s required;
-   these [49]examples and explanations will help you understand how to put
-   that into practice.
+    1. “App” means any technical integration we have assigned an app
+       identification number.
+    2. "Account information" consists of: name, email, gender, birthday,
+       current city and profile picture URL.
+    3. “User data” means any data, including a person's content or
+       information that you or third parties obtain from or through
+       Facebook.
+    4. "SDK" means any object code library, sample source code, or
+       documentation you receive from us that helps you create apps for
+       use with the Facebook Platform.
 
 Additional Languages
 
-   [50]العربية
+   [91]العربية
 
-   [51]中文(香港)
+   [92]中文(香港)
 
-   [52]中文(台灣)
+   [93]中文(台灣)
 
-   [53]Deutsch
+   [94]Deutsch
 
-   [54]Español
+   [95]Español
 
-   [55]Français
+   [96]Français
 
-   [56]עברית
+   [97]עברית
 
-   [57]Italiano
+   [98]Italiano
 
-   [58]日本語
+   [99]日本語
 
-   [59]한국어
+   [100]한국어
 
-   [60]Polski
+   [101]Polski
 
-   [61]Português (Brasil)
+   [102]Português (Brasil)
 
-   [62]Türkçe
+   [103]Türkçe
 
-   [63]Tiếng Việt
+   [104]Tiếng Việt
 
 References
 
    1. https://developers.facebook.com/policy/?_fb_noscript=1
-   2. https://www.facebook.com/legal/terms
-   3. https://developers.facebook.com/policy/intro
-   4. https://developers.facebook.com/policy/#features
-   5. https://developers.facebook.com/policy/#data
-   6. https://developers.facebook.com/policy/#content
-   7. https://developers.facebook.com/policy/#integration
-   8. https://developers.facebook.com/policy/#enforcement
-   9. https://developers.facebook.com/policy/#changes
-  10. https://developers.facebook.com/policy/#brandingpromo
-  11. https://developers.facebook.com/policy/#ads
-  12. https://developers.facebook.com/policy/#credits
-  13. https://developers.facebook.com/policy/#adsapi
-  14. https://developers.facebook.com/policy/#license
-  15. https://developers.facebook.com/policy/#definitions
-  16. https://developers.facebook.com/policy/#otherlanguages
-  17. https://www.facebook.com/help/contact/?id=206103619499608
-  18. https://developers.facebook.com/docs/guides/canvas/
-  19. https://developers.facebook.com/docs/authentication/
-  20. https://developers.facebook.com/docs/plugins/
-  21. https://developers.facebook.com/docs/authentication/permissions/
-  22. https://developers.facebook.com/docs/publishing/
-  23. https://developers.facebook.com/docs/guides/canvas/
-  24. https://developers.facebook.com/docs/guides/canvas/
-  25. https://developers.facebook.com/docs/guides/canvas/#canvas/
-  26. https://developers.facebook.com/docs/guides/canvas/
-  27. https://developers.facebook.com/docs/guides/canvas/
-  28. https://developers.facebook.com/docs/guides/canvas/
-  29. https://developers.facebook.com/docs/guides/canvas/
-  30. https://developers.facebook.com/docs/guides/canvas/
-  31. https://developers.facebook.com/policy/#definitions
-  32. https://developers.facebook.com/docs/reference/api/user/
-  33. https://developers.facebook.com/docs/plugins/restrictions/
-  34. https://www.facebook.com/about/privacy/
-  35. https://www.facebook.com/communitystandards
-  36. https://developers.facebook.com/docs/reference/api/application/#restrictions
-  37. https://developers.facebook.com/adproviders/
-  38. https://developers.facebook.com/docs/guides/canvas/
-  39. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  40. https://www.facebook.com/insights
-  41. https://developers.facebook.com/docs/authentication/permissions/
-  42. https://developers.facebook.com/docs/plugins/
-  43. https://www.facebook.com/brandpermissions/logos.php
-  44. https://www.facebook.com/ad_guidelines.php
-  45. https://www.facebook.com/ad_guidelines.php
-  46. https://developers.facebook.com/policy/credits
-  47. https://developers.facebook.com/policy/credits
-  48. https://www.facebook.com/ads/manage/customaudiences/tos.php
-  49. https://developers.facebook.com/docs/guides/policy/examples_and_explanations
-  50. https://developers.facebook.com/policy/Arabic/
-  51. https://developers.facebook.com/policy/ChineseHK/
-  52. https://developers.facebook.com/policy/ChineseTW/
-  53. https://developers.facebook.com/policy/Deutsch/
-  54. https://developers.facebook.com/policy/Espanol/
-  55. https://developers.facebook.com/policy/Francais/
-  56. https://developers.facebook.com/policy/Hebrew/
-  57. https://developers.facebook.com/policy/Italiano/
-  58. https://developers.facebook.com/policy/Japanese/
-  59. https://developers.facebook.com/policy/Korean/
-  60. https://developers.facebook.com/policy/Polski/
-  61. https://developers.facebook.com/policy/Portugues/
-  62. https://developers.facebook.com/policy/Turkce/
-  63. https://developers.facebook.com/policy/Vietnamese/
+   2. https://developers.facebook.com/policy/#quality
+   3. https://developers.facebook.com/policy/#control
+   4. https://developers.facebook.com/policy/#data
+   5. https://developers.facebook.com/policy/#properuse
+   6. https://developers.facebook.com/policy/#law
+   7. https://developers.facebook.com/policy/#thingstoknow
+   8. https://developers.facebook.com/policy/#login
+   9. https://developers.facebook.com/policy/#ads
+  10. https://developers.facebook.com/policy/#games
+  11. https://developers.facebook.com/policy/#payments
+  12. https://developers.facebook.com/policy/#appcenter
+  13. https://developers.facebook.com/policy/#opengraph
+  14. https://developers.facebook.com/policy/#socialplugins
+  15. https://developers.facebook.com/policy/#adsapi
+  16. https://developers.facebook.com/policy/#definitions
+  17. https://developers.facebook.com/policy/
+  18. https://www.facebook.com/communitystandards
+  19. https://www.facebook.com/ad_guidelines.php
+  20. https://developers.facebook.com/policy/
+  21. https://developers.facebook.com/policy/
+  22. https://developers.facebook.com/policy/
+  23. https://developers.facebook.com/docs/
+  24. https://developers.facebook.com/policy/
+  25. https://developers.facebook.com/policy/
+  26. https://developers.facebook.com/docs/apps/review/prefill
+  27. https://developers.facebook.com/policy/
+  28. https://developers.facebook.com/policy/
+  29. https://developers.facebook.com/policy/
+  30. https://developers.facebook.com/policy/
+  31. https://developers.facebook.com/policy/
+  32. https://developers.facebook.com/policy/
+  33. https://developers.facebook.com/policy/
+  34. https://developers.facebook.com/policy/
+  35. https://developers.facebook.com/docs/apps/review/canvasredirect
+  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=uAQH3d91s&s=1
+  37. https://developers.facebook.com/policy/
+  38. https://developers.facebook.com/policy/
+  39. https://www.facebook.com/about/privacy/
+  40. https://developers.facebook.com/policy/
+  41. https://www.facebook.com/legal/terms
+  42. https://developers.facebook.com/policy/
+  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=EAQEE_uu8&s=1
+  44. https://developers.facebook.com/docs/apps/review/branding
+  45. https://developers.facebook.com/policy/
+  46. https://developers.facebook.com/policy/
+  47. https://developers.facebook.com/policy/
+  48. https://www.facebook.com/ad_guidelines.php
+  49. https://developers.facebook.com/policy/
+  50. https://developers.facebook.com/docs/adproviders/
+  51. https://developers.facebook.com/policy/
+  52. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  53. https://developers.facebook.com/policy/
+  54. https://developers.facebook.com/policy/
+  55. https://developers.facebook.com/policy/
+  56. https://developers.facebook.com/policy/payments_terms/
+  57. https://developers.facebook.com/policy/
+  58. https://developers.facebook.com/policy/
+  59. https://developers.facebook.com/policy/
+  60. https://developers.facebook.com/policy/
+  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=_AQFaqFdF&s=1
+  62. https://www.facebook.com/communitystandards
+  63. https://developers.facebook.com/docs/apps/review/branding
+  64. https://developers.facebook.com/policy/
+  65. https://developers.facebook.com/policy/
+  66. https://developers.facebook.com/policy/
+  67. https://developers.facebook.com/policy/
+  68. https://developers.facebook.com/policy/
+  69. https://developers.facebook.com/policy/
+  70. https://developers.facebook.com/policy/
+  71. https://developers.facebook.com/policy/
+  72. https://developers.facebook.com/policy/
+  73. https://developers.facebook.com/policy/
+  74. https://developers.facebook.com/policy/
+  75. https://developers.facebook.com/policy/
+  76. https://developers.facebook.com/policy/
+  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=SAQGuMin4&s=1
+  78. https://www.facebook.com/communitystandards
+  79. https://developers.facebook.com/docs/apps/review/branding
+  80. https://developers.facebook.com/policy/
+  81. https://developers.facebook.com/policy/
+  82. https://developers.facebook.com/policy/
+  83. https://developers.facebook.com/policy/
+  84. https://developers.facebook.com/policy/
+  85. https://developers.facebook.com/policy/
+  86. https://developers.facebook.com/policy/
+  87. https://developers.facebook.com/policy/
+  88. https://developers.facebook.com/policy/
+  89. https://developers.facebook.com/policy/
+  90. https://www.facebook.com/ads/manage/customaudiences/tos.php
+  91. https://developers.facebook.com/policy/Arabic/
+  92. https://developers.facebook.com/policy/ChineseHK/
+  93. https://developers.facebook.com/policy/ChineseTW/
+  94. https://developers.facebook.com/policy/Deutsch/
+  95. https://developers.facebook.com/policy/Espanol/
+  96. https://developers.facebook.com/policy/Francais/
+  97. https://developers.facebook.com/policy/Hebrew/
+  98. https://developers.facebook.com/policy/Italiano/
+  99. https://developers.facebook.com/policy/Japanese/
+ 100. https://developers.facebook.com/policy/Korean/
+ 101. https://developers.facebook.com/policy/Polski/
+ 102. https://developers.facebook.com/policy/Portugues/
+ 103. https://developers.facebook.com/policy/Turkce/
+ 104. https://developers.facebook.com/policy/Vietnamese/
