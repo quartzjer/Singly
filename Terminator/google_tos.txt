@@ -15,10 +15,9 @@
 
 Google Terms of Service
 
-Welcome to Google!
+   Last modified: April 14, 2014 ([10]view archived versions)
 
-   The below terms are effective April 14, 2014. To view previous versions
-   click [10]here.
+Welcome to Google!
 
    Thanks for using our products and services (â€œServicesâ€�). The
    Services are provided by Google Inc. (â€œGoogleâ€�), located at 1600
@@ -272,7 +271,7 @@ Our legal policies
      * Terms of Service
      * [17]FAQ
 
-Some technical details
+More information
 
      * [18]Technologies and Principles
      * [19]Advertising
@@ -281,11 +280,12 @@ Some technical details
      * [22]Types of location data used by Google
      * [23]How Google Wallet uses credit card numbers
      * [24]How Google Voice works
+     * [25]How Google uses data when you use our partners' sites or apps
 
    Change language: [English____________________________________________]
-     * [25]Google
-     * [26]About Google
-     * [27]Privacy & Terms
+     * [26]Google
+     * [27]About Google
+     * [28]Privacy & Terms
 
 References
 
@@ -293,10 +293,10 @@ References
    2. http://www.google.com/intl/en/policies/
    3. http://www.google.com/intl/en/policies/terms/#content
    4. http://www.google.com/intl/en/policies/
-   5. http://www.google.com/intl/en/policies/privacy/index.html
-   6. http://www.google.com/intl/en/policies/terms/index.html
-   7. http://www.google.com/intl/en/policies/technologies/index.html
-   8. http://www.google.com/intl/en/policies/faq/index.html
+   5. http://www.google.com/intl/en/policies/privacy/
+   6. http://www.google.com/intl/en/policies/terms/
+   7. http://www.google.com/intl/en/policies/technologies/
+   8. http://www.google.com/intl/en/policies/faq/
    9. http://www.google.com/intl/en/policies/terms/archive/
   10. http://www.google.com/intl/en/policies/terms/archive/
   11. http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
@@ -313,6 +313,7 @@ References
   22. http://www.google.com/intl/en/policies/technologies/location-data/
   23. http://www.google.com/intl/en/policies/technologies/wallet/
   24. http://www.google.com/intl/en/policies/technologies/voice/
-  25. http://www.google.com/
-  26. http://www.google.com/intl/en/about/
-  27. http://www.google.com/intl/en/policies/
+  25. http://www.google.com/intl/en/policies/privacy/partners/
+  26. http://www.google.com/
+  27. http://www.google.com/intl/en/about/
+  28. http://www.google.com/intl/en/policies/
