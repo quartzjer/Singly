@@ -532,22 +532,6 @@ Explore
      * [39]Calories in Foods
      * [40]Search Foods
 
-Help
-
-     * [41]Fitbit Online Help
-     * [42]Returns and Warranty
-     * [43]Setup and Downloads
-     * [44]Supported Syncing Devices
-
-Device Help
-
-     * [45]Flex Tracker Help
-     * [46]Zip Tracker Help
-     * [47]One Tracker Help
-     * [48]Ultra Tracker Help
-     * [49]Force Tracker Help
-     * [50]Aria Scale Help
-
 References
 
    Visible links
@@ -591,17 +575,7 @@ References
   38. http://www.fitbit.com/foods/brands
   39. http://www.fitbit.com/foods/categories
   40. http://www.fitbit.com/foods/search
-  41. http://help.fitbit.com/
-  42. http://www.fitbit.com/returns
-  43. http://www.fitbit.com/setup
-  44. http://www.fitbit.com/devices
-  45. http://help.fitbit.com/#product_flex
-  46. http://help.fitbit.com/#product_zip
-  47. http://help.fitbit.com/#product_one
-  48. http://help.fitbit.com/#product_ultra
-  49. http://help.fitbit.com/#product_force
-  50. http://help.fitbit.com/#product_aria
 
    Hidden links:
-  51. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
-  52. http://wiki.fitbit.com/display/API
+  41. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
+  42. http://wiki.fitbit.com/display/API

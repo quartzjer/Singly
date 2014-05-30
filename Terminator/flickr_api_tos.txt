@@ -387,8 +387,8 @@ References
   18. https://music.yahoo.com/
   19. https://tv.yahoo.com/
   20. http://health.yahoo.com/
-  21. http://yahoo.com/food
-  22. http://yahoo.com/tech
+  21. https://yahoo.com/food
+  22. https://yahoo.com/tech
   23. http://shopping.yahoo.com/
   24. https://yahoo.com/travel
   25. https://autos.yahoo.com/
