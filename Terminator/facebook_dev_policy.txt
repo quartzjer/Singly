@@ -568,14 +568,14 @@ References
   33. https://developers.facebook.com/policy/
   34. https://developers.facebook.com/policy/
   35. https://developers.facebook.com/docs/apps/review/canvasredirect
-  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=XAQG9Qfy5&s=1
+  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=cAQEAvDpq&s=1
   37. https://developers.facebook.com/policy/
   38. https://developers.facebook.com/policy/
   39. https://www.facebook.com/about/privacy/
   40. https://developers.facebook.com/policy/
   41. https://www.facebook.com/legal/terms
   42. https://developers.facebook.com/policy/
-  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=7AQHBshKL&s=1
+  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=cAQEAvDpq&s=1
   44. https://developers.facebook.com/docs/apps/review/branding
   45. https://developers.facebook.com/policy/
   46. https://developers.facebook.com/policy/
@@ -593,7 +593,7 @@ References
   58. https://developers.facebook.com/policy/
   59. https://developers.facebook.com/policy/
   60. https://developers.facebook.com/policy/
-  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=uAQGtyfCv&s=1
+  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=cAQEAvDpq&s=1
   62. https://www.facebook.com/communitystandards
   63. https://developers.facebook.com/docs/apps/review/branding
   64. https://developers.facebook.com/policy/
@@ -609,7 +609,7 @@ References
   74. https://developers.facebook.com/policy/
   75. https://developers.facebook.com/policy/
   76. https://developers.facebook.com/policy/
-  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=TAQFjfg1v&s=1
+  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=UAQHenHt-&s=1
   78. https://www.facebook.com/communitystandards
   79. https://developers.facebook.com/docs/apps/review/branding
   80. https://developers.facebook.com/policy/
