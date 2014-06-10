@@ -191,8 +191,8 @@
    Certificate, you agree to these Gift Purchaser Terms located at
    [9]http://www.flickr.com/gift_terms_purchaser.gne that supplement the
    Yahoo! Terms of Service ("TOS") located at
-   [10]http://docs.yahoo.com/info/terms/ (and any successor pages), which
-   are incorporated by reference.
+   [10]http://www.flickr.com/utos_detect.gne (and any successor pages),
+   which are incorporated by reference.
 
    Separate Terms of Service govern the redemption and use of the gift
    certificate and the use of the product by the recipient, and must be
@@ -333,6 +333,6 @@ References
    7. https://www.flickr.com/help/limits/#28
    8. http://info.yahoo.com/privacy/us/yahoo/wallet/details.html
    9. https://www.flickr.com/gift_terms_purchaser.gne
-  10. http://docs.yahoo.com/info/terms/
+  10. https://www.flickr.com/utos_detect.gne
   11. https://www.flickr.com/gift_terms_redeemer.gne
   12. http://privacy.yahoo.com/
