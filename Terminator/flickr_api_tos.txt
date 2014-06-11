@@ -419,7 +419,7 @@ References
   50. https://www.flickr.com/jobs/
   51. https://www.flickr.com/help/guidelines/
   52. https://www.flickr.com/abuse/
-  53. https://help.yahoo.com/flickr
+  53. https://help.yahoo.com/kb/flickr/?locale=en_US
   54. https://www.flickr.com/help/forum/
   55. https://yahoo.uservoice.com/forums/211185-us-flickr
   56. http://info.yahoo.com/relevantads
