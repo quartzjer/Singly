@@ -586,7 +586,7 @@ References
   33. http://dev.fitbit.com/
   34. http://www.fitbit.com/where-to-buy
   35. http://www.fitbit.com/affiliate
-  36. http://www.fitbit.com/product/corporate-solutions
+  36. http://www.fitbit.com/fitbit-wellness
   37. http://www.fitbit.com/foods/restaurants
   38. http://www.fitbit.com/foods/brands
   39. http://www.fitbit.com/foods/categories
