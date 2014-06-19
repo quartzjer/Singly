@@ -603,5 +603,5 @@ References
   50. http://help.fitbit.com/#product_aria
 
    Hidden links:
-  51. https://groups.google.com/forum/?hl=en&lnk=gcimh#!forum/fitbit-api
+  51. https://community.fitbit.com/t5/Web-API/bd-p/dev
   52. http://wiki.fitbit.com/display/API

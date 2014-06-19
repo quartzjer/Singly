@@ -384,7 +384,7 @@ References
   14. https://www.flickr.com/services/api/tos
   15. https://celebrity.yahoo.com/
   16. https://shine.yahoo.com/
-  17. https://movies.yahoo.com/
+  17. https://www.yahoo.com/movies
   18. https://music.yahoo.com/
   19. https://tv.yahoo.com/
   20. http://health.yahoo.com/

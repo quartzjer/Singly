@@ -292,7 +292,7 @@ Platform Policy
 
     1. Games on Facebook.com:
        a. Don’t share the same app ID with a desktop web game off of
-       Facebook.com
+       Facebook.com.
        b. Don’t use your Facebook.com game or email addresses you’ve
        obtained from us to promote or link to a desktop web game off of
        Facebook. [53][851547_537948159656190_540847388_n.png]
@@ -307,9 +307,9 @@ Platform Policy
        [55][851547_537948159656190_540847388_n.png]
        b. During authentication, only request age, email, and publishing
        permissions.
-    3. Games on mobile
+    3. Games on mobile:
        a. Don’t share the same app ID with a desktop web game off of
-       Facebook.com
+       Facebook.com.
        b. Don’t use your mobile game or email addresses you’ve obtained
        from us to promote or link to a web game off of Facebook.
     4. If you want to promote online gambling, online real money games of
@@ -451,8 +451,8 @@ Platform Policy
     6. Data Collection and Use:
        a. If you have our prior written permission, you can place 1x1
        pixel view tags on advertisements.
-       b. Data collected by you or you or the end-advertiser may only used
-       by you or the end-advertiser.
+       b. Data collected by you or the end-advertiser may only be used by
+       you or the end-advertiser.
        c. Ensure that any data that is collected is anonymous.
        d. Only use data from an end-advertiser’s campaign to optimize or
        measure the performance of that end-advertiser’s Facebook campaign.
@@ -485,7 +485,7 @@ Platform Policy
        and has given the necessary consent.
        d. Don’t sell or transfer custom audiences.
        e. Don’t provide data or targeting options that differ from those
-       offered by Facebook on your custom audience tool
+       offered by Facebook on your custom audience tool.
    10. Revoke an end-advertiser’s access to your app if we request it.
 
 15. Definitions
@@ -568,14 +568,14 @@ References
   33. https://developers.facebook.com/policy/
   34. https://developers.facebook.com/policy/
   35. https://developers.facebook.com/docs/apps/review/canvasredirect
-  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=dAQH3waX_&s=1
+  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=2AQHeizKZ&s=1
   37. https://developers.facebook.com/policy/
   38. https://developers.facebook.com/policy/
   39. https://www.facebook.com/about/privacy/
   40. https://developers.facebook.com/policy/
   41. https://www.facebook.com/legal/terms
   42. https://developers.facebook.com/policy/
-  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=vAQHU9ypF&s=1
+  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=2AQHeizKZ&s=1
   44. https://developers.facebook.com/docs/apps/review/branding
   45. https://developers.facebook.com/policy/
   46. https://developers.facebook.com/policy/
@@ -593,7 +593,7 @@ References
   58. https://developers.facebook.com/policy/
   59. https://developers.facebook.com/policy/
   60. https://developers.facebook.com/policy/
-  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=5AQFLKkh7&s=1
+  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=WAQFlogJx&s=1
   62. https://www.facebook.com/communitystandards
   63. https://developers.facebook.com/docs/apps/review/branding
   64. https://developers.facebook.com/policy/
@@ -609,7 +609,7 @@ References
   74. https://developers.facebook.com/policy/
   75. https://developers.facebook.com/policy/
   76. https://developers.facebook.com/policy/
-  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=GAQE02dZQ&s=1
+  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=GAQF-zEc0&s=1
   78. https://www.facebook.com/communitystandards
   79. https://developers.facebook.com/docs/apps/review/branding
   80. https://developers.facebook.com/policy/
