@@ -437,7 +437,7 @@ You must enable JavaScript to use foursquare.com
      * [82]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1403499609&amp;u=-1&amp;sig=BH1wCTSa0XkqdESyUYfAFUHY0qs%3D]
+   mp;ts=1403586013&amp;u=-1&amp;sig=jSrnbetGr5e6Wx6LsePo89ra2mE%3D]
 
 References
 
@@ -462,7 +462,7 @@ References
   19. https://foursquare.com/legal/api/licenseagreement
   20. https://developer.foursquare.com/overview/venues
   21. https://foursquare.com/legal/privacy
-  22. %E2%80%9Chttps://developer.foursquare.com/overview/attribution%E2%80%9D
+  22. https://developer.foursquare.com/overview/attribution
   23. https://foursquare.com/legal/trademark
   24. https://foursquare.com/legal/venueterms
   25. https://foursquare.com/about

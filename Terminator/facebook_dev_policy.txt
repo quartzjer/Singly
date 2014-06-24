@@ -242,10 +242,10 @@ Platform Policy
        functionality, requiring that you delete data, terminating our
        agreements with you or any other action that we deem appropriate.
    17. We communicate with developers through Developer Alerts and email
-       from the facebook.com or facebookmail.com domain. Ensure that the
-       email address associated with your Facebook account and the email
-       address registered to the app are current and that you don’t filter
-       out these messages.
+       from the fb.com or facebookmail.com domain. Ensure that the email
+       address associated with your Facebook account and the email address
+       registered to the app are current and that you don\’t filter out
+       these messages.
    18. We may change these terms at any time without prior notice. Please
        check them regularly. Your continued use of Platform constitutes
        acceptance of those changes.
@@ -568,14 +568,14 @@ References
   33. https://developers.facebook.com/policy/
   34. https://developers.facebook.com/policy/
   35. https://developers.facebook.com/docs/apps/review/canvasredirect
-  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=8AQGKknIT&s=1
+  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=aAQGYF1ET&s=1
   37. https://developers.facebook.com/policy/
   38. https://developers.facebook.com/policy/
   39. https://www.facebook.com/about/privacy/
   40. https://developers.facebook.com/policy/
   41. https://www.facebook.com/legal/terms
   42. https://developers.facebook.com/policy/
-  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=-AQE4DQzF&s=1
+  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=aAQGYF1ET&s=1
   44. https://developers.facebook.com/docs/apps/review/branding
   45. https://developers.facebook.com/policy/
   46. https://developers.facebook.com/policy/
@@ -593,7 +593,7 @@ References
   58. https://developers.facebook.com/policy/
   59. https://developers.facebook.com/policy/
   60. https://developers.facebook.com/policy/
-  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=VAQFeSef4&s=1
+  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=JAQH-4HQt&s=1
   62. https://www.facebook.com/communitystandards
   63. https://developers.facebook.com/docs/apps/review/branding
   64. https://developers.facebook.com/policy/
@@ -609,7 +609,7 @@ References
   74. https://developers.facebook.com/policy/
   75. https://developers.facebook.com/policy/
   76. https://developers.facebook.com/policy/
-  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=dAQFeGWl5&s=1
+  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=sAQEK6cuJ&s=1
   78. https://www.facebook.com/communitystandards
   79. https://developers.facebook.com/docs/apps/review/branding
   80. https://developers.facebook.com/policy/
