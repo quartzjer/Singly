@@ -421,7 +421,7 @@ References
   51. https://www.flickr.com/jobs/
   52. https://www.flickr.com/help/guidelines/
   53. https://www.flickr.com/abuse/
-  54. https://help.yahoo.com/kb/flickr/?locale=en_US
+  54. https://help.yahoo.com/kb/index?page=product&y=PROD_FLICKR&locale=en_US
   55. https://www.flickr.com/help/forum/
   56. https://yahoo.uservoice.com/forums/211185-us-flickr
   57. http://info.yahoo.com/relevantads
