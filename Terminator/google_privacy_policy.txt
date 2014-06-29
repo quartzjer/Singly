@@ -373,17 +373,23 @@ Other useful privacy and security related materials
 
 Example
 
+"access to your personal information"
+
    For example, with Google Dashboard you can quickly and easily see some
    of the data associated with your Google Account.
    [90]Learn more.
 
 Example
 
+"ads youâ€™ll find most useful"
+
    For example, if you frequently visit websites and blogs about
    gardening, you may see ads related to gardening as you browse the web.
    [91]Learn more.
 
 Example
+
+"advertising services"
 
    For example, if you frequently visit websites and blogs about gardening
    that show our ads, you may start to see ads related to this interest as
@@ -392,12 +398,17 @@ Example
 
 Example
 
+"collect information"
+
    This includes information like your usage data and preferences, Gmail
    messages, G+ profile, photos, videos, browsing history, map searches,
    docs, or other Google-hosted content.
    [93]Learn more.
 
 Example
+
+"combine personal information from one service with information, including
+personal information, from other Google services"
 
    For example, when youâ€™re signed in to your Google Account and search
    on Google, you can see search results from the public web, along with
@@ -408,6 +419,8 @@ Example
 
 Example
 
+"connect with people"
+
    For example, you could get suggestions of people you might know or want
    to connect with on Google+, based on the connections you have with
    people on other Google products, like Gmail and people who have a
@@ -415,6 +428,8 @@ Example
    [95]Learn more.
 
 Example
+
+"credit card"
 
    Whilst we currently donâ€™t ask for a credit card during sign up,
    verifying your age through a small credit card transaction is one way
@@ -425,12 +440,16 @@ Example
 
 Example
 
+"develop new ones"
+
    For example, Googleâ€™s spell checking software was developed by
    analyzing previous searches where users had corrected their own
    spelling.
    [97]Learn more.
 
 Example
+
+"device identifiers"
 
    Device identifiers let Google know which unique device you are using to
    access our services, which can be used to customise our service to your
@@ -439,6 +458,8 @@ Example
 
 Example
 
+"device-specific information"
+
    For example, when you visit Google Play from your desktop, Google can
    use this information to help you decide on which devices you'd like
    your purchases to be available for use.
@@ -446,11 +467,15 @@ Example
 
 Example
 
+"improve your user experience"
+
    For example, cookies allow us to analyse how users interact with our
    services.
    [100]Learn more.
 
 Example
+
+"legal process or enforceable governmental request"
 
    Like other technology and communications companies, Google regularly
    receives requests from governments and courts around the world to hand
@@ -459,11 +484,15 @@ Example
 
 Example
 
+"may collect and process information about your actual location"
+
    For example, Google Maps can center the maps view on your current
    location.
    [102]Learn more.
 
 Example
+
+"may not function properly"
 
    For example, we use a cookie called â€˜lbcsâ€™ which makes it possible
    for you to open many Google Docs in one browser.
@@ -471,12 +500,16 @@ Example
 
 Example
 
+"phone number"
+
    For example, if you add a phone number as a recovery option, if you
    forget your password Google can send you a text message with a code to
    enable you to reset it.
    [104]Learn more.
 
 Example
+
+"protect Google and our users"
 
    For example, if you're concerned about unauthorized access to your
    email, "Last account activity" in Gmail shows you information about
@@ -486,10 +519,14 @@ Example
 
 Example
 
+"sharing"
+
    For example, with Google+, you have many different sharing options.
    [106]Learn more.
 
 Example
+
+"sharing with others quicker and easier"
 
    For example, if someone is already a contact, Google will autocomplete
    their name if you want to add them to a message in Gmail.
@@ -497,12 +534,16 @@ Example
 
 Example
 
+"the people who matter most to you online"
+
    For example, when you type an address in the To, Cc, or Bcc field of a
    message you're composing, Gmail will suggest addresses from your
    Contacts list.
    [108]Learn more.
 
 Example
+
+"to make it easier to share things with people you know"
 
    For example, if you have communicated with someone via Gmail and want
    to add them to a Google Doc or an event in Google Calendar, Google
@@ -512,6 +553,8 @@ Example
 
 Example
 
+"view and interact with our ads"
+
    For example, we regularly report to advertisers on whether we served
    their ad to a page and whether that ad was likely to be seen by users
    (as opposed to, for example, being on part of the page to which users
@@ -520,11 +563,15 @@ Example
 
 Example
 
+"We may share aggregated, non-personally identifiable information publicly"
+
    When lots of people start searching for something, it can provide very
    useful information about particular trends at that time.
    [111]Learn more.
 
 Example
+
+"more relevant search results"
 
    For example, we can make search more relevant and interesting for you
    by including photos, posts, and more from you and your friends.
@@ -533,11 +580,15 @@ Example
 
 Example
 
+"removing your content"
+
    For example, you can delete your [113]Web History, [114]your blog,
    [115]a Google Site you own, [116]your YouTube Channel, [117]your
    Google+ profile or [118]your entire Google account.
 
 Example
+
+"to show trends"
 
    You can see some of these at [119]Google Trends and [120]YouTube
    Trends.
@@ -692,7 +743,7 @@ References
  118. http://support.google.com/accounts/answer/32046?hl=en
  119. http://www.google.com/trends/
  120. http://www.youtube.com/trendsmap
- 121. http://www.google.com/safetycenter/families/start/
+ 121. http://www.google.com/intl/en/safetycenter/families/start/
  122. http://www.google.com/intl/en/policies/terms/
  123. http://www.google.com/intl/en/policies/faq/
  124. http://www.google.com/intl/en/policies/technologies/
