@@ -386,7 +386,7 @@ References
   17. https://www.yahoo.com/movies
   18. https://music.yahoo.com/
   19. https://tv.yahoo.com/
-  20. http://health.yahoo.com/
+  20. https://www.yahoo.com/health
   21. https://www.yahoo.com/beauty
   22. https://www.yahoo.com/food
   23. https://www.yahoo.com/tech
