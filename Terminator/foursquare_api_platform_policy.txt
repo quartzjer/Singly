@@ -5,7 +5,7 @@
    [14]Foursquare
    ____________________
    Monticello, IA______
-   (Submit) Search Search
+   (Submit) Search
      * [15]Log In
      * [16]Sign Up
 
@@ -437,7 +437,7 @@ You must enable JavaScript to use foursquare.com
      * [82]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1407906009&amp;u=-1&amp;sig=NnQgq8Cwymalp8tBpSewzZuGCWw%3D]
+   mp;ts=1407992412&amp;u=-1&amp;sig=lPMAu0v6oebvmumlR0DEGQequ6E%3D]
 
 References
 
