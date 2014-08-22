@@ -358,8 +358,6 @@ b. Application for a Commercial API Key.
      * [74]Twitter
      * [75]Google Plus
 
-   [nojs.gif?p=792600122:P050]
-
 References
 
    1. https://www.flickr.com/opensearch.xml
