@@ -762,8 +762,8 @@ You must enable JavaScript to use foursquare.com
      * [87]Thailand
      * [88]Turkey
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=140920201
-   0&amp;u=-1&amp;sig=4fHOawlumkXmmB%2Bn9Iz1VpEfohI%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=140928841
+   1&amp;u=-1&amp;sig=ycfGzejI%2FIsgspTP6Z2qBfqETY8%3D]
 
 References
 
@@ -790,7 +790,7 @@ References
   21. https://foursquare.com/legal/venueterms
   22. https://foursquare.com/legal/api/licenseagreement
   23. https://foursquare.com/legal/privacy
-  24. http://support.foursquare.com/entries/386768-foursquare-house-rules
+  24. https://foursquare.com/info/houserules
   25. https://foursquare.com/legal/photos
   26. https://foursquare.com/legal/privacy
   27. https://foursquare.com/legal/ideas
