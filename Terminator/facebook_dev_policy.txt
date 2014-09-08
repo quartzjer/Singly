@@ -569,14 +569,14 @@ References
   33. https://developers.facebook.com/policy/
   34. https://developers.facebook.com/policy/
   35. https://developers.facebook.com/docs/apps/review/canvasredirect
-  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=VAQHRQGA5&s=1
+  36. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=pAQGFBixG&s=1
   37. https://developers.facebook.com/policy/
   38. https://developers.facebook.com/policy/
   39. https://www.facebook.com/about/privacy/
   40. https://developers.facebook.com/policy/
   41. https://www.facebook.com/legal/terms
   42. https://developers.facebook.com/policy/
-  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=QAQHSubAG&s=1
+  43. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=KAQHzDDgs&s=1
   44. https://developers.facebook.com/docs/apps/review/branding
   45. https://developers.facebook.com/policy/
   46. https://developers.facebook.com/policy/
@@ -594,7 +594,7 @@ References
   58. https://developers.facebook.com/policy/
   59. https://developers.facebook.com/policy/
   60. https://developers.facebook.com/policy/
-  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=ZAQFs3332&s=1
+  61. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=yAQFyLc5f&s=1
   62. https://www.facebook.com/communitystandards
   63. https://developers.facebook.com/docs/apps/review/branding
   64. https://developers.facebook.com/policy/
@@ -610,7 +610,7 @@ References
   74. https://developers.facebook.com/policy/
   75. https://developers.facebook.com/policy/
   76. https://developers.facebook.com/policy/
-  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=dAQEKk5Zf&s=1
+  77. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=_AQE62O9V&s=1
   78. https://www.facebook.com/communitystandards
   79. https://developers.facebook.com/docs/apps/review/branding
   80. https://developers.facebook.com/policy/
