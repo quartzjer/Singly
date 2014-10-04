@@ -46,9 +46,10 @@ Platform Policy
     2. Use publishing permissions to help people share on Facebook, not to
        send people messages from your app.
        [25][851547_537948159656190_540847388_n.png]
-    3. Ensure that all content in the user message parameter is entered by
-       the user. Don’t pre-fill. This includes posts, messages, comments,
-       and captions. [26][851547_537948159656190_540847388_n.png]
+    3. Don't prefill captions, comments, messages, or the user message
+       parameter of posts with content a person didn’t create, even if the
+       person can edit or remove the content before sharing.
+       [26][851547_537948159656190_540847388_n.png]
     4. Provide a publicly available and easily accessible privacy policy
        that explains what data you are collecting and how you will use
        that data.
@@ -548,14 +549,14 @@ References
   34. https://developers.facebook.com/policy/
   35. https://developers.facebook.com/policy/
   36. https://developers.facebook.com/docs/apps/review/canvasredirect
-  37. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=wAQFMt-en&s=1
+  37. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=cAQGQfKUB&s=1
   38. https://developers.facebook.com/policy/
   39. https://developers.facebook.com/policy/
   40. https://www.facebook.com/about/privacy/
   41. https://developers.facebook.com/policy/
   42. https://www.facebook.com/legal/terms
   43. https://developers.facebook.com/policy/
-  44. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=2AQF7YJVS&s=1
+  44. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=AAQESXL2J&s=1
   45. https://developers.facebook.com/docs/apps/review/branding
   46. https://developers.facebook.com/policy/
   47. https://developers.facebook.com/policy/

@@ -23,7 +23,8 @@ Your Intellectual Property Rights
      * [12]Help
      * [13]Our policy
 
-   Change language: [English____________________________________]
+   Change language or region:
+   [English â€“ United States_____________________]
      * [14]Google
      * [15]About Google
      * [16]Privacy & Terms
@@ -42,7 +43,7 @@ References
   10. http://www.gmail.com/mail/help/mobile.html
   11. http://www.gmail.com/mail/help/work.html
   12. http://support.google.com/mail/?hl=en
-  13. https://mail.google.com/mail/help/intl/en/program_policies.html
+  13. https://www.gmail.com/intl/en/mail/help/program_policies.html
   14. http://www.google.com/
   15. http://www.google.com/intl/en/about/
   16. http://www.google.com/intl/en/policies/
