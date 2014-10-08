@@ -2,49 +2,48 @@
 
      * [2]Home →
 
-   [robot.png]
+Sorry, that page doesn’t exist!
 
-Something is technically wrong.
-
-   Thanks for noticing—we're going to fix it up and have things back to
-   normal soon.
-     * [3]العربية
-     * [4]Dansk
-     * [5]Deutsch
-     * [6]English
-     * [7]EnglishUK
-     * [8]Español
-     * [9]Suomi
-     * [10]Filipino
-     * [11]français
-     * [12]עִבְרִית
-     * [13]हिन्दी
-     * [14]Bahasa Indonesia
-     * [15]Italiano
-     * [16]日本語
-     * [17]한국어
-     * [18]Nederlands
-     * [19]Norsk
-     * [20]Polski
-     * [21]Português
-     * [22]Русский
-     * [23]Svenska
-     * [24]ภาษาไทย
-     * [25]Türkçe
-     * [26]اردو
-     * [27]简体中文
+   You can [3]search Twitter using the search box below or [4]return to
+   the homepage.
+   ____________________ Search
+     * [5]العربية
+     * [6]Dansk
+     * [7]Deutsch
+     * [8]English
+     * [9]EnglishUK
+     * [10]Español
+     * [11]Suomi
+     * [12]Filipino
+     * [13]français
+     * [14]עִבְרִית
+     * [15]हिन्दी
+     * [16]Bahasa Indonesia
+     * [17]Italiano
+     * [18]日本語
+     * [19]한국어
+     * [20]Nederlands
+     * [21]Norsk
+     * [22]Polski
+     * [23]Português
+     * [24]Русский
+     * [25]Svenska
+     * [26]ภาษาไทย
+     * [27]Türkçe
+     * [28]اردو
+     * [29]简体中文
 
      * © Twitter
-     * [28]About
-     * [29]Help
-     * [30]Status
+     * [30]About
+     * [31]Help
+     * [32]Status
 
 References
 
    1. https://twitter.com/
    2. https://twitter.com/
-   3. https://dev.twitter.com/pages/display_guidelines
-   4. https://dev.twitter.com/pages/display_guidelines
+   3. https://twitter.com/search-home
+   4. https://twitter.com/
    5. https://dev.twitter.com/pages/display_guidelines
    6. https://dev.twitter.com/pages/display_guidelines
    7. https://dev.twitter.com/pages/display_guidelines
@@ -68,6 +67,8 @@ References
   25. https://dev.twitter.com/pages/display_guidelines
   26. https://dev.twitter.com/pages/display_guidelines
   27. https://dev.twitter.com/pages/display_guidelines
-  28. https://about.twitter.com/
-  29. https://support.twitter.com/
-  30. http://status.twitter.com/
+  28. https://dev.twitter.com/pages/display_guidelines
+  29. https://dev.twitter.com/pages/display_guidelines
+  30. https://about.twitter.com/
+  31. https://support.twitter.com/
+  32. http://status.twitter.com/
