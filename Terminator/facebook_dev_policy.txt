@@ -549,14 +549,14 @@ References
   34. https://developers.facebook.com/policy/
   35. https://developers.facebook.com/policy/
   36. https://developers.facebook.com/docs/apps/review/canvasredirect
-  37. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=kAQGEa3Vm&s=1
+  37. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=-AQELX38Y&s=1
   38. https://developers.facebook.com/policy/
   39. https://developers.facebook.com/policy/
   40. https://www.facebook.com/about/privacy/
   41. https://developers.facebook.com/policy/
   42. https://www.facebook.com/legal/terms
   43. https://developers.facebook.com/policy/
-  44. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=GAQFLJcKG&s=1
+  44. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=jAQEX_JES&s=1
   45. https://developers.facebook.com/docs/apps/review/branding
   46. https://developers.facebook.com/policy/
   47. https://developers.facebook.com/policy/
