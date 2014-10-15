@@ -247,15 +247,15 @@ Platform Policy
        functionality, requiring that you delete data, terminating our
        agreements with you or any other action that we deem appropriate.
    17. We communicate with developers through Developer Alerts and email
-       from the fb.com or facebookmail.com domain. Ensure that the email
-       address associated with your Facebook account and the email address
-       registered to the app are current and that you don’t filter out
-       these messages.
+       from the [42]fb.com or [43]facebookmail.com domain. Ensure that the
+       email address associated with your Facebook account and the email
+       address registered to the app are current and that you don’t filter
+       out these messages.
    18. We may change these terms at any time without prior notice. Please
        check them regularly. Your continued use of Platform constitutes
        acceptance of those changes.
    19. If you use Social Plugins, Facebook SDKs, or operate a Platform app
-       or website, you must follow our [42]Statement of Rights and
+       or website, you must follow our [44]Statement of Rights and
        Responsibilities and these additional rules unless you have our
        written permission to do otherwise.
 
@@ -265,56 +265,56 @@ Platform Policy
        crash or hang during the testing process.
     2. Native iOS and Android apps that implement Facebook Login must use
        our official SDKs for login.
-       [43][851547_537948159656190_540847388_n.png]
-    3. Use a clearly branded "Login with Facebook" button and follow the
-       [44]Facebook Brand Guidelines.
        [45][851547_537948159656190_540847388_n.png]
+    3. Use a clearly branded "Login with Facebook" button and follow the
+       [46]Facebook Brand Guidelines.
+       [47][851547_537948159656190_540847388_n.png]
     4. Request only the data and publishing permissions your app needs.
-       [46][851547_537948159656190_540847388_n.png]
+       [48][851547_537948159656190_540847388_n.png]
     5. If a person declines a permission, you can prompt them again after
        they indicate an intent to grant you the permission.
-       [47][851547_537948159656190_540847388_n.png]
+       [49][851547_537948159656190_540847388_n.png]
     6. Provide a "Log Out" option that functions properly and is easy to
-       find. [48][851547_537948159656190_540847388_n.png]
+       find. [50][851547_537948159656190_540847388_n.png]
 
 8. Ads
 
     1. If you have ads in your app on Facebook, comply with our
-       [49]Advertising Guidelines.
+       [51]Advertising Guidelines.
     2. Avoid excessive ads. Don’t let ads distract from your app’s
-       functionality. [50][851547_537948159656190_540847388_n.png]
+       functionality. [52][851547_537948159656190_540847388_n.png]
     3. Don’t include ads in Page Tab apps.
     4. If you use a third party ad provider to include ads in your app on
-       Facebook, only use a provider from [51]this list.
+       Facebook, only use a provider from [53]this list.
     5. Don’t include third-party ads (including for other apps) in posts,
        notifications, or requests.
     6. Don’t include or pair Platform Integrations with non-Facebook ads.
-       [52][851547_537948159656190_540847388_n.png]
+       [54][851547_537948159656190_540847388_n.png]
     7. If you run a promotion, contest, competition, or sweepstake on
-       Facebook, comply with our [53]Promotions Policies.
+       Facebook, comply with our [55]Promotions Policies.
 
 9. Games
 
-    1. Games on Facebook.com:
+    1. Games on [56]Facebook.com:
        a. Don’t share the same app ID with a desktop web game off of
-       Facebook.com.
-       b. Don’t use your Facebook.com game or email addresses you’ve
+       [57]Facebook.com.
+       b. Don’t use your [58]Facebook.com game or email addresses you’ve
        obtained from us to promote or link to a desktop web game off of
-       Facebook. [54][851547_537948159656190_540847388_n.png]
+       Facebook. [59][851547_537948159656190_540847388_n.png]
        c. Use Facebook Payments as your only payment method for all
        in-game purchases.
        d. Use Facebook Payments offers if you reward people for actions
        involving third parties.
-       [55][851547_537948159656190_540847388_n.png]
-    2. Desktop web games off Facebook.com:
+       [60][851547_537948159656190_540847388_n.png]
+    2. Desktop web games off [61]Facebook.com:
        a. Only use Facebook Login, social plugins, and publishing
        channels. Don’t use connections such as friends lists.
-       [56][851547_537948159656190_540847388_n.png]
+       [62][851547_537948159656190_540847388_n.png]
        b. During authentication, only request age, email, and publishing
        permissions.
     3. Games on mobile:
        a. Don’t share the same app ID with a desktop web game off of
-       Facebook.com.
+       [63]Facebook.com.
        b. Don’t use your mobile game or email addresses you’ve obtained
        from us to promote or link to a web game off of Facebook.
     4. If you want to promote online gambling, online real money games of
@@ -324,14 +324,14 @@ Platform Policy
 
 10. Payments
 
-    1. If you use Facebook Payments, comply with the [57]Facebook
+    1. If you use Facebook Payments, comply with the [64]Facebook
        Developer Payments Terms.
     2. Don’t use Facebook Payments to solicit, collect or transfer funds
        for charitable causes without our prior permission.
     3. If you’re using iOS to run your app, use an iOS approved payment
        method.
     4. If you accept payments on Facebook, only do so in your app.
-       [58][851547_537948159656190_540847388_n.png]
+       [65][851547_537948159656190_540847388_n.png]
 
 11. App Center
 
@@ -339,37 +339,37 @@ Platform Policy
        or have a Facebook Canvas or Page Tab app.
     2. App Detail and Description:
        a. Ensure the app’s name and information are grammatically correct.
-       [59][851547_537948159656190_540847388_n.png]
+       [66][851547_537948159656190_540847388_n.png]
        b. Ensure the app’s language matches the App Center locale.
-       [60][851547_537948159656190_540847388_n.png]
+       [67][851547_537948159656190_540847388_n.png]
        c. Don't include URLs or use the Facebook brand.
-       [61][851547_537948159656190_540847388_n.png]
+       [68][851547_537948159656190_540847388_n.png]
        d. Don’t include keyword lists, excessive punctuation, or
-       non-standard symbols. [62][851547_537948159656190_540847388_n.png]
+       non-standard symbols. [69][851547_537948159656190_540847388_n.png]
     3. All Images:
        a. Use high quality, relevant images that reflect the app
-       experience. [63][851547_537948159656190_540847388_n.png]
+       experience. [70][851547_537948159656190_540847388_n.png]
        b. Keep any image text concise. Don't obstruct images with text.
-       [64][851547_537948159656190_540847388_n.png]
+       [71][851547_537948159656190_540847388_n.png]
        c. Don’t include ads, URLs or gimmicks such as Play buttons.
-       [65][851547_537948159656190_540847388_n.png]
+       [72][851547_537948159656190_540847388_n.png]
     4. Icons:
        a. Use a transparent or colored background. If your icon requires a
        white background, use a colored border.
-       [66][851547_537948159656190_540847388_n.png]
+       [73][851547_537948159656190_540847388_n.png]
        b. If your logo has a drop shadow, use a colored background.
-       [67][851547_537948159656190_540847388_n.png]
+       [74][851547_537948159656190_540847388_n.png]
     5. Banners:
        a. Don’t include rounded edges or borders.
-       [68][851547_537948159656190_540847388_n.png]
+       [75][851547_537948159656190_540847388_n.png]
        b. Don’t include third party logos.
     6. Videos:
        a. Display the app's name.
-       [69][851547_537948159656190_540847388_n.png]
+       [76][851547_537948159656190_540847388_n.png]
        b. Clearly represent the purpose of the app and show accurate,
        relevant in-app experiences.
        c. Keep your video high-quality and high-resolution.
-       [70][851547_537948159656190_540847388_n.png]
+       [77][851547_537948159656190_540847388_n.png]
        d. Your video and its video cover image should be clear and
        recognizable. Don't include ads.
 
@@ -378,26 +378,26 @@ Platform Policy
     1. Open Graph Custom Actions:
        a. Don’t recreate actions that are already supported.
        b. Write the action and object in a clear and simple way.
-       [71][851547_537948159656190_540847388_n.png]
+       [78][851547_537948159656190_540847388_n.png]
        c. Make sure the story is grammatically correct.
-       [72][851547_537948159656190_540847388_n.png]
+       [79][851547_537948159656190_540847388_n.png]
        d. Use English for your submission.
-       [73][851547_537948159656190_540847388_n.png]
+       [80][851547_537948159656190_540847388_n.png]
        e. Don’t indicate a person’s consumption, browsing, discovering, or
-       viewing of content.[74] [851547_537948159656190_540847388_n.png]
+       viewing of content.[81] [851547_537948159656190_540847388_n.png]
        f. Don’t indicate a person has installed, visited, or connected to
-       your app. [75][851547_537948159656190_540847388_n.png]
+       your app. [82][851547_537948159656190_540847388_n.png]
     2. Read and Watch Actions:
        a. Publish actions only after a person has been on a page for more
        than 10 seconds.
        b. Allow people to remove stories published to Facebook on the same
        page where the content is hosted.
-       [76][851547_537948159656190_540847388_n.png]
+       [83][851547_537948159656190_540847388_n.png]
 
 13. Social Plugins
 
     1. Don’t include or pair Platform Integrations with non-Facebook
-       advertisements. [77][851547_537948159656190_540847388_n.png]
+       advertisements. [84][851547_537948159656190_540847388_n.png]
     2. Don’t sell or purchase placement of social plugins or sharer.php.
     3. Don’t participate in any “like” or “share” exchange programs.
     4. Don’t obscure or cover elements of social plugins.
@@ -456,7 +456,7 @@ Platform Policy
        other mobile ad channels.
     8. Implement all bidding types including Optimized CPM.
     9. Custom Audiences:
-       a. If you use custom audiences, comply with the [78]Custom Audience
+       a. If you use custom audiences, comply with the [85]Custom Audience
        Terms.
        b. Only use a client’s data when creating custom audiences on their
        behalf.
@@ -483,33 +483,33 @@ Platform Policy
 
 Additional Languages
 
-   [79]العربية
+   [86]العربية
 
-   [80]中文(香港)
+   [87]中文(香港)
 
-   [81]中文(台灣)
+   [88]中文(台灣)
 
-   [82]Deutsch
+   [89]Deutsch
 
-   [83]Español
+   [90]Español
 
-   [84]Français
+   [91]Français
 
-   [85]עברית
+   [92]עברית
 
-   [86]Italiano
+   [93]Italiano
 
-   [87]日本語
+   [94]日本語
 
-   [88]한국어
+   [95]한국어
 
-   [89]Polski
+   [96]Polski
 
-   [90]Português (Brasil)
+   [97]Português (Brasil)
 
-   [91]Türkçe
+   [98]Türkçe
 
-   [92]Tiếng Việt
+   [99]Tiếng Việt
 
 References
 
@@ -549,37 +549,37 @@ References
   34. https://developers.facebook.com/policy/
   35. https://developers.facebook.com/policy/
   36. https://developers.facebook.com/docs/apps/review/canvasredirect
-  37. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=dAQH00w45&s=1
+  37. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=VAQEUvCSM&s=1
   38. https://developers.facebook.com/policy/
   39. https://developers.facebook.com/policy/
   40. https://www.facebook.com/about/privacy/
   41. https://developers.facebook.com/policy/
-  42. https://www.facebook.com/legal/terms
-  43. https://developers.facebook.com/policy/
-  44. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=fAQGDHXyL&s=1
-  45. https://developers.facebook.com/docs/apps/review/branding
-  46. https://developers.facebook.com/policy/
-  47. https://developers.facebook.com/policy/
+  42. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=SAQH6YhwJ&s=1
+  43. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=DAQFs0Jyj&s=1
+  44. https://www.facebook.com/legal/terms
+  45. https://developers.facebook.com/policy/
+  46. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=kAQGolnmo&s=1
+  47. https://developers.facebook.com/docs/apps/review/branding
   48. https://developers.facebook.com/policy/
-  49. https://www.facebook.com/ad_guidelines.php
+  49. https://developers.facebook.com/policy/
   50. https://developers.facebook.com/policy/
-  51. https://developers.facebook.com/docs/adproviders/
+  51. https://www.facebook.com/ad_guidelines.php
   52. https://developers.facebook.com/policy/
-  53. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  53. https://developers.facebook.com/docs/adproviders/
   54. https://developers.facebook.com/policy/
-  55. https://developers.facebook.com/policy/
-  56. https://developers.facebook.com/policy/
-  57. https://developers.facebook.com/policy/payments_terms/
-  58. https://developers.facebook.com/policy/
+  55. https://www.facebook.com/page_guidelines.php#promotionsguidelines
+  56. Facebook.com:/
+  57. http://Facebook.com/
+  58. http://Facebook.com/
   59. https://developers.facebook.com/policy/
-  60. https://developers.facebook.com/docs/games/appcenter/internationalization
-  61. https://developers.facebook.com/policy/
+  60. https://developers.facebook.com/policy/
+  61. Facebook.com:/
   62. https://developers.facebook.com/policy/
-  63. https://developers.facebook.com/policy/
-  64. https://developers.facebook.com/policy/
+  63. http://Facebook.com/
+  64. https://developers.facebook.com/policy/payments_terms/
   65. https://developers.facebook.com/policy/
   66. https://developers.facebook.com/policy/
-  67. https://developers.facebook.com/policy/
+  67. https://developers.facebook.com/docs/games/appcenter/internationalization
   68. https://developers.facebook.com/policy/
   69. https://developers.facebook.com/policy/
   70. https://developers.facebook.com/policy/
@@ -590,18 +590,25 @@ References
   75. https://developers.facebook.com/policy/
   76. https://developers.facebook.com/policy/
   77. https://developers.facebook.com/policy/
-  78. https://www.facebook.com/ads/manage/customaudiences/tos.php
-  79. https://developers.facebook.com/policy/Arabic/
-  80. https://developers.facebook.com/policy/ChineseHK/
-  81. https://developers.facebook.com/policy/ChineseTW/
-  82. https://developers.facebook.com/policy/Deutsch/
-  83. https://developers.facebook.com/policy/Espanol/
-  84. https://developers.facebook.com/policy/Francais/
-  85. https://developers.facebook.com/policy/Hebrew/
-  86. https://developers.facebook.com/policy/Italiano/
-  87. https://developers.facebook.com/policy/Japanese/
-  88. https://developers.facebook.com/policy/Korean/
-  89. https://developers.facebook.com/policy/Polski/
-  90. https://developers.facebook.com/policy/Portugues/
-  91. https://developers.facebook.com/policy/Turkce/
-  92. https://developers.facebook.com/policy/Vietnamese/
+  78. https://developers.facebook.com/policy/
+  79. https://developers.facebook.com/policy/
+  80. https://developers.facebook.com/policy/
+  81. https://developers.facebook.com/policy/
+  82. https://developers.facebook.com/policy/
+  83. https://developers.facebook.com/policy/
+  84. https://developers.facebook.com/policy/
+  85. https://www.facebook.com/ads/manage/customaudiences/tos.php
+  86. https://developers.facebook.com/policy/Arabic/
+  87. https://developers.facebook.com/policy/ChineseHK/
+  88. https://developers.facebook.com/policy/ChineseTW/
+  89. https://developers.facebook.com/policy/Deutsch/
+  90. https://developers.facebook.com/policy/Espanol/
+  91. https://developers.facebook.com/policy/Francais/
+  92. https://developers.facebook.com/policy/Hebrew/
+  93. https://developers.facebook.com/policy/Italiano/
+  94. https://developers.facebook.com/policy/Japanese/
+  95. https://developers.facebook.com/policy/Korean/
+  96. https://developers.facebook.com/policy/Polski/
+  97. https://developers.facebook.com/policy/Portugues/
+  98. https://developers.facebook.com/policy/Turkce/
+  99. https://developers.facebook.com/policy/Vietnamese/
