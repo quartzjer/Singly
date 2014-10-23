@@ -404,18 +404,21 @@ Platform Policy
 
 14. Ads API
 
-    1. Use separate app IDs for your staging, self-service, managed
-       service, and each client white-labeled apps. Don’t comingle these
-       services.
-    2. Use our multi-client manager to structure your end advertiser
-       accounts.
-    3. Don’t combine multiple end-advertisers or their Facebook
+    1. Basic and Standard Ads API access may be downgraded to Development
+       access after 30 days of non-use.
+    2. Don't use the Ads API if you're an ad network or data broker.
+    3. Don't promote content, services, or activities contrary to our
+       competitive position, interests, or advertising philosophy.
+    4. Don't provide [85]Partner Category targeting options that differ
+       from those offered by Facebook.
+       [86][851547_537948159656190_540847388_n.png]
+    5. Don’t combine multiple end-advertisers or their Facebook
        connections (i.e. Pages) in the same ad account.
-    4. Free or trial versions of an ads API app:
+    6. Free or trial versions of an ads API app:
        a. Don’t allow more than 50 ad creations a day per customer.
        b. Require phone or email verification on new accounts.
        c. Don’t allow affiliate networks to use your technology.
-    5. Pricing transparency:
+    7. Pricing transparency:
        a. Only charge fees for the use of your tools and managed services
        with a fixed fee or variable percentage of ad spend.
        b. Proactively disclose to end advertisers the amount that you
@@ -428,35 +431,22 @@ Platform Policy
        with these terms.
        f. Don’t sell ads on a fixed CPM or CPC basis when using the
        Facebook advertising auction.
-    6. Data Collection and Use:
-       a. If you have our prior written permission, you can place 1x1
-       pixel view tags on advertisements.
-       b. Data collected by you or the end-advertiser may only be used by
-       you or the end-advertiser.
-       c. Ensure that any data that is collected is anonymous.
-       d. Only use data from an end-advertiser’s campaign to optimize or
+    8. Data Collection and Use:
+       a. If you have Standard Ads API access and our prior written
+       permission, you can place 1x1 pixel view tags on advertisements.
+       b. Ensure that any data that is collected is anonymous.
+       c. Only use data from an end-advertiser’s campaign to optimize or
        measure the performance of that end-advertiser’s Facebook campaign.
-       e. Don’t use data to retarget on or off of Facebook.
-       f. Don’t mix data obtained from us with advertising campaigns on
+       d. Don’t use data to retarget on or off of Facebook.
+       e. Don’t mix data obtained from us with advertising campaigns on
        different platforms.
-       g. Don’t use data to build or augment any user profiles.
-       h. Don’t use piggybacking or redirects.
-       i. Don’t let people other than those acting on an end-advertiser’s
+       f. Don’t use data to build or augment any user profiles.
+       g. Don’t use piggybacking or redirects.
+       h. Don’t let people other than those acting on an end-advertiser’s
        behalf access Facebook ad statistics.
-    7. Separate Reporting:
-       a. If you use last-click attribution, create reporting tools that
-       separate Facebook reporting from other channels.
-       b. If you support other channels, do one of the following:
-       i. Create a separate Facebook tool.
-       ii. Include Facebook metrics in a separate Facebook section of your
-       tool.
-       iii. Show multi-touch attribution results side-by-side with
-       last-click attribution results.
-       c. You can report Facebook mobile ads ROI metrics if they relate to
-       other mobile ad channels.
-    8. Implement all bidding types including Optimized CPM.
-    9. Custom Audiences:
-       a. If you use custom audiences, comply with the [85]Custom Audience
+    9. Implement all bidding types including Optimized CPM.
+   10. Custom Audiences:
+       a. If you use custom audiences, comply with the [87]Custom Audience
        Terms.
        b. Only use a client’s data when creating custom audiences on their
        behalf.
@@ -464,9 +454,7 @@ Platform Policy
        person whose User ID is being used has logged into the client’s app
        and has given the necessary consent.
        d. Don’t sell or transfer custom audiences.
-       e. Don’t provide data or targeting options that differ from those
-       offered by Facebook on your custom audience tool.
-   10. Revoke an end-advertiser’s access to your app if we request it.
+   11. Revoke an end-advertiser’s access to your app if we request it.
 
 15. Definitions
 
@@ -483,33 +471,33 @@ Platform Policy
 
 Additional Languages
 
-   [86]العربية
+   [88]العربية
 
-   [87]中文(香港)
+   [89]中文(香港)
 
-   [88]中文(台灣)
+   [90]中文(台灣)
 
-   [89]Deutsch
+   [91]Deutsch
 
-   [90]Español
+   [92]Español
 
-   [91]Français
+   [93]Français
 
-   [92]עברית
+   [94]עברית
 
-   [93]Italiano
+   [95]Italiano
 
-   [94]日本語
+   [96]日本語
 
-   [95]한국어
+   [97]한국어
 
-   [96]Polski
+   [98]Polski
 
-   [97]Português (Brasil)
+   [99]Português (Brasil)
 
-   [98]Türkçe
+   [100]Türkçe
 
-   [99]Tiếng Việt
+   [101]Tiếng Việt
 
 References
 
@@ -549,16 +537,16 @@ References
   34. https://developers.facebook.com/policy/
   35. https://developers.facebook.com/policy/
   36. https://developers.facebook.com/docs/apps/review/canvasredirect
-  37. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=PAQGu4E0F&s=1
+  37. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=HAQGvYsGh&s=1
   38. https://developers.facebook.com/policy/
   39. https://developers.facebook.com/policy/
   40. https://www.facebook.com/about/privacy/
   41. https://developers.facebook.com/policy/
-  42. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=SAQHSvkW3&s=1
-  43. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=CAQEQaGRA&s=1
+  42. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=0AQGFkwhS&s=1
+  43. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=tAQHyarm9&s=1
   44. https://www.facebook.com/legal/terms
   45. https://developers.facebook.com/policy/
-  46. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=XAQFLsJl7&s=1
+  46. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=rAQEJl-tH&s=1
   47. https://developers.facebook.com/docs/apps/review/branding
   48. https://developers.facebook.com/policy/
   49. https://developers.facebook.com/policy/
@@ -597,18 +585,20 @@ References
   82. https://developers.facebook.com/policy/
   83. https://developers.facebook.com/policy/
   84. https://developers.facebook.com/policy/
-  85. https://www.facebook.com/ads/manage/customaudiences/tos.php
-  86. https://developers.facebook.com/policy/Arabic/
-  87. https://developers.facebook.com/policy/ChineseHK/
-  88. https://developers.facebook.com/policy/ChineseTW/
-  89. https://developers.facebook.com/policy/Deutsch/
-  90. https://developers.facebook.com/policy/Espanol/
-  91. https://developers.facebook.com/policy/Francais/
-  92. https://developers.facebook.com/policy/Hebrew/
-  93. https://developers.facebook.com/policy/Italiano/
-  94. https://developers.facebook.com/policy/Japanese/
-  95. https://developers.facebook.com/policy/Korean/
-  96. https://developers.facebook.com/policy/Polski/
-  97. https://developers.facebook.com/policy/Portugues/
-  98. https://developers.facebook.com/policy/Turkce/
-  99. https://developers.facebook.com/policy/Vietnamese/
+  85. https://developers.facebook.com/docs/reference/ads-api/partnercategories/
+  86. https://developers.facebook.com/policy/
+  87. https://www.facebook.com/ads/manage/customaudiences/tos.php
+  88. https://developers.facebook.com/policy/Arabic/
+  89. https://developers.facebook.com/policy/ChineseHK/
+  90. https://developers.facebook.com/policy/ChineseTW/
+  91. https://developers.facebook.com/policy/Deutsch/
+  92. https://developers.facebook.com/policy/Espanol/
+  93. https://developers.facebook.com/policy/Francais/
+  94. https://developers.facebook.com/policy/Hebrew/
+  95. https://developers.facebook.com/policy/Italiano/
+  96. https://developers.facebook.com/policy/Japanese/
+  97. https://developers.facebook.com/policy/Korean/
+  98. https://developers.facebook.com/policy/Polski/
+  99. https://developers.facebook.com/policy/Portugues/
+ 100. https://developers.facebook.com/policy/Turkce/
+ 101. https://developers.facebook.com/policy/Vietnamese/
