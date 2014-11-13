@@ -269,24 +269,26 @@ LinkedIn APIs Terms of Use
             reasons only. You do not have any rights to store the LinkedIn
             Content beyond this limited 24-hour period.
          4. Member Profile Data
-            You may perform a one-time capture of the user’s Profile Data
-            and store that Profile Data if you have the consent of the
-            user to do so, for example, so that a user applying for a job
-            at your company can provide you with a copy of their profile.
-            “Profile Data” means the name, photo, headline, contact
-            information, experience, education, summary, and location of a
-            LinkedIn member. Profile Data excludes connections, network
-            updates, job listings, groups, companies, and any other
-            Content. The process for obtaining member consent must meet
-            our specifications. If you want to refresh the user’s Profile
-            Data, you must ask the user for consent before doing so. You
-            must use stored Profile Data solely for the benefit of the
-            LinkedIn user that granted you permission to access it, for
-            example, to evaluate that user for a position in your company.
-            You must not monetize it, directly or indirectly. For example,
-            you may not sell or otherwise provide access to an aggregated
-            collection of profiles or the most relevant people for a
-            position.
+            You may store a user’s Profile Data if you have the consent of
+            the user to do so, for example, so that a user applying for a
+            job at your company can provide you with a copy of their
+            profile. “Profile Data” means the name, photo, headline,
+            contact information, experience, education, summary, and
+            location of a LinkedIn member. Profile Data excludes
+            connections, network updates, job listings, groups, companies,
+            and any other Content. The process for obtaining member
+            consent must meet our specifications set forth at
+            [27]https://developer.linkedin.com/documents/specifications-ob
+            taining-consent-store-profile-data. If you want to refresh the
+            user’s Profile Data, you may only do so when the user is
+            actually using your application and not on an automated
+            schedule. You must use stored Profile Data solely for the
+            benefit of the LinkedIn user that granted you permission to
+            access it, for example, to evaluate that user for a position
+            in your company. You must not monetize it, directly or
+            indirectly. For example, you may not sell or otherwise provide
+            access to an aggregated collection of profiles or the most
+            relevant people for a position.
          5. Social Media Management: Company Profile and Statistics Data
             You may store company page status updates, analytics on
             company page status updates, company follower analytics data,
@@ -385,7 +387,7 @@ LinkedIn APIs Terms of Use
                  regulations of networks connected to LinkedIn services.
     6. Treat Our Brand With Respect
          1. Brand Features License
-            Subject to these Terms, including the [27]Branding Guidelines,
+            Subject to these Terms, including the [28]Branding Guidelines,
             we grant you a limited, non-exclusive, non-assignable,
             non-sublicenseable, and non-transferable license during the
             Term to display our Brand Features to promote or advertise
@@ -434,11 +436,11 @@ LinkedIn APIs Terms of Use
        advance notice, in order to use the LinkedIn APIs. You and your
        Application must also comply with the following, which are hereby
        incorporated by reference:
-          + [28]The LinkedIn User Agreement;
-          + [29]The LinkedIn Privacy Policy;
-          + [30]The Platform Guidelines, which are located at the
+          + [29]The LinkedIn User Agreement;
+          + [30]The LinkedIn Privacy Policy;
+          + [31]The Platform Guidelines, which are located at the
             Developer Site; and
-          + [31]The Branding Guidelines.
+          + [32]The Branding Guidelines.
        In the event of any conflict between the content in this document
        and the above documents, this document controls your use of the
        APIs. If you disagree with any of the provisions in these Terms, do
@@ -778,7 +780,7 @@ LinkedIn APIs Terms of Use
 How To Contact Us
 
    If you have questions or comments about these LinkedIn API Terms of
-   Use, please contact us [32]online or by physical mail at:
+   Use, please contact us [33]online or by physical mail at:
 
    LinkedIn Corporation
    Attn: API Terms of Use Issues
@@ -791,34 +793,34 @@ How To Contact Us
    Gardner House, Wilton Place,
    Wilton Plaza, Dublin 2
    Ireland
-   [33]‹ Branding Guidelines [34]LinkedIn Platform Guidelines ›
+   [34]‹ Branding Guidelines [35]LinkedIn Platform Guidelines ›
 
 Documentation
 
-     * [35]Authentication
-     * [36]Core Concepts
-     * [37]People
-     * [38]Groups
-     * [39]Companies
-     * [40]Jobs
-     * [41]Job Posting
-     * [42]Share and Social Stream
-     * [43]Communications
-     * [44]Libraries and Tools
-     * [45]LinkedIn Policies
-          + [46]Branding Guidelines
-          + [47]LinkedIn APIs Terms of Use
-          + [48]LinkedIn Platform Guidelines
-          + [49]Terms and Conditions for Download and Use of LinkedIn
+     * [36]Authentication
+     * [37]Core Concepts
+     * [38]People
+     * [39]Groups
+     * [40]Companies
+     * [41]Jobs
+     * [42]Job Posting
+     * [43]Share and Social Stream
+     * [44]Communications
+     * [45]Libraries and Tools
+     * [46]LinkedIn Policies
+          + [47]Branding Guidelines
+          + [48]LinkedIn APIs Terms of Use
+          + [49]LinkedIn Platform Guidelines
+          + [50]Terms and Conditions for Download and Use of LinkedIn
             Marks by LinkedIn Members
-          + [50]LinkedIn Certified Developer Program Terms and Promotions
+          + [51]LinkedIn Certified Developer Program Terms and Promotions
             Guidelines
-     * [51]Reference
-     * [52]Integrating your OS X Mavericks Application with LinkedIn
+     * [52]Reference
+     * [53]Integrating your OS X Mavericks Application with LinkedIn
 
-   LinkedIn Corporation © 2014 | [53]User Agreement | [54]Privacy Policy |
-   [55]Copyright Policy | [56]API Terms of Use | [57]Plugins Terms of Use
-   | [58]Platform Guidelines | [59]LinkedIn Engineering
+   LinkedIn Corporation © 2014 | [54]User Agreement | [55]Privacy Policy |
+   [56]Copyright Policy | [57]API Terms of Use | [58]Plugins Terms of Use
+   | [59]Platform Guidelines | [60]LinkedIn Engineering
 
 References
 
@@ -848,36 +850,37 @@ References
   24. https://developer.linkedin.com/blog
   25. https://developer.linkedin.com/apply-with-linkedin
   26. https://developer.linkedin.com/partner-programs
-  27. https://developer.linkedin.com/documents/branding-guidelines
-  28. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
-  29. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
-  30. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  31. https://developer.linkedin.com/documents/branding-guidelines
-  32. http://linkedin.custhelp.com/app/ask/path/uaq
-  33. https://developer.linkedin.com/documents/branding-guidelines
-  34. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  35. https://developer.linkedin.com/documents/authentication
-  36. https://developer.linkedin.com/core-concepts
-  37. https://developer.linkedin.com/documents/people
-  38. https://developer.linkedin.com/documents/groups
-  39. https://developer.linkedin.com/documents/companies
-  40. https://developer.linkedin.com/documents/jobs
-  41. https://developer.linkedin.com/documents/job-posting
-  42. https://developer.linkedin.com/documents/share-and-social-stream
-  43. https://developer.linkedin.com/documents/communications
-  44. https://developer.linkedin.com/documents/libraries-and-tools
-  45. https://developer.linkedin.com/linkedin-policies
-  46. https://developer.linkedin.com/documents/branding-guidelines
-  47. https://developer.linkedin.com/documents/linkedin-apis-terms-use
-  48. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  49. https://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
-  50. https://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
-  51. https://developer.linkedin.com/reference
-  52. https://developer.linkedin.com/documents/integrating-your-os-x-mavericks-application-linkedin
-  53. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
-  54. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
-  55. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
-  56. https://developer.linkedin.com/documents/linkedin-apis-terms-use
-  57. https://developer.linkedin.com/linkedin-plugins-license-agreement
-  58. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  59. http://engineering.linkedin.com/
+  27. https://developer.linkedin.com/documents/specifications-obtaining-consent-store-profile-data
+  28. https://developer.linkedin.com/documents/branding-guidelines
+  29. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
+  30. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
+  31. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  32. https://developer.linkedin.com/documents/branding-guidelines
+  33. http://linkedin.custhelp.com/app/ask/path/uaq
+  34. https://developer.linkedin.com/documents/branding-guidelines
+  35. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  36. https://developer.linkedin.com/documents/authentication
+  37. https://developer.linkedin.com/core-concepts
+  38. https://developer.linkedin.com/documents/people
+  39. https://developer.linkedin.com/documents/groups
+  40. https://developer.linkedin.com/documents/companies
+  41. https://developer.linkedin.com/documents/jobs
+  42. https://developer.linkedin.com/documents/job-posting
+  43. https://developer.linkedin.com/documents/share-and-social-stream
+  44. https://developer.linkedin.com/documents/communications
+  45. https://developer.linkedin.com/documents/libraries-and-tools
+  46. https://developer.linkedin.com/linkedin-policies
+  47. https://developer.linkedin.com/documents/branding-guidelines
+  48. https://developer.linkedin.com/documents/linkedin-apis-terms-use
+  49. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  50. https://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
+  51. https://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
+  52. https://developer.linkedin.com/reference
+  53. https://developer.linkedin.com/documents/integrating-your-os-x-mavericks-application-linkedin
+  54. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
+  55. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
+  56. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
+  57. https://developer.linkedin.com/documents/linkedin-apis-terms-use
+  58. https://developer.linkedin.com/linkedin-plugins-license-agreement
+  59. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  60. http://engineering.linkedin.com/
