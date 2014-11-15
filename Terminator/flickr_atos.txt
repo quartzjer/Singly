@@ -11,14 +11,15 @@
           + [10]Camera Finder
           + [11]The Weekly Flickr
           + [12]Flickr Blog
-     * [13]Upload
+     * [13]Create
+     * [14]Upload
 
      *
-     * [14]Sign In
+     * [15]Sign In
 
 Flickr Ad Free, Flickr Pro, and Doublr Additional Terms of Service
 
-   [15]Click here to review the Flickr Gift Purchaser Terms.
+   [16]Click here to review the Flickr Gift Purchaser Terms.
     1. ACKNOWLEDGEMENT AND ACCEPTANCE OF YAHOO! INC’S ADDITIONAL TERMS OF
        SERVICE FOR FLICKR AD FREE, FLICKR PRO, AND DOUBLR
        Welcome to the Flickr Ad Free, Flickr Pro or Doublr service
@@ -26,16 +27,16 @@ Flickr Ad Free, Flickr Pro, and Doublr Additional Terms of Service
        purchase in U.S. dollars and are offered by Yahoo! Inc.’s
        U.S.-based Flickr service (“Yahoo”). By using any of the Flickr
        Services you agree to these Additional Terms of Service
-       (“Additional Terms”) at [16]https://www.flickr.com/atos/services
+       (“Additional Terms”) at [17]https://www.flickr.com/atos/services
        (and any successor pages). The Additional Terms supplement the
        Yahoo Terms of Service (“TOS”) at
-       [17]https://info.yahoo.com/legal/us/yahoo/utos/terms/ and the Yahoo
+       [18]https://info.yahoo.com/legal/us/yahoo/utos/terms/ and the Yahoo
        Privacy Policy (“Privacy Policy”) located at
-       [18]https://info.yahoo.com/privacy/us/yahoo/ (and any successor
+       [19]https://info.yahoo.com/privacy/us/yahoo/ (and any successor
        pages to the TOS and Privacy Policy), both of which are
        incorporated by reference. You further agree to comply with the
        Flickr Community Guidelines (“Community Guidelines”) at
-       [19]https://www.flickr.com/guidelines.gne (and any successor
+       [20]https://www.flickr.com/guidelines.gne (and any successor
        pages), which is incorporated by reference. If there is any
        conflict between the terms and conditions of these Additional Terms
        and those in the TOS, the terms and conditions of these Additional
@@ -54,11 +55,11 @@ Flickr Ad Free, Flickr Pro, and Doublr Additional Terms of Service
        Services.
     2. DESCRIPTION OF THE FLICKR SERVICES
        Please click this link to learn what additional features Flickr Ad
-       Free provides: [20]https://www.flickr.com/help/limits/#150470666.
+       Free provides: [21]https://www.flickr.com/help/limits/#150470666.
        Please click this link to learn what additional features Flickr Pro
-       provides: [21]https:// www.flickr.com/help/limits/#150582914.
+       provides: [22]https:// www.flickr.com/help/limits/#150582914.
        Please click this link to learn what additional features Doublr
-       provides: [22]https://www.flickr.com/help/limits/#150470666.
+       provides: [23]https://www.flickr.com/help/limits/#150470666.
     3. REGISTRATION AND PARTICIPATION
        To participate in the Flickr Services, you must have a valid Yahoo
        ID. You must provide Yahoo your credit card number, billing and
@@ -91,11 +92,11 @@ Flickr Ad Free, Flickr Pro, and Doublr Additional Terms of Service
             be charged the then-current fee for that service at the
             commencement of each renewal term. Fees can not be credited
             towards other services. Current fees are posted on Flickr at
-            [23]https://www.flickr.com/help/limits/#150470666. All
+            [24]https://www.flickr.com/help/limits/#150470666. All
             currency references are in U.S. dollars. Please note, payment
             for the Service is non-refundable, unless Yahoo expressly
             provides otherwise. To cancel the Service visit
-            [24]https://flickr.com/account/wallet. If you cancel you will
+            [25]https://flickr.com/account/wallet. If you cancel you will
             continue to keep the service until the end of your
             subscription term.
          2. Account Updater
@@ -147,15 +148,15 @@ ONLY
     1. ACCEPTANCE OF TERMS
        Welcome to Flickr Gift Certificate. By purchasing a Flickr Gift
        Certificate, you agree to these Gift Purchaser Terms at
-       [25]https://www.flickr.com/gift_terms_purchaser.gne that supplement
+       [26]https://www.flickr.com/gift_terms_purchaser.gne that supplement
        the Yahoo Terms of Service (“TOS”) at
-       [26]https://www.flickr.com/utos_detect.gne (and any successor
+       [27]https://www.flickr.com/utos_detect.gne (and any successor
        pages), which are incorporated by reference.
        Separate Terms of Service govern the redemption and use of the gift
        certificate and the use of the product by the recipient, and must
        be agreed by the recipient of a gift certificate prior to
        redemption of the gift certificate and use of the product. Those
-       terms are at [27]https://www.flickr.com/gift_terms_redeemer.gne,
+       terms are at [28]https://www.flickr.com/gift_terms_redeemer.gne,
        and any successor pages. Yahoo reserves the right to update and
        change, from time to time, these Gift Purchaser Terms and all
        documents incorporated by reference. You can always find the most
@@ -252,27 +253,27 @@ ONLY
        personalization settings, or balance.
 
    v. July 2014
-     * [28]About
-     * [29]Jobs
-     * [30]Blog
-     * [31]Mobile
-     * [32]Developers
-     * [33]Guidelines
-     * [34]Feedback
-     * [35]Report abuse
-     * [36]Help forum
-     * [37]English
+     * [29]About
+     * [30]Jobs
+     * [31]Blog
+     * [32]Mobile
+     * [33]Developers
+     * [34]Guidelines
+     * [35]Feedback
+     * [36]Report abuse
+     * [37]Help forum
+     * [38]English
 
-     * [38]Privacy
-     * [39]Terms
-     * [40]Yahoo Safely
-     * [41]Help
+     * [39]Privacy
+     * [40]Terms
+     * [41]Yahoo Safely
+     * [42]Help
 
-   Flickr, [42]a Yahoo company
-     * [43]Tumblr
-     * [44]Facebook
-     * [45]Twitter
-     * [46]Google Plus
+   Flickr, [43]a Yahoo company
+     * [44]Tumblr
+     * [45]Facebook
+     * [46]Twitter
+     * [47]Google Plus
 
 References
 
@@ -289,40 +290,41 @@ References
   10. http://www.flickr.com/cameras
   11. http://www.flickr.com/photos/flickr/sets/72157639868074114/
   12. https://blog.flickr.net/
-  13. http://www.flickr.com/upload
-  14. http://www.flickr.com/signin
-  15. http://www.flickr.com/atos/pro#gift-purchaser
-  16. https://www.flickr.com/atos/services
-  17. https://info.yahoo.com/legal/us/yahoo/utos/terms/
-  18. https://info.yahoo.com/privacy/us/yahoo/
-  19. https://www.flickr.com/guidelines.gne
-  20. https://www.flickr.com/help/limits/#150470666
-  21. https://www.flickr.com/help/limits/#150582914
-  22. https://www.flickr.com/help/limits/#150470666
+  13. http://www.flickr.com/create
+  14. http://www.flickr.com/upload
+  15. http://www.flickr.com/signin
+  16. http://www.flickr.com/atos/pro#gift-purchaser
+  17. https://www.flickr.com/atos/services
+  18. https://info.yahoo.com/legal/us/yahoo/utos/terms/
+  19. https://info.yahoo.com/privacy/us/yahoo/
+  20. https://www.flickr.com/guidelines.gne
+  21. https://www.flickr.com/help/limits/#150470666
+  22. https://www.flickr.com/help/limits/#150582914
   23. https://www.flickr.com/help/limits/#150470666
-  24. https://flickr.com/account/wallet
-  25. https://www.flickr.com/gift_terms_purchaser.gne
-  26. https://www.flickr.com/utos_detect.gne
-  27. https://www.flickr.com/gift_terms_redeemer.gne
-  28. http://www.flickr.com/about
-  29. http://www.flickr.com/jobs
-  30. http://blog.flickr.net/en
-  31. http://mobile.yahoo.com/flickr
-  32. http://www.flickr.com/services/developer
-  33. http://www.flickr.com/help/guidelines
-  34. http://yahoo.uservoice.com/forums/211185-us-flickr
-  35. http://www.flickr.com/abuse
-  36. http://www.flickr.com/help/forum
-  37. http://www.flickr.com/change_language.gne?lang=en-US&csrf=
-  38. http://info.yahoo.com/privacy/us/yahoo/flickr/details.html
-  39. http://www.flickr.com/help/terms
-  40. http://safely.yahoo.com/
-  41. http://help.yahoo.com/kb/flickr
-  42. https://info.yahoo.com/
-  43. http://flickr.tumblr.com/
-  44. https://www.facebook.com/flickr
-  45. https://twitter.com/flickr
-  46. https://plus.google.com/+flickr
+  24. https://www.flickr.com/help/limits/#150470666
+  25. https://flickr.com/account/wallet
+  26. https://www.flickr.com/gift_terms_purchaser.gne
+  27. https://www.flickr.com/utos_detect.gne
+  28. https://www.flickr.com/gift_terms_redeemer.gne
+  29. http://www.flickr.com/about
+  30. http://www.flickr.com/jobs
+  31. http://blog.flickr.net/en
+  32. http://mobile.yahoo.com/flickr
+  33. http://www.flickr.com/services/developer
+  34. http://www.flickr.com/help/guidelines
+  35. http://yahoo.uservoice.com/forums/211185-us-flickr
+  36. http://www.flickr.com/abuse
+  37. http://www.flickr.com/help/forum
+  38. http://www.flickr.com/change_language.gne?lang=en-US&csrf=
+  39. http://info.yahoo.com/privacy/us/yahoo/flickr/details.html
+  40. http://www.flickr.com/help/terms
+  41. http://safely.yahoo.com/
+  42. http://help.yahoo.com/kb/flickr
+  43. https://info.yahoo.com/
+  44. http://flickr.tumblr.com/
+  45. https://www.facebook.com/flickr
+  46. https://twitter.com/flickr
+  47. https://plus.google.com/+flickr
 
    Hidden links:
-  47. http://www.flickr.com/
+  48. http://www.flickr.com/
