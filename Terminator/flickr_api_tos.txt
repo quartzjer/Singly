@@ -1,7 +1,5 @@
    #[1]Flickr
 
-   -
-
      * [2]Home
      * [3]Mail
      * [4]News
