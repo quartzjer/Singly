@@ -381,7 +381,7 @@ References
   14. http://everything.yahoo.com/
   15. https://celebrity.yahoo.com/
   16. https://www.yahoo.com/movies
-  17. https://music.yahoo.com/
+  17. https://www.yahoo.com/music
   18. https://tv.yahoo.com/
   19. https://www.yahoo.com/health
   20. https://www.yahoo.com/style
