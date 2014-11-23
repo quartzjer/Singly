@@ -437,7 +437,7 @@ You must enable JavaScript to use foursquare.com
      * [82]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1416636012&amp;u=-1&amp;sig=4vPtqMoC2ByWCAKXdDbzyzSpb%2FQ%3D]
+   mp;ts=1416722414&amp;u=-1&amp;sig=ySoOkGcymOKRT4OAZmx4AmvmAR0%3D]
 
 References
 
