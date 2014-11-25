@@ -31,6 +31,46 @@ Search form
    Search this site _______________
    Search
 
+   bannerColor WARNING_YELLOW templateName stackForums sorry, the
+   developer portal is currently unavailable
+   we are aware of the issue and are working to restore service as soon as
+   possible sorry, our API is experiencing intermittent issues
+   we are aware of the issue and are working to restore service as soon as
+   possible sorry, our API is experiencing a limited-scope problem
+   please see [25]this thread for updates sorry, the developer portal is
+   currently undergoing scheduled maintenance
+   service is expected to be restored around 09:00PM PST OAuth 2.0
+   Authorization issues?
+   As previously announced, LinkedIn is now enforcing redirect URLs rule
+   for OAuth 2.0 applications: [26]More information. If you have any
+   questions, please post to this thread in our forums: [27]Thread for
+   questions OAuth 2.0 Extension
+   LinkedIn is extending a courtesy brief period for developers to update
+   their [28]OAuth 2.0 redirect URLs.
+   If you have any questions, please post to this thread in our forums:
+   [29]Thread for questions. OAuth 2.0 Redirection URL
+   Beginning Monday April 28, 2014, LinkedIn's APIs will begin enforcing
+   [30]OAuth 2.0 redirect URLs.
+   If you have any questions, please post to this thread in our forums:
+   [31]Thread for questions. On July 21st between 4pm and 7pm PST we will
+   be performing platform maintenance. You may see limited performance
+   issues during this time. We apologize for any inconveniences generated
+   by any service interruptions. We will be performing site wide
+   maintenance on October 10th between 8 pm and 11 pm PST. This
+   maintenance applies to all LinkedIn sites and applications, including
+   our APIs. You may experience limited availability of certain APIs
+   during this time. We apologize for any inconvenience this may cause.
+   Please don't hesitate to reach out on our forums if you continue to
+   experience API availability issues after the maintenance window In
+   light of the recent disclosure of the "Poodle" SSL vulnerability,
+   LinkedIn is joining the large number of services that have actively
+   removed support for SSLv3, effective immediately. If you are
+   experiencing errors related to HTTPS-based communication with our APIs,
+   please ensure you are using a client/library that supports TLS 1.0+
+   instead of SSLv3 to avoid disruption. Attention, developers! We have
+   transitioned to StackOverflow for forum-based support. [32]Learn more
+   about this change.
+
 LinkedIn APIs Terms of Use
 
    Oct 22, 2009 — LIDeveloperAdmin
@@ -130,7 +170,7 @@ LinkedIn APIs Terms of Use
                  program for building an Application to let people apply
                  for a job on a company’s career site, as long as it
                  abides by the specification at
-                 [25]https://developer.linkedin.com/apply-with-linkedin.)
+                 [33]https://developer.linkedin.com/apply-with-linkedin.)
                o Marketing: Applications used by marketers or their
                  customers for marketing campaigns, lead generation,
                  campaign analysis, or for anything with similar
@@ -148,7 +188,7 @@ LinkedIn APIs Terms of Use
             For more information about the Platform Partner Program
             application process, eligibility criteria and the areas where
             we are looking for partners visit
-            [26]https://developer.linkedin.com/partner-programs.
+            [34]https://developer.linkedin.com/partner-programs.
 
 2. Joining our Self-Service Program
 
@@ -278,7 +318,7 @@ LinkedIn APIs Terms of Use
             connections, network updates, job listings, groups, companies,
             and any other Content. The process for obtaining member
             consent must meet our specifications set forth at
-            [27]https://developer.linkedin.com/documents/specifications-ob
+            [35]https://developer.linkedin.com/documents/specifications-ob
             taining-consent-store-profile-data. If you want to refresh the
             user’s Profile Data, you may only do so when the user is
             actually using your application and not on an automated
@@ -387,7 +427,7 @@ LinkedIn APIs Terms of Use
                  regulations of networks connected to LinkedIn services.
     6. Treat Our Brand With Respect
          1. Brand Features License
-            Subject to these Terms, including the [28]Branding Guidelines,
+            Subject to these Terms, including the [36]Branding Guidelines,
             we grant you a limited, non-exclusive, non-assignable,
             non-sublicenseable, and non-transferable license during the
             Term to display our Brand Features to promote or advertise
@@ -436,11 +476,11 @@ LinkedIn APIs Terms of Use
        advance notice, in order to use the LinkedIn APIs. You and your
        Application must also comply with the following, which are hereby
        incorporated by reference:
-          + [29]The LinkedIn User Agreement;
-          + [30]The LinkedIn Privacy Policy;
-          + [31]The Platform Guidelines, which are located at the
+          + [37]The LinkedIn User Agreement;
+          + [38]The LinkedIn Privacy Policy;
+          + [39]The Platform Guidelines, which are located at the
             Developer Site; and
-          + [32]The Branding Guidelines.
+          + [40]The Branding Guidelines.
        In the event of any conflict between the content in this document
        and the above documents, this document controls your use of the
        APIs. If you disagree with any of the provisions in these Terms, do
@@ -780,7 +820,7 @@ LinkedIn APIs Terms of Use
 How To Contact Us
 
    If you have questions or comments about these LinkedIn API Terms of
-   Use, please contact us [33]online or by physical mail at:
+   Use, please contact us [41]online or by physical mail at:
 
    LinkedIn Corporation
    Attn: API Terms of Use Issues
@@ -793,34 +833,34 @@ How To Contact Us
    Gardner House, Wilton Place,
    Wilton Plaza, Dublin 2
    Ireland
-   [34]‹ Branding Guidelines [35]LinkedIn Platform Guidelines ›
+   [42]‹ Branding Guidelines [43]LinkedIn Platform Guidelines ›
 
 Documentation
 
-     * [36]Authentication
-     * [37]Core Concepts
-     * [38]People
-     * [39]Groups
-     * [40]Companies
-     * [41]Jobs
-     * [42]Job Posting
-     * [43]Share and Social Stream
-     * [44]Communications
-     * [45]Libraries and Tools
-     * [46]LinkedIn Policies
-          + [47]Branding Guidelines
-          + [48]LinkedIn APIs Terms of Use
-          + [49]LinkedIn Platform Guidelines
-          + [50]Terms and Conditions for Download and Use of LinkedIn
+     * [44]Authentication
+     * [45]Core Concepts
+     * [46]People
+     * [47]Groups
+     * [48]Companies
+     * [49]Jobs
+     * [50]Job Posting
+     * [51]Share and Social Stream
+     * [52]Communications
+     * [53]Libraries and Tools
+     * [54]LinkedIn Policies
+          + [55]Branding Guidelines
+          + [56]LinkedIn APIs Terms of Use
+          + [57]LinkedIn Platform Guidelines
+          + [58]Terms and Conditions for Download and Use of LinkedIn
             Marks by LinkedIn Members
-          + [51]LinkedIn Certified Developer Program Terms and Promotions
+          + [59]LinkedIn Certified Developer Program Terms and Promotions
             Guidelines
-     * [52]Reference
-     * [53]Integrating your OS X Mavericks Application with LinkedIn
+     * [60]Reference
+     * [61]Integrating your OS X Mavericks Application with LinkedIn
 
-   LinkedIn Corporation © 2014 | [54]User Agreement | [55]Privacy Policy |
-   [56]Copyright Policy | [57]API Terms of Use | [58]Plugins Terms of Use
-   | [59]Platform Guidelines | [60]LinkedIn Engineering
+   LinkedIn Corporation © 2014 | [62]User Agreement | [63]Privacy Policy |
+   [64]Copyright Policy | [65]API Terms of Use | [66]Plugins Terms of Use
+   | [67]Platform Guidelines | [68]LinkedIn Engineering
 
 References
 
@@ -848,39 +888,47 @@ References
   22. https://developer.linkedin.com/forums/javascript
   23. https://developer.linkedin.com/forums/rest
   24. https://developer.linkedin.com/blog
-  25. https://developer.linkedin.com/apply-with-linkedin
-  26. https://developer.linkedin.com/partner-programs
-  27. https://developer.linkedin.com/documents/specifications-obtaining-consent-store-profile-data
-  28. https://developer.linkedin.com/documents/branding-guidelines
-  29. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
-  30. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
-  31. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  32. https://developer.linkedin.com/documents/branding-guidelines
-  33. http://linkedin.custhelp.com/app/ask/path/uaq
-  34. https://developer.linkedin.com/documents/branding-guidelines
-  35. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  36. https://developer.linkedin.com/documents/authentication
-  37. https://developer.linkedin.com/core-concepts
-  38. https://developer.linkedin.com/documents/people
-  39. https://developer.linkedin.com/documents/groups
-  40. https://developer.linkedin.com/documents/companies
-  41. https://developer.linkedin.com/documents/jobs
-  42. https://developer.linkedin.com/documents/job-posting
-  43. https://developer.linkedin.com/documents/share-and-social-stream
-  44. https://developer.linkedin.com/documents/communications
-  45. https://developer.linkedin.com/documents/libraries-and-tools
-  46. https://developer.linkedin.com/linkedin-policies
-  47. https://developer.linkedin.com/documents/branding-guidelines
-  48. https://developer.linkedin.com/documents/linkedin-apis-terms-use
-  49. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  50. https://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
-  51. https://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
-  52. https://developer.linkedin.com/reference
-  53. https://developer.linkedin.com/documents/integrating-your-os-x-mavericks-application-linkedin
-  54. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
-  55. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
-  56. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
-  57. https://developer.linkedin.com/documents/linkedin-apis-terms-use
-  58. https://developer.linkedin.com/linkedin-plugins-license-agreement
-  59. https://developer.linkedin.com/documents/linkedin-platform-guidelines
-  60. http://engineering.linkedin.com/
+  25. http://www.nyan.cat/
+  26. https://developer.linkedin.com/blog/register-your-oauth-2-redirect-urls
+  27. https://developer.linkedin.com/forum/register-your-oauth-2-redirect-urls
+  28. https://developer.linkedin.com/blog/register-your-oauth-2-redirect-urls
+  29. https://developer.linkedin.com/forum/register-your-oauth-2-redirect-urls
+  30. https://developer.linkedin.com/blog/register-your-oauth-2-redirect-urls
+  31. https://developer.linkedin.com/forum/register-your-oauth-2-redirect-urls
+  32. https://developer.linkedin.com/blog/stacking-api-support-linkedin
+  33. https://developer.linkedin.com/apply-with-linkedin
+  34. https://developer.linkedin.com/partner-programs
+  35. https://developer.linkedin.com/documents/specifications-obtaining-consent-store-profile-data
+  36. https://developer.linkedin.com/documents/branding-guidelines
+  37. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
+  38. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
+  39. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  40. https://developer.linkedin.com/documents/branding-guidelines
+  41. http://linkedin.custhelp.com/app/ask/path/uaq
+  42. https://developer.linkedin.com/documents/branding-guidelines
+  43. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  44. https://developer.linkedin.com/documents/authentication
+  45. https://developer.linkedin.com/core-concepts
+  46. https://developer.linkedin.com/documents/people
+  47. https://developer.linkedin.com/documents/groups
+  48. https://developer.linkedin.com/documents/companies
+  49. https://developer.linkedin.com/documents/jobs
+  50. https://developer.linkedin.com/documents/job-posting
+  51. https://developer.linkedin.com/documents/share-and-social-stream
+  52. https://developer.linkedin.com/documents/communications
+  53. https://developer.linkedin.com/documents/libraries-and-tools
+  54. https://developer.linkedin.com/linkedin-policies
+  55. https://developer.linkedin.com/documents/branding-guidelines
+  56. https://developer.linkedin.com/documents/linkedin-apis-terms-use
+  57. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  58. https://developer.linkedin.com/documents/terms-and-conditions-download-and-use-linkedin-marks-linkedin-members
+  59. https://developer.linkedin.com/linkedin-certified-developer-program-terms-and-promotions-guidelines
+  60. https://developer.linkedin.com/reference
+  61. https://developer.linkedin.com/documents/integrating-your-os-x-mavericks-application-linkedin
+  62. http://www.linkedin.com/static?key=user_agreement&trk=hb_ft_userag
+  63. http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv
+  64. http://www.linkedin.com/static?key=copyright_policy&trk=hb_ft_copy
+  65. https://developer.linkedin.com/documents/linkedin-apis-terms-use
+  66. https://developer.linkedin.com/linkedin-plugins-license-agreement
+  67. https://developer.linkedin.com/documents/linkedin-platform-guidelines
+  68. http://engineering.linkedin.com/
