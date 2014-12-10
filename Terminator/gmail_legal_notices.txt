@@ -27,7 +27,8 @@ Your Intellectual Property Rights
    [English â€“ United States_____________________]
      * [14]Google
      * [15]About Google
-     * [16]Privacy & Terms
+     * [16]Privacy
+     * [17]Terms
 
 References
 
@@ -46,4 +47,5 @@ References
   13. https://www.gmail.com/intl/en/mail/help/program_policies.html
   14. http://www.google.com/
   15. http://www.google.com/intl/en/about/
-  16. http://www.google.com/intl/en/policies/
+  16. http://www.google.com/intl/en/policies/privacy/
+  17. http://www.google.com/intl/en/policies/terms/

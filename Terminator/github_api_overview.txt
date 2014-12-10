@@ -2,8 +2,8 @@
 
    There isn't a GitHub Page here.
 
-   Are you trying to publish one? It may take up to ten minutes until your
-   page is available.
+   Are you trying to publish one? It may take up to thirty minutes until
+   your page is available.
 
    [1]Read the full documentation to learn how to set up GitHub Pages
    for your repository, organization, or user account.
