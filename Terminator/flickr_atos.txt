@@ -14,7 +14,7 @@
      * [13]Create
      * [14]Upload
 
-     *
+     * ____________________ Submit
      * [15]Sign In
 
 Flickr Ad Free, Flickr Pro, and Doublr Additional Terms of Service
