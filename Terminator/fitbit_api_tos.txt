@@ -114,8 +114,8 @@ API Terms of Service
 
    If you are unsure whether your intended use of the API is in compliance
    with these Terms of Service, please contact us at [15]api@fitbit.com to
-   discuss, Additionally, please participate in the Fitbit API Developer
-   Group located [16]here.
+   discuss. Additionally, please participate in the Fitbit API Developer
+   Forum located [16]here.
 
 3. Principles & Best Practices
 
@@ -561,11 +561,11 @@ References
    9. http://dev.fitbit.com/static/FitbitLogosAndGuidelines.zip
   10. http://www.fitbit.com/affiliate
   11. mailto:api@fitbit.com
-  12. https://groups.google.com/forum/#%21forum/fitbit-api
-  13. http://www.fitbit.com/
-  14. http://dev.fitbit.com/terms
+  12. https://dev.fitbit.com/forum
+  13. https://www.fitbit.com/
+  14. https://www.fitbit.com/terms
   15. mailto:api@fitbit.com
-  16. https://groups.google.com/forum/?pli=1#%21forum/fitbit-api
+  16. https://dev.fitbit.com/forum
   17. http://www.fitbit.com/home
   18. http://www.fitbit.com/company
   19. http://blog.fitbit.com/
