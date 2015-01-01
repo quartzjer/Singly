@@ -386,7 +386,7 @@ IX. Additional Terms for "Merchant API" Users
           + [45]Bahasa Indonesia
           + [46]Türkçe
 
-   Foursquare © 2014 Lovingly made in NYC & SF
+   Foursquare © 2015 Lovingly made in NYC & SF
 
 You must enable JavaScript to use foursquare.com
 
@@ -437,7 +437,7 @@ You must enable JavaScript to use foursquare.com
      * [82]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1420005610&amp;u=-1&amp;sig=WtG2NamttbsEayQWoX7b06vfGbg%3D]
+   mp;ts=1420092008&amp;u=-1&amp;sig=XX5Nh16mUYP7QT3sN0PxXH8UhDw%3D]
 
 References
 
