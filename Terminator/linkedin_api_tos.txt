@@ -858,7 +858,7 @@ Documentation
      * [60]Reference
      * [61]Integrating your OS X Mavericks Application with LinkedIn
 
-   LinkedIn Corporation © 2014 | [62]User Agreement | [63]Privacy Policy |
+   LinkedIn Corporation © 2015 | [62]User Agreement | [63]Privacy Policy |
    [64]Copyright Policy | [65]API Terms of Use | [66]Plugins Terms of Use
    | [67]Platform Guidelines | [68]LinkedIn Engineering
 
