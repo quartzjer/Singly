@@ -283,9 +283,9 @@ More information
      * [24]How Google uses data when you use our partners' sites or apps
 
    Change language: [English____________________________________________]
-     * [25]Google
-     * [26]About Google
-     * [27]Privacy & Terms
+     * Google
+     * [25]About Google
+     * [26]Privacy & Terms
 
 References
 
@@ -313,6 +313,5 @@ References
   22. http://www.google.com/intl/en/policies/technologies/wallet/
   23. http://www.google.com/intl/en/policies/technologies/voice/
   24. http://www.google.com/intl/en/policies/privacy/partners/
-  25. http://www.google.com/
-  26. http://www.google.com/intl/en/about/
-  27. http://www.google.com/intl/en/policies/
+  25. http://www.google.com/intl/en/about/
+  26. http://www.google.com/intl/en/policies/

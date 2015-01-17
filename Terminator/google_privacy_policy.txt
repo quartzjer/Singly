@@ -663,10 +663,10 @@ More information
      * [140]Google Product Privacy Guide
 
    Change language: [English____________________________________________]
-     * [141]Google
-     * [142]About Google
-     * [143]Privacy
-     * [144]Terms
+     * Google
+     * [141]About Google
+     * [142]Privacy
+     * [143]Terms
 
 References
 
@@ -810,7 +810,6 @@ References
  138. http://www.google.com/intl/en/policies/technologies/voice/
  139. http://www.google.com/intl/en/policies/privacy/partners/
  140. http://www.google.com/intl/en/policies/technologies/product-privacy/
- 141. http://www.google.com/
- 142. http://www.google.com/intl/en/about/
- 143. http://www.google.com/intl/en/policies/privacy/
- 144. http://www.google.com/intl/en/policies/terms/
+ 141. http://www.google.com/intl/en/about/
+ 142. http://www.google.com/intl/en/policies/privacy/
+ 143. http://www.google.com/intl/en/policies/terms/
