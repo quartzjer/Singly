@@ -215,8 +215,7 @@ Facebook Platform Policy
        including commercial. [41][851547_537948159656190_540847388_n.png]
     2. We can monitor or collect data related to your use of SDKs.
     3. We will use information we receive from you or in connection with
-       your Platform integration in accordance with our [42]Data Use
-       Policy.
+       your Platform integration in accordance with our [42]Data Policy.
     4. You give us all rights necessary to enable your app to work with
        Facebook, including the right to incorporate information you
        provide to us into other parts of Facebook, and the right to
@@ -543,17 +542,17 @@ References
   35. https://developers.facebook.com/policy/
   36. https://developers.facebook.com/policy/
   37. https://developers.facebook.com/docs/apps/review/canvasredirect
-  38. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=NAQFz_d5d&s=1
+  38. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=mAQF21G0V&s=1
   39. https://developers.facebook.com/docs/apps/review/branding
   40. https://developers.facebook.com/docs/plugins/restrictions/
   41. https://developers.facebook.com/policy/
   42. https://www.facebook.com/about/privacy/
   43. https://developers.facebook.com/policy/
-  44. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=9AQHoXUkG&s=1
-  45. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=kAQGjJgf7&s=1
+  44. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=JAQGTkzr6&s=1
+  45. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=FAQEUPrzo&s=1
   46. https://www.facebook.com/legal/terms
   47. https://developers.facebook.com/policy/
-  48. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=LAQEHalxj&s=1
+  48. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=bAQENL-y6&s=1
   49. https://developers.facebook.com/docs/apps/review/branding
   50. https://developers.facebook.com/policy/
   51. https://developers.facebook.com/policy/
