@@ -505,13 +505,14 @@ Fitbit Marks
      * [22]Corporate Wellness
      * [23]API
      * [24]Help
+     * [25]FitForFood
 
      * ©2015 Fitbit Inc. All rights reserved.
-     * [25]Privacy Policy
-     * [26]Terms of Use
-     * [27]Returns & Warranty
-     * [28]Product Care
-     * [29]Recall & Safety Info
+     * [26]Privacy Policy
+     * [27]Terms of Use
+     * [28]Returns & Warranty
+     * [29]Wear and Care
+     * [30]Recall & Safety Info
 
 References
 
@@ -540,18 +541,19 @@ References
   22. http://www.fitbit.com/fitbit-wellness
   23. http://dev.fitbit.com/
   24. http://help.fitbit.com/
-  25. http://www.fitbit.com/privacy
-  26. http://www.fitbit.com/terms
-  27. http://www.fitbit.com/returns
-  28. http://www.fitbit.com/productcare
-  29. http://dev.fitbit.com/forcesupport/info
+  25. https://fitforfood.fitbit.com/
+  26. http://www.fitbit.com/privacy
+  27. http://www.fitbit.com/terms
+  28. http://www.fitbit.com/returns
+  29. http://www.fitbit.com/productcare
+  30. http://dev.fitbit.com/forcesupport/info
 
    Hidden links:
-  30. https://community.fitbit.com/t5/Web-API/bd-p/dev
-  31. http://wiki.fitbit.com/display/API
-  32. http://www.facebook.com/fitbit
-  33. http://www.twitter.com/fitbit
-  34. http://instagram.com/fitbit
-  35. http://www.pinterest.com/fitbit/
-  36. http://www.youtube.com/user/FitbitOfficialSite
-  37. http://plus.google.com/+fitbit
+  31. https://community.fitbit.com/t5/Web-API/bd-p/dev
+  32. http://wiki.fitbit.com/display/API
+  33. http://www.facebook.com/fitbit
+  34. http://www.twitter.com/fitbit
+  35. http://instagram.com/fitbit
+  36. http://www.pinterest.com/fitbit/
+  37. http://www.youtube.com/user/FitbitOfficialSite
+  38. http://plus.google.com/+fitbit
