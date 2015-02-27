@@ -30,7 +30,7 @@
           + [29]Autos
           + [30]Homes
 
-     [31]Firefox Upgrade to the new Firefox »
+     [31]Firefox Install the new Firefox »
 
    [32]Flickr logo. If you click it, you'll go home
      * [33]Sign Up
@@ -366,8 +366,6 @@ b. Application for a Commercial API Key.
      * [81]Twitter
      * [82]Google Plus
 
-   [nojs.gif?p=792600122:P050]
-
 References
 
    1. https://www.flickr.com/opensearch.xml
@@ -400,7 +398,7 @@ References
   28. https://www.yahoo.com/travel
   29. https://autos.yahoo.com/
   30. https://homes.yahoo.com/own-rent/
-  31. https://www.mozilla.org/firefox/new/?utm_source=yahoo&utm_medium=referral&utm_content=uh&utm_campaign=y-upgrade-new-firefox
+  31. https://www.mozilla.org/firefox/new/?utm_source=yahoo&utm_medium=referral&utm_campaign=y-uh&utm_content=y-install-new-firefox
   32. https://www.flickr.com/
   33. https://www.flickr.com/signup
   34. https://www.flickr.com/explore
