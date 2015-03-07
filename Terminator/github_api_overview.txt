@@ -5,16 +5,15 @@
    If you're trying to publish one, [1]read the full documentation to
    learn how to set up GitHub Pages for your repository, organization, or
    user account.
-   [2]Contact Support — [3]GitHub Status — [4]@githubstatus
+   [2]GitHub Status — [3]@githubstatus
 
 References
 
    Visible links
    1. https://help.github.com/pages/
-   2. https://github.com/contact
-   3. https://status.github.com/
-   4. https://twitter.com/githubstatus
+   2. https://status.github.com/
+   3. https://twitter.com/githubstatus
 
    Hidden links:
+   4. http://develop.github.com/
    5. http://develop.github.com/
-   6. http://develop.github.com/
