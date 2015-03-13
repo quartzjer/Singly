@@ -9,7 +9,7 @@
      * [15]Log In
      * [16]Sign Up
 
-   Last Updated: January 29, 2013
+   Last Updated: March 12, 2015
 
 FOURSQUARE LABS, INC. TERMS OF USE
 
@@ -66,12 +66,13 @@ Registration and Eligibility.
    register with Foursquare and represent, warrant and covenant that you
    provide Foursquare with accurate and complete registration information
    (including, but not limited to a user name ("User Name"), e-mail
-   address and a password you will use to access the Service) and to keep
-   your registration information accurate and up-to-date. Failure to do so
-   shall constitute a breach of these Terms of Use, which may result in
-   immediate termination of your Foursquare account. We recommend, but do
-   not require, that you use your own name as your User Name so your
-   friends can recognize you more easily.
+   address and/or mobile telephone number and a password you will use to
+   access the Service) and to keep your registration information accurate
+   and up-to-date. Failure to do so shall constitute a breach of these
+   Terms of Use, which may result in immediate termination of your
+   Foursquare account. We recommend, but do not require, that you use your
+   own name as your User Name so your friends can recognize you more
+   easily.
 
    You shall not:
      * create any account for anyone other than yourself without such
@@ -104,6 +105,13 @@ Registration and Eligibility.
    to you and the right to access the Service is revoked where these Terms
    of Use or use of the Service is prohibited and, in such circumstances,
    you agree not to use or access the Site or Services in any way.
+
+   If you use a mobile device, please be aware that your carrier's normal
+   rates and fees, such as text messaging and data charges, will still
+   apply. In the event you change or deactivate your mobile telephone
+   number, you agree that you will update your account information on the
+   Services within 48 hours to ensure that your messages are not sent to
+   the person who acquires your old number.
 
 Content.
 
@@ -762,8 +770,8 @@ You must enable JavaScript to use foursquare.com
      * [87]Thailand
      * [88]Turkey
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=142613641
-   1&amp;u=-1&amp;sig=jq09ch7RUszpsptz9eMB9tRMeKk%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=142622280
+   9&amp;u=-1&amp;sig=XPPLLXit8UA4RVjQGAE%2FOkXfvUM%3D]
 
 References
 
