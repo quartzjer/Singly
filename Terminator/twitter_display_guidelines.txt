@@ -11,32 +11,34 @@ Sorry, that page doesn’t exist!
      * [6]Dansk
      * [7]Deutsch
      * [8]English
-     * [9]EnglishUK
+     * [9]English UK
      * [10]Español
-     * [11]Suomi
-     * [12]Filipino
-     * [13]français
-     * [14]עִבְרִית
-     * [15]हिन्दी
-     * [16]Bahasa Indonesia
-     * [17]Italiano
-     * [18]日本語
-     * [19]한국어
-     * [20]Nederlands
-     * [21]Norsk
-     * [22]Polski
-     * [23]Português
-     * [24]Русский
-     * [25]Svenska
-     * [26]ภาษาไทย
-     * [27]Türkçe
-     * [28]اردو
-     * [29]简体中文
+     * [11]فارسی
+     * [12]Suomi
+     * [13]Filipino
+     * [14]Français
+     * [15]עִבְרִית
+     * [16]हिन्दी
+     * [17]Magyar
+     * [18]Bahasa Indonesia
+     * [19]Italiano
+     * [20]日本語
+     * [21]한국어
+     * [22]Bahasa Melayu
+     * [23]Nederlands
+     * [24]Norsk
+     * [25]Polski
+     * [26]Português
+     * [27]Русский
+     * [28]Svenska
+     * [29]ภาษาไทย
+     * [30]Türkçe
+     * [31]简体中文
 
      * © Twitter
-     * [30]About
-     * [31]Help
-     * [32]Status
+     * [32]About
+     * [33]Help
+     * [34]Status
 
 References
 
@@ -69,6 +71,8 @@ References
   27. https://dev.twitter.com/pages/display_guidelines
   28. https://dev.twitter.com/pages/display_guidelines
   29. https://dev.twitter.com/pages/display_guidelines
-  30. https://about.twitter.com/
-  31. https://support.twitter.com/
-  32. http://status.twitter.com/
+  30. https://dev.twitter.com/pages/display_guidelines
+  31. https://dev.twitter.com/pages/display_guidelines
+  32. https://about.twitter.com/
+  33. https://support.twitter.com/
+  34. http://status.twitter.com/
