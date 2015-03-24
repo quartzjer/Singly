@@ -1,269 +1,121 @@
-   BodyMedia
-   ____________________ Search
-     * [1]Sign In
+   #[1]publisher
 
-   BODYMEDIA, INC. ("BodyMedia") API TERMS OF USE ("Terms of Use")
+     * [2]Home
+     * [3]Fitness Trackers
+     * [4]Speakers
+     * [5]Headsets
+     * [6]Store
 
-   These Terms of Use set forth the terms of access to and use of the
-   application programming interface made available by BodyMedia ("API"),
-   and the data transmitted from BodyMedia through the API ("Content").
-   These Terms of Use also incorporate by reference the terms and
-   conditions of BodyMedia's [2]Display, Branding and Attribution
-   Policy, [3]Data Use Policy, and the [4]BodyMedia Website Terms and
-   Conditions, (and any amendments thereto) (collectively, "API
-   Agreement"):
+     * [7]Support
+     * [8]Sign In
 
-   By accessing or using the API or Content, you agree to be bound by the
-   API Agreement. If you access or use the API or Content on behalf of an
-   entity, you represent that you have authority to bind such entity and
-   its affiliates to the API Agreement in which case “you” or “your” shall
-   refer to such entity. If you do not have authority, or if you do not
-   agree with the terms of the API Agreement, you may not access or use
-   the API or Content. You should read and print a copy of the documents
-   included in the API Agreement for your records. In the event there is a
-   conflict between such documents, these Terms of Use shall govern.
-   BodyMedia reserves the right to modify or revise the API Agreement at
-   any time. You should visit BodyMedia's website periodically to review
-   the documents comprising the API Agreement and check for updates. Your
-   continued use of the API or the Content after the effective date of any
-   such changes will constitute your acceptance of and agreement to such
-   changes. BodyMedia may, in its sole discretion, release subsequent
-   versions of the API and require you to obtain and use the most current
-   version.
+   Welcome back!
 
-   1. Purpose. The API is made available by BodyMedia to enable
-   BodyMedia's partners and approved licensees to create applications that
-   interface with the BodyMedia Fit websites by posting data and/or
-   utilizing Content on a non-commercial non-distribution basis, unless
-   commercial terms are separately agreed upon in writing by you and
-   BodyMedia ("Purpose").
+   Unlock features and updates for your Jawbone device by signing in now.
 
-   2. Registration. In order to access or use the API, you must first
-   register for and receive a valid BodyMedia license key ("License Key").
-   There are two types of License Keys. One is designed to be used
-   primarily for mobile devices and external or distributed applications
-   ("Mobile and External App Key"), and one is to be used strictly by
-   commercial partners of BodyMedia to access the API via their own site
-   or portal strictly for server to server communication ("Member Service
-   Partner Key"). You hereby agree not to use the Member Service Partner
-   Key in any mobile devices or external or distributed applications or
-   for anything other than server to server communication. You are only
-   allowed to register for and use one License Key, unless otherwise
-   permitted by BodyMedia in writing. All web services requests coming
-   from such application or service shall reference your valid License
-   Key. You agree to keep your License Key confidential and not share it
-   with any third party, and you shall not permit any end-user, customer
-   or third party to distribute any License Key provided by or on behalf
-   of BodyMedia. BodyMedia shall have the right to audit your use of the
-   License Keys and to disable and/or modify any License Key being
-   utilized in violation of these Terms of Use.
+   Email Address ____________________
 
-   3. License. Subject to the terms set forth in the [5]Display, Branding
-   and Attribution Policy and elsewhere in the API Agreement, BodyMedia
-   hereby grants you a non-exclusive, revocable, non-sub-licensable,
-   non-transferable license to (i) access and use the API to post data
-   and/or receive the Content; (ii) display the Content via your
-   application; and (iii) reproduce and display the BodyMedia name and
-   logo ("Marks") solely in connection with the Purpose. You may not use
-   the API, Content, or Marks for any other purpose without BodyMedia's
-   prior written consent. These license rights are further limited by the
-   restrictions set forth elsewhere in the API Agreement, and all rights
-   not expressly granted to you hereunder are reserved by BodyMedia. If
-   you desire to use the API for commercial purposes, please contact
-   BodyMedia for further discussion.
+   Password ____________________
 
-   (a)              In addition to and without limiting any rights set
-   forth in the Terms and Conditions, You agree that we are free to use
-   any information or content submitted by you to BodyMedia (“Data Posts”)
-   and that such Data Posts are subject to these Terms of Use.  You grant
-   to BodyMedia all rights to use and incorporate such Data Posts in any
-   BodyMedia product or service without notice, compensation or
-   acknowledgement to you, for any purpose whatsoever, including but not
-   limited to modifying the BodyMedia sites, and developing and marketing
-   products and services.
+   [9]Forgot password
+   (Submit) Sign In
+   Don't have an account yet? [10]sign up
+   close
 
-   4.  Restrictions. You represent and warrant that you have secured all
-   necessary rights from any third party with respect to the activities
-   contemplated herein, including, without limitation, any participation
-   in third party authorized developer programs for third party platforms
-   or devices. You shall not use the API or the Content in any way in
-   connection with any product or service that competes with BodyMedia.
-   Except as otherwise expressly provided herein, you may not, nor may you
-   assist or enable others to (i) sell, sublicense, rent, lease or lend
-   any rights granted to it pursuant to these Terms of Use; (ii) alter,
-   modify, create derivative works of, reverse engineer, decompile, or
-   disassemble the API or the Content; (iii) decrypt or attempt to decrypt
-   any data obtained from or using the API; (iv) use the API to, or design
-   or develop software to, upload or otherwise transmit any material
-   containing software viruses, worms, Trojan horses or other computer
-   code, files or programs designed to interrupt, destroy, or limit the
-   functionality of any software or hardware; (v) modify the Content,
-   bulk-download, resell or distribute the Content; (vi) create or
-   disclose metrics (general or otherwise) about, or perform any
-   statistical analysis of, the Content; (vii) use the API or Content on
-   behalf of any third party; (viii) display the Marks or Content in a
-   manner that could reasonably imply an endorsement, relationship or
-   affiliation with or sponsorship between you or a third party and
-   BodyMedia, other than your permitted use of the API under the terms of
-   the API Agreement; (ix) do anything that adversely impacts BodyMedia's
-   servers or impacts the behavior of other applications using the API;
-   (x) display the Content on any site that disparages BodyMedia or its
-   products or services, or infringes any BodyMedia intellectual property
-   or other rights; (xi) make marketing claims without BodyMedia's prior
-   written approval; or (xii) use the API or Content in any manner or for
-   any purpose that may violate any law or regulation, or any right of any
-   person including, but not limited to, intellectual property rights
-   and/or rights of privacy and/or publicity, or which otherwise may be
-   harmful to BodyMedia, its providers, its suppliers, end users, or your
-   end users, or cause a violation by BodyMedia of the terms and
-   conditions of its Privacy Policy.; the other provisions of this Terms
-   of Use shall not limit the generality of this requirement.
+   (Submit) Menu[11]Jawbone
 
-   5.  Proprietary Rights and Confidentiality. The API, Content, Marks,
-   and all intellectual property rights contained in the foregoing, any
-   modifications to the foregoing (whether created by BodyMedia or you),
-   and the data obtained by you from using the API, are and will at all
-   times remain the sole and exclusive property of BodyMedia and its
-   licensors and are protected by applicable intellectual property laws
-   and treaties (whether those rights happen to be registered or not, and
-   wherever in the world those rights may exist.). You agree that at no
-   time during or after the termination of the API Agreement will you
-   attempt to register any trademarks (including domain names) that are
-   confusingly similar in any way to those of the Marks. The API and
-   Content are licensed, not sold, and BodyMedia reserves all rights not
-   expressly granted to you hereunder. You may not represent that any
-   applications created in connection with the API are certified or
-   otherwise endorsed by BodyMedia. You shall maintain in strict
-   confidence all non-public information of BodyMedia disclosed in
-   connection with the API Agreement, including, without limitation, any
-   and all know-how, trade secrets, algorithms, technical information and
-   business information (the "Confidential Information"), and shall only
-   use such Confidential Information in connection with the Purpose.
+     * [12]Home
+     * [13]Fitness trackers
+     * [14]JAMBOX
+     * [15]Headsets
+     * [16]Store
+     * [17]Support
 
-   6. Termination. BodyMedia reserves the right, in its sole discretion
-   (for any reason or for no reason) and at any time without notice to
-   you, to change, suspend or discontinue the API and/or suspend or
-   terminate your rights under the API Agreement to access, use and/or
-   display (as applicable) the API, Marks and/or any Content. Any
-   termination of the API Agreement will also immediately terminate the
-   licenses granted to you hereunder. Such change, suspension or
-   termination of the API may cause your existing services using the API
-   to stop functioning properly. Upon any termination of the API
-   Agreement, you will promptly delete and remove all calls to the API
-   from all web pages, scripts, applications, and other software in your
-   possession or under your control; promptly destroy and remove from all
-   computers, hard drives, networks and other storage media all copies of
-   the API, Marks and/or any Content; and you will promptly certify in
-   writing to BodyMedia that such actions have been taken.
+   404
 
-   7. Indemnity. You agree that your use of the API is at your own risk
-   and you agree to hold harmless, defend (subject to BodyMedia's right to
-   participate with counsel it selects) and indemnify BodyMedia and its
-   subsidiaries, affiliates, officers, agents, employees and suppliers
-   from and against any and all claims damages, liabilities, costs and
-   fees (including reasonable attorneys' fee) due to or arising from,
-   directly or indirectly, in whole or in part, or in any way related to
-   your application or your or your end users' use or implementation of
-   the API or any Content, including, without limitation, use of the
-   License Keys not in accordance with the restrictions set forth in these
-   Terms of Use and/or any commercial agreement entered into with
-   BodyMedia in connection with the use of a License Key. You will not
-   agree to any settlement that imposes any obligation on BodyMedia
-   without BodyMedia's prior consent.
+Sad face! The page you are looking for cannot be found.
 
-   8. No Warranty. THE API, MARKS AND CONTENT ARE PROVIDED "AS IS", "WITH
-   ALL FAULTS" AND "AS AVAILABLE" WITHOUT WARRANTY, OF ANY KIND AND AT
-   YOUR SOLE RISK. EXCEPT AS SPECIFICALLY SET FORTH HEREIN, BODYMEDIA
-   DISCLAIMS ALL WARRANTIES, REPRESENTATIONS, CONDITIONS, AND DUTIES,
-   WHETHER EXPRESS, IMPLIED OR STATUTORY, REGARDING THE API, MARKS AND ANY
-   CONTENT, INCLUDING, WITHOUT LIMITATION, ANY AND ALL IMPLIED WARRANTIES
-   OF MERCHANTABILITY, ACCURACY, RESULTS OF USE, RELIABILITY, FITNESS FOR
-   A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FURTHER, BODYMEDIA HEREBY
-   DISCLAIMS ANY WARRANTY THAT YOUR USE OF THE API WILL BE UNINTERRUPTED,
-   SECURE, TIMELY OR ERROR FREE. FOR THE AVOIDANCE OF DOUBT, YOU
-   ACKNOWLEDGE AND AGREE THAT THE API AGREEMENT DOES NOT ENTITLE YOU TO
-   ANY SUPPORT FOR THE API.
+   Please use the navigation links above to find your way.
+   Jawbone
+     * [18]Facebook
+     * [19]Twitter
+     * [20]Google+
+     * [21]Pinterest
+     * [22]YouTube
+     * [23]Instagram
+     * [24]Tumblr
 
-   9. Limitation of Liability. YOU AGREE THAT BODYMEDIA SHALL HAVE NO
-   LIABILITY ARISING FROM OR BASED ON YOUR USE OF THE API OR THE CONTENT,
-   INCLUDING, WITHOUT LIMITATION, ANY ADVICE AND/OR FEEDBACK BASED ON THE
-   CONTENT. REGARDLESS OF WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF ITS
-   ESSENTIAL PURPOSE OR OTHERWISE, IN NO EVENT SHALL BODYMEDIA OR ITS
-   SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, EMPLOYEES AND SUPPLIERS BE
-   LIABLE TO YOU OR TO ANY THIRD PARTY UNDER ANY TORT, CONTRACT,
-   NEGLIGENCE, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY
-   LOST PROFITS, LOST OR CORRUPTED DATA, COMPUTER FAILURE OR MALFUNCTION,
-   INTERRUPTION OF BUSINESS, OR OTHER SPECIAL, INDIRECT, INCIDENTAL OR
-   CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF THE USE OR INABILITY
-   TO USE THE API, EVEN IF BODYMEDIA HAS BEEN ADVISED OF THE POSSIBILITY
-   OF SUCH LOSS OR DAMAGES AND WHETHER OR NOT SUCH LOSS OR DAMAGES ARE
-   FORESEEABLE. NOTWITHSTANDING THE FOREGOING, BODYMEDIA'S MAXIMUM
-   LIABILITY UNDER THE API AGREEMENT SHALL NOT, IN ANY EVENT, EXCEED THE
-   PRICE PAID BY YOU TO BODYMEDIA HEREUNDER.
+   Company
 
-   10. Limited Relationship. BodyMedia and you are, and will remain,
-   independent contractors, and nothing in the API Agreement will be
-   construed as creating an employer-employee relationship, partnership or
-   joint venture.
+          + [25]About Us
+          + [26]News & Press
+          + [27]Careers
+          + [28]Contact Us
+          + [29]Website Privacy
+          + [30]Blog
 
-   11. No Endorsement. You understand and agree that BodyMedia does not
-   endorse your application.
+   Shop
 
-   12.  Independent Development. Nothing in this Agreement will impair
-   BodyMedia’s right to develop, acquire, license, promote, market, or
-   distribute products, applications or technologies that perform the same
-   or similar functions as, or otherwise compete with, your application or
-   any other products or technologies that you may develop, produce,
-   market, or distribute.
+          + [31]Store
+          + [32]Retail Partners
+          + [33]Corporate Sales
+          + [34]Corporate Wellness
 
-   13. Miscellaneous. The API Agreement encompasses the entire agreement
-   between you and BodyMedia regarding the subject matter discussed
-   therein. The API Agreement, and any disputes arising from or relating
-   to the interpretation thereof, will be governed by and construed under
-   the laws of the Commonwealth of Pennsylvania without regard to its
-   conflicts of law provisions. You agree to personal jurisdiction by and
-   venue in the state and federal courts of the Allegheny County,
-   Pennsylvania. The failure of BodyMedia to exercise or enforce any right
-   or provision of the API Agreement will not constitute a waiver of such
-   right or provision. If any provision of the API Agreement is found to
-   be unenforceable or invalid, that provision will be replaced with terms
-   that most closely match the intent of the provision that is not
-   enforceable to the minimum extent necessary so that the remaining API
-   Agreement will otherwise remain in full force and effect. The API
-   Agreement is not assignable, transferable or sublicensable, in whole or
-   in part without BodyMedia's prior written consent. BodyMedia may assign
-   the API Agreement, in whole or in part, at any time with or without
-   notice to you.
+   Support
 
-   14. Survival. Sections 2, 4, 5, 6, 7, 8, 9, 12,13 and 14 will survive
-   any expiration or termination of this API Agreement for any reason.
-     * [6]About
-     * [7]Documentation
-     * [8]Forums
+          + [35]Support
+          + [36]Community
+          + [37]Contact Us
 
-   [9]Learn more about BodyMedia [10]Display Branding and Attribution
-   Policy [11]Data Use Policy [12]API Terms of Use
+Get the latest news
 
-   © 2013 BodyMedia, Inc.
+   Enter email address ____________________ (Submit) Submit
 
-   Follow us:
-   [13]Twitter [14]Facebook
-
-   Quantcast
+   © 2015 Jawbone. All rights reserved. See our [38]terms of use and
+   [39]privacy policy.
 
 References
 
-   1. https://developer.bodymedia.com/login/login?r=https%3A%2F%2Fdeveloper.bodymedia.com%2Fapps%2Ftos&h=182b7bee7b8da375c267c750d818aff6
-   2. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
-   3. https://developer.bodymedia.com/Data_Use_Policy
-   4. http://www.bodymedia.com/Support-Help/Policies/Terms-and-Conditions
-   5. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
-   6. https://developer.bodymedia.com/page
-   7. https://developer.bodymedia.com/docs
-   8. https://developer.bodymedia.com/forum
-   9. http://www.bodymedia.com/
-  10. https://developer.bodymedia.com/Display_Branding_and_Attribution_Policy
-  11. https://developer.bodymedia.com/Data_Use_Policy
-  12. https://developer.bodymedia.com/API_Terms_of_Use
-  13. http://twitter.com/#!/bodymediaAPI
-  14. http://www.facebook.com/BodyMediaFIT
+   Visible links
+   1. https://plus.google.com/110731117920682770912
+   2. http://developer.bodymedia.com/
+   3. http://developer.bodymedia.com/up
+   4. http://developer.bodymedia.com/speakers
+   5. http://developer.bodymedia.com/headsets
+   6. http://developer.bodymedia.com/store
+   7. http://developer.bodymedia.com/support
+   8. http://developer.bodymedia.com/user/login
+   9. http://developer.bodymedia.com/start/reset
+  10. http://developer.bodymedia.com/start/signup
+  11. http://developer.bodymedia.com/
+  12. http://developer.bodymedia.com/
+  13. http://developer.bodymedia.com/up
+  14. http://developer.bodymedia.com/speakers
+  15. http://developer.bodymedia.com/headsets
+  16. http://developer.bodymedia.com/store
+  17. http://developer.bodymedia.com/support
+  18. https://www.facebook.com/jawbone
+  19. https://twitter.com/Jawbone
+  20. https://plus.google.com/+jawbone
+  21. http://www.pinterest.com/Jawbone/
+  22. https://www.youtube.com/user/jawbone
+  23. http://instagram.com/jawbone
+  24. http://jawbone.tumblr.com/
+  25. http://developer.bodymedia.com/about
+  26. http://developer.bodymedia.com/pressrelease
+  27. http://developer.bodymedia.com/careers
+  28. http://developer.bodymedia.com/contact
+  29. http://developer.bodymedia.com/legal/privacy
+  30. http://jawbone.com/blog
+  31. http://developer.bodymedia.com/store
+  32. http://developer.bodymedia.com/retail-partners
+  33. http://developer.bodymedia.com/corporatesales
+  34. http://developer.bodymedia.com/up/groups
+  35. http://developer.bodymedia.com/support
+  36. http://forums.jawbone.com/
+  37. http://developer.bodymedia.com/contact
+  38. http://developer.bodymedia.com/legal/terms
+  39. http://developer.bodymedia.com/privacy
+
+   Hidden links:
+  40. http://developer.bodymedia.com/user/locale
