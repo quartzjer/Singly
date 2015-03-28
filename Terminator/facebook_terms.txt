@@ -9,7 +9,7 @@
    [4]Sign Up
    This agreement was written in English (US). To the extent any
    translated version of this agreement conflicts with the English
-   version, the English version controls.  Please note that Section 16
+   version, the English version controls.Â  Please note that Section 16
    contains certain changes to the general terms for users outside the
    United States.
    Date of Last Revision: January 30, 2015
@@ -18,11 +18,11 @@
    "SRR") derives from the[5] Facebook Principles, and is our terms of
    service that governs our relationship with users and others who
    interact with Facebook, as well as Facebook brands, products and
-   services, which we call the [6]“Facebook Services” or “Services”. By
-   using or accessing the Facebook Services, you agree to this Statement,
-   as updated from time to time in accordance with Section 13 below.
-   Additionally, you will find resources at the end of this document that
-   help you understand how Facebook works.
+   services, which we call the [6]â€œFacebook Servicesâ€� or
+   â€œServicesâ€�. By using or accessing the Facebook Services, you agree
+   to this Statement, as updated from time to time in accordance with
+   Section 13 below. Additionally, you will find resources at the end of
+   this document that help you understand how Facebook works.
    Because Facebook provides a wide range of [7]Services, we may ask you
    to review and accept supplemental terms that apply to your interaction
    with a specific app, product, or service. To the extent those
@@ -35,7 +35,7 @@
        to share with others and how we collect and can use your content
        and information. We encourage you to read the [9]Data Policy, and
        to use it to help you make informed decisions.
-
+       Â
     2. Sharing Your Content and Information
        You own all of the content and information you post on Facebook,
        and you can control how it is shared through your [10]privacy and
@@ -56,12 +56,12 @@
             others).
          3. When you use an application, the application may ask for your
             permission to access your content and information as well as
-            content and information that others have shared with you.  We
+            content and information that others have shared with you.Â  We
             require applications to respect your privacy, and your
             agreement with that application will control how the
             application can use, store, and transfer that content and
-            information.  (To learn more about Platform, including how you
-            can control what information other people may share with
+            information.Â  (To learn more about Platform, including how
+            you can control what information other people may share with
             applications, read our [14]Data Policy and [15]Platform Page.)
          4. When you publish content or information using the Public
             setting, it means that you are allowing everyone, including
@@ -72,7 +72,7 @@
             Facebook, but you understand that we may use your feedback or
             suggestions without any obligation to compensate you for them
             (just as you have no obligation to offer them).
-
+            Â
     3. Safety
        We do our best to keep Facebook safe, but we cannot guarantee it.
        We need your help to keep Facebook safe, which includes the
@@ -104,7 +104,7 @@
             or other Facebook functionality.
         11. You will not facilitate or encourage any violations of this
             Statement or our policies.
-
+            Â
     4. Registration and Account Security
        Facebook users provide their real names and information, and we
        need your help to keep it that way. Here are some commitments you
@@ -135,7 +135,7 @@
             if we believe it is appropriate (such as when a trademark
             owner complains about a username that does not closely relate
             to a user's actual name).
-
+            Â
     5. Protecting Other People's Rights
        We respect other people's rights, and expect you to do the same.
          1. You will not post content or take any action on Facebook that
@@ -166,7 +166,7 @@
          9. You will not tag users or send email invitations to non-users
             without their consent. Facebook offers social reporting tools
             to enable users to provide feedback about tagging.
-
+            Â
     6. Mobile and Other Devices
          1. We currently provide our mobile services for free, but please
             be aware that your carrier's normal rates and fees, such as
@@ -178,11 +178,11 @@
          3. You provide consent and all rights necessary to enable users
             to sync (including through an application) their devices with
             any information that is visible to them on Facebook.
-
+            Â
     7. Payments
        If you make a payment on Facebook, you agree to our [17]Payments
        Terms unless it is stated that other terms apply.
-
+       Â
     8. Special Provisions Applicable to Developers/Operators of
        Applications and Websites
        If you are a developer or operator of a Platform application or
@@ -206,19 +206,19 @@
             without your consent.
          3. You understand that we may not always identify paid services
             and communications as such.
-
+            Â
    10. Special Provisions Applicable to Advertisers
        If you use our self-service advertising creation interfaces for
        creation, submission and/or delivery of any advertising or other
        commercial or sponsored activity or content (collectively, the
-       “Self-Serve Ad Interfaces”), you agree to our [19]Self-Serve Ad
+       â€œSelf-Serve Ad Interfacesâ€�), you agree to our [19]Self-Serve Ad
        Terms. In addition, your advertising or other commercial or
        sponsored activity or content placed on Facebook or our publisher
        network will comply with our [20]Advertising Guidelines.
    11. Special Provisions Applicable to Pages
        If you create or administer a Page on Facebook, or run a promotion
        or an offer from your Page, you agree to our [21]Pages Terms.
-
+       Â
    12. Special Provisions Applicable to Software
          1. If you download or use our software, such as a stand-alone
             software product, an app, or a browser plugin, you agree that
@@ -230,7 +230,7 @@
             are expressly permitted to do so under an open source license,
             or we give you express written permission.
    13. Amendments
-         1. We’ll notify you before we make changes to these terms and
+         1. Weâ€™ll notify you before we make changes to these terms and
             give you the opportunity to review and comment on the revised
             terms before continuing to use our Services.
          2. If we make changes to policies, guidelines or other terms
@@ -240,7 +240,7 @@
             of the changes to our terms, policies or guidelines,
             constitutes your acceptance of our amended terms, policies or
             guidelines.
-
+            Â
    14. Termination
        If you violate the letter or spirit of this Statement, or otherwise
        create risk or possible legal exposure for us, we can stop
@@ -250,7 +250,7 @@
        time. In all such cases, this Statement shall terminate, but the
        following provisions will still apply: 2.2, 2.4, 3-5, 9.3, and
        14-18.
-
+       Â
    15. Disputes
          1. You will resolve any claim, cause of action or dispute (claim)
             you have with us arising out of or relating to this Statement
@@ -286,7 +286,7 @@
             FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF
             OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY
             SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU
-            WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: A GENERAL
+            WAIVE CALIFORNIA CIVIL CODE Â§1542, WHICH SAYS: A GENERAL
             RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT
             KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF
             EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE
@@ -303,7 +303,7 @@
             CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION
             MAY NOT APPLY TO YOU. IN SUCH CASES, FACEBOOK'S LIABILITY WILL
             BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
-
+            Â
    16. Special Provisions Applicable to Users Outside the United States
        We strive to create a global community with consistent standards
        for everyone, but we also strive to respect local laws. The
@@ -322,9 +322,9 @@
          3. Certain specific terms that apply only for German users are
             available [22]here.
    17. Definitions
-         1. By "Facebook" or” Facebook Services” we mean the features and
-            services we make available, including through (a) our website
-            at www.facebook.com and any other Facebook branded or
+         1. By "Facebook" orâ€� Facebook Servicesâ€� we mean the features
+            and services we make available, including through (a) our
+            website at www.facebook.com and any other Facebook branded or
             co-branded websites (including sub-domains, international
             versions, widgets, and mobile versions); (b) our Platform; (c)
             social plugins such as the Like button, the Share button and
@@ -353,19 +353,19 @@
             distribute, modify, translate, and create derivative works of.
          8. By "application" we mean any application or website that uses
             or accesses Platform, as well as anything else that receives
-            or has received data from us.  If you no longer access
+            or has received data from us.Â  If you no longer access
             Platform but have not deleted all data from us, the term
             application will apply until you delete the data.
-         9. By “Trademarks” we mean the list of trademarks provided
+         9. By â€œTrademarksâ€� we mean the list of trademarks provided
             [23]here.
-
+            Â
    18. Other
          1. If you are a resident of or have your principal place of
             business in the US or Canada, this Statement is an agreement
-            between you and Facebook, Inc.  Otherwise, this Statement is
-            an agreement between you and Facebook Ireland Limited.
-            References to “us,” “we,” and “our” mean either Facebook, Inc.
-            or Facebook Ireland Limited, as appropriate.
+            between you and Facebook, Inc.Â  Otherwise, this Statement is
+            an agreement between you and Facebook Ireland Limited.Â
+            References to â€œus,â€� â€œwe,â€� and â€œourâ€� mean either
+            Facebook, Inc. or Facebook Ireland Limited, as appropriate.
          2. This Statement makes up the entire agreement between the
             parties regarding Facebook, and supersedes any prior
             agreements.
@@ -422,14 +422,14 @@
    To access the Statement of Rights and Responsibilities in several
    different languages, change the language setting for your Facebook
    session by clicking on the language link in the left corner of most
-   pages.  If the Statement is not available in the language you select,
+   pages.Â  If the Statement is not available in the language you select,
    we will default to the English version.
    [35]Sign Up [36]Log In [37]Mobile [38]Find Friends [39]Badges
    [40]People [41]Pages [42]Places [43]Games
    [44]Locations [45]About [46]Create Ad [47]Create Page [48]Developers
    [49]Careers [50]Privacy [51]Cookies [52]Terms
    [53]Help
-   Facebook © 2015
+   Facebook Â© 2015
    [54]English (US)
 
 References
@@ -456,7 +456,7 @@ References
   20. https://www.facebook.com/ad_guidelines.php
   21. https://www.facebook.com/page_guidelines.php
   22. https://www.facebook.com/terms/provisions/german/index.php
-  23. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2Ftrademarks%2F&h=DAQFTDm_2&s=1
+  23. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2Ftrademarks%2F&h=VAQHOyZAo&s=1
   24. https://www.facebook.com/about/privacy/
   25. https://www.facebook.com/payments_terms
   26. https://www.facebook.com/platform
@@ -464,7 +464,7 @@ References
   28. https://www.facebook.com/ad_guidelines.php
   29. https://www.facebook.com/legal/self_service_ads_terms
   30. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  31. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=9AQHKUh6r&s=1
+  31. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=oAQHnBsNr&s=1
   32. https://www.facebook.com/help/399224883474207
   33. https://www.facebook.com/page_guidelines.php
   34. https://www.facebook.com/communitystandards
