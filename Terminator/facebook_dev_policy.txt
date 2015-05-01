@@ -300,7 +300,7 @@ Facebook Platform Policy
     4. If you use a third party ad provider to include ads in your app on
        Facebook, only use a provider from [58]this list.
     5. Donâ€™t include third-party ads (including for other apps) in
-       posts, notifications, or requests.
+       posts, notifications, requests, invites or messages.
     6. Donâ€™t include or pair Platform Integrations with non-Facebook
        ads. [59][851547_537948159656190_540847388_n.png]
     7. If you run a promotion, contest, competition, or sweepstake on
@@ -626,17 +626,17 @@ References
   38. https://developers.facebook.com/policy/
   39. https://developers.facebook.com/policy/
   40. https://developers.facebook.com/docs/apps/review/canvasredirect
-  41. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=bAQEruPb7&s=1
+  41. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=bAQGE0-fZ&s=1
   42. https://developers.facebook.com/docs/apps/review/branding
   43. https://developers.facebook.com/docs/plugins/restrictions/
   44. https://developers.facebook.com/policy/
   45. https://www.facebook.com/about/privacy/
   46. https://developers.facebook.com/policy/
-  47. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=lAQEASvsf&s=1
-  48. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=iAQFPWnWe&s=1
+  47. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=bAQGE0-fZ&s=1
+  48. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=_AQHAznbc&s=1
   49. https://www.facebook.com/legal/terms
   50. https://developers.facebook.com/policy/
-  51. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=aAQFlnrir&s=1
+  51. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=zAQGwTxGh&s=1
   52. https://developers.facebook.com/docs/apps/review/branding
   53. https://developers.facebook.com/policy/
   54. https://developers.facebook.com/policy/
