@@ -46,7 +46,7 @@ Privacy Policy
    Show examples
    Hide examples
 
-   Last modified: February 25, 2015 ([24]view archived versions)
+   Last modified: May 1, 2015 ([24]view archived versions)
 
    [25]Download PDF version
 
@@ -147,8 +147,9 @@ Information we collect
             traffic to their websites and apps. When used in conjunction
             with our advertising services, such as those using the
             DoubleClick cookie, Google Analytics information is
-            [55]linked, using Google technology, with information about
-            visits to multiple sites.
+            [55]linked, by the Google Analytics customer or by Google,
+            using Google technology, with information about visits to
+            multiple sites.
 
 How we use information we collect
 
@@ -537,10 +538,11 @@ Example
 "linked with information about visits to multiple sites"
 
    Google Analytics is based on first-party cookies. Data generated
-   through Google Analytics can be linked, using Google technology, to
-   third-party cookies, related to visits to other websites, for instance
-   when an advertiser wants to use its Google Analytics data to create
-   more relevant ads, or to further analyze its traffic.
+   through Google Analytics can be linked, by the Google Analytics
+   customer or by Google, using Google technology, to third-party cookies,
+   related to visits to other websites, for instance when an advertiser
+   wants to use its Google Analytics data to create more relevant ads, or
+   to further analyze its traffic.
    [112]Learn more.
 
 Example
