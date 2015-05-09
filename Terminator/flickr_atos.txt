@@ -12,38 +12,46 @@
           + [11]The Weekly Flickr
           + [12]Flickr Blog
      * [13]Create
-     * [14]Upload
 
+     * [14]Upload
      * ____________________ Submit
      * [15]Sign In
+
+   [16]Explore
+   [17]Recent Photos
+   [18]The Commons
+   [19]20under20
+   [20]Galleries
+   [21]The Weekly Flickr
+   [22]Flickr Blog
 
 Grass could be greener on this side
 
    You seem to be using an unsupported browser. To get the most out of
-   Flickr please upgrade to the latest version of [16]Chrome, [17]Safari,
-   [18]Firefox, or [19]Internet Explorer.
-   [20]No thanks, take me to the site anyway
-     * [21]About
-     * [22]Jobs
-     * [23]Blog
-     * [24]Mobile
-     * [25]Developers
-     * [26]Guidelines
-     * [27]Feedback
-     * [28]Report abuse
-     * [29]Help forum
-     * [30]English
+   Flickr please upgrade to the latest version of [23]Chrome, [24]Safari,
+   [25]Firefox, or [26]Internet Explorer.
+   [27]No thanks, take me to the site anyway
+     * [28]About
+     * [29]Jobs
+     * [30]Blog
+     * [31]Mobile
+     * [32]Developers
+     * [33]Guidelines
+     * [34]Feedback
+     * [35]Report abuse
+     * [36]Help forum
+     * [37]English
 
-     * [31]Privacy
-     * [32]Terms
-     * [33]Yahoo Safely
-     * [34]Help
+     * [38]Privacy
+     * [39]Terms
+     * [40]Yahoo Safely
+     * [41]Help
 
-   Flickr, [35]a Yahoo company
-     * [36]Tumblr
-     * [37]Facebook
-     * [38]Twitter
-     * [39]Google Plus
+   Flickr, [42]a Yahoo company
+     * [43]Tumblr
+     * [44]Facebook
+     * [45]Twitter
+     * [46]Google Plus
 
 References
 
@@ -63,34 +71,41 @@ References
   13. https://www.flickr.com/create
   14. https://www.flickr.com/upload
   15. https://www.flickr.com/signin
-  16. https://www.google.com/chrome
-  17. https://www.apple.com/safari/
-  18. https://www.mozilla.org/firefox
-  19. http://windows.microsoft.com/en-us/internet-explorer/download-ie
-  20. https://www.flickr.com/atos/pro
-  21. https://www.flickr.com/about
-  22. https://www.flickr.com/jobs
-  23. https://blog.flickr.net/en
-  24. https://mobile.yahoo.com/flickr
-  25. https://www.flickr.com/services/developer
-  26. https://www.flickr.com/help/guidelines
-  27. https://yahoo.uservoice.com/forums/211185-us-flickr
-  28. https://www.flickr.com/abuse
-  29. https://www.flickr.com/help/forum
-  30. https://www.flickr.com/change_language.gne?lang=en-US&csrf=
-  31. https://info.yahoo.com/privacy/us/yahoo/flickr/details.html
-  32. https://www.flickr.com/help/terms
-  33. https://safely.yahoo.com/
-  34. https://help.yahoo.com/kb/flickr
-  35. https://info.yahoo.com/
-  36. http://flickr.tumblr.com/
-  37. https://www.facebook.com/flickr
-  38. https://twitter.com/flickr
-  39. https://plus.google.com/+flickr
+  16. https://www.flickr.com/explore
+  17. https://www.flickr.com/explore
+  18. https://www.flickr.com/commons
+  19. https://www.flickr.com/20under20
+  20. https://www.flickr.com/galleries
+  21. https://www.flickr.com/photos/flickr/sets/72157639868074114/
+  22. https://blog.flickr.net/
+  23. https://www.google.com/chrome
+  24. https://www.apple.com/safari/
+  25. https://www.mozilla.org/firefox
+  26. http://windows.microsoft.com/en-us/internet-explorer/download-ie
+  27. https://www.flickr.com/atos/pro
+  28. https://www.flickr.com/about
+  29. https://www.flickr.com/jobs
+  30. https://blog.flickr.net/en
+  31. https://mobile.yahoo.com/flickr
+  32. https://www.flickr.com/services/developer
+  33. https://www.flickr.com/help/guidelines
+  34. https://yahoo.uservoice.com/forums/211185-us-flickr
+  35. https://www.flickr.com/abuse
+  36. https://www.flickr.com/help/forum
+  37. https://www.flickr.com/change_language.gne?lang=en-US&csrf=
+  38. https://info.yahoo.com/privacy/us/yahoo/flickr/details.html
+  39. https://www.flickr.com/help/terms
+  40. https://safely.yahoo.com/
+  41. https://help.yahoo.com/kb/flickr
+  42. https://info.yahoo.com/
+  43. http://flickr.tumblr.com/
+  44. https://www.facebook.com/flickr
+  45. https://twitter.com/flickr
+  46. https://plus.google.com/+flickr
 
    Hidden links:
-  40. https://www.flickr.com/
-  41. https://www.google.com/chrome
-  42. https://www.apple.com/safari/
-  43. https://www.mozilla.org/firefox
-  44. http://windows.microsoft.com/en-us/internet-explorer/download-ie
+  47. https://www.flickr.com/
+  48. https://www.google.com/chrome
+  49. https://www.apple.com/safari/
+  50. https://www.mozilla.org/firefox
+  51. http://windows.microsoft.com/en-us/internet-explorer/download-ie
