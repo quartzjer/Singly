@@ -12,7 +12,7 @@
           + [11]Camera Finder
           + [12]The Weekly Flickr
           + [13]FlickrBlog
-     * [14]Create SALE
+     * [14]Create
 
      * [15]Upload
 
