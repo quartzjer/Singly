@@ -536,7 +536,7 @@ References
   18. http://www.fitbit.com/about
   19. http://dev.fitbit.com/jobs
   20. http://www.fitbit.com/retailers
-  21. http://www.fitbit.com/affiliates
+  21. http://dev.fitbit.com/affiliates
   22. http://www.fitbit.com/fitbit-wellness
   23. http://dev.fitbit.com/
   24. http://help.fitbit.com/
