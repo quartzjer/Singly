@@ -48,10 +48,10 @@ Grass could be greener on this side
      * [41]Help
 
    Flickr, [42]a Yahoo company
-     * [43]Tumblr
-     * [44]Facebook
-     * [45]Twitter
-     * [46]Google Plus
+     *
+     *
+     *
+     *
 
 References
 
@@ -98,14 +98,14 @@ References
   40. https://safely.yahoo.com/
   41. https://help.yahoo.com/kb/flickr
   42. https://info.yahoo.com/
-  43. http://flickr.tumblr.com/
-  44. https://www.facebook.com/flickr
-  45. https://twitter.com/flickr
-  46. https://plus.google.com/+flickr
 
    Hidden links:
-  47. https://www.flickr.com/
-  48. https://www.google.com/chrome
-  49. https://www.apple.com/safari/
-  50. https://www.mozilla.org/firefox
-  51. http://windows.microsoft.com/en-us/internet-explorer/download-ie
+  43. https://www.flickr.com/
+  44. https://www.google.com/chrome
+  45. https://www.apple.com/safari/
+  46. https://www.mozilla.org/firefox
+  47. http://windows.microsoft.com/en-us/internet-explorer/download-ie
+  48. http://flickr.tumblr.com/
+  49. https://www.facebook.com/flickr
+  50. https://twitter.com/flickr
+  51. https://plus.google.com/+flickr
