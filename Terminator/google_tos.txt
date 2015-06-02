@@ -1,21 +1,22 @@
-Google
+[1]Google
 
-[1]Privacy & Terms
+[2]Privacy & Terms
 
-   [2]Skip to content
+   [3]Skip to content
 
-     * [3]Overview
-     * [4]Privacy Policy
-     * [5]Terms of Service
-     * [6]Technologies and Principles
-     * [7]FAQ
+     * [4]Overview
+     * [5]Privacy Policy
+     * [6]Terms of Service
+     * [7]Technologies and Principles
+     * [8]FAQ
+     * [9]My Account
 
      * Terms of Service
-     * [8]Updates
+     * [10]Updates
 
 Google Terms of Service
 
-   Last modified: April 14, 2014 ([9]view archived versions)
+   Last modified: April 14, 2014 ([11]view archived versions)
 
 Welcome to Google!
 
@@ -80,11 +81,11 @@ Your Google Account
    are responsible for the activity that happens on or through your Google
    Account. Try not to reuse your Google Account password on third-party
    applications. If you learn of any unauthorized use of your password or
-   Google Account, [10]follow these instructions.
+   Google Account, [12]follow these instructions.
 
 Privacy and Copyright Protection
 
-   Googleâ€™s [11]privacy policies explain how we treat your personal data
+   Googleâ€™s [13]privacy policies explain how we treat your personal data
    and protect your privacy when you use our Services. By using our
    Services, you agree that Google can use such data in accordance with
    our privacy policies.
@@ -97,7 +98,7 @@ Privacy and Copyright Protection
    intellectual property online. If you think somebody is violating your
    copyrights and want to notify us, you can find information about
    submitting notices and Googleâ€™s policy about responding to notices
-   [12]in our Help Center.
+   [14]in our Help Center.
 
 Your Content in our Services
 
@@ -257,61 +258,71 @@ About these Terms
    and Google consent to personal jurisdiction in those courts.
 
    For information about how to contact Google, please visit our
-   [13]contact page.
-
-Google Safety Center
-
-     * Keeping the web safe for everyone is a shared responsibility.
-       [14]Learn what you can do to protect yourself and your family
-       online.
+   [15]contact page.
 
 Our legal policies
 
-     * [15]Privacy Policy
+     * [16]Privacy Policy
      * Terms of Service
-     * [16]FAQ
+     * [17]FAQ
 
 More information
 
-     * [17]Technologies and Principles
-     * [18]Advertising
-     * [19]How Google uses cookies
-     * [20]How Google uses pattern recognition
-     * [21]Types of location data used by Google
-     * [22]How Google Wallet uses credit card numbers
-     * [23]How Google Voice works
-     * [24]How Google uses data when you use our partners' sites or apps
+     * [18]Technologies and Principles
+     * [19]Advertising
+     * [20]How Google uses cookies
+     * [21]How Google uses pattern recognition
+     * [22]Types of location data used by Google
+
+     * [23]How Google Wallet uses credit card numbers
+     * [24]How Google Voice works
+     * [25]How Google uses data when you use our partners' sites or apps
+
+Additional resources
+
+     * [26]My Account
+     * [27]Google Safety Center
+     * [28]Google Product Privacy Guide
+     * [29]Answers to privacy and security questions
 
    Change language: [English____________________________________________]
-     * Google
-     * [25]About Google
-     * [26]Privacy & Terms
+     * [30]Google
+     * [31]About Google
+     * [32]Privacy
+     * [33]Terms
 
 References
 
-   1. http://www.google.com/intl/en/policies/
-   2. http://www.google.com/intl/en/policies/terms/#content
-   3. http://www.google.com/intl/en/policies/
-   4. http://www.google.com/intl/en/policies/privacy/
-   5. http://www.google.com/intl/en/policies/terms/
-   6. http://www.google.com/intl/en/policies/technologies/
-   7. http://www.google.com/intl/en/policies/faq/
-   8. http://www.google.com/intl/en/policies/terms/archive/
-   9. http://www.google.com/intl/en/policies/terms/archive/
-  10. http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
-  11. http://www.google.com/intl/en/policies/privacy/
-  12. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
-  13. http://www.google.com/intl/en/contact/
-  14. http://www.google.com/safetycenter/families/start/
-  15. http://www.google.com/intl/en/policies/privacy/
-  16. http://www.google.com/intl/en/policies/faq/
-  17. http://www.google.com/intl/en/policies/technologies/
-  18. http://www.google.com/intl/en/policies/technologies/ads/
-  19. http://www.google.com/intl/en/policies/technologies/cookies/
-  20. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
-  21. http://www.google.com/intl/en/policies/technologies/location-data/
-  22. http://www.google.com/intl/en/policies/technologies/wallet/
-  23. http://www.google.com/intl/en/policies/technologies/voice/
-  24. http://www.google.com/intl/en/policies/privacy/partners/
-  25. http://www.google.com/intl/en/about/
-  26. http://www.google.com/intl/en/policies/
+   1. http://www.google.com/
+   2. http://www.google.com/intl/en/policies/
+   3. http://www.google.com/intl/en/policies/terms/#content
+   4. http://www.google.com/intl/en/policies/
+   5. http://www.google.com/intl/en/policies/privacy/
+   6. http://www.google.com/intl/en/policies/terms/
+   7. http://www.google.com/intl/en/policies/technologies/
+   8. http://www.google.com/intl/en/policies/faq/
+   9. http://myaccount.google.com/
+  10. http://www.google.com/intl/en/policies/terms/archive/
+  11. http://www.google.com/intl/en/policies/terms/archive/
+  12. http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
+  13. http://www.google.com/intl/en/policies/privacy/
+  14. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
+  15. http://www.google.com/intl/en/contact/
+  16. http://www.google.com/intl/en/policies/privacy/
+  17. http://www.google.com/intl/en/policies/faq/
+  18. http://www.google.com/intl/en/policies/technologies/
+  19. http://www.google.com/intl/en/policies/technologies/ads/
+  20. http://www.google.com/intl/en/policies/technologies/cookies/
+  21. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
+  22. http://www.google.com/intl/en/policies/technologies/location-data/
+  23. http://www.google.com/intl/en/policies/technologies/wallet/
+  24. http://www.google.com/intl/en/policies/technologies/voice/
+  25. http://www.google.com/intl/en/policies/privacy/partners/
+  26. https://myaccount.google.com/?hl=en
+  27. http://www.google.com/intl/en/safetycenter/families/start/
+  28. http://www.google.com/intl/en/policies/technologies/product-privacy/
+  29. https://privacy.google.com/?hl=en
+  30. http://www.google.com/
+  31. http://www.google.com/intl/en/about/
+  32. http://www.google.com/intl/en/policies/privacy/
+  33. http://www.google.com/intl/en/policies/terms/
