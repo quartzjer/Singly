@@ -1,0 +1,42 @@
+   Google
+
+One account. All of Google.
+
+Sign in to continue to Gmail
+
+   [avatar_2x.png]
+   Enter your email ____________________ ____________________
+   Next [1]Need help?
+   [2]Back
+
+   ____________________ Password ____________________
+   Sign in [X] Stay signed in
+   For your convenience, keep this checked. On shared devices, additional
+   precautions are recommended. [3]Learn more
+   [4]Forgot password?
+   Sorry, Google doesn't recognize that email. [5]Create an account using
+   that address?
+
+   [6]Sign in with a different account [7]Create account
+
+   One Google Account for everything Google
+     * [8]About Google
+     * [9]Privacy
+     * [10]Terms
+     * [11]Help
+
+   Change language [‪English (United States)‬__]
+
+References
+
+   1. https://www.google.com/accounts/recovery?hl=en
+   2. https://accounts.google.com/ServiceLoginAuth
+   3. https://support.google.com/accounts/?p=securesignin&hl=en
+   4. https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1
+   5. https://accounts.google.com/SignUpWithoutGmail?EmailAddress=
+   6. https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hl=en&service=mail&scc=1
+   7. https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default
+   8. https://www.google.com/intl/en/about
+   9. https://accounts.google.com/TOS?loc=US&hl=en&privacy=true
+  10. https://accounts.google.com/TOS?loc=US&hl=en
+  11. http://www.google.com/support/accounts?hl=en

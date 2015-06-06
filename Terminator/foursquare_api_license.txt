@@ -284,8 +284,7 @@ You must enable JavaScript to use foursquare.com
      * [76]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1433480407&amp;u=-1&amp;sig=Ee%2Fw%2F7muzmAu%2FWu10MudhcLW8js%3
-   D]
+   &amp;ts=1433566808&amp;u=-1&amp;sig=C1WkQ7JOd1GFOl62p%2FzgaYzYVS8%3D]
 
 References
 

@@ -44,7 +44,7 @@ Privacy Policy
    Show examples
    Hide examples
 
-   Last modified: May 1, 2015 ([27]view archived versions)
+   Last modified: June 5, 2015 ([27]view archived versions)
 
    [28]Download PDF version
 
@@ -79,19 +79,19 @@ Information we collect
    [37]the people who matter most to you online, or which YouTube videos
    you might like.
 
-   We collect information in two ways:
+   We collect information in the following ways:
      * Information you give us. For example, many of our services require
        you to sign up for a Google Account. When you do, weâ€™ll ask for
        [38]personal information, like your name, email address, telephone
-       number or [39]credit card. If you want to take full advantage of
-       the sharing features we offer, we might also ask you to create a
-       publicly visible [40]Google Profile, which may include your name
-       and photo.
+       number or [39]credit card to store with your account. If you want
+       to take full advantage of the sharing features we offer, we might
+       also ask you to create a publicly visible [40]Google Profile, which
+       may include your name and photo.
      * Information we get from your use of our services. We [41]collect
        information about the services that you use and how you use them,
        like when you watch a video on YouTube, visit a website that uses
-       our advertising services, or you [42]view and interact with our ads
-       and content. This information includes:
+       our advertising services, or [42]view and interact with our ads and
+       content. This information includes:
           + [43]Device information
             We collect [44]device-specific information (such as your
             hardware model, operating system version, [45]unique device
@@ -134,31 +134,37 @@ Information we collect
             information) locally on your device using mechanisms such as
             [53]browser web storage (including HTML 5) and [54]application
             data caches.
-          + Cookies and anonymous identifiers
+          + Cookies and similar technologies
             We [55]and our partners use various technologies to collect
             and store information when you visit a Google service, and
-            this may include sending one or more [56]cookies or
-            [57]anonymous identifiers to your device. We also use cookies
-            and anonymous identifiers when you interact with services we
-            offer to our partners, such as [58]advertising services or
-            Google features that may appear on other sites. Our Google
-            Analytics product helps businesses and site owners analyze the
-            traffic to their websites and apps. When used in conjunction
-            with our advertising services, such as those using the
-            DoubleClick cookie, Google Analytics information is
-            [59]linked, by the Google Analytics customer or by Google,
-            using Google technology, with information about visits to
-            multiple sites.
+            this may include using [56]cookies or similar technologies to
+            identify your browser or device. We also use these
+            technologies to collect and store information when you
+            interact with services we offer to our partners, such as
+            [57]advertising services or Google features that may appear on
+            other sites. Our Google Analytics product helps businesses and
+            site owners analyze the traffic to their websites and apps.
+            When used in conjunction with our advertising services, such
+            as those using the DoubleClick cookie, Google Analytics
+            information is [58]linked, by the Google Analytics customer or
+            by Google, using Google technology, with information about
+            visits to multiple sites.
 
+   Information we collect when you are signed in to Google may be
+   associated with your Google Account. When information is associated
+   with your Google Account, we treat it as personal information. For more
+   information about how you can access, manage or delete information that
+   is associated with your Google Account, visit the [59]Transparency and
+   choice section of this policy.
    [60]Back to top
 
 How we use information we collect
 
-   We use the information we collect from all of our services to provide,
-   maintain, protect and improve them, to [61]develop new ones, and to
-   [62]protect Google and our users. We also use this information to offer
-   you tailored content â€“ like giving you more relevant search results
-   and ads.
+   We use the information we collect from all of our services to
+   [61]provide, [62]maintain, [63]protect and improve them, to [64]develop
+   new ones, and to [65]protect Google and our users. We also use this
+   information to offer you tailored content â€“ like giving you more
+   relevant search results and ads.
 
    We may use the name you provide for your Google Profile across all of
    the services we offer that require a Google Account. In addition, we
@@ -173,7 +179,7 @@ How we use information we collect
    connected to your Google Account (such as +1â€™s, reviews you write and
    comments you post) in our services, including displaying in ads and
    other commercial contexts. We will respect the choices you make to
-   [63]limit sharing or visibility settings in your Google Account.
+   [66]limit sharing or visibility settings in your Google Account.
 
    When you contact Google, we keep a record of your communication to help
    solve any issues you might be facing. We may use your email address to
@@ -181,22 +187,22 @@ How we use information we collect
    changes or improvements.
 
    We use information collected from cookies and other technologies, like
-   [64]pixel tags, to [65]improve your user experience and the overall
+   [67]pixel tags, to [68]improve your user experience and the overall
    quality of our services. One of the products we use to do this on our
    own services is Google Analytics. For example, by saving your language
    preferences, weâ€™ll be able to have our services appear in the
    language you prefer. When showing you tailored ads, we will not
-   associate a cookie or anonymous identifier with [66]sensitive
-   categories, such as those based on race, religion, sexual orientation
-   or health.
+   associate an identifier from cookies or similar technologies with
+   [69]sensitive categories, such as those based on race, religion, sexual
+   orientation or health.
 
    Our automated systems analyze your content (including emails) to
    provide you personally relevant product features, such as customized
    search results, tailored advertising, and spam and malware detection.
 
-   We may [67]combine personal information from one service with
+   We may [70]combine personal information from one service with
    information, including personal information, from other Google services
-   â€“ for example [68]to make it easier to share things with people you
+   â€“ for example [71]to make it easier to share things with people you
    know. We will not combine DoubleClick cookie information with
    personally identifiable information unless we have your opt-in consent.
 
@@ -206,49 +212,49 @@ How we use information we collect
    Google processes personal information on our servers in many countries
    around the world. We may process your personal information on a server
    located outside the country where you live.
-   [69]Back to top
+   [72]Back to top
 
 Transparency and choice
 
    People have different privacy concerns. Our goal is to be clear about
    what information we collect, so that you can make meaningful choices
    about how it is used. For example, you can:
-     * [70]Visit your Google Account History for settings that allow you
+     * [73]Visit your Google Account History for settings that allow you
        to control the collection of personal information from Google
        services, such as Search, YouTube and Location History.
-     * [71]Review and control certain types of information tied to your
+     * [74]Review and control certain types of information tied to your
        Google Account by using Google Dashboard.
-     * [72]View and edit your preferences about the Google ads shown to
+     * [75]View and edit your preferences about the Google ads shown to
        you on Google and across the web, such as which categories might
        interest you, using Ads Settings. You can also opt out of certain
        Google advertising services here.
-     * [73]Adjust how the Profile associated with your Google Account
+     * [76]Adjust how the Profile associated with your Google Account
        appears to others.
-     * [74]Control who you share information with through your Google
+     * [77]Control who you share information with through your Google
        Account.
-     * [75]Take information associated with your Google Account out of
+     * [78]Take information associated with your Google Account out of
        many of our services.
-     * [76]Choose whether your Profile name and Profile photo appear in
+     * [79]Choose whether your Profile name and Profile photo appear in
        shared endorsements that appear in ads.
 
    You may also set your browser to block all cookies, including cookies
    associated with our services, or to indicate when a cookie is being set
    by us. However, itâ€™s important to remember that many of our services
-   [77]may not function properly if your cookies are disabled. For
+   [80]may not function properly if your cookies are disabled. For
    example, we may not remember your language preferences.
-   [78]Back to top
+   [81]Back to top
 
 Information you share
 
    Many of our services let you share information with others. Remember
    that when you share information publicly, it may be indexable by search
    engines, including Google. Our services provide you with different
-   options on [79]sharing and [80]removing your content.
-   [81]Back to top
+   options on [82]sharing and [83]removing your content.
+   [84]Back to top
 
 Accessing and updating your personal information
 
-   Whenever you use our services, we aim to provide you with [82]access to
+   Whenever you use our services, we aim to provide you with [85]access to
    your personal information. If that information is wrong, we strive to
    give you ways to update it quickly or to delete it â€“ unless we have
    to keep that information for legitimate business or legal purposes.
@@ -268,7 +274,7 @@ Accessing and updating your personal information
    information from our services, we may not immediately delete residual
    copies from our active servers and may not remove information from our
    backup systems.
-   [83]Back to top
+   [86]Back to top
 
 Information we share
 
@@ -278,10 +284,10 @@ Information we share
      * With your consent
        We will share personal information with companies, organizations or
        individuals outside of Google when we have your consent to do so.
-       We require opt-in consent for the sharing of any [84]sensitive
+       We require opt-in consent for the sharing of any [87]sensitive
        personal information.
      * With domain administrators
-       If your Google Account is managed for you by a [85]domain
+       If your Google Account is managed for you by a [88]domain
        administrator (for example, for Google Apps users) then your domain
        administrator and resellers who provide user support to your
        organization will have access to your Google Account information
@@ -293,14 +299,14 @@ Information we share
           + suspend or terminate your account access.
           + access or retain information stored as part of your account.
           + receive your account information in order to satisfy
-            applicable law, regulation, [86]legal process or enforceable
+            applicable law, regulation, [89]legal process or enforceable
             governmental request.
           + restrict your ability to delete or edit information or privacy
             settings.
        Please refer to your domain administratorâ€™s privacy policy for
        more information.
      * For external processing
-       We provide personal information to our [87]affiliates or other
+       We provide personal information to our [90]affiliates or other
        trusted businesses or persons to process it for us, based on our
        instructions and in compliance with our Privacy Policy and any
        other appropriate confidentiality and security measures.
@@ -319,25 +325,25 @@ Information we share
             Google, our users or the public as required or permitted by
             law.
 
-   [88]We may share aggregated, [89]non-personally identifiable
+   [91]We may share aggregated, [92]non-personally identifiable
    information publicly and with our partners â€“ like publishers,
    advertisers or connected sites. For example, we may share information
-   publicly [90]to show trends about the general use of our services.
+   publicly [93]to show trends about the general use of our services.
 
    If Google is involved in a merger, acquisition or asset sale, we will
    continue to ensure the confidentiality of any personal information and
    give affected users notice before personal information is transferred
    or becomes subject to a different privacy policy.
-   [91]Back to top
+   [94]Back to top
 
 Information security
 
    We work hard to protect Google and our users from unauthorized access
    to or unauthorized alteration, disclosure or destruction of information
    we hold. In particular:
-     * We encrypt many of our services [92]using SSL.
-     * We offer you [93]two step verification when you access your Google
-       Account, and a [94]Safe Browsing feature in Google Chrome.
+     * We encrypt many of our services [95]using SSL.
+     * We offer you [96]two step verification when you access your Google
+       Account, and a [97]Safe Browsing feature in Google Chrome.
      * We review our information collection, storage and processing
        practices, including physical security measures, to guard against
        unauthorized access to systems.
@@ -347,7 +353,7 @@ Information security
        confidentiality obligations and may be disciplined or terminated if
        they fail to meet these obligations.
 
-   [95]Back to top
+   [98]Back to top
 
 When this Privacy Policy applies
 
@@ -364,18 +370,18 @@ When this Privacy Policy applies
    does not cover the information practices of other companies and
    organizations who advertise our services, and who may use cookies,
    pixel tags and other technologies to serve and offer relevant ads.
-   [96]Back to top
+   [99]Back to top
 
 Compliance and cooperation with regulatory authorities
 
    We regularly review our compliance with our Privacy Policy. We also
-   adhere to several [97]self regulatory frameworks. When we receive
+   adhere to several [100]self regulatory frameworks. When we receive
    formal written complaints, we will contact the person who made the
    complaint to follow up. We work with the appropriate regulatory
    authorities, including local data protection authorities, to resolve
    any complaints regarding the transfer of personal data that we cannot
    resolve with our users directly.
-   [98]Back to top
+   [101]Back to top
 
 Changes
 
@@ -386,40 +392,40 @@ Changes
    for certain services, email notification of privacy policy changes). We
    will also keep prior versions of this Privacy Policy in an archive for
    your review.
-   [99]Back to top
+   [102]Back to top
 
 Specific product practices
 
    The following notices explain specific privacy practices with respect
    to certain Google products and services that you may use:
-     * [100]Chrome and Chrome OS
-     * [101]Books
-     * [102]Wallet
-     * [103]Fiber
+     * [103]Chrome and Chrome OS
+     * [104]Books
+     * [105]Wallet
+     * [106]Fiber
 
    For more information about some of our most popular services, you can
-   visit the [104]Google Product Privacy Guide.
-   [105]Back to top
+   visit the [107]Google Product Privacy Guide.
+   [108]Back to top
 
 Other useful privacy and security related materials
 
    Further useful privacy and security related materials can be found
-   through Googleâ€™s [106]policies and principles pages, including:
-     * Information about our [107]technologies and principles, which
+   through Googleâ€™s [109]policies and principles pages, including:
+     * Information about our [110]technologies and principles, which
        includes, among other things, more information on
-          + [108]how Google uses cookies.
-          + technologies we use for [109]advertising.
-          + how we [110]recognize patterns like faces.
-     * A [111]page that explains what data is shared with Google when you
+          + [111]how Google uses cookies.
+          + technologies we use for [112]advertising.
+          + how we [113]recognize patterns like faces.
+     * A [114]page that explains what data is shared with Google when you
        visit websites that use our advertising, analytics and social
        products.
-     * Googleâ€™s [112]safety center, which provides information on how to
+     * Googleâ€™s [115]safety center, which provides information on how to
        stay safe and secure online.
 
 We keep your personal information private and safe â€” and put you in
 control.
 
-   [113]Get answers to common questions about privacy and security.
+   [116]Get answers to common questions about privacy and security.
 
 Example
 
@@ -427,7 +433,7 @@ Example
 
    For example, with Google Dashboard you can quickly and easily see some
    of the data associated with your Google Account.
-   [114]Learn more.
+   [117]Learn more.
 
 Example
 
@@ -435,7 +441,7 @@ Example
 
    For example, if you frequently visit websites and blogs about
    gardening, you may see ads related to gardening as you browse the web.
-   [115]Learn more.
+   [118]Learn more.
 
 Example
 
@@ -444,7 +450,7 @@ Example
    For example, if you frequently visit websites and blogs about gardening
    that show our ads, you may start to see ads related to this interest as
    you browse the web.
-   [116]Learn more.
+   [119]Learn more.
 
 Example
 
@@ -454,7 +460,7 @@ Example
    better understanding of your location. For example, an accelerometer
    can be used to determine things like speed, or a gyroscope to figure
    out direction of travel.
-   [117]Learn more.
+   [120]Learn more.
 
 Example
 
@@ -463,7 +469,7 @@ Example
    This includes information like your usage data and preferences, Gmail
    messages, G+ profile, photos, videos, browsing history, map searches,
    docs, or other Google-hosted content.
-   [118]Learn more.
+   [121]Learn more.
 
 Example
 
@@ -475,7 +481,7 @@ personal information, from other Google services"
    pages, photos, and Google+ posts from your friends and people who know
    you or follow you on Google+ may see your posts and profile in their
    results.
-   [119]Learn more.
+   [122]Learn more.
 
 Example
 
@@ -485,7 +491,7 @@ Example
    to connect with on Google+, based on the connections you have with
    people on other Google products, like Gmail and people who have a
    connection with you may see your profile as a suggestion.
-   [120]Learn more.
+   [123]Learn more.
 
 Example
 
@@ -496,7 +502,7 @@ Example
    to confirm that you meet our age requirements in case your account was
    disabled after you have entered a birthday indicating you are not old
    enough to have a Google Account.
-   [121]Learn more.
+   [124]Learn more.
 
 Example
 
@@ -505,7 +511,7 @@ Example
    For example, Googleâ€™s spell checking software was developed by
    analyzing previous searches where users had corrected their own
    spelling.
-   [122]Learn more.
+   [125]Learn more.
 
 Example
 
@@ -514,7 +520,7 @@ Example
    Device identifiers let Google know which unique device you are using to
    access our services, which can be used to customise our service to your
    device or analyse any device issues related to our services.
-   [123]Learn more.
+   [126]Learn more.
 
 Example
 
@@ -523,7 +529,7 @@ Example
    For example, when you visit Google Play from your desktop, Google can
    use this information to help you decide on which devices you'd like
    your purchases to be available for use.
-   [124]Learn more.
+   [127]Learn more.
 
 Example
 
@@ -531,7 +537,7 @@ Example
 
    For example, cookies allow us to analyse how users interact with our
    services.
-   [125]Learn more.
+   [128]Learn more.
 
 Example
 
@@ -540,7 +546,7 @@ Example
    Like other technology and communications companies, Google regularly
    receives requests from governments and courts around the world to hand
    over user data.
-   [126]Learn more.
+   [129]Learn more.
 
 Example
 
@@ -548,7 +554,7 @@ Example
 
    For example, you can choose your settings so your name and photo do not
    appear in an ad.
-   [127]Learn more.
+   [130]Learn more.
 
 Example
 
@@ -560,7 +566,15 @@ Example
    related to visits to other websites, for instance when an advertiser
    wants to use its Google Analytics data to create more relevant ads, or
    to further analyze its traffic.
-   [128]Learn more.
+   [131]Learn more.
+
+Example
+
+"maintain"
+
+   For example, we continuously monitor our systems to check that they are
+   working as intended and in order to detect and fix errors.
+   [132]Learn more.
 
 Example
 
@@ -568,7 +582,7 @@ Example
 
    For example, Google Maps can center the maps view on your current
    location.
-   [129]Learn more.
+   [133]Learn more.
 
 Example
 
@@ -576,7 +590,7 @@ Example
 
    For example, we use a cookie called â€˜lbcsâ€™ which makes it possible
    for you to open many Google Docs in one browser.
-   [130]Learn more.
+   [134]Learn more.
 
 Example
 
@@ -584,7 +598,7 @@ Example
 
    We allow trusted businesses to use cookies or similar technologies for
    advertising and research purposes on our services.
-   [131]Learn more.
+   [135]Learn more.
 
 Example
 
@@ -593,7 +607,7 @@ Example
    For example, if you add a phone number as a recovery option, if you
    forget your password Google can send you a text message with a code to
    enable you to reset it.
-   [132]Learn more.
+   [136]Learn more.
 
 Example
 
@@ -603,14 +617,30 @@ Example
    email, "Last account activity" in Gmail shows you information about
    recent activity in your email, such as the IP addresses that accessed
    your mail, the associated location, as well as the time and date.
-   [133]Learn more.
+   [137]Learn more.
+
+Example
+
+"protect"
+
+   For example, one reason we collect and analyze IP addresses and cookies
+   is to protect our services against automated abuse.
+   [138]Learn more.
+
+Example
+
+"provide"
+
+   For example, the IP address assigned to your device is used to send the
+   data you requested back to your device.
+   [139]Learn more.
 
 Example
 
 "sharing"
 
    For example, with Google+, you have many different sharing options.
-   [134]Learn more.
+   [140]Learn more.
 
 Example
 
@@ -618,7 +648,7 @@ Example
 
    For example, if someone is already a contact, Google will autocomplete
    their name if you want to add them to a message in Gmail.
-   [135]Learn more.
+   [141]Learn more.
 
 Example
 
@@ -627,7 +657,7 @@ Example
    For example, when you type an address in the To, Cc, or Bcc field of a
    message you're composing, Gmail will suggest addresses from your
    Contacts list.
-   [136]Learn more.
+   [142]Learn more.
 
 Example
 
@@ -637,7 +667,7 @@ Example
    to add them to a Google Doc or an event in Google Calendar, Google
    makes it easy to do so by autocompleting their email address when you
    start to type in their name.
-   [137]Learn more.
+   [143]Learn more.
 
 Example
 
@@ -647,7 +677,7 @@ Example
    their ad to a page and whether that ad was likely to be seen by users
    (as opposed to, for example, being on part of the page to which users
    did not scroll).
-   [138]Learn more.
+   [144]Learn more.
 
 Example
 
@@ -655,7 +685,7 @@ Example
 
    When lots of people start searching for something, it can provide very
    useful information about particular trends at that time.
-   [139]Learn more.
+   [145]Learn more.
 
 Example
 
@@ -663,7 +693,7 @@ Example
 
    For example, Google can approximate your deviceâ€™s location based on
    the known location of nearby cell towers.
-   [140]Learn more.
+   [146]Learn more.
 
 Example
 
@@ -672,53 +702,53 @@ Example
    For example, we can make search more relevant and interesting for you
    by including photos, posts, and more from you and your friends.
 
-   [141]Learn more
+   [147]Learn more
 
 Example
 
 "removing your content"
 
-   For example, you can delete your [142]Web History, [143]your blog,
-   [144]a Google Site you own, [145]your YouTube Channel, [146]your
-   Google+ profile or [147]your entire Google account.
+   For example, you can delete your [148]Web History, [149]your blog,
+   [150]a Google Site you own, [151]your YouTube Channel, [152]your
+   Google+ profile or [153]your entire Google account.
 
 Example
 
 "to show trends"
 
-   You can see some of these at [148]Google Trends and [149]YouTube
+   You can see some of these at [154]Google Trends and [155]YouTube
    Trends.
 
 Our legal policies
 
      * Privacy Policy
-     * [150]Terms of Service
-     * [151]FAQ
+     * [156]Terms of Service
+     * [157]FAQ
 
 More information
 
-     * [152]Technologies and Principles
-     * [153]Advertising
-     * [154]How Google uses cookies
-     * [155]How Google uses pattern recognition
-     * [156]Types of location data used by Google
+     * [158]Technologies and Principles
+     * [159]Advertising
+     * [160]How Google uses cookies
+     * [161]How Google uses pattern recognition
+     * [162]Types of location data used by Google
 
-     * [157]How Google Wallet uses credit card numbers
-     * [158]How Google Voice works
-     * [159]How Google uses data when you use our partners' sites or apps
+     * [163]How Google Wallet uses credit card numbers
+     * [164]How Google Voice works
+     * [165]How Google uses data when you use our partners' sites or apps
 
 Additional resources
 
-     * [160]My Account
-     * [161]Google Safety Center
-     * [162]Google Product Privacy Guide
-     * [163]Answers to privacy and security questions
+     * [166]My Account
+     * [167]Google Safety Center
+     * [168]Google Product Privacy Guide
+     * [169]Answers to privacy and security questions
 
    Change language: [English____________________________________________]
-     * [164]Google
-     * [165]About Google
-     * [166]Privacy
-     * [167]Terms
+     * [170]Google
+     * [171]About Google
+     * [172]Privacy
+     * [173]Terms
 
 References
 
@@ -778,114 +808,120 @@ References
   54. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache
   55. http://www.google.com/intl/en/policies/privacy/example/our-partners.html
   56. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie
-  57. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier
-  58. http://www.google.com/intl/en/policies/privacy/example/advertising-services.html
-  59. http://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html
+  57. http://www.google.com/intl/en/policies/privacy/example/advertising-services.html
+  58. http://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html
+  59. http://www.google.com/intl/en/policies/privacy/#infochoices
   60. http://www.google.com/intl/en/policies/privacy/#content
-  61. http://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html
-  62. http://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html
-  63. http://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html
-  64. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel
-  65. http://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html
-  66. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories
-  67. http://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html
-  68. http://www.google.com/intl/en/policies/privacy/example/to-make-it-easier-to-share.html
-  69. http://www.google.com/intl/en/policies/privacy/#content
-  70. https://www.google.com/settings/accounthistory?hl=en
-  71. https://www.google.com/dashboard/?hl=en
-  72. https://www.google.com/settings/ads/preferences?hl=en
-  73. https://support.google.com/plus/answer/1355890?hl=en
-  74. http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347
-  75. http://www.dataliberation.org/
-  76. https://plus.google.com/settings/endorsements
-  77. http://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html
-  78. http://www.google.com/intl/en/policies/privacy/#content
-  79. http://www.google.com/intl/en/policies/privacy/example/sharing.html
-  80. http://www.google.com/intl/en/policies/privacy/example/removing-your-content.html
+  61. http://www.google.com/intl/en/policies/privacy/example/provide-services.html
+  62. http://www.google.com/intl/en/policies/privacy/example/maintain-services.html
+  63. http://www.google.com/intl/en/policies/privacy/example/protect-services.html
+  64. http://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html
+  65. http://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html
+  66. http://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html
+  67. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel
+  68. http://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html
+  69. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories
+  70. http://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html
+  71. http://www.google.com/intl/en/policies/privacy/example/to-make-it-easier-to-share.html
+  72. http://www.google.com/intl/en/policies/privacy/#content
+  73. https://www.google.com/settings/accounthistory?hl=en
+  74. https://www.google.com/dashboard/?hl=en
+  75. https://www.google.com/settings/ads/preferences?hl=en
+  76. https://support.google.com/plus/answer/1355890?hl=en
+  77. http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347
+  78. http://www.dataliberation.org/
+  79. https://plus.google.com/settings/endorsements
+  80. http://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html
   81. http://www.google.com/intl/en/policies/privacy/#content
-  82. http://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html
-  83. http://www.google.com/intl/en/policies/privacy/#content
-  84. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info
-  85. https://support.google.com/a/answer/178897?hl=en
-  86. http://www.google.com/intl/en/policies/privacy/example/legal-process.html
-  87. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates
-  88. http://www.google.com/intl/en/policies/privacy/example/we-may-share-aggregated.html
-  89. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info
-  90. http://www.google.com/intl/en/policies/privacy/example/to-show-trends.html
-  91. http://www.google.com/intl/en/policies/privacy/#content
-  92. https://support.google.com/websearch/answer/173733?hl=en
-  93. http://www.google.com/intl/en/landing/2step/
-  94. http://www.google.com/chrome/intl/en/more/security.html
-  95. http://www.google.com/intl/en/policies/privacy/#content
-  96. http://www.google.com/intl/en/policies/privacy/#content
-  97. http://www.google.com/intl/en/policies/privacy/frameworks/
+  82. http://www.google.com/intl/en/policies/privacy/example/sharing.html
+  83. http://www.google.com/intl/en/policies/privacy/example/removing-your-content.html
+  84. http://www.google.com/intl/en/policies/privacy/#content
+  85. http://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html
+  86. http://www.google.com/intl/en/policies/privacy/#content
+  87. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info
+  88. https://support.google.com/a/answer/178897?hl=en
+  89. http://www.google.com/intl/en/policies/privacy/example/legal-process.html
+  90. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates
+  91. http://www.google.com/intl/en/policies/privacy/example/we-may-share-aggregated.html
+  92. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info
+  93. http://www.google.com/intl/en/policies/privacy/example/to-show-trends.html
+  94. http://www.google.com/intl/en/policies/privacy/#content
+  95. https://support.google.com/websearch/answer/173733?hl=en
+  96. http://www.google.com/intl/en/landing/2step/
+  97. http://www.google.com/chrome/intl/en/more/security.html
   98. http://www.google.com/intl/en/policies/privacy/#content
   99. http://www.google.com/intl/en/policies/privacy/#content
- 100. http://www.google.com/chrome/intl/en/privacy.html
- 101. http://books.google.com/intl/en/googlebooks/privacy.html
- 102. http://wallet.google.com/files/privacy.html?hl=en
- 103. https://fiber.google.com/legal/privacy.html
- 104. http://www.google.com/intl/en/policies/technologies/product-privacy/
- 105. http://www.google.com/intl/en/policies/privacy/#content
- 106. http://www.google.com/intl/en/policies/
- 107. http://www.google.com/intl/en/policies/technologies/
- 108. http://www.google.com/intl/en/policies/technologies/cookies/
- 109. http://www.google.com/intl/en/policies/technologies/ads/
- 110. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
- 111. http://www.google.com/intl/en/policies/privacy/partners/
- 112. http://www.google.com/intl/en/safetycenter/
- 113. https://privacy.google.com/?hl=en
- 114. http://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html
- 115. http://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html
- 116. http://www.google.com/intl/en/policies/privacy/example/advertising-services.html
- 117. http://www.google.com/intl/en/policies/privacy/example/sensors.html
- 118. http://www.google.com/intl/en/policies/privacy/example/collect-information.html
- 119. http://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html
- 120. http://www.google.com/intl/en/policies/privacy/example/connect-with-people.html
- 121. http://www.google.com/intl/en/policies/privacy/example/credit-card.html
- 122. http://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html
- 123. http://www.google.com/intl/en/policies/privacy/example/device-identifiers.html
- 124. http://www.google.com/intl/en/policies/privacy/example/device-specific-information.html
- 125. http://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html
- 126. http://www.google.com/intl/en/policies/privacy/example/legal-process.html
- 127. http://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html
- 128. http://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html
- 129. http://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html
- 130. http://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html
- 131. http://www.google.com/intl/en/policies/privacy/example/our-partners.html
- 132. http://www.google.com/intl/en/policies/privacy/example/phone-number.html
- 133. http://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html
- 134. http://www.google.com/intl/en/policies/privacy/example/sharing.html
- 135. http://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html
- 136. http://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html
- 137. http://www.google.com/intl/en/policies/privacy/example/to-make-it-easier-to-share.html
- 138. http://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html
- 139. http://www.google.com/intl/en/policies/privacy/example/we-may-share-aggregated.html
- 140. http://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html
- 141. http://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html
- 142. http://support.google.com/websearch/answer/465?hl=en
- 143. http://support.google.com/blogger/answer/41387?hl=en
- 144. http://support.google.com/sites/answer/90598?hl=en
- 145. http://support.google.com/youtube/answer/55759?hl=en
- 146. http://support.google.com/plus/answer/1044503?hl=en
- 147. http://support.google.com/accounts/answer/32046?hl=en
- 148. http://www.google.com/trends/
- 149. http://www.youtube.com/trendsmap
- 150. http://www.google.com/intl/en/policies/terms/
- 151. http://www.google.com/intl/en/policies/faq/
- 152. http://www.google.com/intl/en/policies/technologies/
- 153. http://www.google.com/intl/en/policies/technologies/ads/
- 154. http://www.google.com/intl/en/policies/technologies/cookies/
- 155. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
- 156. http://www.google.com/intl/en/policies/technologies/location-data/
- 157. http://www.google.com/intl/en/policies/technologies/wallet/
- 158. http://www.google.com/intl/en/policies/technologies/voice/
- 159. http://www.google.com/intl/en/policies/privacy/partners/
- 160. https://myaccount.google.com/?hl=en
- 161. http://www.google.com/intl/en/safetycenter/families/start/
- 162. http://www.google.com/intl/en/policies/technologies/product-privacy/
- 163. https://privacy.google.com/?hl=en
- 164. http://www.google.com/
- 165. http://www.google.com/intl/en/about/
- 166. http://www.google.com/intl/en/policies/privacy/
- 167. http://www.google.com/intl/en/policies/terms/
+ 100. http://www.google.com/intl/en/policies/privacy/frameworks/
+ 101. http://www.google.com/intl/en/policies/privacy/#content
+ 102. http://www.google.com/intl/en/policies/privacy/#content
+ 103. http://www.google.com/chrome/intl/en/privacy.html
+ 104. http://books.google.com/intl/en/googlebooks/privacy.html
+ 105. http://wallet.google.com/files/privacy.html?hl=en
+ 106. https://fiber.google.com/legal/privacy.html
+ 107. http://www.google.com/intl/en/policies/technologies/product-privacy/
+ 108. http://www.google.com/intl/en/policies/privacy/#content
+ 109. http://www.google.com/intl/en/policies/
+ 110. http://www.google.com/intl/en/policies/technologies/
+ 111. http://www.google.com/intl/en/policies/technologies/cookies/
+ 112. http://www.google.com/intl/en/policies/technologies/ads/
+ 113. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
+ 114. http://www.google.com/intl/en/policies/privacy/partners/
+ 115. http://www.google.com/intl/en/safetycenter/
+ 116. https://privacy.google.com/?hl=en
+ 117. http://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html
+ 118. http://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html
+ 119. http://www.google.com/intl/en/policies/privacy/example/advertising-services.html
+ 120. http://www.google.com/intl/en/policies/privacy/example/sensors.html
+ 121. http://www.google.com/intl/en/policies/privacy/example/collect-information.html
+ 122. http://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html
+ 123. http://www.google.com/intl/en/policies/privacy/example/connect-with-people.html
+ 124. http://www.google.com/intl/en/policies/privacy/example/credit-card.html
+ 125. http://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html
+ 126. http://www.google.com/intl/en/policies/privacy/example/device-identifiers.html
+ 127. http://www.google.com/intl/en/policies/privacy/example/device-specific-information.html
+ 128. http://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html
+ 129. http://www.google.com/intl/en/policies/privacy/example/legal-process.html
+ 130. http://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html
+ 131. http://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html
+ 132. http://www.google.com/intl/en/policies/privacy/example/maintain-services.html
+ 133. http://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html
+ 134. http://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html
+ 135. http://www.google.com/intl/en/policies/privacy/example/our-partners.html
+ 136. http://www.google.com/intl/en/policies/privacy/example/phone-number.html
+ 137. http://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html
+ 138. http://www.google.com/intl/en/policies/privacy/example/protect-services.html
+ 139. http://www.google.com/intl/en/policies/privacy/example/provide-services.html
+ 140. http://www.google.com/intl/en/policies/privacy/example/sharing.html
+ 141. http://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html
+ 142. http://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html
+ 143. http://www.google.com/intl/en/policies/privacy/example/to-make-it-easier-to-share.html
+ 144. http://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html
+ 145. http://www.google.com/intl/en/policies/privacy/example/we-may-share-aggregated.html
+ 146. http://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html
+ 147. http://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html
+ 148. http://support.google.com/websearch/answer/465?hl=en
+ 149. http://support.google.com/blogger/answer/41387?hl=en
+ 150. http://support.google.com/sites/answer/90598?hl=en
+ 151. http://support.google.com/youtube/answer/55759?hl=en
+ 152. http://support.google.com/plus/answer/1044503?hl=en
+ 153. http://support.google.com/accounts/answer/32046?hl=en
+ 154. http://www.google.com/trends/
+ 155. http://www.youtube.com/trendsmap
+ 156. http://www.google.com/intl/en/policies/terms/
+ 157. http://www.google.com/intl/en/policies/faq/
+ 158. http://www.google.com/intl/en/policies/technologies/
+ 159. http://www.google.com/intl/en/policies/technologies/ads/
+ 160. http://www.google.com/intl/en/policies/technologies/cookies/
+ 161. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
+ 162. http://www.google.com/intl/en/policies/technologies/location-data/
+ 163. http://www.google.com/intl/en/policies/technologies/wallet/
+ 164. http://www.google.com/intl/en/policies/technologies/voice/
+ 165. http://www.google.com/intl/en/policies/privacy/partners/
+ 166. https://myaccount.google.com/?hl=en
+ 167. http://www.google.com/intl/en/safetycenter/families/start/
+ 168. http://www.google.com/intl/en/policies/technologies/product-privacy/
+ 169. https://privacy.google.com/?hl=en
+ 170. http://www.google.com/
+ 171. http://www.google.com/intl/en/about/
+ 172. http://www.google.com/intl/en/policies/privacy/
+ 173. http://www.google.com/intl/en/policies/terms/
