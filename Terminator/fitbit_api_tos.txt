@@ -214,7 +214,7 @@ References
   11. http://dev.fitbit.com/compare
   12. https://www.fitbit.com/app
   13. https://www.fitbit.com/premium/about
-  14. https://www.fitbit.com/compatibleapps
+  14. https://www.fitbit.com/partnership
   15. https://www.fitbit.com/purepulse
   16. https://www.fitbit.com/whyfitbit
   17. https://www.fitbit.com/celebrity-challenges
