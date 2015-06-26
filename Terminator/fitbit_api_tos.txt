@@ -184,20 +184,21 @@ API Terms of Service
      * [31]BLOG
 
      * [32]About Us
-     * [33]Careers
-     * [34]Retailers
-     * [35]Affiliates
-     * [36]Corporate Wellness
-     * [37]API
-     * [38]Help
+     * [33]Investor Relations
+     * [34]Careers
+     * [35]Retailers
+     * [36]Affiliates
+     * [37]Corporate Wellness
+     * [38]API
+     * [39]Help
 
-   United States ([39]change)
+   United States ([40]change)
      * ©2015 Fitbit Inc. All rights reserved.
-     * [40]Privacy Policy
-     * [41]Terms of Service
-     * [42]Returns & Warranty
-     * [43]Wear and Care
-     * [44]Recall & Safety Info
+     * [41]Privacy Policy
+     * [42]Terms of Service
+     * [43]Returns & Warranty
+     * [44]Wear and Care
+     * [45]Recall & Safety Info
 
 References
 
@@ -212,7 +213,7 @@ References
    8. https://www.fitbit.com/aria
    9. https://www.fitbit.com/toryburch
   10. https://www.fitbit.com/store#accessories
-  11. http://dev.fitbit.com/compare
+  11. https://dev.fitbit.com/compare
   12. https://www.fitbit.com/app
   13. https://www.fitbit.com/premium/about
   14. https://www.fitbit.com/partnership
@@ -226,31 +227,32 @@ References
   22. http://help.fitbit.com/
   23. https://www.fitbit.com/productcare
   24. https://www.fitbit.com/store
-  25. https://www.fitbit.com/login
+  25. https://dev.fitbit.com/login
   26. https://www.fitbit.com/setup
   27. mailto:api@fitbit.com
   28. https://community.fitbit.com/t5/Web-API/bd-p/dev
   29. mailto:api@fitbit.com
   30. https://community.fitbit.com/t5/Web-API/bd-p/dev
-  31. http://blog.fitbit.com/
+  31. https://blog.fitbit.com/
   32. http://www.fitbit.com/about
-  33. http://dev.fitbit.com/jobs
-  34. http://www.fitbit.com/retailers
-  35. http://dev.fitbit.com/affiliates
-  36. http://www.fitbit.com/fitbit-wellness
-  37. http://dev.fitbit.com/
-  38. http://help.fitbit.com/
-  39. http://dev.fitbit.com/countries
-  40. http://www.fitbit.com/privacy
-  41. http://www.fitbit.com/terms
-  42. http://www.fitbit.com/returns
-  43. http://www.fitbit.com/productcare
-  44. http://dev.fitbit.com/forcesupport/info
+  33. http://investor.fitbit.com/
+  34. https://dev.fitbit.com/jobs
+  35. http://www.fitbit.com/retailers
+  36. https://dev.fitbit.com/affiliates
+  37. http://www.fitbit.com/fitbit-wellness
+  38. http://dev.fitbit.com/
+  39. http://help.fitbit.com/
+  40. https://dev.fitbit.com/countries
+  41. http://www.fitbit.com/privacy
+  42. http://www.fitbit.com/terms
+  43. http://www.fitbit.com/returns
+  44. http://www.fitbit.com/productcare
+  45. https://dev.fitbit.com/forcesupport/info
 
    Hidden links:
-  45. http://www.facebook.com/fitbit
-  46. http://www.twitter.com/fitbit
-  47. http://instagram.com/fitbit
-  48. http://www.pinterest.com/fitbit/
-  49. http://www.youtube.com/user/FitbitOfficialSite
-  50. http://plus.google.com/+fitbit
+  46. https://www.facebook.com/fitbit
+  47. https://www.twitter.com/fitbit
+  48. https://instagram.com/fitbit
+  49. https://www.pinterest.com/fitbit/
+  50. https://www.youtube.com/user/FitbitOfficialSite
+  51. https://plus.google.com/+fitbit
