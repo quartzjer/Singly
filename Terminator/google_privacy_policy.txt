@@ -44,7 +44,7 @@ Privacy Policy
    Show examples
    Hide examples
 
-   Last modified: June 5, 2015 ([27]view archived versions)
+   Last modified: June 30, 2015 ([27]view archived versions)
 
    [28]Download PDF version
 
@@ -68,7 +68,7 @@ Privacy Policy
    browsers, then read about these [33]key terms first. Your privacy
    matters to Google so whether you are new to Google or a long-time user,
    please do take the time to get to know our practices â€“ and if you
-   have any questions [34]consult this page.
+   have any questions [34]contact us.
    [35]Back to top
 
 Information we collect
@@ -400,7 +400,7 @@ Specific product practices
    to certain Google products and services that you may use:
      * [103]Chrome and Chrome OS
      * [104]Books
-     * [105]Wallet
+     * [105]Payments
      * [106]Fiber
 
    For more information about some of our most popular services, you can
@@ -804,7 +804,7 @@ References
   50. http://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html
   51. http://www.google.com/intl/en/policies/privacy/example/sensors.html
   52. http://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html
-  53. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-web-storage
+  53. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-storage
   54. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache
   55. http://www.google.com/intl/en/policies/privacy/example/our-partners.html
   56. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie
