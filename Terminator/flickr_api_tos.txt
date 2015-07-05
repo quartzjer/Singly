@@ -47,8 +47,9 @@
           + [44]FlickrBlog
      * [45]Create
 
-   ____________________ Search
      * [46]Upload
+
+   ____________________ Search
      * [47]Sign In
 
 Flickr APIs Terms of Use
@@ -366,8 +367,6 @@ b. Application for a Commercial API Key.
      * [81]Facebook
      * [82]Twitter
      * [83]Google Plus
-
-   [nojs.gif?p=792600122:P050]
 
 References
 
