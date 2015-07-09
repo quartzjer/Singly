@@ -1,23 +1,25 @@
-   [1]Fitbit
+   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-KPXPJ7
+
+   [2]Fitbit
      * Products
           +
-               o [2][simple.b-cssdisabled-png.h79d945473c3eaa1e39409f0748c
+               o [3][simple.b-cssdisabled-png.h79d945473c3eaa1e39409f0748c
                  bf6b8.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fzip.png]
                  [simple.b-cssdisabled-png.h871c033ba1bac176e36439bf655ead
                  51.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fzip-copy.pn
                  g]
-               o [3][simple.b-cssdisabled-png.h5d229507c7d032fe4f969db67fe
+               o [4][simple.b-cssdisabled-png.h5d229507c7d032fe4f969db67fe
                  6d7df.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fone.png]
                  [simple.b-cssdisabled-png.h4f1f9fb62c923c9ff971c2166ea3d2
                  2f.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fone-copy.pn
                  g]
-               o [4][simple.b-cssdisabled-png.h9049c5522e16532f98fcb5120bf
-                 b6f69.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fflex.png
+               o [5][simple.b-cssdisabled-png.hd4152ceb65760a5b91ab9085e13
+                 a5ef9.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fflex.png
                  ]
                  [simple.b-cssdisabled-png.h9eebead384b3f3b77f92c1e3394dd5
                  75.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fflex-copy.p
                  ng]
-               o [5][simple.b-cssdisabled-png.h91292be5cd6523030d7568659c0
+               o [6][simple.b-cssdisabled-png.h91292be5cd6523030d7568659c0
                  bfb7a.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fcharge.p
                  ng]
                  [simple.b-cssdisabled-png.h5bd10b9b8d8d03444412bb1c4b618d
@@ -25,7 +27,7 @@
                  .png]
             Everyday fitness
           +
-               o [6][simple.b-cssdisabled-png.hf7b5fc4f64c4f21e91b1f9aa693
+               o [7][simple.b-cssdisabled-png.hf7b5fc4f64c4f21e91b1f9aa693
                  ec61f.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fchargehr
                  .png]
                  [simple.b-cssdisabled-png.h7d9de51a4983d6da196d4106f9d868
@@ -33,7 +35,7 @@
                  py.png]
             Active fitness
           +
-               o [7][simple.b-cssdisabled-png.hd087dcc00d73f4d3c15d149203e
+               o [8][simple.b-cssdisabled-png.hd087dcc00d73f4d3c15d149203e
                  c4a9a.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fsurge.pn
                  g]
                  [simple.b-cssdisabled-png.h7eaefb030c4e05b6c1d4f7013a1a12
@@ -41,7 +43,7 @@
                  png]
             Performance fitness
           +
-               o [8][simple.b-cssdisabled-png.h35981af077e8b5de25ddb228b9e
+               o [9][simple.b-cssdisabled-png.h35981af077e8b5de25ddb228b9e
                  f723a.pack?items=%2Fimages%2Fcommon%2Fproducts%2Faria.png
                  ]
                  [simple.b-cssdisabled-png.hdb9e0e37b3aeb07341ea4156ade813
@@ -49,40 +51,40 @@
                  ng]
             Wi-Fi Smart Scale
           +
-               o [9][simple.b-cssdisabled-png.hd49f3da3771ee8e27f160807c91
-                 7e921.pack?items=%2Fimages%2Fcommon%2Fproducts%2Ftoryburc
-                 h.png]
+               o [10][simple.b-cssdisabled-png.hd49f3da3771ee8e27f160807c9
+                 17e921.pack?items=%2Fimages%2Fcommon%2Fproducts%2Ftorybur
+                 ch.png]
                  [simple.b-cssdisabled-png.h863389b0ad4c3f04cfc78c86021124
                  80.pack?items=%2Fimages%2Fcommon%2Fproducts%2Ftoryburch-c
                  opy.png]
-               o [10][simple.b-cssdisabled-png.h8aa02775f1eb922d703920dfb3
+               o [11][simple.b-cssdisabled-png.h8aa02775f1eb922d703920dfb3
                  ebb1b9.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fbands.p
                  ng] accessories
                  [simple.b-cssdisabled-png.h096f4e27ddde867fef07836597d592
                  d5.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fbands-copy.
                  png]
             Product extras
-          + [11]Compare all products
+          + [12]Compare all products
      * Experiences
-          + [12]Mobile App + Dashboard
-          + [13]Premium Membership
-          + [14]FitStar
-          + [15]Compatible Apps
-          + [16]PurePulse
-          + [17]Why Fitbit
+          + [13]Mobile App + Dashboard
+          + [14]Premium Membership
+          + [15]FitStar
+          + [16]Compatible Apps
+          + [17]PurePulse
+          + [18]Why Fitbit
      * Fun
-          + [18]Celebrity Challenges
-          + [19]Fit Science
-          + [20]Blog
-          + [21]Buzz
-          + [22]Fitness Quiz
+          + [19]Celebrity Challenges
+          + [20]Fit Science
+          + [21]Blog
+          + [22]Buzz
+          + [23]Fitness Quiz
      * Help
-          + [23]Product Help
-          + [24]Wear and Care
+          + [24]Product Help
+          + [25]Wear and Care
 
-     * [25]Store
-     * [26]Log in
-     * [27]Setup
+     * [26]Store
+     * [27]Log in
+     * [28]Setup
 
 API Terms of Service
 
@@ -102,9 +104,9 @@ API Terms of Service
 
    If there is a use case you would like to see covered that is not
    currently supported by the API or these Terms of Service, please
-   contact us at [28]api@fitbit.com to discuss your needs. Additionally,
+   contact us at [29]api@fitbit.com to discuss your needs. Additionally,
    please participate in the Fitbit API developer group, which can be
-   found [29]here.
+   found [30]here.
 
 1. Certain definitions
 
@@ -169,9 +171,9 @@ API Terms of Service
             other benchmarking or competitive purposes.
 
    If you are unsure whether your intended use of the API is in compliance
-   with these Terms of Service, please contact us at [30]api@fitbit.com to
+   with these Terms of Service, please contact us at [31]api@fitbit.com to
    discuss. Additionally, please participate in the Fitbit API Developer
-   Forum located [31]here.
+   Forum located [32]here.
 
 3. Principles & Best Practices
 
@@ -555,79 +557,80 @@ Fitbit Marks
      *
      *
      *
-     * [32]BLOG
+     * [33]BLOG
 
-     * [33]About Us
-     * [34]Investor Relations
-     * [35]Careers
-     * [36]Retailers
-     * [37]Affiliates
-     * [38]Corporate Wellness
-     * [39]API
-     * [40]Help
+     * [34]About Us
+     * [35]Investor Relations
+     * [36]Careers
+     * [37]Retailers
+     * [38]Affiliates
+     * [39]Corporate Wellness
+     * [40]API
+     * [41]Help
 
-   United States ([41]change)
+   United States ([42]change)
      * ©2015 Fitbit Inc. All rights reserved.
-     * [42]Privacy Policy
-     * [43]Terms of Service
-     * [44]Returns & Warranty
-     * [45]Wear and Care
-     * [46]Recall & Safety Info
+     * [43]Privacy Policy
+     * [44]Terms of Service
+     * [45]Returns & Warranty
+     * [46]Wear and Care
+     * [47]Recall & Safety Info
 
 References
 
    Visible links
-   1. http://www.fitbit.com/home
-   2. https://www.fitbit.com/zip
-   3. https://www.fitbit.com/one
-   4. https://www.fitbit.com/flex
-   5. https://www.fitbit.com/charge
-   6. https://www.fitbit.com/chargehr
-   7. https://www.fitbit.com/surge
-   8. https://www.fitbit.com/aria
-   9. https://www.fitbit.com/toryburch
-  10. https://www.fitbit.com/store#accessories
-  11. https://dev.fitbit.com/compare
-  12. https://www.fitbit.com/app
-  13. https://www.fitbit.com/premium/about
-  14. https://www.fitbit.com/fitstar
-  15. https://www.fitbit.com/partnership
-  16. https://www.fitbit.com/purepulse
-  17. https://www.fitbit.com/whyfitbit
-  18. https://www.fitbit.com/celebrity-challenges
-  19. https://www.fitbit.com/weathermap
-  20. http://blog.fitbit.com/
-  21. https://www.fitbit.com/buzz
-  22. https://www.fitbit.com/findanewfit
-  23. http://help.fitbit.com/
-  24. https://www.fitbit.com/productcare
-  25. https://www.fitbit.com/store
-  26. https://dev.fitbit.com/login
-  27. https://www.fitbit.com/setup
-  28. mailto:api@fitbit.com
-  29. https://community.fitbit.com/t5/Web-API/bd-p/dev
-  30. mailto:api@fitbit.com
-  31. https://community.fitbit.com/t5/Web-API/bd-p/dev
-  32. https://blog.fitbit.com/
-  33. http://www.fitbit.com/about
-  34. http://investor.fitbit.com/
-  35. https://dev.fitbit.com/jobs
-  36. http://www.fitbit.com/retailers
-  37. https://dev.fitbit.com/affiliates
-  38. http://www.fitbit.com/fitbit-wellness
-  39. https://dev.fitbit.com/
-  40. http://help.fitbit.com/
-  41. https://dev.fitbit.com/countries
-  42. http://www.fitbit.com/privacy
-  43. http://www.fitbit.com/terms
-  44. http://www.fitbit.com/returns
-  45. http://www.fitbit.com/productcare
-  46. https://dev.fitbit.com/forcesupport/info
+   1. https://www.googletagmanager.com/ns.html?id=GTM-KPXPJ7
+   2. http://www.fitbit.com/home
+   3. https://www.fitbit.com/zip
+   4. https://www.fitbit.com/one
+   5. https://www.fitbit.com/flex
+   6. https://www.fitbit.com/charge
+   7. https://www.fitbit.com/chargehr
+   8. https://www.fitbit.com/surge
+   9. https://www.fitbit.com/aria
+  10. https://www.fitbit.com/toryburch
+  11. https://www.fitbit.com/store#accessories
+  12. https://dev.fitbit.com/compare
+  13. https://www.fitbit.com/app
+  14. https://www.fitbit.com/premium/about
+  15. https://www.fitbit.com/fitstar
+  16. https://www.fitbit.com/partnership
+  17. https://www.fitbit.com/purepulse
+  18. https://www.fitbit.com/whyfitbit
+  19. https://www.fitbit.com/celebrity-challenges
+  20. https://www.fitbit.com/weathermap
+  21. http://blog.fitbit.com/
+  22. https://www.fitbit.com/buzz
+  23. https://www.fitbit.com/findanewfit
+  24. http://help.fitbit.com/
+  25. https://www.fitbit.com/productcare
+  26. https://www.fitbit.com/store
+  27. https://dev.fitbit.com/login
+  28. https://www.fitbit.com/setup
+  29. mailto:api@fitbit.com
+  30. https://community.fitbit.com/t5/Web-API/bd-p/dev
+  31. mailto:api@fitbit.com
+  32. https://community.fitbit.com/t5/Web-API/bd-p/dev
+  33. https://blog.fitbit.com/
+  34. http://www.fitbit.com/about
+  35. http://investor.fitbit.com/
+  36. https://dev.fitbit.com/jobs
+  37. http://www.fitbit.com/retailers
+  38. https://dev.fitbit.com/affiliates
+  39. http://www.fitbit.com/fitbit-wellness
+  40. https://dev.fitbit.com/
+  41. http://help.fitbit.com/
+  42. https://dev.fitbit.com/countries
+  43. http://www.fitbit.com/privacy
+  44. http://www.fitbit.com/terms
+  45. http://www.fitbit.com/returns
+  46. http://www.fitbit.com/productcare
+  47. https://dev.fitbit.com/forcesupport/info
 
    Hidden links:
-  47. https://www.facebook.com/fitbit
-  48. https://www.twitter.com/fitbit
-  49. https://instagram.com/fitbit
-  50. https://www.pinterest.com/fitbit/
-  51. https://www.youtube.com/user/FitbitOfficialSite
-  52. https://plus.google.com/+fitbit
+  48. https://www.facebook.com/fitbit
+  49. https://www.twitter.com/fitbit
+  50. https://instagram.com/fitbit
+  51. https://www.pinterest.com/fitbit/
+  52. https://www.youtube.com/user/FitbitOfficialSite
+  53. https://plus.google.com/+fitbit
