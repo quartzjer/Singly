@@ -508,24 +508,24 @@ Facebook Platform Policy
          2. Your app must be free to install.
          3. If your paid content is available in multiple apps, ensure it
             is offered for Messenger at the lowest price available.
-         4. Ensure your app's primary share experience is to Messenger.
-            [105][851547_537948159656190_540847388_n.png]
+         4. If people come to your app from Messenger, ensure your app's
+            primary share experience is to Messenger.
          5. Don't send unengaging or long form content. Ensure your app
             only sends unique user generated content or engaging
             aggregated content to Messenger. Facilitate real time
             conversations that inspire people to respond to Messenger with
             content from your app.
-            [106][851547_537948159656190_540847388_n.png]
+            [105][851547_537948159656190_540847388_n.png]
          6. Ensure your call-to-action links to the same app that
             generated the content.
-            [107][851547_537948159656190_540847388_n.png]
+            [106][851547_537948159656190_540847388_n.png]
          7. When linking to your app from Messenger, you can present
             people with paid content so long as free shareable content is
             clearly available on the landing page.
-            [108][851547_537948159656190_540847388_n.png]
-         8. Implement [109]App Events in your app, including activateApp
+            [107][851547_537948159656190_540847388_n.png]
+         8. Implement [108]App Events in your app, including activateApp
             and purchase events if your app offers in-app purchases.
-            [110][851547_537948159656190_540847388_n.png]
+            [109][851547_537948159656190_540847388_n.png]
          9. Optimized and featured functionality, including the
             availability of calls-to-action on content and in-Messenger
             discovery, is made available within our sole discretion and
@@ -545,7 +545,7 @@ Facebook Platform Policy
        use with the Facebook Platform.
     5. By "Facebook" or "Facebook Services" we mean the features and
        services we make available, including through (a) our website at
-       [111]www.facebook.com and any other Facebook branded or co-branded
+       [110]www.facebook.com and any other Facebook branded or co-branded
        websites (including sub-domains, international versions, widgets,
        and mobile versions); (b) our Platform; (c) social plugins such as
        the Like button, the Share button and other similar offerings; and
@@ -553,37 +553,37 @@ Facebook Platform Policy
        toolbar), devices, or networks now existing or later developed.
        Facebook reserves the right to designate, in its sole discretion,
        that certain of our brands, products, or services are governed by
-       separate terms and not [112]our SRR.
+       separate terms and not [111]our SRR.
 
 Additional Languages
 
-   [113]Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
+   [112]Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
 
-   [114]ä¸æ–‡(é¦™æ¸¯)
+   [113]ä¸æ–‡(é¦™æ¸¯)
 
-   [115]ä¸æ–‡(å�°ç�£)
+   [114]ä¸æ–‡(å�°ç�£)
 
-   [116]Deutsch
+   [115]Deutsch
 
-   [117]EspaÃ±ol
+   [116]EspaÃ±ol
 
-   [118]FranÃ§ais
+   [117]FranÃ§ais
 
-   [119]×¢×‘×¨×™×ª
+   [118]×¢×‘×¨×™×ª
 
-   [120]Italiano
+   [119]Italiano
 
-   [121]æ—¥æœ¬èªž
+   [120]æ—¥æœ¬èªž
 
-   [122]í•œêµì–´
+   [121]í•œêµì–´
 
-   [123]Polski
+   [122]Polski
 
-   [124]PortuguÃªs (Brasil)
+   [123]PortuguÃªs (Brasil)
 
-   [125]TÃ¼rkÃ§e
+   [124]TÃ¼rkÃ§e
 
-   [126]Tiáº¿ng Viá»‡t
+   [125]Tiáº¿ng Viá»‡t
 
 References
 
@@ -627,17 +627,17 @@ References
   38. https://developers.facebook.com/policy/
   39. https://developers.facebook.com/policy/
   40. https://developers.facebook.com/docs/apps/review/canvasredirect
-  41. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=yAQHSIdO5&s=1
+  41. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=CAQFDZj_Z&s=1
   42. https://developers.facebook.com/docs/apps/review/branding
   43. https://developers.facebook.com/docs/plugins/restrictions/
   44. https://developers.facebook.com/policy/
   45. https://www.facebook.com/about/privacy/
   46. https://developers.facebook.com/policy/
-  47. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=_AQHui5ni&s=1
-  48. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=DAQE150JI&s=1
+  47. http://l.facebook.com/l.php?u=http%3A%2F%2Ffb.com%2F&h=RAQEwMIQM&s=1
+  48. http://l.facebook.com/l.php?u=http%3A%2F%2Ffacebookmail.com%2F&h=_AQFV24Ja&s=1
   49. https://www.facebook.com/legal/terms
   50. https://developers.facebook.com/policy/
-  51. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=xAQHH8ZP8&s=1
+  51. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=OAQHvYDvb&s=1
   52. https://developers.facebook.com/docs/apps/review/branding
   53. https://developers.facebook.com/policy/
   54. https://developers.facebook.com/policy/
@@ -694,22 +694,21 @@ References
  105. https://developers.facebook.com/policy/
  106. https://developers.facebook.com/policy/
  107. https://developers.facebook.com/policy/
- 108. https://developers.facebook.com/policy/
- 109. https://developers.facebook.com/docs/app-events
- 110. https://developers.facebook.com/policy/
- 111. http://www.facebook.com/
- 112. https://www.facebook.com/legal/terms
- 113. https://developers.facebook.com/policy/Arabic/
- 114. https://developers.facebook.com/policy/ChineseHK/
- 115. https://developers.facebook.com/policy/ChineseTW/
- 116. https://developers.facebook.com/policy/Deutsch/
- 117. https://developers.facebook.com/policy/Espanol/
- 118. https://developers.facebook.com/policy/Francais/
- 119. https://developers.facebook.com/policy/Hebrew/
- 120. https://developers.facebook.com/policy/Italiano/
- 121. https://developers.facebook.com/policy/Japanese/
- 122. https://developers.facebook.com/policy/Korean/
- 123. https://developers.facebook.com/policy/Polski/
- 124. https://developers.facebook.com/policy/Portugues/
- 125. https://developers.facebook.com/policy/Turkce/
- 126. https://developers.facebook.com/policy/Vietnamese/
+ 108. https://developers.facebook.com/docs/app-events
+ 109. https://developers.facebook.com/policy/
+ 110. http://www.facebook.com/
+ 111. https://www.facebook.com/legal/terms
+ 112. https://developers.facebook.com/policy/Arabic/
+ 113. https://developers.facebook.com/policy/ChineseHK/
+ 114. https://developers.facebook.com/policy/ChineseTW/
+ 115. https://developers.facebook.com/policy/Deutsch/
+ 116. https://developers.facebook.com/policy/Espanol/
+ 117. https://developers.facebook.com/policy/Francais/
+ 118. https://developers.facebook.com/policy/Hebrew/
+ 119. https://developers.facebook.com/policy/Italiano/
+ 120. https://developers.facebook.com/policy/Japanese/
+ 121. https://developers.facebook.com/policy/Korean/
+ 122. https://developers.facebook.com/policy/Polski/
+ 123. https://developers.facebook.com/policy/Portugues/
+ 124. https://developers.facebook.com/policy/Turkce/
+ 125. https://developers.facebook.com/policy/Vietnamese/
