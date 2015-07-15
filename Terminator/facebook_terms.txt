@@ -428,9 +428,9 @@
    [40]Find Friends [41]Badges [42]People [43]Pages [44]Places
    [45]Games [46]Locations [47]About [48]Create Ad [49]Create Page
    [50]Developers [51]Careers [52]Privacy [53]Cookies [54]Ad Choices
-   [55]Terms [56]Help
+   [55]Terms [56]Help [57]Settings [58]Activity Log
    Facebook Â© 2015
-   [57]English (US)
+   [59]English (US)
 
 References
 
@@ -456,7 +456,7 @@ References
   20. https://www.facebook.com/ad_guidelines.php
   21. https://www.facebook.com/page_guidelines.php
   22. https://www.facebook.com/terms/provisions/german/index.php
-  23. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2Ftrademarks%2F&h=-AQFoW5ZL&s=1
+  23. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2Ftrademarks%2F&h=7AQEaiqhV&s=1
   24. https://www.facebook.com/about/privacy/
   25. https://www.facebook.com/payments_terms
   26. https://www.facebook.com/platform
@@ -464,7 +464,7 @@ References
   28. https://www.facebook.com/ad_guidelines.php
   29. https://www.facebook.com/legal/self_service_ads_terms
   30. https://www.facebook.com/page_guidelines.php#promotionsguidelines
-  31. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=yAQFB9Aeg&s=1
+  31. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=YAQEjBNb0&s=1
   32. https://www.facebook.com/help/399224883474207
   33. https://www.facebook.com/page_guidelines.php
   34. https://www.facebook.com/communitystandards
@@ -490,4 +490,6 @@ References
   54. https://www.facebook.com/help/568137493302217
   55. https://www.facebook.com/policies/?ref=pf
   56. https://www.facebook.com/help/?ref=pf
-  57. https://www.facebook.com/terms.php
+  57. https://www.facebook.com/settings
+  58. https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu
+  59. https://www.facebook.com/terms.php

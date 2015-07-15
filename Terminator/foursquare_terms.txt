@@ -709,16 +709,16 @@ Contact.
      * [40]Terms
      * English
           + [41]English
-          + [42]Italiano
+          + [42]Français
           + [43]Deutsch
-          + [44]Español
-          + [45]Français
+          + [44]Bahasa Indonesia
+          + [45]Italiano
           + [46]日本語
-          + [47]ภาษาไทย
-          + [48]한국어
+          + [47]한국어
+          + [48]Português
           + [49]Русский
-          + [50]Português
-          + [51]Bahasa Indonesia
+          + [50]Español
+          + [51]ภาษาไทย
           + [52]Türkçe
 
    Foursquare © 2015 Lovingly made in NYC & SF
@@ -770,23 +770,23 @@ You must enable JavaScript to use foursquare.com
      * [87]Thailand
      * [88]Turkey
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=143685000
-   7&amp;u=-1&amp;sig=921K0uoRp9PKt1DuSvmvUL9dhdo%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=143693641
+   1&amp;u=-1&amp;sig=NiVPcJJts7sSy4mIsUDk6%2B0PuZA%3D]
 
 References
 
    1. https://foursquare.com/opensearch.xml
    2. https://foursquare.com/legal/terms
-   3. https://it.foursquare.com/legal/terms
+   3. https://fr.foursquare.com/legal/terms
    4. https://de.foursquare.com/legal/terms
-   5. https://es.foursquare.com/legal/terms
-   6. https://fr.foursquare.com/legal/terms
+   5. https://id.foursquare.com/legal/terms
+   6. https://it.foursquare.com/legal/terms
    7. https://ja.foursquare.com/legal/terms
-   8. https://th.foursquare.com/legal/terms
-   9. https://ko.foursquare.com/legal/terms
+   8. https://ko.foursquare.com/legal/terms
+   9. https://pt.foursquare.com/legal/terms
   10. https://ru.foursquare.com/legal/terms
-  11. https://pt.foursquare.com/legal/terms
-  12. https://id.foursquare.com/legal/terms
+  11. https://es.foursquare.com/legal/terms
+  12. https://th.foursquare.com/legal/terms
   13. https://tr.foursquare.com/legal/terms
   14. https://foursquare.com/
   15. https://foursquare.com/login?continue=%2Flegal%2Fterms&clicked=true
@@ -816,16 +816,16 @@ References
   39. https://foursquare.com/legal/privacy
   40. https://foursquare.com/legal/terms
   41. https://foursquare.com/legal/terms
-  42. https://it.foursquare.com/legal/terms
+  42. https://fr.foursquare.com/legal/terms
   43. https://de.foursquare.com/legal/terms
-  44. https://es.foursquare.com/legal/terms
-  45. https://fr.foursquare.com/legal/terms
+  44. https://id.foursquare.com/legal/terms
+  45. https://it.foursquare.com/legal/terms
   46. https://ja.foursquare.com/legal/terms
-  47. https://th.foursquare.com/legal/terms
-  48. https://ko.foursquare.com/legal/terms
+  47. https://ko.foursquare.com/legal/terms
+  48. https://pt.foursquare.com/legal/terms
   49. https://ru.foursquare.com/legal/terms
-  50. https://pt.foursquare.com/legal/terms
-  51. https://id.foursquare.com/legal/terms
+  50. https://es.foursquare.com/legal/terms
+  51. https://th.foursquare.com/legal/terms
   52. https://tr.foursquare.com/legal/terms
   53. https://foursquare.com/download
   54. https://foursquare.com/cities/atlanta-georgia

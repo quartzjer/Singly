@@ -374,16 +374,16 @@ IX. Additional Terms for "Merchant API" Users
      * [34]Terms
      * English
           + [35]English
-          + [36]Italiano
+          + [36]Français
           + [37]Deutsch
-          + [38]Español
-          + [39]Français
+          + [38]Bahasa Indonesia
+          + [39]Italiano
           + [40]日本語
-          + [41]ภาษาไทย
-          + [42]한국어
+          + [41]한국어
+          + [42]Português
           + [43]Русский
-          + [44]Português
-          + [45]Bahasa Indonesia
+          + [44]Español
+          + [45]ภาษาไทย
           + [46]Türkçe
 
    Foursquare © 2015 Lovingly made in NYC & SF
@@ -437,22 +437,22 @@ You must enable JavaScript to use foursquare.com
      * [82]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1436850007&amp;u=-1&amp;sig=Gf%2F1mpuCOxiwP6wkL8pu%2BKsQkGE%3D]
+   mp;ts=1436936411&amp;u=-1&amp;sig=X5MJ2SxM0qH9es0oeLmjgUJ036s%3D]
 
 References
 
    1. https://foursquare.com/opensearch.xml
    2. https://foursquare.com/legal/api/platformpolicy
-   3. https://it.foursquare.com/legal/api/platformpolicy
+   3. https://fr.foursquare.com/legal/api/platformpolicy
    4. https://de.foursquare.com/legal/api/platformpolicy
-   5. https://es.foursquare.com/legal/api/platformpolicy
-   6. https://fr.foursquare.com/legal/api/platformpolicy
+   5. https://id.foursquare.com/legal/api/platformpolicy
+   6. https://it.foursquare.com/legal/api/platformpolicy
    7. https://ja.foursquare.com/legal/api/platformpolicy
-   8. https://th.foursquare.com/legal/api/platformpolicy
-   9. https://ko.foursquare.com/legal/api/platformpolicy
+   8. https://ko.foursquare.com/legal/api/platformpolicy
+   9. https://pt.foursquare.com/legal/api/platformpolicy
   10. https://ru.foursquare.com/legal/api/platformpolicy
-  11. https://pt.foursquare.com/legal/api/platformpolicy
-  12. https://id.foursquare.com/legal/api/platformpolicy
+  11. https://es.foursquare.com/legal/api/platformpolicy
+  12. https://th.foursquare.com/legal/api/platformpolicy
   13. https://tr.foursquare.com/legal/api/platformpolicy
   14. https://foursquare.com/
   15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Fplatformpolicy&clicked=true
@@ -476,16 +476,16 @@ References
   33. https://foursquare.com/legal/privacy
   34. https://foursquare.com/legal/terms
   35. https://foursquare.com/legal/api/platformpolicy
-  36. https://it.foursquare.com/legal/api/platformpolicy
+  36. https://fr.foursquare.com/legal/api/platformpolicy
   37. https://de.foursquare.com/legal/api/platformpolicy
-  38. https://es.foursquare.com/legal/api/platformpolicy
-  39. https://fr.foursquare.com/legal/api/platformpolicy
+  38. https://id.foursquare.com/legal/api/platformpolicy
+  39. https://it.foursquare.com/legal/api/platformpolicy
   40. https://ja.foursquare.com/legal/api/platformpolicy
-  41. https://th.foursquare.com/legal/api/platformpolicy
-  42. https://ko.foursquare.com/legal/api/platformpolicy
+  41. https://ko.foursquare.com/legal/api/platformpolicy
+  42. https://pt.foursquare.com/legal/api/platformpolicy
   43. https://ru.foursquare.com/legal/api/platformpolicy
-  44. https://pt.foursquare.com/legal/api/platformpolicy
-  45. https://id.foursquare.com/legal/api/platformpolicy
+  44. https://es.foursquare.com/legal/api/platformpolicy
+  45. https://th.foursquare.com/legal/api/platformpolicy
   46. https://tr.foursquare.com/legal/api/platformpolicy
   47. https://foursquare.com/download
   48. https://foursquare.com/cities/atlanta-georgia

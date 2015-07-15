@@ -222,16 +222,16 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
      * [28]Terms
      * English
           + [29]English
-          + [30]Italiano
+          + [30]Français
           + [31]Deutsch
-          + [32]Español
-          + [33]Français
+          + [32]Bahasa Indonesia
+          + [33]Italiano
           + [34]日本語
-          + [35]ภาษาไทย
-          + [36]한국어
+          + [35]한국어
+          + [36]Português
           + [37]Русский
-          + [38]Português
-          + [39]Bahasa Indonesia
+          + [38]Español
+          + [39]ภาษาไทย
           + [40]Türkçe
 
    Foursquare © 2015 Lovingly made in NYC & SF
@@ -284,22 +284,23 @@ You must enable JavaScript to use foursquare.com
      * [76]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1436850007&amp;u=-1&amp;sig=HXyMz%2BoV64fKPMKJaCglXpLtc5U%3D]
+   &amp;ts=1436936411&amp;u=-1&amp;sig=Eme%2BKGbdo3yE%2F9RQrTuQD%2BFm4yw%3
+   D]
 
 References
 
    1. https://foursquare.com/opensearch.xml
    2. https://foursquare.com/legal/api/licenseagreement
-   3. https://it.foursquare.com/legal/api/licenseagreement
+   3. https://fr.foursquare.com/legal/api/licenseagreement
    4. https://de.foursquare.com/legal/api/licenseagreement
-   5. https://es.foursquare.com/legal/api/licenseagreement
-   6. https://fr.foursquare.com/legal/api/licenseagreement
+   5. https://id.foursquare.com/legal/api/licenseagreement
+   6. https://it.foursquare.com/legal/api/licenseagreement
    7. https://ja.foursquare.com/legal/api/licenseagreement
-   8. https://th.foursquare.com/legal/api/licenseagreement
-   9. https://ko.foursquare.com/legal/api/licenseagreement
+   8. https://ko.foursquare.com/legal/api/licenseagreement
+   9. https://pt.foursquare.com/legal/api/licenseagreement
   10. https://ru.foursquare.com/legal/api/licenseagreement
-  11. https://pt.foursquare.com/legal/api/licenseagreement
-  12. https://id.foursquare.com/legal/api/licenseagreement
+  11. https://es.foursquare.com/legal/api/licenseagreement
+  12. https://th.foursquare.com/legal/api/licenseagreement
   13. https://tr.foursquare.com/legal/api/licenseagreement
   14. https://foursquare.com/
   15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Flicenseagreement&clicked=true
@@ -317,16 +318,16 @@ References
   27. https://foursquare.com/legal/privacy
   28. https://foursquare.com/legal/terms
   29. https://foursquare.com/legal/api/licenseagreement
-  30. https://it.foursquare.com/legal/api/licenseagreement
+  30. https://fr.foursquare.com/legal/api/licenseagreement
   31. https://de.foursquare.com/legal/api/licenseagreement
-  32. https://es.foursquare.com/legal/api/licenseagreement
-  33. https://fr.foursquare.com/legal/api/licenseagreement
+  32. https://id.foursquare.com/legal/api/licenseagreement
+  33. https://it.foursquare.com/legal/api/licenseagreement
   34. https://ja.foursquare.com/legal/api/licenseagreement
-  35. https://th.foursquare.com/legal/api/licenseagreement
-  36. https://ko.foursquare.com/legal/api/licenseagreement
+  35. https://ko.foursquare.com/legal/api/licenseagreement
+  36. https://pt.foursquare.com/legal/api/licenseagreement
   37. https://ru.foursquare.com/legal/api/licenseagreement
-  38. https://pt.foursquare.com/legal/api/licenseagreement
-  39. https://id.foursquare.com/legal/api/licenseagreement
+  38. https://es.foursquare.com/legal/api/licenseagreement
+  39. https://th.foursquare.com/legal/api/licenseagreement
   40. https://tr.foursquare.com/legal/api/licenseagreement
   41. https://foursquare.com/download
   42. https://foursquare.com/cities/atlanta-georgia
