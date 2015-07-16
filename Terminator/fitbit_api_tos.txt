@@ -613,7 +613,7 @@ References
   32. https://community.fitbit.com/t5/Web-API/bd-p/dev
   33. https://blog.fitbit.com/
   34. http://www.fitbit.com/about
-  35. http://investor.fitbit.com/
+  35. https://investor.fitbit.com/
   36. https://dev.fitbit.com/jobs
   37. http://www.fitbit.com/retailers
   38. https://dev.fitbit.com/affiliates
