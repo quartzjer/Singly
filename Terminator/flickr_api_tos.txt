@@ -412,7 +412,7 @@ References
   40. https://www.flickr.com/map
   41. https://www.flickr.com/services
   42. https://www.flickr.com/cameras
-  43. https://www.flickr.com/photos/flickr/sets/72157639868074114/
+  43. https://www.flickr.com/photos/flickr/albums/72157639868074114/
   44. http://blog.flickr.net/
   45. https://www.flickr.com/create
   46. https://www.flickr.com/upload
