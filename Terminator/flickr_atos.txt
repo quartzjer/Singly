@@ -13,8 +13,8 @@
           + [12]Flickr Blog
      * [13]Create
 
-     * [14]Upload
      * ____________________ Submit
+     * [14]Upload
      * [15]Sign In
 
    [16]Explore
@@ -70,7 +70,7 @@ References
    8. https://www.flickr.com/map
    9. https://www.flickr.com/services
   10. https://www.flickr.com/cameras
-  11. https://www.flickr.com/photos/flickr/sets/72157639868074114/
+  11. https://www.flickr.com/photos/flickr/albums/72157639868074114/
   12. https://blog.flickr.net/
   13. https://www.flickr.com/create
   14. https://www.flickr.com/upload
@@ -80,7 +80,7 @@ References
   18. https://www.flickr.com/commons
   19. https://www.flickr.com/20under20
   20. https://www.flickr.com/galleries
-  21. https://www.flickr.com/photos/flickr/sets/72157639868074114/
+  21. https://www.flickr.com/photos/flickr/albums/72157639868074114/
   22. https://blog.flickr.net/
   23. https://www.google.com/chrome
   24. https://www.apple.com/safari/
