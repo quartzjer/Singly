@@ -44,7 +44,7 @@ Privacy Policy
    Show examples
    Hide examples
 
-   Last modified: June 30, 2015 ([27]view archived versions)
+   Last modified: August 19, 2015 ([27]view archived versions)
 
    [28]Download PDF version
 
@@ -150,11 +150,12 @@ Information we collect
             by Google, using Google technology, with information about
             visits to multiple sites.
 
-   Information we collect when you are signed in to Google may be
-   associated with your Google Account. When information is associated
-   with your Google Account, we treat it as personal information. For more
-   information about how you can access, manage or delete information that
-   is associated with your Google Account, visit the [59]Transparency and
+   Information we collect when you are signed in to Google, in addition to
+   information we obtain about you from partners, may be associated with
+   your Google Account. When information is associated with your Google
+   Account, we treat it as personal information. For more information
+   about how you can access, manage or delete information that is
+   associated with your Google Account, visit the [59]Transparency and
    choice section of this policy.
    [60]Back to top
 
@@ -219,9 +220,10 @@ Transparency and choice
    People have different privacy concerns. Our goal is to be clear about
    what information we collect, so that you can make meaningful choices
    about how it is used. For example, you can:
-     * [73]Visit your Google Account History for settings that allow you
-       to control the collection of personal information from Google
-       services, such as Search, YouTube and Location History.
+     * [73]Review and update your Google activity controls to decide what
+       types of data, such as videos youâ€™ve watched on YouTube or past
+       searches, you would like saved with your account when you use
+       Google services.
      * [74]Review and control certain types of information tied to your
        Google Account by using Google Dashboard.
      * [75]View and edit your preferences about the Google ads shown to
@@ -325,10 +327,10 @@ Information we share
             Google, our users or the public as required or permitted by
             law.
 
-   [91]We may share aggregated, [92]non-personally identifiable
-   information publicly and with our partners â€“ like publishers,
-   advertisers or connected sites. For example, we may share information
-   publicly [93]to show trends about the general use of our services.
+   [91]We may share [92]non-personally identifiable information publicly
+   and with our partners â€“ like publishers, advertisers or connected
+   sites. For example, we may share information publicly [93]to show
+   trends about the general use of our services.
 
    If Google is involved in a merger, acquisition or asset sale, we will
    continue to ensure the confidentiality of any personal information and
@@ -358,10 +360,10 @@ Information security
 When this Privacy Policy applies
 
    Our Privacy Policy applies to all of the services offered by Google
-   Inc. and its affiliates, including YouTube, and services offered on
-   other sites (such as our advertising services), but excludes services
-   that have separate privacy policies that do not incorporate this
-   Privacy Policy.
+   Inc. and its affiliates, including YouTube, services Google provides on
+   Android devices, and services offered on other sites (such as our
+   advertising services), but excludes services that have separate privacy
+   policies that do not incorporate this Privacy Policy.
 
    Our Privacy Policy does not apply to services offered by other
    companies or individuals, including products or sites that may be
@@ -419,13 +421,10 @@ Other useful privacy and security related materials
      * A [114]page that explains what data is shared with Google when you
        visit websites that use our advertising, analytics and social
        products.
-     * Googleâ€™s [115]safety center, which provides information on how to
+     * The [115]Privacy Checkup tool, which makes it easy to review your
+       key privacy settings.
+     * Googleâ€™s [116]safety center, which provides information on how to
        stay safe and secure online.
-
-We keep your personal information private and safe â€” and put you in
-control.
-
-   [116]Get answers to common questions about privacy and security.
 
 Example
 
@@ -701,8 +700,7 @@ Example
 
    For example, we can make search more relevant and interesting for you
    by including photos, posts, and more from you and your friends.
-
-   [147]Learn more
+   [147]Learn more.
 
 Example
 
@@ -711,44 +709,51 @@ Example
    For example, you can delete your [148]Web History, [149]your blog,
    [150]a Google Site you own, [151]your YouTube Channel, [152]your
    Google+ profile or [153]your entire Google account.
+   [154]Learn more.
 
 Example
 
 "to show trends"
 
-   You can see some of these at [154]Google Trends and [155]YouTube
+   You can see some of these at [155]Google Trends and [156]YouTube
    Trends.
+   [157]Learn more.
+
+We keep your personal information private and safe â€” and put you in
+control.
+
+   [158]Get answers to common questions about privacy and security.
 
 Our legal policies
 
      * Privacy Policy
-     * [156]Terms of Service
-     * [157]FAQ
+     * [159]Terms of Service
+     * [160]FAQ
 
 More information
 
-     * [158]Technologies and Principles
-     * [159]Advertising
-     * [160]How Google uses cookies
-     * [161]How Google uses pattern recognition
-     * [162]Types of location data used by Google
+     * [161]Technologies and Principles
+     * [162]Advertising
+     * [163]How Google uses cookies
+     * [164]How Google uses pattern recognition
+     * [165]Types of location data used by Google
 
-     * [163]How Google Wallet uses credit card numbers
-     * [164]How Google Voice works
-     * [165]How Google uses data when you use our partners' sites or apps
+     * [166]How Google Wallet uses credit card numbers
+     * [167]How Google Voice works
+     * [168]How Google uses data when you use our partners' sites or apps
 
 Additional resources
 
-     * [166]My Account
-     * [167]Google Safety Center
-     * [168]Google Product Privacy Guide
-     * [169]Answers to privacy and security questions
+     * [169]My Account
+     * [170]Google Safety Center
+     * [171]Google Product Privacy Guide
+     * [172]Answers to privacy and security questions
 
    Change language: [English____________________________________________]
-     * [170]Google
-     * [171]About Google
-     * [172]Privacy
-     * [173]Terms
+     * [173]Google
+     * [174]About Google
+     * [175]Privacy
+     * [176]Terms
 
 References
 
@@ -824,7 +829,7 @@ References
   70. http://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html
   71. http://www.google.com/intl/en/policies/privacy/example/to-make-it-easier-to-share.html
   72. http://www.google.com/intl/en/policies/privacy/#content
-  73. https://www.google.com/settings/accounthistory?hl=en
+  73. https://myaccount.google.com/privacy?hl=en#accounthistory
   74. https://www.google.com/dashboard/?hl=en
   75. https://www.google.com/settings/ads/preferences?hl=en
   76. https://support.google.com/plus/answer/1355890?hl=en
@@ -842,7 +847,7 @@ References
   88. https://support.google.com/a/answer/178897?hl=en
   89. http://www.google.com/intl/en/policies/privacy/example/legal-process.html
   90. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates
-  91. http://www.google.com/intl/en/policies/privacy/example/we-may-share-aggregated.html
+  91. http://www.google.com/intl/en/policies/privacy/example/we-may-share.html
   92. http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info
   93. http://www.google.com/intl/en/policies/privacy/example/to-show-trends.html
   94. http://www.google.com/intl/en/policies/privacy/#content
@@ -866,8 +871,8 @@ References
  112. http://www.google.com/intl/en/policies/technologies/ads/
  113. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
  114. http://www.google.com/intl/en/policies/privacy/partners/
- 115. http://www.google.com/intl/en/safetycenter/
- 116. https://privacy.google.com/?hl=en
+ 115. https://myaccount.google.com/privacycheckup/1?hl=en
+ 116. http://www.google.com/intl/en/safetycenter/
  117. http://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html
  118. http://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html
  119. http://www.google.com/intl/en/policies/privacy/example/advertising-services.html
@@ -896,7 +901,7 @@ References
  142. http://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html
  143. http://www.google.com/intl/en/policies/privacy/example/to-make-it-easier-to-share.html
  144. http://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html
- 145. http://www.google.com/intl/en/policies/privacy/example/we-may-share-aggregated.html
+ 145. http://www.google.com/intl/en/policies/privacy/example/we-may-share.html
  146. http://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html
  147. http://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html
  148. http://support.google.com/websearch/answer/465?hl=en
@@ -905,23 +910,26 @@ References
  151. http://support.google.com/youtube/answer/55759?hl=en
  152. http://support.google.com/plus/answer/1044503?hl=en
  153. http://support.google.com/accounts/answer/32046?hl=en
- 154. http://www.google.com/trends/
- 155. http://www.youtube.com/trendsmap
- 156. http://www.google.com/intl/en/policies/terms/
- 157. http://www.google.com/intl/en/policies/faq/
- 158. http://www.google.com/intl/en/policies/technologies/
- 159. http://www.google.com/intl/en/policies/technologies/ads/
- 160. http://www.google.com/intl/en/policies/technologies/cookies/
- 161. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
- 162. http://www.google.com/intl/en/policies/technologies/location-data/
- 163. http://www.google.com/intl/en/policies/technologies/wallet/
- 164. http://www.google.com/intl/en/policies/technologies/voice/
- 165. http://www.google.com/intl/en/policies/privacy/partners/
- 166. https://myaccount.google.com/?hl=en
- 167. http://www.google.com/intl/en/safetycenter/families/start/
- 168. http://www.google.com/intl/en/policies/technologies/product-privacy/
- 169. https://privacy.google.com/?hl=en
- 170. http://www.google.com/
- 171. http://www.google.com/intl/en/about/
- 172. http://www.google.com/intl/en/policies/privacy/
- 173. http://www.google.com/intl/en/policies/terms/
+ 154. http://www.google.com/intl/en/policies/privacy/example/removing-your-content.html
+ 155. http://www.google.com/trends/
+ 156. http://www.youtube.com/trendsmap
+ 157. http://www.google.com/intl/en/policies/privacy/example/to-show-trends.html
+ 158. https://privacy.google.com/?hl=en
+ 159. http://www.google.com/intl/en/policies/terms/
+ 160. http://www.google.com/intl/en/policies/faq/
+ 161. http://www.google.com/intl/en/policies/technologies/
+ 162. http://www.google.com/intl/en/policies/technologies/ads/
+ 163. http://www.google.com/intl/en/policies/technologies/cookies/
+ 164. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
+ 165. http://www.google.com/intl/en/policies/technologies/location-data/
+ 166. http://www.google.com/intl/en/policies/technologies/wallet/
+ 167. http://www.google.com/intl/en/policies/technologies/voice/
+ 168. http://www.google.com/intl/en/policies/privacy/partners/
+ 169. https://myaccount.google.com/?hl=en
+ 170. http://www.google.com/intl/en/safetycenter/families/start/
+ 171. http://www.google.com/intl/en/policies/technologies/product-privacy/
+ 172. https://privacy.google.com/?hl=en
+ 173. http://www.google.com/
+ 174. http://www.google.com/intl/en/about/
+ 175. http://www.google.com/intl/en/policies/privacy/
+ 176. http://www.google.com/intl/en/policies/terms/
