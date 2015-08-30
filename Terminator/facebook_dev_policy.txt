@@ -645,7 +645,7 @@ References
   39. https://developers.facebook.com/policy/
   40. https://developers.facebook.com/policy/
   41. https://developers.facebook.com/docs/apps/review/canvasredirect
-  42. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=MAQFWWyAG&s=1
+  42. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=gAQF29nZa&s=1
   43. https://developers.facebook.com/docs/apps/review/branding
   44. https://developers.facebook.com/docs/plugins/restrictions/
   45. https://developers.facebook.com/policy/
@@ -653,7 +653,7 @@ References
   47. https://developers.facebook.com/policy/
   48. https://www.facebook.com/legal/terms
   49. https://developers.facebook.com/policy/
-  50. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=aAQH1locp&s=1
+  50. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=XAQEunw7S&s=1
   51. https://developers.facebook.com/docs/apps/review/branding
   52. https://developers.facebook.com/policy/
   53. https://developers.facebook.com/policy/
