@@ -3,66 +3,33 @@
    [2]Fitbit
      * Products
           +
-               o [3][simple.b-cssdisabled-png.h79d945473c3eaa1e39409f0748c
-                 bf6b8.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fzip.png]
-                 [simple.b-cssdisabled-png.h871c033ba1bac176e36439bf655ead
-                 51.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fzip-copy.pn
-                 g]
-               o [4][simple.b-cssdisabled-png.h5d229507c7d032fe4f969db67fe
-                 6d7df.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fone.png]
-                 [simple.b-cssdisabled-png.h4f1f9fb62c923c9ff971c2166ea3d2
-                 2f.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fone-copy.pn
-                 g]
-               o [5][simple.b-cssdisabled-png.hd4152ceb65760a5b91ab9085e13
-                 a5ef9.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fflex.png
-                 ]
-                 [simple.b-cssdisabled-png.h9eebead384b3f3b77f92c1e3394dd5
-                 75.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fflex-copy.p
-                 ng]
-               o [6][simple.b-cssdisabled-png.h91292be5cd6523030d7568659c0
-                 bfb7a.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fcharge.p
-                 ng]
-                 [simple.b-cssdisabled-png.h5bd10b9b8d8d03444412bb1c4b618d
-                 92.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fcharge-copy
-                 .png]
+               o [3][zip.79d945473c3eaa1e39409f0748cbf6b8.png]
+                 [zip-copy.871c033ba1bac176e36439bf655ead51.png]
+               o [4][one.5d229507c7d032fe4f969db67fe6d7df.png]
+                 [one-copy.4f1f9fb62c923c9ff971c2166ea3d22f.png]
+               o [5][flex.d4152ceb65760a5b91ab9085e13a5ef9.png]
+                 [flex-copy.9eebead384b3f3b77f92c1e3394dd575.png]
+               o [6][charge.91292be5cd6523030d7568659c0bfb7a.png]
+                 [charge-copy.5bd10b9b8d8d03444412bb1c4b618d92.png]
             Everyday fitness
           +
-               o [7][simple.b-cssdisabled-png.hf7b5fc4f64c4f21e91b1f9aa693
-                 ec61f.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fchargehr
-                 .png]
-                 [simple.b-cssdisabled-png.h7d9de51a4983d6da196d4106f9d868
-                 4f.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fchargehr-co
-                 py.png]
+               o [7][chargehr.f7b5fc4f64c4f21e91b1f9aa693ec61f.png]
+                 [chargehr-copy.7d9de51a4983d6da196d4106f9d8684f.png]
             Active fitness
           +
-               o [8][simple.b-cssdisabled-png.hd087dcc00d73f4d3c15d149203e
-                 c4a9a.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fsurge.pn
-                 g]
-                 [simple.b-cssdisabled-png.h7eaefb030c4e05b6c1d4f7013a1a12
-                 82.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fsurge-copy.
-                 png]
+               o [8][surge.d087dcc00d73f4d3c15d149203ec4a9a.png]
+                 [surge-copy.7eaefb030c4e05b6c1d4f7013a1a1282.png]
             Performance fitness
           +
-               o [9][simple.b-cssdisabled-png.h35981af077e8b5de25ddb228b9e
-                 f723a.pack?items=%2Fimages%2Fcommon%2Fproducts%2Faria.png
-                 ]
-                 [simple.b-cssdisabled-png.hdb9e0e37b3aeb07341ea4156ade813
-                 31.pack?items=%2Fimages%2Fcommon%2Fproducts%2Faria-copy.p
-                 ng]
+               o [9][aria.35981af077e8b5de25ddb228b9ef723a.png]
+                 [aria-copy.db9e0e37b3aeb07341ea4156ade81331.png]
             Wi-Fi Smart Scale
           +
-               o [10][simple.b-cssdisabled-png.hd49f3da3771ee8e27f160807c9
-                 17e921.pack?items=%2Fimages%2Fcommon%2Fproducts%2Ftorybur
-                 ch.png]
-                 [simple.b-cssdisabled-png.h863389b0ad4c3f04cfc78c86021124
-                 80.pack?items=%2Fimages%2Fcommon%2Fproducts%2Ftoryburch-c
-                 opy.png]
-               o [11][simple.b-cssdisabled-png.h8aa02775f1eb922d703920dfb3
-                 ebb1b9.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fbands.p
-                 ng] accessories
-                 [simple.b-cssdisabled-png.h096f4e27ddde867fef07836597d592
-                 d5.pack?items=%2Fimages%2Fcommon%2Fproducts%2Fbands-copy.
-                 png]
+               o [10][toryburch.d49f3da3771ee8e27f160807c917e921.png]
+                 [toryburch-copy.863389b0ad4c3f04cfc78c8602112480.png]
+               o [11][bands.8aa02775f1eb922d703920dfb3ebb1b9.png]
+                 accessories
+                 [bands-copy.096f4e27ddde867fef07836597d592d5.png]
             Product extras
           + [12]Compare all products
      * Experiences
