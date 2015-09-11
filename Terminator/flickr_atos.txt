@@ -1,21 +1,21 @@
    #[1]Flickr
 
-     * [2]Sign Up
-     * [3]Explore
-          + [4]Recent Photos
-          + [5]The Commons
-          + [6]20under20
-          + [7]Galleries
-          + [8]World Map
-          + [9]App Garden
-          + [10]Camera Finder
-          + [11]The Weekly Flickr
-          + [12]Flickr Blog
-     * [13]Create
+     * [2]Explore
+          + [3]Recent Photos
+          + [4]The Commons
+          + [5]20under20
+          + [6]Galleries
+          + [7]World Map
+          + [8]App Garden
+          + [9]Camera Finder
+          + [10]The Weekly Flickr
+          + [11]Flickr Blog
+     * [12]Create
 
-     * [14]Upload
+     * [13]Upload
      * ____________________ Submit
-     * [15]Sign In
+     * [14]Sign In
+     * [15]Sign Up
 
    [16]Explore
    [17]Recent Photos
@@ -61,20 +61,20 @@ References
 
    Visible links
    1. https://www.flickr.com/opensearch.xml
-   2. https://www.flickr.com/signup
+   2. https://www.flickr.com/explore
    3. https://www.flickr.com/explore
-   4. https://www.flickr.com/explore
-   5. https://www.flickr.com/commons
-   6. https://www.flickr.com/20under20
-   7. https://www.flickr.com/galleries
-   8. https://www.flickr.com/map
-   9. https://www.flickr.com/services
-  10. https://www.flickr.com/cameras
-  11. https://www.flickr.com/photos/flickr/albums/72157639868074114/
-  12. https://blog.flickr.net/
-  13. https://www.flickr.com/create
-  14. https://www.flickr.com/upload
-  15. https://www.flickr.com/signin
+   4. https://www.flickr.com/commons
+   5. https://www.flickr.com/20under20
+   6. https://www.flickr.com/galleries
+   7. https://www.flickr.com/map
+   8. https://www.flickr.com/services
+   9. https://www.flickr.com/cameras
+  10. https://www.flickr.com/photos/flickr/albums/72157639868074114/
+  11. https://blog.flickr.net/
+  12. https://www.flickr.com/create
+  13. https://www.flickr.com/upload
+  14. https://www.flickr.com/signin
+  15. https://www.flickr.com/signup
   16. https://www.flickr.com/explore
   17. https://www.flickr.com/explore
   18. https://www.flickr.com/commons
