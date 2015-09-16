@@ -1,0 +1,17 @@
+   [1]LinkedIn
+
+Request denied
+
+   Sorry, we are unable to serve your request at this time due to unusual
+   traffic from your network connection.
+   Please visit our [2]help page and provide the information below for
+   further assistance.
+   Reason codes:
+   IP:
+   Url:
+   Time:
+
+References
+
+   1. http://developer.linkedin.com/home
+   2. http://help.linkedin.com/app/answers/global/id/5932/ft/eng
