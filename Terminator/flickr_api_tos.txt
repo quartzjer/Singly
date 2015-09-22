@@ -47,9 +47,8 @@
           + [44]FlickrBlog
      * [45]Create
 
-     * [46]Upload
-
    ____________________ Search
+     * [46]Upload
      * [47]Sign In
 
 Flickr APIs Terms of Use
