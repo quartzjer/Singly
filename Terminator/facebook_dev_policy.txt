@@ -118,7 +118,7 @@ Facebook Platform Policy
 3. Protect data
 
     1. Protect the information you receive from us against unauthorized
-       access or use.
+       access, use, or disclosure.
     2. Only show data obtained from a user access token on the devices
        associated with that token.
     3. Only use friend data (including friends list) in the personâ€™s
@@ -588,7 +588,11 @@ Facebook Platform Policy
        app and has given the necessary consent.
        d. Donâ€™t sell or transfer custom audiences.
    11. Revoke an end-advertiserâ€™s access to your app if we request it.
-   12. Ensure that people agree to Facebookâ€™s [87]Statement of Rights
+   12. Lead Ads:
+       a. Only use a client's Lead Ads Data on behalf of that client.
+       b. Don't combine Lead Ads Data from one client with Lead Ads Data
+       from another client.
+   13. Ensure that people agree to Facebookâ€™s [87]Statement of Rights
        and Responsibilities, including the [88]Advertising Policies.
 
 15. Page API
@@ -699,13 +703,17 @@ Facebook Platform Policy
        identification number.
     2. "Account Information" consists of: name, email, gender, birthday,
        current city and profile picture URL.
-    3. â€œUser dataâ€� means any data, including a person's content or
+    3. "Ads API" includes all Graph APIs related to advertising, and all
+       Real Time APIs related to advertising, including but not limited
+       to: all Lead Ads Data coming through the Graph API or Real Time
+       Updates.
+    4. â€œUser dataâ€� means any data, including a person's content or
        information that you or third parties obtain from or through
        Facebook.
-    4. "SDK" means any object code library, sample source code, or
+    5. "SDK" means any object code library, sample source code, or
        documentation you receive from us that helps you create apps for
        use with the Facebook Platform.
-    5. By "Facebook" or "Facebook Services" we mean the features and
+    6. By "Facebook" or "Facebook Services" we mean the features and
        services we make available, including through (a) our website at
        www.facebook.com and any other Facebook branded or co-branded
        websites (including sub-domains, international versions, widgets,
@@ -790,7 +798,7 @@ References
   39. https://developers.facebook.com/policy/
   40. https://developers.facebook.com/policy/
   41. https://developers.facebook.com/docs/apps/review/canvasredirect
-  42. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=RAQF0VROM&s=1
+  42. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=OAQHKBdgu&s=1
   43. https://developers.facebook.com/docs/apps/review/branding
   44. https://developers.facebook.com/docs/plugins/restrictions/
   45. https://developers.facebook.com/policy/
@@ -798,7 +806,7 @@ References
   47. https://developers.facebook.com/policy/
   48. https://www.facebook.com/legal/terms
   49. https://developers.facebook.com/policy/
-  50. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=fAQFQSLe6&s=1
+  50. https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=-AQHttrW8&s=1
   51. https://developers.facebook.com/docs/apps/review/branding
   52. https://developers.facebook.com/policy/
   53. https://developers.facebook.com/policy/
