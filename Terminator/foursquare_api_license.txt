@@ -9,6 +9,18 @@
      * [15]Log In
      * [16]Sign Up
 
+   Nearby:
+
+   Get inspired:
+
+     * [17]Top Picks
+     * [18]Trending
+     * [19]Food
+     * [20]Coffee
+     * [21]Nightlife
+     * [22]Fun
+     * [23]Shopping
+
    Updated: 04/11/14
 
 FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
@@ -23,7 +35,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
 
    1. WHO CAN USE FOURSQUARE MATERIALS - When you use the Foursquare
    Materials, you agree to form a binding contract with Foursquare, and
-   follow this Agreement, the [17]Foursquare Platform Policy and all
+   follow this Agreement, the [24]Foursquare Platform Policy and all
    applicable laws. If you’re using the Foursquare Materials on behalf of
    a company, organization, or other entity, then you and that entity
    (collectively “Licensee”), represent and warrant that you’re authorized
@@ -36,7 +48,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    will apply to such updates.
 
    2. GRANT OF LICENSE - Subject to Licensee’s full compliance with all of
-   the terms and conditions of this Agreement and the [18]Platform Policy,
+   the terms and conditions of this Agreement and the [25]Platform Policy,
    Foursquare grants Licensee a non-exclusive, revocable,
    nonsublicensable, nontransferable license to download and use the
    Foursquare Materials to (i) develop, implement and integrate with the
@@ -210,29 +222,29 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    and any action or conduct in violation of the foregoing shall be void
    and without effect. Foursquare expressly reserves the right to assign
    this Agreement and to delegate any of its obligations hereunder.
-     * [19]About
-     * [20]Blog
-     * [21]Businesses
-     * [22]Cities
-     * [23]Developers
-     * [24]Help
-     * [25]Jobs
-     * [26]Cookies (Updated)
-     * [27]Privacy (Updated)
-     * [28]Terms
+     * [26]About
+     * [27]Blog
+     * [28]Businesses
+     * [29]Cities
+     * [30]Developers
+     * [31]Help
+     * [32]Jobs
+     * [33]Cookies (Updated)
+     * [34]Privacy (Updated)
+     * [35]Terms
      * English
-          + [29]English
-          + [30]Français
-          + [31]Deutsch
-          + [32]Bahasa Indonesia
-          + [33]Italiano
-          + [34]日本語
-          + [35]한국어
-          + [36]Português
-          + [37]Русский
-          + [38]Español
-          + [39]ภาษาไทย
-          + [40]Türkçe
+          + [36]English
+          + [37]Français
+          + [38]Deutsch
+          + [39]Bahasa Indonesia
+          + [40]Italiano
+          + [41]日本語
+          + [42]한국어
+          + [43]Português
+          + [44]Русский
+          + [45]Español
+          + [46]ภาษาไทย
+          + [47]Türkçe
 
    Foursquare © 2015 Lovingly made in NYC & SF
 
@@ -242,49 +254,49 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [41]Download Foursquare for your smart phone and start exploring the
+   [48]Download Foursquare for your smart phone and start exploring the
    world around you!
      * Cities:
-     * [42]Atlanta
-     * [43]Austin
-     * [44]Boston
-     * [45]Chicago
-     * [46]Dallas
-     * [47]Denver
-     * [48]Houston
-     * [49]Las Vegas
-     * [50]Los Angeles
-     * [51]New York
-     * [52]Philadelphia
-     * [53]Portland
-     * [54]San Diego
-     * [55]San Francisco
-     * [56]Seattle
-     * [57]Washington, D.C.
+     * [49]Atlanta
+     * [50]Austin
+     * [51]Boston
+     * [52]Chicago
+     * [53]Dallas
+     * [54]Denver
+     * [55]Houston
+     * [56]Las Vegas
+     * [57]Los Angeles
+     * [58]New York
+     * [59]Philadelphia
+     * [60]Portland
+     * [61]San Diego
+     * [62]San Francisco
+     * [63]Seattle
+     * [64]Washington, D.C.
 
      * Countries:
-     * [58]Belgium
-     * [59]Brazil
-     * [60]Canada
-     * [61]Chile
-     * [62]Finland
-     * [63]France
-     * [64]Germany
-     * [65]Great Britain
-     * [66]Hungary
-     * [67]Indonesia
-     * [68]Japan
-     * [69]Mexico
-     * [70]Netherlands
-     * [71]Philippines
-     * [72]Russia
-     * [73]Singapore
-     * [74]Spain
-     * [75]Thailand
-     * [76]Turkey
+     * [65]Belgium
+     * [66]Brazil
+     * [67]Canada
+     * [68]Chile
+     * [69]Finland
+     * [70]France
+     * [71]Germany
+     * [72]Great Britain
+     * [73]Hungary
+     * [74]Indonesia
+     * [75]Japan
+     * [76]Mexico
+     * [77]Netherlands
+     * [78]Philippines
+     * [79]Russia
+     * [80]Singapore
+     * [81]Spain
+     * [82]Thailand
+     * [83]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1444107610&amp;u=-1&amp;sig=VRMl5%2B5zVT6X44XAL%2B2scpuBUm0%3D]
+   &amp;ts=1444194008&amp;u=-1&amp;sig=Q2L4zOTPue4s4APfGAsIG7NHw8Q%3D]
 
 References
 
@@ -304,63 +316,70 @@ References
   14. https://foursquare.com/
   15. https://foursquare.com/login?continue=%2Flegal%2Fapi%2Flicenseagreement&clicked=true
   16. https://foursquare.com/signup/
-  17. https://foursquare.com/legal/api/platformpolicy
-  18. https://foursquare.com/legal/api/platformpolicy
-  19. https://foursquare.com/about
-  20. http://blog.foursquare.com/
-  21. http://business.foursquare.com/
-  22. https://foursquare.com/cities
-  23. http://developer.foursquare.com/
-  24. http://foursquare.com/help
-  25. https://foursquare.com/jobs/
-  26. https://foursquare.com/legal/cookiepolicy
-  27. https://foursquare.com/legal/privacy
-  28. https://foursquare.com/legal/terms
-  29. https://foursquare.com/legal/api/licenseagreement
-  30. https://fr.foursquare.com/legal/api/licenseagreement
-  31. https://de.foursquare.com/legal/api/licenseagreement
-  32. https://id.foursquare.com/legal/api/licenseagreement
-  33. https://it.foursquare.com/legal/api/licenseagreement
-  34. https://ja.foursquare.com/legal/api/licenseagreement
-  35. https://ko.foursquare.com/legal/api/licenseagreement
-  36. https://pt.foursquare.com/legal/api/licenseagreement
-  37. https://ru.foursquare.com/legal/api/licenseagreement
-  38. https://es.foursquare.com/legal/api/licenseagreement
-  39. https://th.foursquare.com/legal/api/licenseagreement
-  40. https://tr.foursquare.com/legal/api/licenseagreement
-  41. https://foursquare.com/download
-  42. https://foursquare.com/cities/atlanta-georgia
-  43. https://foursquare.com/cities/austin-texas
-  44. https://foursquare.com/cities/boston-massachusetts
-  45. https://foursquare.com/cities/chicago-illinois
-  46. https://foursquare.com/cities/dallas-texas
-  47. https://foursquare.com/cities/denver-colorado
-  48. https://foursquare.com/cities/houston-texas
-  49. https://foursquare.com/cities/las-vegas-nevada
-  50. https://foursquare.com/cities/los-angeles-california
-  51. https://foursquare.com/cities/new-york-city-new-york
-  52. https://foursquare.com/cities/philadelphia-pennsylvania
-  53. https://foursquare.com/cities/portland-oregon
-  54. https://foursquare.com/cities/san-diego-california
-  55. https://foursquare.com/cities/san-francisco-california
-  56. https://foursquare.com/cities/seattle-washington
-  57. https://foursquare.com/cities/washington-dc
-  58. https://foursquare.com/cities/brussels-belgium
-  59. https://foursquare.com/cities/sao-paulo
-  60. https://foursquare.com/cities/toronto
-  61. https://foursquare.com/cities/santiago
-  62. https://foursquare.com/cities/helsinki-finland
-  63. https://foursquare.com/cities/paris
-  64. https://foursquare.com/cities/berlin
-  65. https://foursquare.com/cities/london
-  66. https://foursquare.com/cities/budapest-hungary
-  67. https://foursquare.com/cities/jakarta
-  68. https://foursquare.com/cities/tokyo
-  69. https://foursquare.com/cities/mexico-city
-  70. https://foursquare.com/cities/amsterdam-netherlands
-  71. https://foursquare.com/cities/manila
-  72. https://foursquare.com/cities/moscow
-  73. https://foursquare.com/cities/singapore
-  74. https://foursquare.com/cities/barcelona-spain
-  75. https://foursquare.com/cities/bangkok
-  76. https://foursquare.com/cities/istanbul
+  17. https://foursquare.com/explore?cat=topPicks
+  18. https://foursquare.com/explore?cat=trending
+  19. https://foursquare.com/explore?cat=food
+  20. https://foursquare.com/explore?cat=coffee
+  21. https://foursquare.com/explore?cat=drinks
+  22. https://foursquare.com/explore?cat=arts
+  23. https://foursquare.com/explore?cat=shops
+  24. https://foursquare.com/legal/api/platformpolicy
+  25. https://foursquare.com/legal/api/platformpolicy
+  26. https://foursquare.com/about
+  27. http://blog.foursquare.com/
+  28. http://business.foursquare.com/
+  29. https://foursquare.com/cities
+  30. http://developer.foursquare.com/
+  31. http://foursquare.com/help
+  32. https://foursquare.com/jobs/
+  33. https://foursquare.com/legal/cookiepolicy
+  34. https://foursquare.com/legal/privacy
+  35. https://foursquare.com/legal/terms
+  36. https://foursquare.com/legal/api/licenseagreement
+  37. https://fr.foursquare.com/legal/api/licenseagreement
+  38. https://de.foursquare.com/legal/api/licenseagreement
+  39. https://id.foursquare.com/legal/api/licenseagreement
+  40. https://it.foursquare.com/legal/api/licenseagreement
+  41. https://ja.foursquare.com/legal/api/licenseagreement
+  42. https://ko.foursquare.com/legal/api/licenseagreement
+  43. https://pt.foursquare.com/legal/api/licenseagreement
+  44. https://ru.foursquare.com/legal/api/licenseagreement
+  45. https://es.foursquare.com/legal/api/licenseagreement
+  46. https://th.foursquare.com/legal/api/licenseagreement
+  47. https://tr.foursquare.com/legal/api/licenseagreement
+  48. https://foursquare.com/download
+  49. https://foursquare.com/cities/atlanta-georgia
+  50. https://foursquare.com/cities/austin-texas
+  51. https://foursquare.com/cities/boston-massachusetts
+  52. https://foursquare.com/cities/chicago-illinois
+  53. https://foursquare.com/cities/dallas-texas
+  54. https://foursquare.com/cities/denver-colorado
+  55. https://foursquare.com/cities/houston-texas
+  56. https://foursquare.com/cities/las-vegas-nevada
+  57. https://foursquare.com/cities/los-angeles-california
+  58. https://foursquare.com/cities/new-york-city-new-york
+  59. https://foursquare.com/cities/philadelphia-pennsylvania
+  60. https://foursquare.com/cities/portland-oregon
+  61. https://foursquare.com/cities/san-diego-california
+  62. https://foursquare.com/cities/san-francisco-california
+  63. https://foursquare.com/cities/seattle-washington
+  64. https://foursquare.com/cities/washington-dc
+  65. https://foursquare.com/cities/brussels-belgium
+  66. https://foursquare.com/cities/sao-paulo
+  67. https://foursquare.com/cities/toronto
+  68. https://foursquare.com/cities/santiago
+  69. https://foursquare.com/cities/helsinki-finland
+  70. https://foursquare.com/cities/paris
+  71. https://foursquare.com/cities/berlin
+  72. https://foursquare.com/cities/london
+  73. https://foursquare.com/cities/budapest-hungary
+  74. https://foursquare.com/cities/jakarta
+  75. https://foursquare.com/cities/tokyo
+  76. https://foursquare.com/cities/mexico-city
+  77. https://foursquare.com/cities/amsterdam-netherlands
+  78. https://foursquare.com/cities/manila
+  79. https://foursquare.com/cities/moscow
+  80. https://foursquare.com/cities/singapore
+  81. https://foursquare.com/cities/barcelona-spain
+  82. https://foursquare.com/cities/bangkok
+  83. https://foursquare.com/cities/istanbul
