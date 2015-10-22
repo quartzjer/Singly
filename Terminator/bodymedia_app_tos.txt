@@ -1,35 +1,22 @@
    #[1]publisher
 
-     * [2]Home
+     * [2]Learn about UP
      * [3]Fitness Trackers
-     * [4]Speakers
-     * [5]Headsets
+     * [4]Corporate Sales
+     * [5]Support
      * [6]Store
 
-     * [7]Support
-     * [8]Sign In
+     * [7]Sign In
 
-   Welcome back!
+   (Submit) Menu
 
-   Unlock features and updates for your Jawbone device by signing in now.
-
-   Email Address ____________________
-
-   Password ____________________
-
-   [9]Forgot password
-   (Submit) Sign In
-   Don't have an account yet? [10]sign up
-   close
-
-   (Submit) Menu[11]Jawbone
-
-     * [12]Home
-     * [13]Fitness trackers
-     * [14]JAMBOX
-     * [15]Headsets
-     * [16]Store
-     * [17]Support
+     * [8]Home
+     * [9]Learn about UP
+     * [10]Fitness Trackers
+     * [11]Corporate Sales
+     * [12]Support
+     * [13]Store
+     * [14]Sign Out
 
    404
 
@@ -37,85 +24,82 @@ Sad face! The page you are looking for cannot be found.
 
    Please use the navigation links above to find your way.
    Jawbone
-     * [18]Facebook
-     * [19]Twitter
-     * [20]Google+
-     * [21]Pinterest
-     * [22]YouTube
-     * [23]Instagram
-     * [24]Tumblr
+     * [15]Facebook
+     * [16]Twitter
+     * [17]Google+
+     * [18]Pinterest
+     * [19]YouTube
+     * [20]Instagram
+     * [21]Tumblr
 
    Company
 
-          + [25]About Us
-          + [26]News & Press
-          + [27]Careers
-          + [28]Contact Us
-          + [29]Website Privacy
-          + [30]Blog
+          + [22]About Us
+          + [23]News & Press
+          + [24]Careers
+          + [25]Contact Us
+          + [26]Website Privacy
+          + [27]Blog
 
    Shop
 
-          + [31]Store
-          + [32]Retail Partners
-          + [33]Corporate Sales
-          + [34]Corporate Wellness
+          + [28]Store
+          + [29]Retail Partners
+          + [30]Corporate Sales
+          + [31]Corporate Wellness
 
    Support
 
-          + [35]Support
-          + [36]Community
-          + [37]Contact Us
+          + [32]Support
+          + [33]Contact Us
 
 Get the latest news
 
    Enter email address ____________________ (Submit) Submit
 
-   © 2015 Jawbone. All rights reserved. See our [38]terms of use and
-   [39]privacy policy.
+   © 2015 Jawbone. All rights reserved. See our [34]terms of use and
+   [35]privacy policy.
 
 References
 
    Visible links
    1. https://plus.google.com/110731117920682770912
-   2. http://developer.bodymedia.com/
+   2. http://developer.bodymedia.com/up
    3. http://developer.bodymedia.com/up
-   4. http://developer.bodymedia.com/speakers
-   5. http://developer.bodymedia.com/headsets
+   4. http://developer.bodymedia.com/corporatesales
+   5. http://developer.bodymedia.com/support
    6. http://developer.bodymedia.com/store
-   7. http://developer.bodymedia.com/support
-   8. http://developer.bodymedia.com/user/login
-   9. http://developer.bodymedia.com/start/reset
-  10. http://developer.bodymedia.com/start/signup
-  11. http://developer.bodymedia.com/
-  12. http://developer.bodymedia.com/
-  13. http://developer.bodymedia.com/up
-  14. http://developer.bodymedia.com/speakers
-  15. http://developer.bodymedia.com/headsets
-  16. http://developer.bodymedia.com/store
-  17. http://developer.bodymedia.com/support
-  18. https://www.facebook.com/jawbone
-  19. https://twitter.com/Jawbone
-  20. https://plus.google.com/+jawbone
-  21. http://www.pinterest.com/Jawbone/
-  22. https://www.youtube.com/user/jawbone
-  23. http://instagram.com/jawbone
-  24. http://jawbone.tumblr.com/
-  25. http://developer.bodymedia.com/about
-  26. http://developer.bodymedia.com/pressrelease
-  27. http://developer.bodymedia.com/careers
-  28. http://developer.bodymedia.com/contact
-  29. http://developer.bodymedia.com/legal/privacy
-  30. http://jawbone.com/blog
-  31. http://developer.bodymedia.com/store
-  32. http://developer.bodymedia.com/retail-partners
-  33. http://developer.bodymedia.com/corporatesales
-  34. http://developer.bodymedia.com/up/groups
-  35. http://developer.bodymedia.com/support
-  36. http://forums.jawbone.com/
-  37. http://developer.bodymedia.com/contact
-  38. http://developer.bodymedia.com/legal/terms
-  39. http://developer.bodymedia.com/privacy
+   7. http://developer.bodymedia.com/signin
+   8. http://developer.bodymedia.com/
+   9. http://developer.bodymedia.com/up
+  10. http://developer.bodymedia.com/up
+  11. http://developer.bodymedia.com/corporatesales
+  12. http://support.jawbone.com/
+  13. http://developer.bodymedia.com/store
+  14. http://developer.bodymedia.com/user/signin/logout_redirect
+  15. https://www.facebook.com/jawbone
+  16. https://twitter.com/Jawbone
+  17. https://plus.google.com/+jawbone
+  18. http://www.pinterest.com/Jawbone/
+  19. https://www.youtube.com/user/jawbone
+  20. http://instagram.com/jawbone
+  21. http://jawbone.tumblr.com/
+  22. http://developer.bodymedia.com/about
+  23. http://developer.bodymedia.com/pressrelease
+  24. http://developer.bodymedia.com/careers
+  25. http://developer.bodymedia.com/contact
+  26. http://developer.bodymedia.com/legal/privacy
+  27. http://jawbone.com/blog
+  28. http://developer.bodymedia.com/store
+  29. http://developer.bodymedia.com/retail-partners
+  30. http://developer.bodymedia.com/corporatesales
+  31. http://developer.bodymedia.com/up/groups
+  32. http://developer.bodymedia.com/support
+  33. https://help.jawbone.com/contact
+  34. http://developer.bodymedia.com/legal/terms
+  35. http://developer.bodymedia.com/privacy
 
    Hidden links:
-  40. http://developer.bodymedia.com/user/locale
+  36. http://developer.bodymedia.com/
+  37. http://developer.bodymedia.com/
+  38. http://developer.bodymedia.com/user/locale
