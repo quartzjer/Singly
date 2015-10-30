@@ -9,6 +9,18 @@
      * [15]Log In
      * [16]Sign Up
 
+   Nearby:
+
+   Get inspired:
+
+     * [17]Top Picks
+     * [18]Trending
+     * [19]Food
+     * [20]Coffee
+     * [21]Nightlife
+     * [22]Fun
+     * [23]Shopping
+
    Last Updated: March 12, 2015
 
 FOURSQUARE LABS, INC. TERMS OF USE
@@ -16,7 +28,7 @@ FOURSQUARE LABS, INC. TERMS OF USE
    PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SERVICES
    OFFERED BY FOURSQUARE LABS, INC. ("FOURSQUARE"), A DELAWARE
    CORPORATION. THESE TERMS OF USE SET FORTH THE LEGALLY BINDING TERMS AND
-   CONDITIONS FOR YOUR USE OF THE WEBSITE AT [17]HTTPS://FOURSQUARE.COM
+   CONDITIONS FOR YOUR USE OF THE WEBSITE AT [24]HTTPS://FOURSQUARE.COM
    (THE "SITE") AND THE SERVICES, FEATURES, CONTENT, APPLICATIONS OR
    WIDGETS OFFERED BY FOURSQUARE (COLLECTIVELY WITH THE SITE, THE
    "SERVICE").
@@ -26,9 +38,9 @@ Acceptance of Terms.
    By registering for and/or using the Service in any manner, including
    but not limited to visiting or browsing the Site, you agree to all of
    the terms and conditions contained herein ("Terms of Use"), which also
-   incorporate Foursquare's [18]Privacy Policy, Foursquare's
-   [19]Intellectual Property Policy, Foursquare's [20]Photo Guidelines,
-   Foursquare's [21]Venue Terms and Conditions, Foursquare's [22]API
+   incorporate Foursquare's [25]Privacy Policy, Foursquare's
+   [26]Intellectual Property Policy, Foursquare's [27]Photo Guidelines,
+   Foursquare's [28]Venue Terms and Conditions, Foursquare's [29]API
    License Agreement and all other operating rules, policies and
    procedures that may be published from time to time on the Site by
    Foursquare, each of which is incorporated by reference and each of
@@ -244,10 +256,10 @@ Rules and Conduct.
        representative of Foursquare;
      * includes anyone's identification documents or sensitive financial
        information; or
-     * breaches the [23]Privacy Policy, the [24]House Rules and/or any of
+     * breaches the [30]Privacy Policy, the [31]House Rules and/or any of
        the other policies and rules incorporated herein.
 
-   If the User Submission includes a photograph, Foursquare's [25]Photo
+   If the User Submission includes a photograph, Foursquare's [32]Photo
    Guidelines shall apply. Foursquare has a zero-tolerance policy against
    child pornography, and will terminate and report to the appropriate
    authorities any user who publishes or distributes child pornography.
@@ -316,13 +328,13 @@ Card Services
    that occurs during any offer or special redemption process, including
    any error by the Payment Processor. In connection with your use of the
    Card Services, Foursquare will obtain certain transaction details,
-   which Foursquare will use solely in accordance with our [26]Privacy
+   which Foursquare will use solely in accordance with our [33]Privacy
    Policy.
 
 Feedback and Unsolicited Idea Submission Policy
 
    For information on Foursquare’s Feedback and Unsolicited Idea
-   Submission Policy, please go [27]here.
+   Submission Policy, please go [34]here.
 
 Special Terms for 'Add-to-Foursquare' Link
 
@@ -389,13 +401,13 @@ Special Terms for Pages.
 Special Terms for Verified Venues.
 
    If you are the verified representative of a venue, you also agree to
-   Foursquare's [28]Venue Terms and Conditions.
+   Foursquare's [35]Venue Terms and Conditions.
 
 Special Terms for Developers.
 
    If you are a developer or operator of any application or service that
    uses Foursquare's application programming interface(s) you also agree
-   to Foursquare's [29]Platform Policy and [30]API License Agreement.
+   to Foursquare's [36]Platform Policy and [37]API License Agreement.
 
 Third Party Sites and Services.
 
@@ -697,29 +709,29 @@ Contact.
    Floor, New York, NY 10012.
 
    Effective Date: January 29, 2013
-     * [31]About
-     * [32]Blog
-     * [33]Businesses
-     * [34]Cities
-     * [35]Developers
-     * [36]Help
-     * [37]Jobs
-     * [38]Cookies (Updated)
-     * [39]Privacy (Updated)
-     * [40]Terms
+     * [38]About
+     * [39]Blog
+     * [40]Businesses
+     * [41]Cities
+     * [42]Developers
+     * [43]Help
+     * [44]Jobs
+     * [45]Cookies (Updated)
+     * [46]Privacy (Updated)
+     * [47]Terms
      * English
-          + [41]English
-          + [42]Français
-          + [43]Deutsch
-          + [44]Bahasa Indonesia
-          + [45]Italiano
-          + [46]日本語
-          + [47]한국어
-          + [48]Português
-          + [49]Русский
-          + [50]Español
-          + [51]ภาษาไทย
-          + [52]Türkçe
+          + [48]English
+          + [49]Français
+          + [50]Deutsch
+          + [51]Bahasa Indonesia
+          + [52]Italiano
+          + [53]日本語
+          + [54]한국어
+          + [55]Português
+          + [56]Русский
+          + [57]Español
+          + [58]ภาษาไทย
+          + [59]Türkçe
 
    Foursquare © 2015 Lovingly made in NYC & SF
 
@@ -729,49 +741,49 @@ You must enable JavaScript to use foursquare.com
    possible web experience.
    Please enable JavaScript in your browser settings to continue.
 
-   [53]Download Foursquare for your smart phone and start exploring the
+   [60]Download Foursquare for your smart phone and start exploring the
    world around you!
      * Cities:
-     * [54]Atlanta
-     * [55]Austin
-     * [56]Boston
-     * [57]Chicago
-     * [58]Dallas
-     * [59]Denver
-     * [60]Houston
-     * [61]Las Vegas
-     * [62]Los Angeles
-     * [63]New York
-     * [64]Philadelphia
-     * [65]Portland
-     * [66]San Diego
-     * [67]San Francisco
-     * [68]Seattle
-     * [69]Washington, D.C.
+     * [61]Atlanta
+     * [62]Austin
+     * [63]Boston
+     * [64]Chicago
+     * [65]Dallas
+     * [66]Denver
+     * [67]Houston
+     * [68]Las Vegas
+     * [69]Los Angeles
+     * [70]New York
+     * [71]Philadelphia
+     * [72]Portland
+     * [73]San Diego
+     * [74]San Francisco
+     * [75]Seattle
+     * [76]Washington, D.C.
 
      * Countries:
-     * [70]Belgium
-     * [71]Brazil
-     * [72]Canada
-     * [73]Chile
-     * [74]Finland
-     * [75]France
-     * [76]Germany
-     * [77]Great Britain
-     * [78]Hungary
-     * [79]Indonesia
-     * [80]Japan
-     * [81]Mexico
-     * [82]Netherlands
-     * [83]Philippines
-     * [84]Russia
-     * [85]Singapore
-     * [86]Spain
-     * [87]Thailand
-     * [88]Turkey
+     * [77]Belgium
+     * [78]Brazil
+     * [79]Canada
+     * [80]Chile
+     * [81]Finland
+     * [82]France
+     * [83]Germany
+     * [84]Great Britain
+     * [85]Hungary
+     * [86]Indonesia
+     * [87]Japan
+     * [88]Mexico
+     * [89]Netherlands
+     * [90]Philippines
+     * [91]Russia
+     * [92]Singapore
+     * [93]Spain
+     * [94]Thailand
+     * [95]Turkey
 
-   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=144609481
-   2&amp;u=-1&amp;sig=Wsb7pxQWKRxjgSXTANPFYHwOCc4%3D]
+   [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fterms&amp;ref=&amp;ts=144618121
+   1&amp;u=-1&amp;sig=ehmgmMhNbmCUgVbCUHN72%2FElQu0%3D]
 
 References
 
@@ -791,75 +803,82 @@ References
   14. https://foursquare.com/
   15. https://foursquare.com/login?continue=%2Flegal%2Fterms&clicked=true
   16. https://foursquare.com/signup/
-  17. https://foursquare.com/
-  18. https://foursquare.com/legal/privacy
-  19. https://foursquare.com/legal/ip
-  20. https://foursquare.com/legal/photos
-  21. https://foursquare.com/legal/venueterms
-  22. https://foursquare.com/legal/api/licenseagreement
-  23. https://foursquare.com/legal/privacy
-  24. https://foursquare.com/info/houserules
-  25. https://foursquare.com/legal/photos
-  26. https://foursquare.com/legal/privacy
-  27. https://foursquare.com/legal/ideas
+  17. https://foursquare.com/explore?cat=topPicks
+  18. https://foursquare.com/explore?cat=trending
+  19. https://foursquare.com/explore?cat=food
+  20. https://foursquare.com/explore?cat=coffee
+  21. https://foursquare.com/explore?cat=drinks
+  22. https://foursquare.com/explore?cat=arts
+  23. https://foursquare.com/explore?cat=shops
+  24. https://foursquare.com/
+  25. https://foursquare.com/legal/privacy
+  26. https://foursquare.com/legal/ip
+  27. https://foursquare.com/legal/photos
   28. https://foursquare.com/legal/venueterms
-  29. https://foursquare.com/legal/api/platformpolicy
-  30. https://foursquare.com/legal/api/licenseagreement
-  31. https://foursquare.com/about
-  32. http://blog.foursquare.com/
-  33. http://business.foursquare.com/
-  34. https://foursquare.com/cities
-  35. http://developer.foursquare.com/
-  36. http://foursquare.com/help
-  37. https://foursquare.com/jobs/
-  38. https://foursquare.com/legal/cookiepolicy
-  39. https://foursquare.com/legal/privacy
-  40. https://foursquare.com/legal/terms
-  41. https://foursquare.com/legal/terms
-  42. https://fr.foursquare.com/legal/terms
-  43. https://de.foursquare.com/legal/terms
-  44. https://id.foursquare.com/legal/terms
-  45. https://it.foursquare.com/legal/terms
-  46. https://ja.foursquare.com/legal/terms
-  47. https://ko.foursquare.com/legal/terms
-  48. https://pt.foursquare.com/legal/terms
-  49. https://ru.foursquare.com/legal/terms
-  50. https://es.foursquare.com/legal/terms
-  51. https://th.foursquare.com/legal/terms
-  52. https://tr.foursquare.com/legal/terms
-  53. https://foursquare.com/download
-  54. https://foursquare.com/cities/atlanta-georgia
-  55. https://foursquare.com/cities/austin-texas
-  56. https://foursquare.com/cities/boston-massachusetts
-  57. https://foursquare.com/cities/chicago-illinois
-  58. https://foursquare.com/cities/dallas-texas
-  59. https://foursquare.com/cities/denver-colorado
-  60. https://foursquare.com/cities/houston-texas
-  61. https://foursquare.com/cities/las-vegas-nevada
-  62. https://foursquare.com/cities/los-angeles-california
-  63. https://foursquare.com/cities/new-york-city-new-york
-  64. https://foursquare.com/cities/philadelphia-pennsylvania
-  65. https://foursquare.com/cities/portland-oregon
-  66. https://foursquare.com/cities/san-diego-california
-  67. https://foursquare.com/cities/san-francisco-california
-  68. https://foursquare.com/cities/seattle-washington
-  69. https://foursquare.com/cities/washington-dc
-  70. https://foursquare.com/cities/brussels-belgium
-  71. https://foursquare.com/cities/sao-paulo
-  72. https://foursquare.com/cities/toronto
-  73. https://foursquare.com/cities/santiago
-  74. https://foursquare.com/cities/helsinki-finland
-  75. https://foursquare.com/cities/paris
-  76. https://foursquare.com/cities/berlin
-  77. https://foursquare.com/cities/london
-  78. https://foursquare.com/cities/budapest-hungary
-  79. https://foursquare.com/cities/jakarta
-  80. https://foursquare.com/cities/tokyo
-  81. https://foursquare.com/cities/mexico-city
-  82. https://foursquare.com/cities/amsterdam-netherlands
-  83. https://foursquare.com/cities/manila
-  84. https://foursquare.com/cities/moscow
-  85. https://foursquare.com/cities/singapore
-  86. https://foursquare.com/cities/barcelona-spain
-  87. https://foursquare.com/cities/bangkok
-  88. https://foursquare.com/cities/istanbul
+  29. https://foursquare.com/legal/api/licenseagreement
+  30. https://foursquare.com/legal/privacy
+  31. https://foursquare.com/info/houserules
+  32. https://foursquare.com/legal/photos
+  33. https://foursquare.com/legal/privacy
+  34. https://foursquare.com/legal/ideas
+  35. https://foursquare.com/legal/venueterms
+  36. https://foursquare.com/legal/api/platformpolicy
+  37. https://foursquare.com/legal/api/licenseagreement
+  38. https://foursquare.com/about
+  39. http://blog.foursquare.com/
+  40. http://business.foursquare.com/
+  41. https://foursquare.com/cities
+  42. http://developer.foursquare.com/
+  43. http://foursquare.com/help
+  44. https://foursquare.com/jobs/
+  45. https://foursquare.com/legal/cookiepolicy
+  46. https://foursquare.com/legal/privacy
+  47. https://foursquare.com/legal/terms
+  48. https://foursquare.com/legal/terms
+  49. https://fr.foursquare.com/legal/terms
+  50. https://de.foursquare.com/legal/terms
+  51. https://id.foursquare.com/legal/terms
+  52. https://it.foursquare.com/legal/terms
+  53. https://ja.foursquare.com/legal/terms
+  54. https://ko.foursquare.com/legal/terms
+  55. https://pt.foursquare.com/legal/terms
+  56. https://ru.foursquare.com/legal/terms
+  57. https://es.foursquare.com/legal/terms
+  58. https://th.foursquare.com/legal/terms
+  59. https://tr.foursquare.com/legal/terms
+  60. https://foursquare.com/download
+  61. https://foursquare.com/cities/atlanta-georgia
+  62. https://foursquare.com/cities/austin-texas
+  63. https://foursquare.com/cities/boston-massachusetts
+  64. https://foursquare.com/cities/chicago-illinois
+  65. https://foursquare.com/cities/dallas-texas
+  66. https://foursquare.com/cities/denver-colorado
+  67. https://foursquare.com/cities/houston-texas
+  68. https://foursquare.com/cities/las-vegas-nevada
+  69. https://foursquare.com/cities/los-angeles-california
+  70. https://foursquare.com/cities/new-york-city-new-york
+  71. https://foursquare.com/cities/philadelphia-pennsylvania
+  72. https://foursquare.com/cities/portland-oregon
+  73. https://foursquare.com/cities/san-diego-california
+  74. https://foursquare.com/cities/san-francisco-california
+  75. https://foursquare.com/cities/seattle-washington
+  76. https://foursquare.com/cities/washington-dc
+  77. https://foursquare.com/cities/brussels-belgium
+  78. https://foursquare.com/cities/sao-paulo
+  79. https://foursquare.com/cities/toronto
+  80. https://foursquare.com/cities/santiago
+  81. https://foursquare.com/cities/helsinki-finland
+  82. https://foursquare.com/cities/paris
+  83. https://foursquare.com/cities/berlin
+  84. https://foursquare.com/cities/london
+  85. https://foursquare.com/cities/budapest-hungary
+  86. https://foursquare.com/cities/jakarta
+  87. https://foursquare.com/cities/tokyo
+  88. https://foursquare.com/cities/mexico-city
+  89. https://foursquare.com/cities/amsterdam-netherlands
+  90. https://foursquare.com/cities/manila
+  91. https://foursquare.com/cities/moscow
+  92. https://foursquare.com/cities/singapore
+  93. https://foursquare.com/cities/barcelona-spain
+  94. https://foursquare.com/cities/bangkok
+  95. https://foursquare.com/cities/istanbul
