@@ -45,13 +45,14 @@
           + [21]Blog
           + [22]Buzz
           + [23]Fitness Quiz
+          + [24]FitForGood
      * Help
-          + [24]Product Help
-          + [25]Wear and Care
+          + [25]Product Help
+          + [26]Wear and Care
 
-     * [26]Store
-     * [27]Log in
-     * [28]Setup
+     * [27]Store
+     * [28]Log in
+     * [29]Setup
 
 API Terms of Service
 
@@ -71,9 +72,9 @@ API Terms of Service
 
    If there is a use case you would like to see covered that is not
    currently supported by the API or these Terms of Service, please
-   contact us at [29]api@fitbit.com to discuss your needs. Additionally,
+   contact us at [30]api@fitbit.com to discuss your needs. Additionally,
    please participate in the Fitbit API developer group, which can be
-   found [30]here.
+   found [31]here.
 
 1. Certain definitions
 
@@ -138,9 +139,9 @@ API Terms of Service
             other benchmarking or competitive purposes.
 
    If you are unsure whether your intended use of the API is in compliance
-   with these Terms of Service, please contact us at [31]api@fitbit.com to
+   with these Terms of Service, please contact us at [32]api@fitbit.com to
    discuss. Additionally, please participate in the Fitbit API Developer
-   Forum located [32]here.
+   Forum located [33]here.
 
 3. Principles & Best Practices
 
@@ -524,24 +525,24 @@ Fitbit Marks
      *
      *
      *
-     * [33]BLOG
+     * [34]BLOG
 
-     * [34]About Us
-     * [35]Investor Relations
-     * [36]Careers
-     * [37]Retailers
-     * [38]Affiliates
-     * [39]Corporate Wellness
-     * [40]API
-     * [41]Help
+     * [35]About Us
+     * [36]Investor Relations
+     * [37]Careers
+     * [38]Retailers
+     * [39]Affiliates
+     * [40]Corporate Wellness
+     * [41]API
+     * [42]Help
 
-   United States ([42]change)
+   United States ([43]change)
      * ©2015 Fitbit Inc. All rights reserved.
-     * [43]Privacy Policy
-     * [44]Terms of Service
-     * [45]Returns & Warranty
-     * [46]Wear and Care
-     * [47]Recall & Safety Info
+     * [44]Privacy Policy
+     * [45]Terms of Service
+     * [46]Returns & Warranty
+     * [47]Wear and Care
+     * [48]Recall & Safety Info
 
 References
 
@@ -569,35 +570,36 @@ References
   21. http://blog.fitbit.com/
   22. https://www.fitbit.com/buzz
   23. https://www.fitbit.com/findanewfit
-  24. http://help.fitbit.com/
-  25. https://www.fitbit.com/productcare
-  26. https://www.fitbit.com/store
-  27. https://dev.fitbit.com/login
-  28. https://www.fitbit.com/setup
-  29. mailto:api@fitbit.com
-  30. https://community.fitbit.com/t5/Web-API/bd-p/dev
-  31. mailto:api@fitbit.com
-  32. https://community.fitbit.com/t5/Web-API/bd-p/dev
-  33. https://blog.fitbit.com/
-  34. http://www.fitbit.com/about
-  35. https://investor.fitbit.com/
-  36. https://dev.fitbit.com/jobs
-  37. http://www.fitbit.com/retailers
-  38. https://dev.fitbit.com/affiliates
-  39. http://www.fitbit.com/fitbit-wellness
-  40. https://dev.fitbit.com/
-  41. http://help.fitbit.com/
-  42. https://dev.fitbit.com/countries
-  43. http://www.fitbit.com/privacy
-  44. http://www.fitbit.com/terms
-  45. http://www.fitbit.com/returns
-  46. http://www.fitbit.com/productcare
-  47. https://dev.fitbit.com/forcesupport/info
+  24. https://fitforgood.fitbit.com/
+  25. http://help.fitbit.com/
+  26. https://www.fitbit.com/productcare
+  27. https://www.fitbit.com/store
+  28. https://dev.fitbit.com/login
+  29. https://www.fitbit.com/setup
+  30. mailto:api@fitbit.com
+  31. https://community.fitbit.com/t5/Web-API/bd-p/dev
+  32. mailto:api@fitbit.com
+  33. https://community.fitbit.com/t5/Web-API/bd-p/dev
+  34. https://blog.fitbit.com/
+  35. http://www.fitbit.com/about
+  36. https://investor.fitbit.com/
+  37. https://dev.fitbit.com/jobs
+  38. http://www.fitbit.com/retailers
+  39. https://dev.fitbit.com/affiliates
+  40. http://www.fitbit.com/fitbit-wellness
+  41. https://dev.fitbit.com/
+  42. http://help.fitbit.com/
+  43. https://dev.fitbit.com/countries
+  44. http://www.fitbit.com/privacy
+  45. http://www.fitbit.com/terms
+  46. http://www.fitbit.com/returns
+  47. http://www.fitbit.com/productcare
+  48. https://dev.fitbit.com/forcesupport/info
 
    Hidden links:
-  48. https://www.facebook.com/fitbit
-  49. https://www.twitter.com/fitbit
-  50. https://instagram.com/fitbit
-  51. https://www.pinterest.com/fitbit/
-  52. https://www.youtube.com/user/FitbitOfficialSite
-  53. https://plus.google.com/+fitbit
+  49. https://www.facebook.com/fitbit
+  50. https://www.twitter.com/fitbit
+  51. https://instagram.com/fitbit
+  52. https://www.pinterest.com/fitbit/
+  53. https://www.youtube.com/user/FitbitOfficialSite
+  54. https://plus.google.com/+fitbit
