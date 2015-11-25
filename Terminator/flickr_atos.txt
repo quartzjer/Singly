@@ -12,7 +12,8 @@
           + [11]Flickr Blog
      * [12]Create
 
-     * ____________________ Submit
+     * Submit
+       ____________________
      * [13]Upload
      * [14]Sign In
      * [15]Sign Up
