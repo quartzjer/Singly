@@ -449,7 +449,7 @@ You must enable JavaScript to use foursquare.com
      * [89]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1448949609&amp;u=-1&amp;sig=2M2tczdVJDJ%2FWK6EFAdTcbi5VwU%3D]
+   mp;ts=1449036009&amp;u=-1&amp;sig=l%2FY3iCnRajBiSw6iStZMO6IqaX8%3D]
 
 References
 
