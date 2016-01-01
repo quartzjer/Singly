@@ -246,7 +246,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
           + [46]ภาษาไทย
           + [47]Türkçe
 
-   Foursquare © 2015 Lovingly made in NYC & SF
+   Foursquare © 2016 Lovingly made in NYC & SF
 
 You must enable JavaScript to use foursquare.com
 
@@ -296,7 +296,7 @@ You must enable JavaScript to use foursquare.com
      * [83]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1451541609&amp;u=-1&amp;sig=hY6Un6WFxXIoWv7560quaU4UxUo%3D]
+   &amp;ts=1451628011&amp;u=-1&amp;sig=lK%2FiBONWSEnXvD6A3P2QkY8sjgg%3D]
 
 References
 
