@@ -2,55 +2,51 @@
 
    [2]Fitbit
      * Products
+          + Everyday
+               o [3][zip-2016.6ed226afd379baadc50d2aa7aa6438f7.png] Fitbit
+                 Zip®
+               o [4][one-2016.f1bd92baaa905456de7b59d05fe78a5b.png] Fitbit
+                 One®
+               o [5][flex-2016.017ed30d220baac5e1d13cdd39bc74fc.png]
+                 Fitbit Flex®
+               o [6][charge-2016.bb9d0909fe95330d9b450b8491fb6a6b.png]
+                 Fitbit Charge™
+          + Active
+               o [7][chargehr-2016.97a7148f95fb539d1bd24c690f051530.png]
+                 Fitbit Charge HR™
+               o [8][blaze-2016.7dc6488d4f03cbf22a5bb66e17e92028.png]
+                 Fitbit Blaze™ new
+          + Performance
+               o [9][surge-2016.0fd2880053305928cdaf399527734bcf.png]
+                 Fitbit Surge™
+          + Wi-Fi Smart Scale
+               o [10][aria-2016.1b776e96c6d658a167ad6bc097b1fda0.png]
+                 Fitbit® Aria®
           +
-               o [3][zip.79d945473c3eaa1e39409f0748cbf6b8.png]
-                 [zip-copy.871c033ba1bac176e36439bf655ead51.png]
-               o [4][one.5d229507c7d032fe4f969db67fe6d7df.png]
-                 [one-copy.4f1f9fb62c923c9ff971c2166ea3d22f.png]
-               o [5][flex.d4152ceb65760a5b91ab9085e13a5ef9.png]
-                 [flex-copy.9eebead384b3f3b77f92c1e3394dd575.png]
-               o [6][charge.91292be5cd6523030d7568659c0bfb7a.png]
-                 [charge-copy.5bd10b9b8d8d03444412bb1c4b618d92.png]
-            Everyday fitness
-          +
-               o [7][chargehr.f7b5fc4f64c4f21e91b1f9aa693ec61f.png]
-                 [chargehr-copy.7d9de51a4983d6da196d4106f9d8684f.png]
-            Active fitness
-          +
-               o [8][surge.d087dcc00d73f4d3c15d149203ec4a9a.png]
-                 [surge-copy.7eaefb030c4e05b6c1d4f7013a1a1282.png]
-            Performance fitness
-          +
-               o [9][aria.35981af077e8b5de25ddb228b9ef723a.png]
-                 [aria-copy.db9e0e37b3aeb07341ea4156ade81331.png]
-            Wi-Fi Smart Scale
-          +
-               o [10][toryburch.d49f3da3771ee8e27f160807c917e921.png]
-                 [toryburch-copy.863389b0ad4c3f04cfc78c8602112480.png]
-               o [11][bands.8aa02775f1eb922d703920dfb3ebb1b9.png]
-                 accessories
-                 [bands-copy.096f4e27ddde867fef07836597d592d5.png]
-            Product extras
-          + [12]Compare all products
+               o [11]FITBIT ACCESSORIES
+                 [accessories-2016.5530b0bf35749197f1829a62161aa794.png]
+               o [12]TORY BURCH FOR FITBIT
+                 [tory-2016.64fdc3b2e0c8462e6bf0c054e7b859a5.png]
+            Not sure which product is right for you?[13] FIND YOUR FIT
      * Experiences
-          + [13]Mobile App + Dashboard
-          + [14]Premium Membership
-          + [15]FitStar
-          + [16]Compatible Apps
-          + [17]PurePulse
-          + [18]Why Fitbit
+          + [14]Mobile App + Dashboard
+          + [15]Premium Membership
+          + [16]FitStar
+          + [17]Compatible Apps
+          + [18]PurePulse
+          + [19]Why Fitbit
      * Fun
-          + [19]Celebrity Challenges
-          + [20]Fit Science
-          + [21]Blog
-          + [22]Buzz
-          + [23]Fitness Quiz
-          + [24]FitForGood
-          + [25]Fitbit Local
+          + [20]Celebrity Challenges
+          + [21]Fit Science
+          + [22]Blog
+          + [23]Buzz
+          + [24]Fitness Quiz
      * Help
-          + [26]Product Help
-          + [27]Wear and Care
+          + [25]Product Help
+          + [26]Wear and Care
 
+     *
+          + Your cart is currently empty. [27]Let's shop
      * [28]Store
      * [29]Log in
      * [30]Setup
@@ -555,26 +551,26 @@ References
    5. https://www.fitbit.com/flex
    6. https://www.fitbit.com/charge
    7. https://www.fitbit.com/chargehr
-   8. https://www.fitbit.com/surge
-   9. https://www.fitbit.com/aria
-  10. https://www.fitbit.com/toryburch
-  11. https://www.fitbit.com/store#accessories
-  12. https://dev.fitbit.com/compare
-  13. https://www.fitbit.com/app
-  14. https://www.fitbit.com/premium/about
-  15. https://www.fitbit.com/fitstar
-  16. https://www.fitbit.com/partnership
-  17. https://www.fitbit.com/purepulse
-  18. https://www.fitbit.com/whyfitbit
-  19. https://www.fitbit.com/celebrity-challenges
-  20. https://www.fitbit.com/fitscience
-  21. http://blog.fitbit.com/
-  22. https://www.fitbit.com/buzz
-  23. https://www.fitbit.com/findanewfit
-  24. https://fitforgood.fitbit.com/
-  25. https://www.fitbit.com/local-events
-  26. http://help.fitbit.com/
-  27. https://www.fitbit.com/productcare
+   8. https://www.fitbit.com/blaze
+   9. https://www.fitbit.com/surge
+  10. https://www.fitbit.com/aria
+  11. https://www.fitbit.com/lookbook/blaze
+  12. https://www.fitbit.com/toryburch
+  13. https://www.fitbit.com/compare
+  14. https://www.fitbit.com/app
+  15. https://www.fitbit.com/premium/about
+  16. https://www.fitbit.com/fitstar
+  17. https://www.fitbit.com/partnership
+  18. https://www.fitbit.com/purepulse
+  19. https://www.fitbit.com/whyfitbit
+  20. https://www.fitbit.com/celebrity-challenges
+  21. https://www.fitbit.com/fitscience
+  22. http://blog.fitbit.com/
+  23. https://www.fitbit.com/buzz
+  24. https://www.fitbit.com/findanewfit
+  25. http://help.fitbit.com/
+  26. https://www.fitbit.com/productcare
+  27. https://dev.fitbit.com/store
   28. https://www.fitbit.com/store
   29. https://dev.fitbit.com/login
   30. https://www.fitbit.com/setup
@@ -599,9 +595,11 @@ References
   49. https://dev.fitbit.com/forcesupport/info
 
    Hidden links:
-  50. https://www.facebook.com/fitbit
-  51. https://www.twitter.com/fitbit
-  52. https://instagram.com/fitbit
-  53. https://www.pinterest.com/fitbit/
-  54. https://www.youtube.com/user/FitbitOfficialSite
-  55. https://plus.google.com/+fitbit
+  50. https://www.fitbit.com/order
+  51. https://www.fitbit.com/order
+  52. https://www.facebook.com/fitbit
+  53. https://www.twitter.com/fitbit
+  54. https://instagram.com/fitbit
+  55. https://www.pinterest.com/fitbit/
+  56. https://www.youtube.com/user/FitbitOfficialSite
+  57. https://plus.google.com/+fitbit
