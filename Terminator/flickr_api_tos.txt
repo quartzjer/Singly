@@ -448,7 +448,7 @@ References
   76. https://info.yahoo.com/privacy/us/yahoo/flickr/details.html
   77. https://www.flickr.com/help/terms
   78. https://safely.yahoo.com/
-  79. https://help.yahoo.com/kb/flickr
+  79. https://help.yahoo.com/kb/index?page=product&y=PROD_FLICKR_DESK&locale=en_US&actp=productlink
   80. https://info.yahoo.com/
   81. http://flickr.tumblr.com/
   82. https://www.facebook.com/flickr
