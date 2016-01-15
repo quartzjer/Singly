@@ -535,11 +535,10 @@ Fitbit Marks
 
    United States ([44]change)
      * ©2016 Fitbit Inc. All rights reserved.
+     *
      * [45]Privacy Policy
-     * [46]Terms of Service
-     * [47]Returns & Warranty
-     * [48]Wear and Care
-     * [49]Recall & Safety Info
+     * [46]Wear and Care
+     * [47]Recall & Safety Info
 
 References
 
@@ -579,27 +578,26 @@ References
   33. mailto:api@fitbit.com
   34. https://community.fitbit.com/t5/Web-API/bd-p/dev
   35. https://blog.fitbit.com/
-  36. http://www.fitbit.com/about
+  36. https://www.fitbit.com/about
   37. https://investor.fitbit.com/
   38. https://dev.fitbit.com/jobs
-  39. http://www.fitbit.com/retailers
+  39. https://www.fitbit.com/retailers
   40. https://dev.fitbit.com/affiliates
-  41. http://www.fitbit.com/fitbit-wellness
+  41. https://www.fitbit.com/fitbit-wellness
   42. https://dev.fitbit.com/
   43. http://help.fitbit.com/
   44. https://dev.fitbit.com/countries
-  45. http://www.fitbit.com/privacy
-  46. http://www.fitbit.com/terms
-  47. http://www.fitbit.com/returns
-  48. http://www.fitbit.com/productcare
-  49. https://dev.fitbit.com/forcesupport/info
+  45. https://www.fitbit.com/legal/privacy
+  46. https://www.fitbit.com/productcare
+  47. https://www.fitbit.com/forcesupport/info
 
    Hidden links:
-  50. https://www.fitbit.com/order
-  51. https://www.fitbit.com/order
-  52. https://www.facebook.com/fitbit
-  53. https://www.twitter.com/fitbit
-  54. https://instagram.com/fitbit
-  55. https://www.pinterest.com/fitbit/
-  56. https://www.youtube.com/user/FitbitOfficialSite
-  57. https://plus.google.com/+fitbit
+  48. https://www.fitbit.com/order
+  49. https://www.fitbit.com/order
+  50. https://www.facebook.com/fitbit
+  51. https://www.twitter.com/fitbit
+  52. https://instagram.com/fitbit
+  53. https://www.pinterest.com/fitbit/
+  54. https://www.youtube.com/user/FitbitOfficialSite
+  55. https://plus.google.com/+fitbit
+  56. https://dev.fitbit.com/legal
