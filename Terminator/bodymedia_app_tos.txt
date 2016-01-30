@@ -1,105 +1,288 @@
-   #[1]publisher
 
-     * [2]Learn about UP
-     * [3]Fitness Trackers
-     * [4]Corporate Sales
-     * [5]Support
-     * [6]Store
+     * [1]Learn about UP
+     * [2]Fitness Trackers
+     * [3]Corporate Sales
+     * [4]Support
+     * [5]Store
 
-     * [7]Sign In
+     * [6]Sign In
+     * [7]0
+          + …and 0 more product …and 0 more products
+          + Check out
+
+   [8]View cart (Submit)
+
+     * [9]Blue Burst & Black Burst UP MOVE
+     * [10]Turquoise Circle Lightweight Thin Strap & Black Diamond Classic
+       Flat Strap UP2
+     * [11]Ruby Cross UP3
+     * [12]Silver Cross UP4
+     * [13]Compare trackers compare
+
+Welcome back!
+
+   Unlock features and updates for your Jawbone device by signing in now.
+
+   Email Address ____________________
+
+   Password ____________________
+
+   [14]Forgot password
+   (Submit) Sign In
+   Don't have an account yet?  [15]Sign up
 
    (Submit) Menu
 
-     * [8]Home
-     * [9]Learn about UP
-     * [10]Fitness Trackers
-     * [11]Corporate Sales
-     * [12]Support
-     * [13]Store
-     * [14]Sign Out
+     * [16]Home
+     * [17]Learn about UP
+     * [18]Fitness Trackers
+          + [19]UP MOVE
+          + [20]UP2
+          + [21]UP3
+          + [22]UP4
+          + [23]Compare Trackers
+     * [24]Corporate Sales
+     * [25]Store
+     * [26]Support
+     * [27]Sign In
 
-   404
+   Runners
 
-Sad face! The page you are looking for cannot be found.
+Great relationships aren't about winning or losing.Until now.
 
-   Please use the navigation links above to find your way.
+Spice up your relationship with a little competition.
+
+   [28]How to Duel
+
+It takes two to tango. So share the love.
+
+   It's always the perfect time to share health with the one you love.
+   Treat your favorite person to a gift that gives back.
+   [29]Shop UP3™
+     * [30]
+
+Lose weight
+       Want to slim down? Counting calories isn't enough. Sleep, activity
+       and balanced nutrition all play their part.
+     * [31]
+
+Love your heart
+       Your heart beats about 3 billion times in a lifetime—show it some
+       love. UP gives you an incredibly clear picture by showing how
+       lifestyle affects heart health. Learn more
+     * [32]
+
+Sleep better
+       A good night's sleep tonight, means a better tomorrow. The UP3™
+       band tracks your sleep automatically, and gives tips to help you
+       get a better night's rest, one night at a time.
+     * [33]
+
+Be social
+       Staying healthy is a team sport. With Duels, you can start a step
+       challenge with a friend. The extra motivation is a big help, and
+       it's a good-for-you way to stay connected. Learn more
+
+For those who love winning.
+
+   Did you know that Duelers average 50% more steps than those who don't?
+   Whether you compete for bragging rights or for pizza, people who Duel
+   are winners. And everyone loves winning.
+
+New to UP^®? Need help? Start here.
+
+   [34]Visit Jawbone Support
    Jawbone
-     * [15]Facebook
-     * [16]Twitter
-     * [17]Google+
-     * [18]Pinterest
-     * [19]YouTube
-     * [20]Instagram
-     * [21]Tumblr
+   [35]Change country
 
    Company
 
-          + [22]About Us
-          + [23]News & Press
-          + [24]Careers
-          + [25]Contact Us
-          + [26]Website Privacy
-          + [27]Blog
+          + [36]About us
+          + [37]News & Press
+          + [38]Careers
+          + [39]Blog
+          + [40]Food & Calories Search
 
    Shop
 
-          + [28]Store
-          + [29]Retail Partners
-          + [30]Corporate Sales
-          + [31]Corporate Wellness
+          + [41]Store
+          + [42]Retail partners
+          + [43]Corporate Sales
+          + [44]Corporate Wellness
 
    Support
 
-          + [32]Support
-          + [33]Contact Us
+          + [45]Support
+          + [46]Contact Us
+
+   For Developers
+
+          + [47]Developer Portal
+          + [48]Data Endpoints
+          + [49]Tools
+          + [50]FAQ
+          + [51]API Status
 
 Get the latest news
 
    Enter email address ____________________ (Submit) Submit
 
-   © 2015 Jawbone. All rights reserved. See our [34]terms of use and
-   [35]privacy policy.
+Change country
+
+   [52]Skip to main content
+     * [53]Argentina
+     * [54]Australia
+     * [55]Brasil
+     * [56]Canada (Français)
+     * [57]Canada
+     * [58]Chile
+     * [59]Denmark
+     * [60]Deutschland
+     * [61]España
+     * [62]Finland
+     * [63]France
+     * [64]Hong Kong
+     * [65]India
+     * [66]Ireland
+     * [67]Italia
+     * [68]Malaysia
+     * [69]México
+     * [70]Nederland
+     * [71]New Zealand
+     * [72]Norway
+     * [73]Saudi Arabia
+     * [74]Singapore
+     * [75]South Africa
+     * [76]Sweden
+     * [77]Thailand
+     * [78]UAE
+     * [79]United Kingdom
+     * [80]United States
+     * [81]Resto de América Latina
+     * [82]Rest of Asia
+     * [83]Rest of Europe
+     * [84]Rest of Africa/Middle East
+     * [85]中国
+     * [86]香港
+     * [87]日本
+     * [88]대한민국
+     * [89]Россия
+     * [90]台灣
+
+   © 2016 Jawbone. All rights reserved. See our [91]terms of use and
+   [92]privacy policy.
+     * [93]Instagram
+     * [94]Pinterest
+     * [95]Twitter
+     * [96]Google+
+     * [97]YouTube
+     * [98]Tumblr
+     * [99]Facebook
 
 References
 
    Visible links
-   1. https://plus.google.com/110731117920682770912
-   2. http://developer.bodymedia.com/up
-   3. http://developer.bodymedia.com/up
-   4. http://developer.bodymedia.com/corporatesales
-   5. http://developer.bodymedia.com/support
-   6. http://developer.bodymedia.com/store
-   7. http://developer.bodymedia.com/signin
-   8. http://developer.bodymedia.com/
-   9. http://developer.bodymedia.com/up
-  10. http://developer.bodymedia.com/up
-  11. http://developer.bodymedia.com/corporatesales
-  12. http://support.jawbone.com/
-  13. http://developer.bodymedia.com/store
-  14. http://developer.bodymedia.com/user/signin/logout_redirect
-  15. https://www.facebook.com/jawbone
-  16. https://twitter.com/Jawbone
-  17. https://plus.google.com/+jawbone
-  18. http://www.pinterest.com/Jawbone/
-  19. https://www.youtube.com/user/jawbone
-  20. http://instagram.com/jawbone
-  21. http://jawbone.tumblr.com/
-  22. http://developer.bodymedia.com/about
-  23. http://developer.bodymedia.com/pressrelease
-  24. http://developer.bodymedia.com/careers
-  25. http://developer.bodymedia.com/contact
-  26. http://developer.bodymedia.com/legal/privacy
-  27. http://jawbone.com/blog
-  28. http://developer.bodymedia.com/store
-  29. http://developer.bodymedia.com/retail-partners
-  30. http://developer.bodymedia.com/corporatesales
-  31. http://developer.bodymedia.com/up/groups
-  32. http://developer.bodymedia.com/support
-  33. https://help.jawbone.com/contact
-  34. http://developer.bodymedia.com/legal/terms
-  35. http://developer.bodymedia.com/privacy
+   1. https://jawbone.com/up
+   2. https://jawbone.com/up
+   3. https://jawbone.com/corporatesales
+   4. https://jawbone.com/support
+   5. https://jawbone.com/store
+   6. https://jawbone.com/signin
+   7. https://jawbone.com/store
+   8. https://jawbone.com/store/cart/checkout
+   9. https://jawbone.com/store/buy/upmove
+  10. https://jawbone.com/store/buy/up2
+  11. https://jawbone.com/store/buy/up3
+  12. https://jawbone.com/store/buy/up4
+  13. https://jawbone.com/up/trackers
+  14. https://jawbone.com/start/reset
+  15. https://jawbone.com/start/signup
+  16. https://jawbone.com/
+  17. https://jawbone.com/up
+  18. https://jawbone.com/up
+  19. https://jawbone.com/store/buy/upmove
+  20. https://jawbone.com/store/buy/up2
+  21. https://jawbone.com/store/buy/up3
+  22. https://jawbone.com/store/buy/up4
+  23. https://jawbone.com/up/trackers
+  24. https://jawbone.com/corporatesales
+  25. https://jawbone.com/store
+  26. https://jawbone.com/support
+  27. https://jawbone.com/signin
+  28. https://jawbone.com/up/duels
+  29. https://jawbone.com/store/buy/up3
+  30. https://jawbone.com/fitness-tracker/up3#activity-tracking
+  31. https://jawbone.com/up/hearthealth
+  32. https://jawbone.com/fitness-tracker/up3#advanced-sleep
+  33. https://jawbone.com/up/duels
+  34. https://jawbone.com/support
+  35. https://jawbone.com/user/locale
+  36. https://jawbone.com/about
+  37. https://jawbone.com/press
+  38. https://jawbone.com/careers
+  39. https://jawbone.com/blog
+  40. https://jawbone.com/up/food
+  41. https://jawbone.com/store
+  42. https://jawbone.com/retail-partners
+  43. https://jawbone.com/corporatesales
+  44. https://jawbone.com/up/groups
+  45. https://jawbone.com/support
+  46. https://help.jawbone.com/contact
+  47. https://jawbone.com/up/developer
+  48. https://jawbone.com/up/developer/endpoints
+  49. https://jawbone.com/up/developer/tools
+  50. https://jawbone.com/up/developer/faq
+  51. http://status.jawbone.com/
+  52. https://jawbone.com?rf=bodymedia#content
+  53. https://jawbone.com/user/locale
+  54. https://jawbone.com/user/locale
+  55. https://jawbone.com/user/locale
+  56. https://jawbone.com/user/locale
+  57. https://jawbone.com/user/locale
+  58. https://jawbone.com/user/locale
+  59. https://jawbone.com/user/locale
+  60. https://jawbone.com/user/locale
+  61. https://jawbone.com/user/locale
+  62. https://jawbone.com/user/locale
+  63. https://jawbone.com/user/locale
+  64. https://jawbone.com/user/locale
+  65. https://jawbone.com/user/locale
+  66. https://jawbone.com/user/locale
+  67. https://jawbone.com/user/locale
+  68. https://jawbone.com/user/locale
+  69. https://jawbone.com/user/locale
+  70. https://jawbone.com/user/locale
+  71. https://jawbone.com/user/locale
+  72. https://jawbone.com/user/locale
+  73. https://jawbone.com/user/locale
+  74. https://jawbone.com/user/locale
+  75. https://jawbone.com/user/locale
+  76. https://jawbone.com/user/locale
+  77. https://jawbone.com/user/locale
+  78. https://jawbone.com/user/locale
+  79. https://jawbone.com/user/locale
+  80. https://jawbone.com/user/locale
+  81. https://jawbone.com/user/locale
+  82. https://jawbone.com/user/locale
+  83. https://jawbone.com/user/locale
+  84. https://jawbone.com/user/locale
+  85. https://jawbone.com/user/locale
+  86. https://jawbone.com/user/locale
+  87. https://jawbone.com/user/locale
+  88. https://jawbone.com/user/locale
+  89. https://jawbone.com/user/locale
+  90. https://jawbone.com/user/locale
+  91. https://jawbone.com/legal/terms
+  92. https://jawbone.com/privacy
+  93. http://instagram.com/jawbone
+  94. http://www.pinterest.com/Jawbone/
+  95. https://twitter.com/Jawbone
+  96. https://plus.google.com/+jawbone
+  97. https://www.youtube.com/user/jawbone
+  98. http://jawbone.tumblr.com/
+  99. https://www.facebook.com/jawbone
 
    Hidden links:
-  36. http://developer.bodymedia.com/
-  37. http://developer.bodymedia.com/
-  38. http://developer.bodymedia.com/user/locale
+ 100. https://jawbone.com/
+ 101. https://jawbone.com/store/cart/checkout
+ 102. https://jawbone.com/
