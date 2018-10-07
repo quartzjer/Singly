@@ -2,6 +2,8 @@
    [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
    [11]alternate [12]alternate [13]alternate
 
+   PxPixel
+
    [14]Foursquare
    ____________________
    Monticello, IA______
@@ -21,7 +23,7 @@
      * [22]Fun
      * [23]Shopping
 
-   Updated: 04/11/14
+   Last updated: 06/06/17
 
 FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
 
@@ -47,7 +49,15 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    automatically update those Foursquare Materials, and this Agreement
    will apply to such updates.
 
-   2. GRANT OF LICENSE - Subject to Licensee’s full compliance with all of
+   2. LICENSE REQUIREMENTS (NON-ENTERPRISE LICENSE) - Foursquare offers
+   you access to the Foursquare Materials for free provided that your
+   application: (a) is non-exclusive, (b) is publicly available, (c) does
+   not require a fee or subscription, (d) does not exceed the daily call
+   limits, and (e) is not otherwise commercial in nature. If your
+   application does not meet all of these requirements, you will need to
+   obtain an enterprise license.
+
+   3. GRANT OF LICENSE - Subject to Licensee’s full compliance with all of
    the terms and conditions of this Agreement and the [25]Platform Policy,
    Foursquare grants Licensee a non-exclusive, revocable,
    nonsublicensable, nontransferable license to download and use the
@@ -76,7 +86,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    includes the following notice: YOUR USE OF THIS APPLICATION IS AT YOUR
    SOLE RISK. LOCATION DATA MAY NOT BE ACCURATE.
 
-   3. PROPRIETARY RIGHTS - As between Foursquare and Licensee, the
+   4. PROPRIETARY RIGHTS - As between Foursquare and Licensee, the
    Foursquare Materials, including any and all Content made available,
    collected and/or derived through the API (including, without
    limitation, user data received from the API or submitted to the API),
@@ -85,7 +95,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    Foursquare and are protected by applicable intellectual property laws
    and treaties.
 
-   4. OTHER RESTRICTIONS - Except as expressly and unambiguously
+   5. OTHER RESTRICTIONS - Except as expressly and unambiguously
    authorized under this Agreement, Licensee may not (i) copy, rent,
    lease, sell, transfer, assign, sublicense, disassemble, reverse
    engineer or decompile (except to the limited extent expressly
@@ -101,7 +111,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    limit the number and/or frequency of API requests in its sole
    discretion.
 
-   5. MODIFICATIONS TO THIS AGREEMENT. Foursquare reserves the right, in
+   6. MODIFICATIONS TO THIS AGREEMENT. Foursquare reserves the right, in
    its sole discretion to modify this Agreement and/or the Foursquare
    Platform Policy at any time by posting a notice to
    developer.foursquare.com. You shall be responsible for reviewing and
@@ -111,7 +121,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    Licensee's acceptance of the terms and conditions of this Agreement as
    modified.
 
-   6. WARRANTY DISCLAIMER - THE FOURSQUARE MATERIALS ARE PROVIDED "AS IS"
+   7. WARRANTY DISCLAIMER - THE FOURSQUARE MATERIALS ARE PROVIDED "AS IS"
    WITHOUT WARRANTY OF ANY KIND. EXCEPT TO THE EXTENT REQUIRED BY
    APPLICABLE LAW, FOURSQUARE AND ITS VENDORS EACH DISCLAIM ALL
    WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, REGARDING THE
@@ -122,14 +132,14 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    FOURSQUARE DISCLAIMS ANY WARRANTY THAT LICENSEE'S USE OF THE FOURSQUARE
    MATERIALS WILL BE UNINTERRUPTED OR ERROR FREE.
 
-   7. SUPPORT AND UPGRADES - This Agreement does not entitle Licensee to
+   8. SUPPORT AND UPGRADES - This Agreement does not entitle Licensee to
    any support for the Foursquare Materials, unless Licensee makes
    separate arrangements with Foursquare and pays all fees associated with
    such support. Any such support provided by Foursquare shall be subject
    to the terms of this Agreement as modified by the associated support
    agreement.
 
-   8. LIABILITY LIMITATION - REGARDLESS OF WHETHER ANY REMEDY SET FORTH
+   9. LIABILITY LIMITATION - REGARDLESS OF WHETHER ANY REMEDY SET FORTH
    HEREIN FAILS OF ITS ESSENTIAL PURPOSE OR OTHERWISE, AND EXCEPT FOR
    BODILY INJURY, IN NO EVENT WILL FOURSQUARE OR ITS VENDORS, BE LIABLE TO
    LICENSEE OR TO ANY THIRD PARTY UNDER ANY TORT, CONTRACT, NEGLIGENCE,
@@ -145,14 +155,14 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    THE OCCURRENCE OF THE EVENT GIVING RISE TO SUCH CLAIM. IN ADDITION,
    FOURSQUARE DISCLAIMS ALL LIABILITY OF ANY KIND OF FOURSQUARE'S VENDORS.
 
-   9. INDEMNITY - Licensee agrees that Foursquare shall have no liability
+   10. INDEMNITY - Licensee agrees that Foursquare shall have no liability
    whatsoever for any use Licensee makes of the Foursquare Materials.
    Licensee shall indemnify and hold harmless Foursquare from any and all
    claims, damages, liabilities, costs and fees (including reasonable
    attorneys' fees) arising from Licensee's use of the Foursquare
    Materials.
 
-   10. TERM AND TERMINATION - This Agreement shall continue until
+   11. TERM AND TERMINATION - This Agreement shall continue until
    terminated as set forth in this Section. Either party may terminate
    this Agreement at any time, for any reason, or for no reason including,
    but not limited to, if Licensee violates any provision of this
@@ -166,7 +176,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    the foregoing. Sections 8 through 13 and all accrued rights to payment
    shall survive termination of this Agreement.
 
-   11. GOVERNMENT USE - If Licensee is part of an agency, department, or
+   12. GOVERNMENT USE - If Licensee is part of an agency, department, or
    other entity of the United States Government ("Government"), the use,
    duplication, reproduction, release, modification, disclosure or
    transfer of the Foursquare Materials are restricted in accordance with
@@ -178,7 +188,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    Foursquare Materials by the Government shall be governed solely by the
    terms of this Agreement.
 
-   12. EXPORT CONTROLS - Licensee shall comply with all export laws and
+   13. EXPORT CONTROLS - Licensee shall comply with all export laws and
    restrictions and regulations of the Department of Commerce, the United
    States Department of Treasury Office of Foreign Assets Control
    ("OFAC"), or other United States or foreign agency or authority, and
@@ -189,7 +199,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
    not located in, under the control of, or a national or resident of any
    restricted country.
 
-   13. MISCELLANEOUS - Unless the parties have entered into a written
+   14. MISCELLANEOUS - Unless the parties have entered into a written
    amendment to this agreement that is signed by both parties regarding
    the Foursquare Materials, this Agreement and the Foursquare Platform
    Policy constitute the entire agreement between Licensee and Foursquare
@@ -228,7 +238,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
      * [29]Cities
      * [30]Developers
      * [31]Help
-     * [32]Jobs
+     * [32]Careers
      * [33]Cookies (Updated)
      * [34]Privacy (Updated)
      * [35]Terms
@@ -246,7 +256,7 @@ FOURSQUARE LABS, INC. API AND DATA LICENSE AGREEMENT
           + [46]ภาษาไทย
           + [47]Türkçe
 
-   Foursquare © 2016 Lovingly made in NYC & SF
+   Foursquare © 2018 Lovingly made in NYC, SF & Chicago
 
 You must enable JavaScript to use foursquare.com
 
@@ -296,7 +306,7 @@ You must enable JavaScript to use foursquare.com
      * [83]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Flicenseagreement&amp;ref=
-   &amp;ts=1454652128&amp;u=-1&amp;sig=KJvuqYObZgWtXlZLEwQIn6M1KLE%3D]
+   &amp;ts=1538888525&amp;u=-1&amp;sig=AsIdgkOqlVqRr5p1JaqdZcyGUg8%3D]
 
 References
 

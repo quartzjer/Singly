@@ -8,37 +8,53 @@ Sorry, that page doesn’t exist!
    the homepage.
    ____________________ Search
      * [5]العربية
-     * [6]Dansk
-     * [7]Deutsch
-     * [8]English
-     * [9]English UK
-     * [10]Español
-     * [11]فارسی
-     * [12]Suomi
-     * [13]Filipino
-     * [14]Français
-     * [15]עִבְרִית
-     * [16]हिन्दी
-     * [17]Magyar
-     * [18]Bahasa Indonesia
-     * [19]Italiano
-     * [20]日本語
-     * [21]한국어
-     * [22]Bahasa Melayu
-     * [23]Nederlands
-     * [24]Norsk
-     * [25]Polski
-     * [26]Português
-     * [27]Русский
-     * [28]Svenska
-     * [29]ภาษาไทย
-     * [30]Türkçe
-     * [31]简体中文
+     * [6]Български език
+     * [7]বাংলা
+     * [8]Català
+     * [9]Čeština
+     * [10]Dansk
+     * [11]Deutsch
+     * [12]Ελληνικά
+     * [13]English
+     * [14]English UK
+     * [15]Español
+     * [16]فارسی
+     * [17]Suomi
+     * [18]Filipino
+     * [19]Français
+     * [20]ગુજરાતી
+     * [21]עִבְרִית
+     * [22]हिन्दी
+     * [23]Hrvatski
+     * [24]Magyar
+     * [25]Bahasa Indonesia
+     * [26]Italiano
+     * [27]日本語
+     * [28]ಕನ್ನಡ
+     * [29]한국어
+     * [30]मराठी
+     * [31]Bahasa Melayu
+     * [32]Nederlands
+     * [33]Norsk
+     * [34]Polski
+     * [35]Português
+     * [36]Română
+     * [37]Русский
+     * [38]Slovenčina
+     * [39]Српски
+     * [40]Svenska
+     * [41]தமிழ்
+     * [42]ภาษาไทย
+     * [43]Türkçe
+     * [44]Українська мова
+     * [45]Tiếng Việt
+     * [46]简体中文
+     * [47]繁體中文
 
      * © Twitter
-     * [32]About
-     * [33]Help
-     * [34]Status
+     * [48]About
+     * [49]Help Center
+     * [50]Status
 
 References
 
@@ -46,33 +62,49 @@ References
    2. https://twitter.com/
    3. https://twitter.com/search-home
    4. https://twitter.com/
-   5. https://dev.twitter.com/pages/display_guidelines
-   6. https://dev.twitter.com/pages/display_guidelines
-   7. https://dev.twitter.com/pages/display_guidelines
-   8. https://dev.twitter.com/pages/display_guidelines
-   9. https://dev.twitter.com/pages/display_guidelines
-  10. https://dev.twitter.com/pages/display_guidelines
-  11. https://dev.twitter.com/pages/display_guidelines
-  12. https://dev.twitter.com/pages/display_guidelines
-  13. https://dev.twitter.com/pages/display_guidelines
-  14. https://dev.twitter.com/pages/display_guidelines
-  15. https://dev.twitter.com/pages/display_guidelines
-  16. https://dev.twitter.com/pages/display_guidelines
-  17. https://dev.twitter.com/pages/display_guidelines
-  18. https://dev.twitter.com/pages/display_guidelines
-  19. https://dev.twitter.com/pages/display_guidelines
-  20. https://dev.twitter.com/pages/display_guidelines
-  21. https://dev.twitter.com/pages/display_guidelines
-  22. https://dev.twitter.com/pages/display_guidelines
-  23. https://dev.twitter.com/pages/display_guidelines
-  24. https://dev.twitter.com/pages/display_guidelines
-  25. https://dev.twitter.com/pages/display_guidelines
-  26. https://dev.twitter.com/pages/display_guidelines
-  27. https://dev.twitter.com/pages/display_guidelines
-  28. https://dev.twitter.com/pages/display_guidelines
-  29. https://dev.twitter.com/pages/display_guidelines
-  30. https://dev.twitter.com/pages/display_guidelines
-  31. https://dev.twitter.com/pages/display_guidelines
-  32. https://about.twitter.com/
-  33. https://support.twitter.com/
-  34. http://status.twitter.com/
+   5. https://developer.twitter.com/pages/display_guidelines
+   6. https://developer.twitter.com/pages/display_guidelines
+   7. https://developer.twitter.com/pages/display_guidelines
+   8. https://developer.twitter.com/pages/display_guidelines
+   9. https://developer.twitter.com/pages/display_guidelines
+  10. https://developer.twitter.com/pages/display_guidelines
+  11. https://developer.twitter.com/pages/display_guidelines
+  12. https://developer.twitter.com/pages/display_guidelines
+  13. https://developer.twitter.com/pages/display_guidelines
+  14. https://developer.twitter.com/pages/display_guidelines
+  15. https://developer.twitter.com/pages/display_guidelines
+  16. https://developer.twitter.com/pages/display_guidelines
+  17. https://developer.twitter.com/pages/display_guidelines
+  18. https://developer.twitter.com/pages/display_guidelines
+  19. https://developer.twitter.com/pages/display_guidelines
+  20. https://developer.twitter.com/pages/display_guidelines
+  21. https://developer.twitter.com/pages/display_guidelines
+  22. https://developer.twitter.com/pages/display_guidelines
+  23. https://developer.twitter.com/pages/display_guidelines
+  24. https://developer.twitter.com/pages/display_guidelines
+  25. https://developer.twitter.com/pages/display_guidelines
+  26. https://developer.twitter.com/pages/display_guidelines
+  27. https://developer.twitter.com/pages/display_guidelines
+  28. https://developer.twitter.com/pages/display_guidelines
+  29. https://developer.twitter.com/pages/display_guidelines
+  30. https://developer.twitter.com/pages/display_guidelines
+  31. https://developer.twitter.com/pages/display_guidelines
+  32. https://developer.twitter.com/pages/display_guidelines
+  33. https://developer.twitter.com/pages/display_guidelines
+  34. https://developer.twitter.com/pages/display_guidelines
+  35. https://developer.twitter.com/pages/display_guidelines
+  36. https://developer.twitter.com/pages/display_guidelines
+  37. https://developer.twitter.com/pages/display_guidelines
+  38. https://developer.twitter.com/pages/display_guidelines
+  39. https://developer.twitter.com/pages/display_guidelines
+  40. https://developer.twitter.com/pages/display_guidelines
+  41. https://developer.twitter.com/pages/display_guidelines
+  42. https://developer.twitter.com/pages/display_guidelines
+  43. https://developer.twitter.com/pages/display_guidelines
+  44. https://developer.twitter.com/pages/display_guidelines
+  45. https://developer.twitter.com/pages/display_guidelines
+  46. https://developer.twitter.com/pages/display_guidelines
+  47. https://developer.twitter.com/pages/display_guidelines
+  48. https://about.twitter.com/
+  49. https://support.twitter.com/
+  50. http://status.twitter.com/

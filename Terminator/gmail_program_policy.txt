@@ -4,7 +4,7 @@ Sign in to continue to Gmail
 
    [avatar_2x.png]
    Enter your email ____________________ ____________________
-   Next [1]Need help?
+   Next [1]Find my account
 
    [2]Sign in with a different account [3]Create account
 
@@ -18,8 +18,8 @@ Sign in to continue to Gmail
 
 References
 
-   1. https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ignoreShadow=0&hl=en
-   2. https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&hl=en&service=mail&scc=1
+   1. https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&ss=1&scc=1&rm=false&osid=1&hl=en
+   2. https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&rm=false&ltmpl=default&scc=1&ss=1&osid=1&emr=1
    3. https://accounts.google.com/SignUp?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default
    4. https://www.google.com/intl/en/about
    5. https://accounts.google.com/TOS?loc=US&hl=en&privacy=true

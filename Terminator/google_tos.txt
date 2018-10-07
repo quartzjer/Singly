@@ -1,28 +1,54 @@
-[1]Google
+   #[1]home
 
-[2] Privacy & Terms
+[2]Google
 
-   [3]Skip to content
+[3]Privacy & Terms
+
+Terms of Service
 
      * [4]Overview
      * [5]Privacy Policy
      * [6]Terms of Service
-     * [7]Technologies and Principles
+     * [7]Technologies
      * [8]FAQ
-     * [9]My Account
+     * [9]Google Account
+
+[10]Google
+
+[11]Privacy & Terms
+
+Privacy & Terms
+
+     * [12]Overview
+     * [13]Privacy Policy
+     * [14]Terms of Service
+          + [15]Updates
+     * [16]Technologies
+     * [17]FAQ
+     * [18]Google Account
 
      * Terms of Service
-     * [10]Updates
+          + [19]Using our Services
+          + [20]Your Google Account
+          + [21]Privacy and Copyright Protection
+          + [22]Your Content in our Services
+          + [23]About Software in our Services
+          + [24]Modifying and Terminating our Services
+          + [25]Our Warranties and Disclaimers
+          + [26]Liability for our Services
+          + [27]Business uses of our Services
+          + [28]About these Terms
+     * [29]Updates
 
 Google Terms of Service
 
-   Last modified: April 14, 2014 ([11]view archived versions)
+   Last modified: October 25, 2017 ([30]view archived versions)
 
 Welcome to Google!
 
-   Thanks for using our products and services (â€œServicesâ€�). The
-   Services are provided by Google Inc. (â€œGoogleâ€�), located at 1600
-   Amphitheatre Parkway, Mountain View, CA 94043, United States.
+   Thanks for using our products and services (“Services”). The Services
+   are provided by Google LLC (“Google”), located at 1600 Amphitheatre
+   Parkway, Mountain View, CA 94043, United States.
 
    By using our Services, you are agreeing to these terms. Please read
    them carefully.
@@ -32,11 +58,11 @@ Welcome to Google!
    will be available with the relevant Services, and those additional
    terms become part of your agreement with us if you use those Services.
 
-Using our Services
+   Using our Services
 
    You must follow any policies made available to you within the Services.
 
-   Donâ€™t misuse our Services. For example, donâ€™t interfere with our
+   Don’t misuse our Services. For example, don’t interfere with our
    Services or try to access them using a method other than the interface
    and the instructions that we provide. You may use our Services only as
    permitted by law, including applicable export and re-export control
@@ -48,17 +74,17 @@ Using our Services
    property rights in our Services or the content you access. You may not
    use content from our Services unless you obtain permission from its
    owner or are otherwise permitted by law. These terms do not grant you
-   the right to use any branding or logos used in our Services. Donâ€™t
+   the right to use any branding or logos used in our Services. Don’t
    remove, obscure, or alter any legal notices displayed in or along with
    our Services.
 
-   Our Services display some content that is not Googleâ€™s. This content
-   is the sole responsibility of the entity that makes it available. We
-   may review content to determine whether it is illegal or violates our
+   Our Services display some content that is not Google’s. This content is
+   the sole responsibility of the entity that makes it available. We may
+   review content to determine whether it is illegal or violates our
    policies, and we may remove or refuse to display content that we
    reasonably believe violates our policies or the law. But that does not
-   necessarily mean that we review content, so please donâ€™t assume that
-   we do.
+   necessarily mean that we review content, so please don’t assume that we
+   do.
 
    In connection with your use of the Services, we may send you service
    announcements, administrative messages, and other information. You may
@@ -68,7 +94,7 @@ Using our Services
    Services in a way that distracts you and prevents you from obeying
    traffic or safety laws.
 
-Your Google Account
+   Your Google Account
 
    You may need a Google Account in order to use some of our Services. You
    may create your own Google Account, or your Google Account may be
@@ -81,11 +107,11 @@ Your Google Account
    are responsible for the activity that happens on or through your Google
    Account. Try not to reuse your Google Account password on third-party
    applications. If you learn of any unauthorized use of your password or
-   Google Account, [12]follow these instructions.
+   Google Account, [31]follow these instructions.
 
-Privacy and Copyright Protection
+   Privacy and Copyright Protection
 
-   Googleâ€™s [13]privacy policies explain how we treat your personal data
+   Google’s [32]privacy policies explain how we treat your personal data
    and protect your privacy when you use our Services. By using our
    Services, you agree that Google can use such data in accordance with
    our privacy policies.
@@ -97,10 +123,10 @@ Privacy and Copyright Protection
    We provide information to help copyright holders manage their
    intellectual property online. If you think somebody is violating your
    copyrights and want to notify us, you can find information about
-   submitting notices and Googleâ€™s policy about responding to notices
-   [14]in our Help Center.
+   submitting notices and Google’s policy about responding to notices
+   [33]in our Help Center.
 
-Your Content in our Services
+   Your Content in our Services
 
    Some of our Services allow you to upload, submit, store, send or
    receive content. You retain ownership of any intellectual property
@@ -132,7 +158,7 @@ Your Content in our Services
 
    If you have a Google Account, we may display your Profile name, Profile
    photo, and actions you take on Google or on third-party applications
-   connected to your Google Account (such as +1â€™s, reviews you write and
+   connected to your Google Account (such as +1’s, reviews you write and
    comments you post) in our Services, including displaying in ads and
    other commercial contexts. We will respect the choices you make to
    limit sharing or visibility settings in your Google Account. For
@@ -144,7 +170,7 @@ Your Content in our Services
    you submit feedback or suggestions about our Services, we may use your
    feedback or suggestions without obligation to you.
 
-About Software in our Services
+   About Software in our Services
 
    When a Service requires or includes downloadable software, this
    software may update automatically on your device once a new version or
@@ -166,45 +192,45 @@ About Software in our Services
    available to you. There may be provisions in the open source license
    that expressly override some of these terms.
 
-Modifying and Terminating our Services
+   Modifying and Terminating our Services
 
    We are constantly changing and improving our Services. We may add or
    remove functionalities or features, and we may suspend or stop a
    Service altogether.
 
-   You can stop using our Services at any time, although weâ€™ll be sorry
-   to see you go. Google may also stop providing Services to you, or add
-   or create new limits to our Services at any time.
+   You can stop using our Services at any time, although we’ll be sorry to
+   see you go. Google may also stop providing Services to you, or add or
+   create new limits to our Services at any time.
 
    We believe that you own your data and preserving your access to such
    data is important. If we discontinue a Service, where reasonably
    possible, we will give you reasonable advance notice and a chance to
    get information out of that Service.
 
-Our Warranties and Disclaimers
+   Our Warranties and Disclaimers
 
    We provide our Services using a commercially reasonable level of skill
    and care and we hope that you will enjoy using them. But there are
-   certain things that we donâ€™t promise about our Services.
+   certain things that we don’t promise about our Services.
 
    OTHER THAN AS EXPRESSLY SET OUT IN THESE TERMS OR ADDITIONAL TERMS,
    NEITHER GOOGLE NOR ITS SUPPLIERS OR DISTRIBUTORS MAKE ANY SPECIFIC
-   PROMISES ABOUT THE SERVICES. FOR EXAMPLE, WE DONâ€™T MAKE ANY
-   COMMITMENTS ABOUT THE CONTENT WITHIN THE SERVICES, THE SPECIFIC
-   FUNCTIONS OF THE SERVICES, OR THEIR RELIABILITY, AVAILABILITY, OR
-   ABILITY TO MEET YOUR NEEDS. WE PROVIDE THE SERVICES â€œAS ISâ€�.
+   PROMISES ABOUT THE SERVICES. FOR EXAMPLE, WE DON’T MAKE ANY COMMITMENTS
+   ABOUT THE CONTENT WITHIN THE SERVICES, THE SPECIFIC FUNCTIONS OF THE
+   SERVICES, OR THEIR RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR
+   NEEDS. WE PROVIDE THE SERVICES “AS IS”.
 
    SOME JURISDICTIONS PROVIDE FOR CERTAIN WARRANTIES, LIKE THE IMPLIED
    WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
    NON-INFRINGEMENT. TO THE EXTENT PERMITTED BY LAW, WE EXCLUDE ALL
    WARRANTIES.
 
-Liability for our Services
+   Liability for our Services
 
-   WHEN PERMITTED BY LAW, GOOGLE, AND GOOGLEâ€™S SUPPLIERS AND
-   DISTRIBUTORS, WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR
-   DATA, FINANCIAL LOSSES OR INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY,
-   OR PUNITIVE DAMAGES.
+   WHEN PERMITTED BY LAW, GOOGLE, AND GOOGLE’S SUPPLIERS AND DISTRIBUTORS,
+   WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR DATA, FINANCIAL
+   LOSSES OR INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+   DAMAGES.
 
    TO THE EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF GOOGLE, AND ITS
    SUPPLIERS AND DISTRIBUTORS, FOR ANY CLAIMS UNDER THESE TERMS, INCLUDING
@@ -214,22 +240,22 @@ Liability for our Services
    IN ALL CASES, GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE
    LIABLE FOR ANY LOSS OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE.
 
-Business uses of our Services
+   Business uses of our Services
 
    If you are using our Services on behalf of a business, that business
    accepts these terms. It will hold harmless and indemnify Google and its
    affiliates, officers, agents, and employees from any claim, suit or
    action arising from or related to the use of the Services or violation
    of these terms, including any liability or expense arising from claims,
-   losses, damages, suits, judgments, litigation costs and attorneysâ€™
+   losses, damages, suits, judgments, litigation costs and attorneys’
    fees.
 
-About these Terms
+   About these Terms
 
    We may modify these terms or any additional terms that apply to a
    Service to, for example, reflect changes to the law or changes to our
-   Services. You should look at the terms regularly. Weâ€™ll post notice
-   of modifications to these terms on this page. Weâ€™ll post notice of
+   Services. You should look at the terms regularly. We’ll post notice of
+   modifications to these terms on this page. We’ll post notice of
    modified additional terms in the applicable Service. Changes will not
    apply retroactively and will become effective no sooner than fourteen
    days after they are posted. However, changes addressing new functions
@@ -243,86 +269,65 @@ About these Terms
    These terms control the relationship between Google and you. They do
    not create any third party beneficiary rights.
 
-   If you do not comply with these terms, and we donâ€™t take action right
-   away, this doesnâ€™t mean that we are giving up any rights that we may
+   If you do not comply with these terms, and we don’t take action right
+   away, this doesn’t mean that we are giving up any rights that we may
    have (such as taking action in the future).
 
    If it turns out that a particular term is not enforceable, this will
    not affect any other terms.
 
-   The laws of California, U.S.A., excluding Californiaâ€™s conflict of
-   laws rules, will apply to any disputes arising out of or relating to
-   these terms or the Services. All claims arising out of or relating to
-   these terms or the Services will be litigated exclusively in the
-   federal or state courts of Santa Clara County, California, USA, and you
-   and Google consent to personal jurisdiction in those courts.
+   The laws of California, U.S.A., excluding California’s conflict of laws
+   rules, will apply to any disputes arising out of or relating to these
+   terms or the Services. All claims arising out of or relating to these
+   terms or the Services will be litigated exclusively in the federal or
+   state courts of Santa Clara County, California, USA, and you and Google
+   consent to personal jurisdiction in those courts.
 
    For information about how to contact Google, please visit our
-   [15]contact page.
-
-Our legal policies
-
-     * [16]Privacy Policy
-     * Terms of Service
-     * [17]FAQ
-
-More information
-
-     * [18]Technologies and Principles
-     * [19]Advertising
-     * [20]How Google uses cookies
-     * [21]How Google uses pattern recognition
-     * [22]Types of location data used by Google
-
-     * [23]How Google Wallet uses credit card numbers
-     * [24]How Google Voice works
-     * [25]How Google uses data when you use our partners' sites or apps
-
-Additional resources
-
-     * [26]My Account
-     * [27]Google Safety Center
-     * [28]Google Product Privacy Guide
-     * [29]Answers to privacy and security questions
-
-   Change language: [English____________________________________________]
-     * [30]Google
-     * [31]About Google
-     * [32]Privacy
-     * [33]Terms
+   [34]contact page.
+   Change language:[English__________________]
+     * [35]Google
+     * [36]About Google
+     * [37]Privacy
+     * [38]Terms
 
 References
 
-   1. http://www.google.com/
-   2. http://www.google.com/intl/en/policies/
-   3. http://www.google.com/intl/en/policies/terms/#content
-   4. http://www.google.com/intl/en/policies/
-   5. http://www.google.com/intl/en/policies/privacy/
-   6. http://www.google.com/intl/en/policies/terms/
-   7. http://www.google.com/intl/en/policies/technologies/
-   8. http://www.google.com/intl/en/policies/faq/
-   9. http://myaccount.google.com/
-  10. http://www.google.com/intl/en/policies/terms/archive/
-  11. http://www.google.com/intl/en/policies/terms/archive/
-  12. http://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
-  13. http://www.google.com/intl/en/policies/privacy/
-  14. http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
-  15. http://www.google.com/intl/en/contact/
-  16. http://www.google.com/intl/en/policies/privacy/
-  17. http://www.google.com/intl/en/policies/faq/
-  18. http://www.google.com/intl/en/policies/technologies/
-  19. http://www.google.com/intl/en/policies/technologies/ads/
-  20. http://www.google.com/intl/en/policies/technologies/cookies/
-  21. http://www.google.com/intl/en/policies/technologies/pattern-recognition/
-  22. http://www.google.com/intl/en/policies/technologies/location-data/
-  23. http://www.google.com/intl/en/policies/technologies/wallet/
-  24. http://www.google.com/intl/en/policies/technologies/voice/
-  25. http://www.google.com/intl/en/policies/privacy/partners/
-  26. https://myaccount.google.com/?hl=en
-  27. http://www.google.com/intl/en/safetycenter/families/start/
-  28. http://www.google.com/intl/en/policies/technologies/product-privacy/
-  29. https://privacy.google.com/?hl=en
-  30. http://www.google.com/
-  31. http://www.google.com/intl/en/about/
-  32. http://www.google.com/intl/en/policies/privacy/
-  33. http://www.google.com/intl/en/policies/terms/
+   1. https://policies.google.com/?lfhs=2
+   2. https://www.google.com/?hl=en
+   3. https://policies.google.com/?gl=US&hl=en
+   4. https://policies.google.com/?gl=US&hl=en
+   5. https://policies.google.com/privacy?gl=US&hl=en
+   6. https://policies.google.com/terms?gl=US&hl=en
+   7. https://policies.google.com/technologies?gl=US&hl=en
+   8. https://policies.google.com/faq?gl=US&hl=en
+   9. https://myaccount.google.com/?hl=en
+  10. https://www.google.com/?hl=en
+  11. https://policies.google.com/?gl=US&hl=en
+  12. https://policies.google.com/?gl=US&hl=en
+  13. https://policies.google.com/privacy?gl=US&hl=en
+  14. https://policies.google.com/terms?gl=US&hl=en
+  15. https://policies.google.com/terms/archive?gl=US&hl=en
+  16. https://policies.google.com/technologies?gl=US&hl=en
+  17. https://policies.google.com/faq?gl=US&hl=en
+  18. https://myaccount.google.com/?hl=en
+  19. https://policies.google.com/terms?gl=US&hl=en#toc-services
+  20. https://policies.google.com/terms?gl=US&hl=en#toc-account
+  21. https://policies.google.com/terms?gl=US&hl=en#toc-protection
+  22. https://policies.google.com/terms?gl=US&hl=en#toc-content
+  23. https://policies.google.com/terms?gl=US&hl=en#toc-software
+  24. https://policies.google.com/terms?gl=US&hl=en#toc-modification
+  25. https://policies.google.com/terms?gl=US&hl=en#toc-warranties-disclaimers
+  26. https://policies.google.com/terms?gl=US&hl=en#toc-liability
+  27. https://policies.google.com/terms?gl=US&hl=en#toc-business-uses
+  28. https://policies.google.com/terms?gl=US&hl=en#toc-about
+  29. https://policies.google.com/terms/archive?gl=US&hl=en
+  30. https://policies.google.com/terms/archive?gl=US&hl=en
+  31. https://support.google.com/accounts/bin/answer.py?hl=en&answer=58585
+  32. https://policies.google.com/privacy?gl=US&hl=en
+  33. https://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs
+  34. https://www.google.com/contact/
+  35. https://www.google.com/
+  36. https://www.google.com/about/
+  37. https://policies.google.com/privacy?gl=US&hl=en
+  38. https://policies.google.com/terms?gl=US&hl=en

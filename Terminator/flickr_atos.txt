@@ -1,118 +1,111 @@
    #[1]Flickr
 
+   pro
+
      * [2]Explore
           + [3]Recent Photos
-          + [4]Flickr VR
-          + [5]The Commons
-          + [6]20under20
+          + [4]Trending
+          + [5]Flickr VR
+          + [6]The Commons
           + [7]Galleries
           + [8]World Map
-          + [9]App Garden
-          + [10]Camera Finder
-          + [11]The Weekly Flickr
-          + [12]Flickr Blog
-     * [13]Create
+          + [9]Camera Finder
+          + [10]The Weekly Flickr
+          + [11]Flickr Blog
+     * [12]Create
+     * [13]Get Pro
 
      * Submit
        ____________________
      * [14]Upload
-     * [15]Sign In
+     * [15]Log In
      * [16]Sign Up
 
    [17]Explore
    [18]Recent Photos
-   [19]The Commons
-   [20]20under20
+   [19]Trending
+   [20]The Commons
    [21]Galleries
    [22]The Weekly Flickr
    [23]Flickr Blog
+   [24]Get Pro
 
 Grass could be greener on this side
 
    You seem to be using an unsupported browser. To get the most out of
-   Flickr please upgrade to the latest version of [24]Chrome, [25]Safari,
-   [26]Firefox, or [27]Internet Explorer.
-   [28]No thanks, take me to the site anyway
-     * [29]About
-     * [30]Jobs
-     * [31]Blog
-     * [32]Mobile
+   Flickr please upgrade to the latest version of [25]Chrome, [26]Safari,
+   [27]Firefox, or [28]Microsoft Edge.
+   [29]No thanks, take me to the site anyway
+     * [30]About
+     * [31]Jobs
+     * [32]Blog
      * [33]Developers
      * [34]Guidelines
-     * [35]Feedback
-     * [36]Report abuse
-     * [37]Help forum
-     * [38]English
+     * [35]Report abuse
+     * [36]Help forum
+     * [37]English
 
-     * [39]Privacy
-     * [40]Terms
-     * [41]Yahoo Safely
-     * [42]Help
+     * [38]Privacy
+     * [39]Terms
+     * [40]Help
 
-   Flickr, [43]a Yahoo company
-     *
+
      *
      *
      *
 
    [b?s=792600591]
-   [p.pl?js=no&a=10001109650879&b=browser-upgrade-interstitial-view&.ys=79
-   2600591]
 
 References
 
    Visible links
-   1. https://www.flickr.com/opensearch.xml
-   2. https://www.flickr.com/explore
-   3. https://www.flickr.com/explore
-   4. https://www.flickr.com/vr
-   5. https://www.flickr.com/commons
-   6. https://www.flickr.com/20under20
-   7. https://www.flickr.com/galleries
-   8. https://www.flickr.com/map
-   9. https://www.flickr.com/services
-  10. https://www.flickr.com/cameras
-  11. https://www.flickr.com/photos/flickr/albums/72157639868074114/
-  12. https://blog.flickr.net/
-  13. https://www.flickr.com/create
-  14. https://www.flickr.com/upload
-  15. https://www.flickr.com/signin
-  16. https://www.flickr.com/signup
-  17. https://www.flickr.com/explore
-  18. https://www.flickr.com/explore
-  19. https://www.flickr.com/commons
-  20. https://www.flickr.com/20under20
-  21. https://www.flickr.com/galleries
-  22. https://www.flickr.com/photos/flickr/albums/72157639868074114/
+   1. http://www.flickr.com/opensearch.xml
+   2. http://www.flickr.com/explore
+   3. http://www.flickr.com/explore
+   4. http://www.flickr.com/photos/tags
+   5. http://www.flickr.com/vr
+   6. http://www.flickr.com/commons
+   7. http://www.flickr.com/galleries
+   8. http://www.flickr.com/map
+   9. http://www.flickr.com/cameras
+  10. http://www.flickr.com/photos/flickr/albums/72157639868074114/
+  11. https://blog.flickr.net/
+  12. http://www.flickr.com/create
+  13. http://www.flickr.com/account/upgrade/pro
+  14. http://www.flickr.com/upload
+  15. http://www.flickr.com/signin
+  16. http://www.flickr.com/signup
+  17. http://www.flickr.com/explore
+  18. http://www.flickr.com/explore
+  19. http://www.flickr.com/photos/tags
+  20. http://www.flickr.com/commons
+  21. http://www.flickr.com/galleries
+  22. http://www.flickr.com/photos/flickr/albums/72157639868074114/
   23. https://blog.flickr.net/
-  24. https://www.google.com/chrome
-  25. https://www.apple.com/safari/
-  26. https://www.mozilla.org/firefox
-  27. http://windows.microsoft.com/en-us/internet-explorer/download-ie
-  28. https://www.flickr.com/atos/pro
-  29. https://www.flickr.com/about
-  30. https://www.flickr.com/jobs
-  31. https://blog.flickr.net/en
-  32. https://mobile.yahoo.com/flickr
-  33. https://www.flickr.com/services/developer
-  34. https://www.flickr.com/help/guidelines
-  35. https://yahoo.uservoice.com/forums/211185-us-flickr
-  36. https://www.flickr.com/abuse
-  37. https://www.flickr.com/help/forum
-  38. https://www.flickr.com/change_language.gne?lang=en-US&csrf=
-  39. https://info.yahoo.com/privacy/us/yahoo/flickr/details.html
-  40. https://www.flickr.com/help/terms
-  41. https://safely.yahoo.com/
-  42. https://help.yahoo.com/kb/index?page=product&locale=en_US&y=PROD_FLICKR_DESK&actp=productlink
-  43. https://info.yahoo.com/
+  24. http://www.flickr.com/account/upgrade/pro
+  25. https://www.google.com/chrome
+  26. https://www.apple.com/safari/
+  27. https://www.mozilla.org/firefox
+  28. https://www.microsoft.com/en-us/windows/microsoft-edge
+  29. https://www.flickr.com/atos/pro
+  30. http://www.flickr.com/about
+  31. http://www.flickr.com/jobs
+  32. http://blog.flickr.net/en
+  33. http://www.flickr.com/services/developer
+  34. http://www.flickr.com/help/guidelines
+  35. http://www.flickr.com/abuse
+  36. http://www.flickr.com/help/forum
+  37. http://www.flickr.com/change_language.gne?lang=en-US&csrf=
+  38. http://www.flickr.com/help/privacy
+  39. http://www.flickr.com/help/terms
+  40. http://help.flickr.com/
 
    Hidden links:
-  44. https://www.flickr.com/
-  45. https://www.google.com/chrome
-  46. https://www.apple.com/safari/
-  47. https://www.mozilla.org/firefox
-  48. http://windows.microsoft.com/en-us/internet-explorer/download-ie
-  49. http://flickr.tumblr.com/
-  50. https://www.facebook.com/flickr
-  51. https://twitter.com/flickr
-  52. https://plus.google.com/+flickr
+  41. http://www.flickr.com/
+  42. https://www.google.com/chrome
+  43. https://www.apple.com/safari/
+  44. https://www.mozilla.org/firefox
+  45. https://www.microsoft.com/en-us/windows/microsoft-edge
+  46. http://flickr.tumblr.com/
+  47. https://www.facebook.com/flickr
+  48. https://twitter.com/flickr
