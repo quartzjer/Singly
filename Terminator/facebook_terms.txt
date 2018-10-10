@@ -506,7 +506,7 @@ References
   61. https://www.facebook.com/legal/terms/plain_text_terms
   62. https://www.facebook.com/help/1561485474074139?ref=tos
   63. https://www.facebook.com/help/111814505650678?ref=tos
-  64. https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fcategory%2Fhuman-computer-interaction-and-ux%2F&h=AT16YtSoGQDqJJ3cMaRGG4daLEFya4LnglCCjm1dfbWRY4pkKSEHDURkNOAEOmg0Ib1AAAjG5LC-SsQTINzg4swX2A5mxfA3807YFMzuejwFZijZyORMNnnZx_HTYD7xBj8lFBnxGvoRRcERl65eaw
+  64. https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fcategory%2Fhuman-computer-interaction-and-ux%2F&h=AT1ov_7MmME4z_WQwaASTdqjXbcv7Xugl-53ceuJ22WLnkFjd0FkGdq5QucegimTC--31fPvkJj1Zkc6QO4l3s1-LdC9LwSdEg4o0_E2ndbgE3C3CUJucvSL81OB0BfbB5u8ONZpsmTmlRrEcCl_yQ
   65. https://www.facebook.com/help/195227921252400?ref=tos
   66. https://www.facebook.com/about/privacy/update
   67. https://www.facebook.com/settings
@@ -519,8 +519,8 @@ References
   74. https://www.facebook.com/help/1727608884153160?ref=tos
   75. https://www.facebook.com/about/ads
   76. https://www.facebook.com/legal/fraleyfacebooksettlement
-  77. https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT0U8428IsbiW4fyPHSyHt8NlN59xDFDK9v_x4tfNuBd4Rvf32fiotw15xKim0EfmL0NZKmMi248XJ1cUTFgI7DvV609GNawYd7eJcXwiW3YPCFoQneB85z7-mVURt7QMpuQ2zV2WaoaEX5WbRu54w
-  78. https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT3seA2xf-0x927olWD5r9lEiXkka2bcrZK13nyS40kZtOpJ45ZXBfQkdy9I0oFhnZKTaONq22ot3SsQ95Kzvecks7m1qqsvzZm4uAR-jvF3PQuIPL1vhySMUGp-gUP58_-aw0e3TbPW6V-a6Cw79g
+  77. https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT10_nBOxHL-FJdbQvWGfPt-fTt2FU2h0OJILrPjkwP8mKPHcroK4gV-dK_HFq0HdPqoa9V9oatGPfsPxXRv0pubdwb2szN9kKAsrE4lrCNi5VKp7rvozGjO5tcP-GLH69Ub-pt2JZ0JAZPzZj7kNQ
+  78. https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT2Lch7FxbEUGPGXCuXmUapwVosckNph430xHbGrB3jeD7MWI6UtURUAL3HeluYfctnXPSwdYUrJpnwQzukFgEcBgCbrb2fDgHoJn0-01iCnICOxlXE_PTqz_2WrUsdgBII5_OiPzQOj5gbFl9WVqg
   79. https://www.facebook.com/help/224562897555674?ref=tos
   80. https://www.facebook.com/help/103873106370583?ref=tos
   81. https://www.facebook.com/legal/commercial_terms
@@ -535,7 +535,7 @@ References
   90. https://developers.facebook.com/policy/credits
   91. https://www.facebook.com/payments_terms
   92. https://www.facebook.com/policies/commerce
-  93. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT31um_9ifU_sMhy6CooZXUyd-YZsNlL0NJ8-_R2ZqOFOMW2SLDK2K7C1D9WJzW6VblVoxK52Rm98_KiuuPJTt6CvPIPGt3qeyseA-RzPGPzrz3vKN1iFEW3ngVLuDs0fDrL59C4lqDChWUCeW73Iw
+  93. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT1thlJP14oxGFI8-3i7V96c6qM-d3DwCRgvB5ROoDPsp_b2QG_rKy_6L32KB_QwkFNVyPxjieDCDm3UI-8YeIApL_iaLXwrS_BAoYjTR-qr6GB6-Y49HuONY5heYOMzTBFq4mBLBYVs0o6mYbGIXw
   94. https://www.facebook.com/legal/music_guidelines
   95. https://es-la.facebook.com/terms.php
   96. https://fr-fr.facebook.com/terms.php
@@ -561,7 +561,7 @@ References
  116. https://www.facebook.com/directory/places/
  117. https://www.facebook.com/directory/marketplace/
  118. https://www.facebook.com/directory/groups/
- 119. https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=AT3UiX7cojl92y5GGKNbDKXodEgawdwh_l9rr_WtaZL4yzI3p76opx6EfXhhupKLjF2UPV7g04K2N6yywv96rEfmW4bu25xS4mEm4kTTRAOPGhIKw9xzcjGSzSbOJBMFvzQUYRCFTXE5Oov-ysy2ug
+ 119. https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=AT31YXakgvALT8CHrS4rEePWQX30LE4iaMqnfYzR8Q9AgcVIh0gnjNx_8HH6xY-Wn2YPMy4aFm6Y-GBQ3iPnfg4UbEpEx3NjmPlKEttPLhVpOgVRn7-01lce_pdAWRITPuCAUELeJRNlQO1myjAQug
  120. https://www.facebook.com/local/lists/245019872666104/
  121. https://www.facebook.com/facebook
  122. https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
