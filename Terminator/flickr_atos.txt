@@ -1,7 +1,5 @@
    #[1]Flickr
 
-   pro
-
      * [2]Explore
           + [3]Recent Photos
           + [4]Trending
