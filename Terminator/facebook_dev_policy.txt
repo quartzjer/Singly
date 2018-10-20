@@ -50,24 +50,24 @@ Facebook Platform Policy
        Business Manager account is up to date and accurate.
     2. Build an app that is stable and easily navigable. Be sure your app
        insights reflect a positive experience.
-       [46][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [46][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     3. Ensure that your app’s content (including ads and user-generated
        content) meets our [47]Community Standards.
     4. Follow our [48]Advertising Policies for your app name, icons, and
        description.
     5. Keep your app or bot’s description and categorization up-to-date.
-       [49][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [49][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     6. Don’t include promotional content in your app’s icon (ex: don’t
        overlay your icon image with “new”, “sale”, “update” or any type of
        notification jewel).
     7. Don’t confuse, deceive, defraud, mislead, spam or surprise anyone.
-       [50][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [50][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     8. Keep your app’s negative feedback below our thresholds.
-       [51][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [51][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     9. Follow any instructions we include in our [52]technical
        documentation.
 
@@ -75,20 +75,20 @@ Facebook Platform Policy
 
     1. Obtain consent from people before publishing content on their
        behalf.
-       [53][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [53][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     2. Use publishing permissions to help people share on Facebook, not to
        send people messages from your app.
-       [54][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [54][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     3. Don’t prefill any content in captions, comments, messages or the
        user message parameter of posts unless (a) it is a single hashtag
        in a post shared through our Share Dialog (but not via our APIs),
        (b) it was created by the person using your app, or (c) it was
        created by a business whose employees use your app to administer
        the business’s presence on Facebook.
-       [55][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [55][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     4. Privacy Policy
        a. Provide a publicly available and easily accessible privacy
        policy that explains what data you are collecting and how you will
@@ -98,12 +98,12 @@ Facebook Platform Policy
        obtained from us cannot be transferred to a data broker or sold,
        even if you disclose this in your privacy policy.
        c. Include your privacy policy URL in the App Dashboard.
-       [56][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [56][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        d. Link to your privacy policy in any app store that allows you to
        do so.
-       [57][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [57][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        e. Comply with your privacy policy.
     5. You may use [58]Account Information in accordance with your privacy
        policy and other Facebook policies. All other data may not be
@@ -130,8 +130,8 @@ Facebook Platform Policy
        b. How users can opt-out of the collection and use of information
        for ad targeting and where a user can access a mechanism for
        exercising such choice.
-       [60][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [60][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     9. In jurisdictions that require informed consent for the storing and
        accessing of cookies or other information on an end user’s device
        (such as the European Union), ensure, in a verifiable manner, that
@@ -162,8 +162,8 @@ Facebook Platform Policy
        experience in your app.
     4. If you cache data you receive from us, use it to improve your app’s
        user experience and keep it up to date.
-       [62][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [62][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     5. Don’t proxy, request or collect Facebook usernames or passwords.
     6. Keep private your secret key and access tokens. You can share them
        with an agent acting to operate your app if they sign a
@@ -222,37 +222,37 @@ Facebook Platform Policy
        functionality that Facebook already provides.
     2. Respect the way Facebook looks and functions. Don't offer
        experiences that change it.
-       [65][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [65][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     3. If you’re building an app with a personalized or social experience,
        enable people to easily share on Facebook content they've created.
     4. Respect the limits we've placed on Facebook functionality.
-       [66][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [66][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     5. Only incentivize a person to log into your app, enter a promotion
        on your app’s Page, check-in at a place, or to use Messenger to
        communicate with your business. Don’t incentivize other actions.
-       [67][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [67][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     6. Encourage people to accurately tag and share content.
-       [68][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [68][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     7. If your service integrates a person’s data into a physical product,
        only create a physical product for that person’s personal and
        non-commercial use.
-       [69][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [69][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     8. Don’t build an app whose primary purpose is to redirect people off
        of Facebook.
-       [70][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [70][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     9. If you want to use our logos or brand, follow the guidelines in the
        [71]Facebook Brand Resource and Permissions Center and [72]Brand
        Guidelines for Facebook Developers. Ad networks and data brokers
        must get our written permission before using our Platform, logos,
        or trademarks.
-       [73][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [73][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
    10. Don't sell, transfer or sublicense our code, APIs, or tools to
        anyone.
    11. Only use our SDKs to develop and distribute apps or content for use
@@ -355,8 +355,8 @@ Facebook Platform Policy
 
     1. We can analyze your app, website, content, and data for any
        purpose, including commercial.
-       [75][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [75][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     2. We can monitor or collect data related to your use of SDKs.
     3. We will use information we receive from you or in connection with
        your Platform integration in accordance with our [76]Data Policy.
@@ -394,8 +394,8 @@ Facebook Platform Policy
        Facebook to delete user data obtained through our Platform. If
        requested, you must provide us with proof that your app complies
        with our terms.
-       [77][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [77][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
    10. We can create apps or products that offer features and services
        similar to your app.
    11. We don’t guarantee that Platform will always be free.
@@ -441,16 +441,16 @@ Facebook Platform Policy
        crash or hang during the testing process.
     2. Native iOS and Android apps that implement Facebook Login must use
        our official SDKs for login.
-       [82][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [82][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     3. Use a clearly branded log in button that follows the guidelines in
        the [83]Facebook Brand Resource Center.
-       [84][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [84][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     4. Request only the data and publishing permissions your app needs to
        provide a good user experience.
-       [85][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [85][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     5. Ask for a write permission only at a point when your app needs the
        permission (ex: don’t prompt a write permission immediately after a
        user logs in to your app).
@@ -459,12 +459,12 @@ Facebook Platform Policy
        from us and asking the user to submit or save the data).
     7. If a person declines a permission, you can prompt them again after
        they indicate an intent to grant you the permission.
-       [86][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [86][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     8. Provide a "Log Out" option that functions properly and is easy to
        find.
-       [87][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [87][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
 
 9. Ads
 
@@ -472,16 +472,16 @@ Facebook Platform Policy
        [88]Advertising Policies.
     2. Avoid excessive ads. Don’t let ads distract from your app’s
        functionality.
-       [89][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [89][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     3. Don’t include ads in Page Tab apps.
     4. If you use a third party ad provider to include ads in your app on
        Facebook, only use a provider from [90]this list.
     5. Don’t include third-party ads (including for other apps) in posts,
        comments, notifications, requests, invites or messages.
     6. Don’t include or pair Platform Integrations with non-Facebook ads.
-       [91][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [91][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     7. If you run a promotion, contest, competition, or sweepstake on
        Facebook, comply with our [92]Promotions Policies.
 
@@ -493,19 +493,19 @@ Facebook Platform Policy
        b. Don’t use your Facebook.com game or email addresses you’ve
        obtained from us to promote or link to a desktop web game off of
        Facebook.
-       [93][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [93][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        c. Use Facebook Payments as your only payment method for all
        in-game purchases.
        d. Use Facebook Payments offers if you reward people for actions
        involving third parties.
-       [94][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [94][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     2. Desktop web games off Facebook.com:
        a. Only use Facebook Login, social plugins, and publishing
        channels. Don’t use connections such as friends lists.
-       [95][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [95][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        b. During authentication, only request age, email, and publishing
        permissions.
     3. Games on mobile:
@@ -547,8 +547,8 @@ Facebook Platform Policy
     3. If you’re using iOS to run your app, use an iOS approved payment
        method.
     4. If you accept payments on Facebook, only do so in your app.
-       [98][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [98][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
 
 12. App Center
 
@@ -556,51 +556,51 @@ Facebook Platform Policy
        Facebook Login or games on Facebook.com.
     2. App Detail and Description:
        a. Ensure the app’s name and information are grammatically correct.
-       [99][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6
-       dfdda6685d10&amp;oe=5C4847B6]
+       [99][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.
+       xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        b. Ensure the app’s language matches the App Center locale.
-       [100][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [100][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        c. Don't include URLs or use the Facebook brand.
-       [101][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [101][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        d. Don’t include keyword lists, excessive punctuation, or
        non-standard symbols.
-       [102][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [102][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     3. All Images:
        a. Use high quality, relevant images that reflect the app
        experience.
-       [103][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [103][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        b. Keep any image text concise. Don't obstruct images with text.
-       [104][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [104][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        c. Don’t include ads, URLs or gimmicks such as Play buttons.
-       [105][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [105][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     4. Icons:
        a. Use a transparent or colored background. If your icon requires a
        white background, use a colored border.
-       [106][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [106][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        b. If your logo has a drop shadow, use a colored background.
-       [107][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [107][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     5. Banners:
        a. Don’t include rounded edges or borders.
-       [108][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [108][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        b. Don’t include third party logos.
     6. Videos:
        a. Display the app's name.
-       [109][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [109][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        b. Clearly represent the purpose of the app and show accurate,
        relevant in-app experiences.
        c. Keep your video high-quality and high-resolution.
-       [110][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [110][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        d. Your video and its video cover image should be clear and
        recognizable. Don't include ads.
 
@@ -609,36 +609,36 @@ Facebook Platform Policy
     1. Open Graph Custom Actions:
        a. Don’t recreate actions that are already supported.
        b. Write the action and object in a clear and simple way.
-       [111][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [111][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        c. Make sure the story is grammatically correct.
-       [112][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [112][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        d. Use English for your submission.
-       [113][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [113][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        e. Don’t indicate a person’s consumption, browsing, discovering, or
        viewing of content.[114]
-       [851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f6dfdd
-       a6685d10&amp;oe=5C4847B6]
+       [851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1.xx&a
+       mp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
        f. Don’t indicate a person has installed, visited, or connected to
        your app.
-       [115][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [115][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     2. Read and Watch Actions:
        a. Publish actions only after a person has been on a page for more
        than 10 seconds.
        b. Allow people to remove stories published to Facebook on the same
        page where the content is hosted.
-       [116][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [116][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
 
 14. Social Plugins
 
     1. Don’t include or pair Platform Integrations with non-Facebook
        advertisements.
-       [117][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [117][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     2. Don’t sell or purchase placement of social plugins or sharer.php.
     3. Don’t participate in any “like” or “share” exchange programs.
     4. Don’t obscure or cover elements of social plugins.
@@ -662,8 +662,8 @@ Facebook Platform Policy
        competitive position, interests, or advertising philosophy.
     4. Don't provide [118]Partner Category targeting options that differ
        from those offered by Facebook.
-       [119][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [119][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     5. Don’t combine multiple end-advertisers or their Facebook
        connections (i.e. Pages) in the same ad account.
     6. Free or trial versions of an ads API app:
@@ -762,8 +762,8 @@ Facebook Platform Policy
        to ineligible services (see details below).
     6. Your app or bot should not receive excessive negative feedback. Be
        sure your app insights reflect a positive experience.
-       [128][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931c8d1f
-       6dfdda6685d10&amp;oe=5C4847B6]
+       [128][851547_537948159656190_540847388_n.png?_nc_ht=scontent-ort2-1
+       .xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847B6]
     7. Maintain a Facebook Page that provides customer support contact
        information, including your mailing address and one or more of the
        following: email address, web address, or telephone number.
@@ -776,8 +776,9 @@ Facebook Platform Policy
             below, and until the next interaction, you may send one
             additional message after this 24 hour period in order to
             follow up on your conversation.
-            [129][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931
-            c8d1f6dfdda6685d10&amp;oe=5C4847B6]
+            [129][851547_537948159656190_540847388_n.png?_nc_ht=scontent-o
+            rt2-1.xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847
+            B6]
             b. Message [130]Templates and [131]Tags: Only approved message
             templates and tags may be sent outside of the 24 hour period.
             Don’t use a message template or tag for a purpose other than
@@ -798,15 +799,17 @@ Facebook Platform Policy
               3. Productivity: Bots that enable people to manage their
                  personal productivity with tasks such as managing
                  calendar events, receiving reminders, and paying bills.
-                 [132][851547_537948159656190_540847388_n.png?oh=0c8f62cfe
-                 e5931c8d1f6dfdda6685d10&amp;oe=5C4847B6]
+                 [132][851547_537948159656190_540847388_n.png?_nc_ht=scont
+                 ent-ort2-1.xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp
+                 ;oe=5C4847B6]
             ii. Subscriptions messages may not be used for sending
             advertising, marketing, solicitations, or promotional content,
             even if a person opts-in to receiving this content (ex: daily
             deals, coupons and discount or sale announcements are not
             permitted).
-            [133][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931
-            c8d1f6dfdda6685d10&amp;oe=5C4847B6]
+            [133][851547_537948159656190_540847388_n.png?_nc_ht=scontent-o
+            rt2-1.xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847
+            B6]
          2. Data: Don't use any data obtained from us about the people you
             reach in Messenger, other than the content of message threads,
             for any purpose other than as reasonably necessary to support
@@ -823,8 +826,9 @@ Facebook Platform Policy
             a. Don't share or ask people to share individual payment card,
             financial account numbers or other cardholder data within
             messages.
-            [134][851547_537948159656190_540847388_n.png?oh=0c8f62cfee5931
-            c8d1f6dfdda6685d10&amp;oe=5C4847B6]
+            [134][851547_537948159656190_540847388_n.png?_nc_ht=scontent-o
+            rt2-1.xx&amp;oh=3f4915bf59bd86b1d54f1d875b4df5f4&amp;oe=5C4847
+            B6]
             b. Don't include links to sites off Messenger where payment
             information is collected, without our prior [135]permission.
             c. If you have permission to offer or complete sales of goods
@@ -1032,7 +1036,7 @@ References
   68. https://developers.facebook.com/policy/
   69. https://developers.facebook.com/policy/
   70. https://developers.facebook.com/docs/apps/review/canvasredirect
-  71. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT1HLnnECPf6N68-7qxQAyhE4TiuC1rWZQkbLgh-OVGB2Fjin7DC0avwSaLkaIm4ZwcoKeSm8KAZMhemVcX3-mVd1om6dOjUqqkD9zzHlrEbLsJDnKK6lZFjULv9Zvb416DXxnKS0QxYtk-jvVCgmQ
+  71. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT0IdBEWU9DY6oYzpSsa-PRSC6Y23EFuJ5JTmYwzaJEGtmCYpiY5GTeQoWK4_HZXq8gXSS6Nmdtyovlh4czWOt1_tnZN6KX2hpvfDZ7fYEsYsqtBP7WVqo8H0uknIpGqsebPya2w7ZvYG5dEdvhixw
   72. https://developers.facebook.com/docs/apps/review/branding
   73. https://developers.facebook.com/docs/apps/review/branding
   74. https://developers.facebook.com/docs/plugins/restrictions/
@@ -1041,10 +1045,10 @@ References
   77. https://developers.facebook.com/policy/
   78. https://www.facebook.com/legal/terms
   79. https://developers.facebook.com/policy
-  80. https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F478745558852511&h=AT1e4lwB70VwcB5el4WoV4hIdTlt7cGnAbJHBwKd5UJXF1wuVVjLF5iocTDjY_KuSE0e5J8BNBfDEVwVUHOfnTf5B2N-P_61JmrQ31XgpZYN7hBcUG9RSBLW6gvncBYlULWR4pNO1nsTP-Ufg3_kFA
-  81. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fabout%2Flegal%2Fterms%2Fapi%2F&h=AT2XWNZBKArurInkOa8GWuM9d4z_8lifqJMCNMhf9V3M0jizlu5mLNaHuZvBPattk9rVPcMwlTSvnKa4Rf5xu0klFi7vum5m-TwjhtGr0uzRfUZiXVmfEntXZ_Id3cxtA0HvyX_wy_ld8ddWH4HFRA
+  80. https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F478745558852511&h=AT1krpHXBcEB1f1YOgl9fL00EIVIoWwzHiEL3SbsDnZDa4aajwk5Ql8UDoqMwP_TuLPko0cfThajsJAaNFRPuO92L-sdIvlqycu5QNRRHebSw90Q9YrAcEXEKLVeTiVN4Q1mnCXuvuYwzIETlAyang
+  81. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fabout%2Flegal%2Fterms%2Fapi%2F&h=AT0kiURO39UuwM2tI7ib5FgLZLIc5na0dCdlFr7QKWAGNl64TFtsCD51EoL_vhKaWgTrj-8k2MfKIRcCOwKpEWekwVEHV0RJeBJn5BaJD2fimOkVQ6eopwg6iIkxCN1L05udUNp6k7WLNWpCnqo7Og
   82. https://developers.facebook.com/policy/
-  83. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=AT2jCbsnj_abq1OhL_8MQu98MdZWsb7JwzZoI3hE2bWjPrON9IfXYZUOPYEoYgpjZow77BYUewSulCkQQJ50GkyEYQt9F4Lv5Eg-OrVQBPw3xABihFUSXG4nir8DxqUL0dUC_zfr8ZWYmZKtBKUSzw
+  83. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=AT1V33QZn7RxYB6uzU16RFPBZlFxjBSPn8P3_X-oUGr2gSs1ZXqVrSZZLGPrxNmAXse1b6yfSy36w9OSFxKxAk1zh8ZEEeVMPQEs8ibjb_lmS2Ac6P-HYnU5lU0urwozMV-yiZWe2n3XFyR5Zr-y6A
   84. https://developers.facebook.com/docs/apps/review/branding
   85. https://developers.facebook.com/policy/
   86. https://developers.facebook.com/policy/
