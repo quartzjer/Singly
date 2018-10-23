@@ -456,7 +456,7 @@ You must enable JavaScript to use foursquare.com
      * [89]Turkey
 
    [wtrack?event=pltp-dep&amp;p=%2Flegal%2Fapi%2Fplatformpolicy&amp;ref=&a
-   mp;ts=1540184396&amp;u=-1&amp;sig=7I5L1lsbBL0AZwuZBR5sfvxXC7s%3D]
+   mp;ts=1540270841&amp;u=-1&amp;sig=pdy%2BYcx5tTH%2Fy9C0ihHBxeZ3trs%3D]
 
 References
 
