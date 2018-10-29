@@ -1039,7 +1039,7 @@ References
   68. https://developers.facebook.com/policy/
   69. https://developers.facebook.com/policy/
   70. https://developers.facebook.com/docs/apps/review/canvasredirect
-  71. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT1Cy2IBwXG0O50dzDfr51R_kpMeKfEFNHCuMMAhkUju9HdaZTPe-ZivvcB7w9ZjymCr-ccaot8nNQWMY-PATGFIRx29Sqs8wijw_HHVPd162Ng2Qe-svb9vro6k89MrvVZpJD5CgrIbVcOfG9zqSg
+  71. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT1rbNcyz1nBk-XuR8H7JQOcR-13e-ibrhrB1dy9t0W2jxrXYwZbVhxGM9i_YYfvGgEQz3Ywv7GIpSw8LDfu92lF-RTw94_slhoURUYWKRSkrT_4a19owJgBugJSg3ZyHTW5Pawc4RXwNnuPnXqscg
   72. https://developers.facebook.com/docs/apps/review/branding
   73. https://developers.facebook.com/docs/apps/review/branding
   74. https://developers.facebook.com/docs/plugins/restrictions/
@@ -1048,10 +1048,10 @@ References
   77. https://developers.facebook.com/policy/
   78. https://www.facebook.com/legal/terms
   79. https://developers.facebook.com/policy
-  80. https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F478745558852511&h=AT0b3P2MGNNvLnb4AQoxif3MjqM1ehzdU6pUkOjfI7bCk4P3asd2EZSQSyoXLmvBX0jC8iA1qinAUAshCIa34lI5pICQMPCLJFrHWQ4ldxdB44oHuprka_Y1XNdCYUdF4yj30LtWyQ4xbqG-T1IVsw
-  81. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fabout%2Flegal%2Fterms%2Fapi%2F&h=AT0viratR87RDfRLCvseGtpt5PLr3IEClmvlrIMtUxtUf3WD0B34ljYrIkGnm78J8WoKb8fFyM59Hwm9S_1aaOGRkF6QNOdpd_5lU1PqNcLdYKLmW4u3THazUSIl9p_ylZGuVa2nG5J6bmx-KxUmaA
+  80. https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F478745558852511&h=AT2NESraAGNZUlvXLNcnVtGX-j7ULEFYzw7KrmIzk0xw0FCFWUZzG9AtO-UePEe6uLr8hk8i_0DKfrm7DS6D1JF17A5PL7m2JsH6302ggeliPJdGwy7y55XFnHNlFxvUwLSRrpfaFdp-QLCLXXKhHg
+  81. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fabout%2Flegal%2Fterms%2Fapi%2F&h=AT2rywho1AThYAklKTOch4ISFMpPfmoSpoRn1fArax-7ojOpgjbdhnYN8OB86yLTW80GrX8zwGxorakHADFoakio3dY0MdvYM2vVXtm4Xz8kUf05s_FqoxlSrN6dI8wnxOP7FJEDM11ZSPelxaKmoQ
   82. https://developers.facebook.com/policy/
-  83. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=AT2Sva0z3EkoA4Q6WBAqpHsOj6Iv5S54sipQy0uVx0uvLNJDfvlTtPHyWMPw5EkS07C_7SoLGrI4Ctrq1EBGvUOrefOyTlqsO24Et3saGHz2tKVOKaIrH9CmAkMv6aOV5cabstuIJjO-1OwhPuzrdA
+  83. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23&h=AT1mZaQkkVagYqXGzKc0EWFJ_3m9auBsnyoG0BccAMx-v3_GIueHXUASgkBRQws0UFwrfSAbqWeLLjAp5Zqbs0DaS1rOYolq5xBU5FLYteEsrsf5iazIBjkBSz9Z0IrscVIiGvF1kajc1cTDAgZM3FM32KzFyabBPFY
   84. https://developers.facebook.com/docs/apps/review/branding
   85. https://developers.facebook.com/policy/
   86. https://developers.facebook.com/policy/
